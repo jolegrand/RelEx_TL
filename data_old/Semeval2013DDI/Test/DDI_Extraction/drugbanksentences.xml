@@ -1,0 +1,975 @@
+<Sentences>
+<S>Cholestyramine: Concomitant cholestyramine administration decreased the mean AUC of total ezetimibe approximately 55%. 	</S>
+<S>The incremental LDL-C reduction due to adding ezetimibe to cholestyramine may be reduced by this interaction. 	</S>
+<S>Fibrates: The safety and effectiveness of ezetimibe administered with fibrates have not been established. 	</S>
+<S>Fibrates may increase cholesterol excretion into the bile, leading to cholelithiasis. 	</S>
+<S>In a preclinical study in dogs, ezetimibe increased cholesterol in the gallbladder bile. 	</S>
+<S>Co-administration of ZETIA with fibrates is not recommended until use in patients is studied. 	</S>
+<S>Fenofibrate: In a pharmacokinetic study, concomitant fenofibrate administration increased total ezetimibe concentrations approximately 1.5-fold. 	</S>
+<S>Gemfibrozil: In a pharmacokinetic study, concomitant gemfibrozil administration increased total ezetimibe concentrations approximately 1.7-fold. 	</S>
+<S>HMG-CoA reductase inhibitors: No clinically significant pharmacokinetic interactions were seen when ezetimibe was co-administered with atorvastatin, simvastatin, pravastatin, lovastatin, or fluvastatin. 	</S>
+<S>Cyclosporine: The total ezetimibe level increased 12-fold in one renal transplant patient receiving multiple medications, including cyclosporine. 	</S>
+<S>Patients who take both ezetimibe and cyclosporine should be carefully monitored. 	</S>
+<S>Carcinogenesis, Mutagenesis, Impairment of Fertility A 104-week dietary carcinogenicity study with ezetimibe was conducted in rats at doses up to 1500 mg/kg/day (males) and 500 mg/kg/day (females) (~20 times the human exposure at 10 mg daily based on AUC0-24hr for total ezetimibe). 	</S>
+<S>A 104-week dietary carcinogenicity study with ezetimibe was also conducted in mice at doses up to 500 mg/kg/day (sup62150 times the human exposure at 10 mg daily based on AUC0-24hr for total ezetimibe). 	</S>
+<S>There were no statistically significant increases in tumor incidences in drug-treated rats or mice. 	</S>
+<S>No evidence of mutagenicity was observed in vitro in a microbial mutagenicity (Ames) test with Salmonella typhimurium and Escherichia coli with or without metabolic activation. 	</S>
+<S>No evidence of clastogenicity was observed in vitro in a chromosomal aberration assay in human peripheral blood lymphocytes with or without metabolic activation. 	</S>
+<S>In addition, there was no evidence of genotoxicity in the in vivo mouse micronucleus test. 	</S>
+<S>In oral (gavage) fertility studies of ezetimibe conducted in rats, there was no evidence of reproductive toxicity at doses up to 1000 mg/kg/day in male or female rats (~7 times the human exposure at 10 mg daily based on AUC0-24hr for total ezetimibe). 	</S>
+<S>Pregnancy Pregnancy Category: C There are no adequate and well-controlled studies of ezetimibe in pregnant women. 	</S>
+<S>Ezetimibe should be used during pregnancy only if the potential benefit justifies the risk to the fetus. 	</S>
+<S>In oral (gavage) embryo-fetal development studies of ezetimibe conducted in rats and rabbits during organogenesis, there was no evidence of embryolethal effects at the doses tested (250, 500, 1000 mg/kg/day). 	</S>
+<S>In rats, increased incidences of common fetal skeletal findings (extra pair of thoracic ribs, unossified cervical vertebral centra, shortened ribs) were observed at 1000 mg/kg/day (~10 times the human exposure at 10 mg daily based on AUC0-24hr for total ezetimibe). 	</S>
+<S>In rabbits treated with ezetimibe, an increased incidence of extra thoracic ribs was observed at 1000 mg/kg/day (150 times the human exposure at 10 mg daily based on AUC0-24hr for total ezetimibe). 	</S>
+<S>Ezetimibe crossed the placenta when pregnant rats and rabbits were given multiple oral doses. 	</S>
+<S>Multiple dose studies of ezetimibe given in combination with HMG-CoA reductase inhibitors (statins) in rats and rabbits during organogenesis result in higher ezetimibe and statin exposures. 	</S>
+<S>Reproductive findings occur at lower doses in combination therapy compared to monotherapy. 	</S>
+<S>All HMG-CoA reductase inhibitors are contraindicated in pregnant and nursing women. 	</S>
+<S>When ZETIA is administered with an HMG-CoA reductase inhibitor in a woman of childbearing potential, refer to the pregnancy category and package labeling for the HMG-CoA reductase inhibitor. 	</S>
+<S>Labor and Delivery The effects of ZETIA on labor and delivery in pregnant women are unknown. 	</S>
+<S>Nursing Mothers In rat studies, exposure to total ezetimibe in nursing pups was up to half of that observed in maternal plasma. 	</S>
+<S>It is not known whether ezetimibe is excreted into human breast milk; 	</S>
+<S>therefore, ZETIA should not be used in nursing mothers unless the potential benefit justifies the potential risk to the infant. 	</S>
+<S>Pediatric Use The pharmacokinetics of ZETIA in adolescents (10 to 18 years) have been shown to be similar to that in adults. 	</S>
+<S>Treatment experience with ZETIA in the pediatric population is limited to 4 patients (9 to 17 years) in the sitosterolemia study and 5 patients (11 to 17 years) in the HoFH study. 	</S>
+<S>Treatment with ZETIA in children (amp38lt;10 years) is not recommended. 	</S>
+<S>Geriatric Use Of the patients who received ZETIA in clinical studies, 948 were 65 and older (this included 206 who were 75 and older). 	</S>
+<S>The effectiveness and safety of ZETIA were similar between these patients and younger subjects. 	</S>
+<S>Greater sensitivity of some older individuals cannot be ruled out.	</S>
+<S>Interaction with Guanethidine: Although minoxidil does not itself cause orthostatic hypotension, its administration to patients already receiving guanethidine can result in profound orthostatic effects. 	</S>
+<S>If at all possible guanethidine should be discontinued well before minoxidil is begun. 	</S>
+<S>Where this is not possible, minoxidil therapy should be started in the hospital and the patient should remain institutionalized until severe orthostatic effects are no longer present or the patient has learned to avoid activities that provoke them.	</S>
+<S>In a study in which 34 different drugs were tested, therapeutically relevant concentrations of tolbutamide, sodium salicylate and sulfamethizole displaced protein-bound teniposide in fresh human serum to a small but significant extent. 	</S>
+<S>Because of the extremely high binding of teniposide to plasma proteins, these small decreases in binding could cause substantial increases in free drug levels in plasma which could result in potentiation of drug toxicity. 	</S>
+<S>Therefore, caution should be used in administering VUMON (teniposide injection) to patients receiving these other agents. 	</S>
+<S>There was no change in the plasma kinetics of teniposide when coadministered with methotrexate. 	</S>
+<S>However, the plasma clearance of methotrexate was slightly increased. 	</S>
+<S>An increase in intracellular levels of methotrexate was observed in vitro in the presence of teniposide.	</S>
+<S>Salicylates antagonize the uricosuric action of . drugs used to treat gout. 	</S>
+<S>ASPIRIN AND OTHER SALICYLATE DRUGS WILL BE ADDITIVE TO DISALCID AND MAY INCREASE PLASMA CONCENTRATIONS OF SALICYLIC ACID TO TOXIC LEVELS. 	</S>
+<S>Drugs and foods that raise urine pH will increase renal clearance and urinary excretion of salicylic acid, thus lowering plasma levels; 	</S>
+<S>acidifying drugs or foods will decrease urinary excretion and increase plasma levels. 	</S>
+<S>Salicylates given concomitantly with anticoagulant drugs may predispose to systemic bleeding. 	</S>
+<S>Salicylates may enhance the hypoglycemic effect of oral antidiabetic drugs of the sulfonylurea class. 	</S>
+<S>Salicylate competes with a number of drugs for protein binding sites, notably penicillin, thiopental, thyroxine, triiodothyronine, phenytoin, sulfinpyrazone, naproxen, warfarin, methotrexate, and possibly corticosteroids. 	</S>
+<S>Drug/ Laboratory Test Interactions Salicylate competes with thyroid hormone for binding to plasma proteins, which may be reflected in a depressed plasma T4 value in some patients; 	</S>
+<S>thyroid function and basal metabolism are unaffected.	</S>
+<S>In elderly patients concurrently receiving certain diuretics, primarily thiazides, an increased incidence of thrombopenia with purpura has been reported. 	</S>
+<S>It has been reported that sulfamethoxazole may prolong the prothrombin time in patients who are receiving the anticoagulant warfarin. 	</S>
+<S>This interaction should be kept in mind when Gantanol is given to patients already on anticoagulant therapy, and the coagulation time should be reassessed. 	</S>
+<S>Sulfamethoxazole may inhibit the hepatic metabolism of phenytoin. 	</S>
+<S>At a 1.6-g dose, sulfamethoxazole produced a slight but significant increase in the half-life of phenytoin but did not produce a corresponding decrease in the metabolic clearance rate. 	</S>
+<S>When administering these drugs concurrently, one should be alert for possible excessive phenytoin effect. 	</S>
+<S>Sulfonamides can also displace methotrexate from plasma protein-binding sites, thus increasing free methotrexate concentrations. 	</S>
+<S>The presence of sulfamethoxazole may interfere with the Jaff    alkaline picrate reaction assay for creatinine, resulting in overestimations of about 10% in the range of normal values.	</S>
+<S>The pharmacokinetic interactions listed below are potentially clinically important. 	</S>
+<S>Mutual inhibition of metabolism occurs with concurrent use of cyclosporin and methylprednisolone; 	</S>
+<S>therefore, it is possible that adverse events associated with the individual use of either drug may be more apt to occur. 	</S>
+<S>convulsions have been reported with concurrent use of methylprednisolone and cyclosporin. 	</S>
+<S>Drugs that induce hepatic enzymes such as phenobarbital, phenytoin, and rifampin may increase the clearance of methylprednisolone and may require increased in methylprednisolone dose to achieve the desired response. 	</S>
+<S>Drugs such as troleandomycin and ketoconazole may inhibit the metabolism of methylprednisolone and thus decrease its clearance. 	</S>
+<S>Therefore, the dose of methylprednisolone should be titrated to avoid steroid toxicity. 	</S>
+<S>Methylprednisolone may increase the clearance of chronic high dose aspirin. 	</S>
+<S>This could lead to decreased salicylate serum levels or increase the risk of salicylate toxicity when methylprednisolone is withdrawn. 	</S>
+<S>Aspirin should be used cautiously in conjunction with corticosteroids in patients suffering from hypoprothrombinemia. 	</S>
+<S>The effect of methylprednisolone on oral anticoagulants is variable. 	</S>
+<S>There are reports of enhanced as well as diminished effects of anticoagulant when given concurrently with corticosteroids. 	</S>
+<S>Therefore, coagulation indices should be monitored to maintain the desired anticoagulant effect.	</S>
+<S>Patients receiving antibiotics and sulfonamides generally should not be treated with ganglion blockers.  	</S>
+<S>The action of Mecamylamine may be potentiated by anesthesia, other antihypertensive drugs and alcohol.	</S>
+<S>In clinical studies, the concurrent administration of the ASMANEX TWISTHALER    inhaler and other drugs commonly used in the treatment of asthma was not associated with any unusual adverse events. 	</S>
+<S>However, ketoconazole, a potent inhibitor of cytochrome P450 3A4, may increase plasma levels of mometasone furoate during concomitant dosing.	</S>
+<S>No formal drug interaction studies between Neulasta and other drugs have been performed. 	</S>
+<S>Drugs such as lithium may potentiate the release of neutrophils; 	</S>
+<S>patients receiving lithium and Neulasta should have more frequent monitoring of neutrophil counts.	</S>
+<S>Anticoagulants Anabolic steroids may increase sensitivity to oral anticoagulants. 	</S>
+<S>Dosage of the anticoagulant may have to be decreased in order to maintain desired prothrombin time. 	</S>
+<S>Patients receiving oral anticoagulant therapy require close monitoring, especially when anabolic steroids are started or stopped. 	</S>
+<S>Warfarin: A multidose study of oxandrolone, given as 5 or 10 mg BID in 15 healthy subjects concurrently treated with warfarin, resulted in a mean increase in S-warfarin half-life from 26 to 48 hours and AUC from 4.55 to 12.08 ng*hr/mL: similar increases in R-warfarin half-life and AUC were also detected. 	</S>
+<S>Microscopic hematuria (9/15) and gingival bleeding (1/15) were also observed. 	</S>
+<S>A 5.5-fold decrease in the mean warfarin dose from 6.13 mg/day to 1.13 mg/day (approximately 80-85% reduction of warfarin dose), was necessary to maintain a target INR of 1.5. 	</S>
+<S>When oxandrolone therapy is initiated in a patient already receiving treatment with warfarin, the INR or prothrombin time (PT) should be monitored closely and the dose of warfarin adjusted as necessary until a stable target INR or PT has been achieved. 	</S>
+<S>Furthermore, in patients receiving both drugs, careful monitoring of the INR or PT, and adjustment of the warfarin dosage if indicated are recommended when the oxandrolone dose is changed or discontinued. 	</S>
+<S>Patients should be closely monitored for signs and symptoms of occult bleeding. 	</S>
+<S>Oral hypoglycemic agents Oxandrolone may inhibit the metabolism of oral hypoglycemic agents. 	</S>
+<S>Adrenal steroids or ACTH In patients with edema, concomitant administration with adrenal cortical steroids or ACTH may increase the edema. 	</S>
+<S>Drug/Laboratory test interactions Anabolic steroids may decrease levels of thyroxine-binding globulin, resulting in decreased total T4 serum levels and increased resin uptake of T3 and T4. 	</S>
+<S>Free thyroid hormone levels remain unchanged. 	</S>
+<S>In addition, a decrease in PBI and radioactive iodine uptake may occur.    	</S>
+<S>The following agents may increase certain actions or side effects of anticholinergic drugs: amantadine, antiarrhythmic agents of class I (e.g., quinidine), antihistamines, antipsychotic agents (e.g., phenothiazines), benzodiazepines, MAO inhibitors, narcotic analgesics (e.g., meperidine), nitrates and nitrites, sympathomimetic agents, tricyclic antidepressants, and other drugs having anticholinergic activity. 	</S>
+<S>Anticholinergics antagonize the effects of antiglaucoma agents. 	</S>
+<S>Anticholinergic drugs in the presence of increased intraocular pressure may be hazardous when taken concurrently with agents such as corticosteroids. 	</S>
+<S>Anticholinergic agents may affect gastrointestinal absorption of various drugs, such as slowly dissolving dosage forms of digoxin; 	</S>
+<S>increased serum digoxin concentrations may result. 	</S>
+<S>Anticholinergic drugs may antagonize the effects of drugs that alter gastrointestinal motility, such as metoclopramide. 	</S>
+<S>Because antacids may interfere with the absorption of anticholinergic agents, simultaneous use of these drugs should be avoided. 	</S>
+<S>The inhibiting effects of anticholinergic drugs on gastric hydrochloric acid secretion are antagonized by agents used to treat achlorhydria and those used to test gastric secretion.	</S>
+<S>Since Celontin (methsuximide) may interact with concurrently administered antiepileptic drugs, periodic serum level determinations of these drugs may be necessary (eg methsuximide may increase the plasma concentrations of phenytoin and phenobarbital).	</S>
+<S>Diuretics: Furosemide and probably other loop diuretics given concomitantly with metolazone can cause unusually large or prolonged losses of fluid and electrolytes. 	</S>
+<S>Other Antihypertensives: When MYKROX Tablets are used with other antihypertensive drugs, care must be taken, especially during initial therapy. 	</S>
+<S>Dosage adjustments of other antihypertensives may be necessary. 	</S>
+<S>Alcohol, Barbiturates, and Narcotics: The hypotensive effects of these drugs may be potentiated by the volume contraction that may be associated with metolazone therapy. 	</S>
+<S>Digitalis Glycosides: Diuretic-induced hypokalemia can increase the sensitivity of the myocardium to digitalis. 	</S>
+<S>Serious arrhythmias can result. 	</S>
+<S>Corticosteroids or ACTH: May increase the risk of hypokalemia and increase salt and water retention. 	</S>
+<S>Lithium: Serum lithium levels may increase. 	</S>
+<S>Curariform Drugs: Diuretic-induced hypokalemia may enhance neuromuscular blocking effects of curariform drugs (such as tubocurarine) the most serious effect would be respiratory depression which could proceed to apnea. 	</S>
+<S>Accordingly, it may be advisable to discontinue MYKROX Tablets three days before elective surgery. 	</S>
+<S>Salicylates and Other Non-Steroidal Anti-Inflammatory Drugs: May decrease the antihypertensive effects of MYKROX Tablets. 	</S>
+<S>Sympathomimetics: Metolazone may decrease arterial responsiveness to norepinephrine, but this diminution is not sufficient to preclude effectiveness of the pressor agent for therapeutic use. 	</S>
+<S>Methenamine: Efficacy may be decreased due to urinary alkalizing effect of metolazone. 	</S>
+<S>Anticoagulants: Metolazone, as well as other thiazide-like diuretics, may affect the hypoprothrombinemic response to anticoagulants; 	</S>
+<S>dosage adjustments may be necessary.	</S>
+<S>Coadministration of TRITEC with clarithromycin resulted in increased plasma ranitidine concentrations (57%), increased plasma bismuth trough concentrations (48%), and increased 14- hydroxy- clarithromycin plasma concentrations (31%). 	</S>
+<S>Coadministration with aspirin results in a slight decrease in the rate of salicylate absorption that is clinically unimportant. 	</S>
+<S>Coadministration with a high dose of antacid (170 mEq) results in a 28% decrease in plasma concentrations of ranitidine and may decrease plasma concentrations of bismuth from TRITEC. 	</S>
+<S>These effects are clinically insignificant. 	</S>
+<S>For information on drug interactions associated with ranitidine, refer to the ZANTAC     package insert.	</S>
+<S>Ropivacaine should be used with caution in patients receiving other local anesthetics or agents structurally related to amide-type local anesthetics, since the toxic effects of these drugs are additive. 	</S>
+<S>Cytochrome P4501A2 is involved in the formation of 3-hydroxy ropivacaine, the major metabolite. 	</S>
+<S>In vivo, the plasma clearance of ropivacaine was reduced by 70% during coadministration of fluvoxamine (25 mg bid for 2 days), a selective and potent CYP1A2 inhibitor. 	</S>
+<S>Thus strong inhibitors of cytochrome P4501A2, such as fluvoxamine, given concomitantly during administration of Ropivacaine, can interact with Ropivacaine leading to increased ropivacaine plasma levels. 	</S>
+<S>Caution should be exercised when CYP1A2 inhibitors are coadministered. 	</S>
+<S>Possible interactions with drugs known to be metabolized by CYP1A2 via competitive inhibition such as theophylline and imipramine may also occur. 	</S>
+<S>Coadministration of a selective and potent inhibitor of CYP3A4, ketoconazole (100 mg bid for 2 days with ropivacaine infusion administered 1 hour after ketoconazole) caused a 15% reduction in in-vivo plasma clearance of ropivacaine.	</S>
+<S>Additives may be incompatible; 	</S>
+<S>norepinephrine and dobutamine are incompatible with sodium bicarbonate solution. 	</S>
+<S>The addition of sodium bicarbonate to parenteral solutions containing calcium should be avoided, except where compatibility has been previously established. 	</S>
+<S>Precipitation or haze may result from sodium bicarbonate-calcium admixtures. 	</S>
+<S>NOTE: Do not use the injection if it contains precipitate. 	</S>
+<S>Additives may be incompatible. 	</S>
+<S>Consult with pharmacist, if available. 	</S>
+<S>When introducing additives, use aseptic technique, mix thoroughly and do not store.	</S>
+<S>Drug-Drug Interactions Effect of Exelon    (rivastigmine tartrate) on the Metabolism of Other Drugs: Rivastigmine is primarily metabolized through hydrolysis by esterases. 	</S>
+<S>Minimal metabolism occurs via the major cytochrome P450 isoenzymes. 	</S>
+<S>Based on in vitro studies, no pharmacokinetic drug interactions with drugs metabolized by the following isoenzyme systems are expected: CYP1A2, CYP2D6, CYP3A4/5, CYP2E1, CYP2C9, CYP2C8, or CYP2C19. 	</S>
+<S>No pharmacokinetic interaction was observed between rivastigmine and digoxin, warfarin, diazepam, or fluoxetine in studies in healthy volunteers. 	</S>
+<S>The elevation of prothrombin time induced by warfarin is not affected by administration of Exelon. 	</S>
+<S>Effect of Other Drugs on the Metabolism of Exelon: Drugs that induce or inhibit CYP450 metabolism are not expected to alter the metabolism of rivastigmine. 	</S>
+<S>Single dose pharmacokinetic studies demonstrated that the metabolism of rivastigmine is not significantly affected by concurrent administration of digoxin, warfarin, diazepam, or fluoxetine. 	</S>
+<S>Population PK analysis with a database of 625 patients showed that the pharmacokinetics of rivastigmine were not influenced by commonly prescribed medications such as antacids (n=77), antihypertensives (n=72), calcium channel blockers (n=75), antidiabetics (n=21), nonsteroidal anti-inflammatory drugs (n=79), estrogens (n=70), salicylate analgesics (n=177), antianginals (n=35), and antihistamines (n=15). 	</S>
+<S>Use with Anticholinergics: Because of their mechanism of action, cholinesterase inhibitors have the potential to interfere with the activity of anticholinergic medications. 	</S>
+<S>Use with Cholinomimetics and Other Cholinesterase Inhibitors: A synergistic effect may be expected when cholinesterase inhibitors are given concurrently with succinylcholine, similar neuromuscular blocking agents or cholinergic agonists such as bethanechol.	</S>
+<S>ACE inhibitors Reports suggest that NSAIDs may diminish the antihypertensive effect of angiotensin-converting enzyme (ACE) inhibitors. 	</S>
+<S>This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE inhibitors. 	</S>
+<S>Aspirin: Concomitant administration of aspirin (1000 mg TID) to healthy volunteers tended to increase the AUC (10%) and Cmax (24%) of meloxicam. 	</S>
+<S>The clinical significance of this interaction is not known; 	</S>
+<S>however, as with other NSAIDs, concomitant administration of meloxicam and aspirin is not generally recommended because of the potential for increased adverse effects. 	</S>
+<S>Concomitant administration of low-dose aspirin with MOBIC may result in an increased rate of GI ulceration or other complications, compared to use of MOBIC alone. 	</S>
+<S>MOBIC is not a substitute for aspirin for cardiovascular prophylaxis. 	</S>
+<S>Cholestyramine: Pretreatment for four days with cholestyramine significantly increased the clearance of meloxicam by 50%. 	</S>
+<S>This resulted in a decrease in t1/2, from 19.2 hours to 12.5 hours, and a 35% reduction in AUC. 	</S>
+<S>This suggests the existence of a recirculation pathway for meloxicam in the gastrointestinal tract. 	</S>
+<S>The clinical relevance of this interaction has not been established. 	</S>
+<S>Cimetidine: Concomitant administration of 200 mg cimetidine QID did not alter the single-dose pharmacokinetics of 30 mg meloxicam. 	</S>
+<S>Digoxin: Meloxicam 15 mg once daily for 7 days did not alter the plasma concentration profile of digoxin after b-acetyldigoxin administration for 7 days at clinical doses. 	</S>
+<S>In vitro testing found no protein binding drug interaction between digoxin and meloxicam. 	</S>
+<S>Furosemide: Clinical studies, as well as post-marketing observations, have shown that NSAIDs can reduce the natriuretic effect of furosemide and thiazide diuretics in some patients. 	</S>
+<S>This effect has been attributed to inhibition of renal prostaglandin synthesis. 	</S>
+<S>Studies with furosemide agents and meloxicam have not demonstrated a reduction in natriuretic effect. 	</S>
+<S>Furosemide: single and multiple dose pharmacodynamics and pharmacokinetics are not affected by multiple doses of meloxicam. 	</S>
+<S>Nevertheless, during concomitant therapy with furosemide and MOBIC, patients should be observed closely for signs of declining renal function, as well as to assure diuretic efficacy. 	</S>
+<S>Lithium: In clinical trials, NSAIDs have produced an elevation of plasma lithium levels and a reduction in renal lithium clearance. 	</S>
+<S>In a study conducted in healthy subjects, mean pre-dose lithium concentration and AUC were increased by 21% in subjects receiving lithium doses ranging from 804 to 1072 mg BID with meloxicam 15 mg QD as compared to subjects receiving lithium alone. 	</S>
+<S>These effects have been attributed to inhibition of renal prostaglandin synthesis by MOBIC. 	</S>
+<S>Patients on lithium treatment should be closely monitored when MOBIC is introduced or withdrawn. 	</S>
+<S>Methotrexate: A study in 13 rheumatoid arthritis (RA) patients evaluated the effects of multiple doses of meloxicam on the pharmacokinetics of methotrexate taken once weekly. 	</S>
+<S>Meloxicam did not have a significant effect on the pharmacokinetics of single doses of methotrexate. 	</S>
+<S>In vitro, methotrexate did not displace meloxicam from its human serum binding sites. 	</S>
+<S>Warfarin: Anticoagulant activity should be monitored, particularly in the first few days after initiating or changing MOBIC therapy in patients receiving warfarin or similar agents, since these patients are at an increased risk of bleeding. 	</S>
+<S>The effect of meloxicam on the anticoagulant effect of warfarin was studied in a group of healthy subjects receiving daily doses of warfarin that produced an INR (International Normalized Ratio) between 1.2 and 1.8. 	</S>
+<S>In these subjects, meloxicam did not alter warfarin pharmacokinetics and the average anticoagulant effect of warfarin as determined by prothrombin time. 	</S>
+<S>However, one subject showed an increase in INR from 1.5 to 2.1. 	</S>
+<S>Caution should be used when administering MOBIC with warfarin since patients on warfarin may experience changes in INR and an increased risk of bleeding complications when a new medication is introduced.	</S>
+<S>Trimethoprim may inhibit the hepatic metabolism of phenytoin. 	</S>
+<S>Trimethoprim, given at a common clinical dosage, increased the phenytoin half-life by 51% and decreased the phenytoin metabolic clearance rate by 30%. 	</S>
+<S>When administering these drugs concurrently, one should be alert for possible excessive phenytoin effect.	</S>
+<S>Excessive glucocorticoid therapy will inhibit the growth-promoting effect of human GH. 	</S>
+<S>Patients with ACTH deficiency should have their glucocorticoid-replacement dose carefully adjusted to avoid an inhibitory effect on growth. 	</S>
+<S>The use of Nutropin in patients with chronic renal insufficiency receiving glucocorticoid therapy has not been evaluated. 	</S>
+<S>Concomitant glucocorticoid therapy may inhibit the growth-promoting effect of Nutropin. 	</S>
+<S>If glucocorticoid replacement is required, the glucocorticoid dose should be carefully adjusted. 	</S>
+<S>There was no evidence in the controlled studies of Nutropin   s interaction with drugs commonly used in chronic renal insufficiency patients. 	</S>
+<S>Limited published data indicate that GH treatment increases cytochrome P450 (CP450) mediated antipyrine clearance in man. 	</S>
+<S>These data suggest that GH administration may alter the clearance of compounds known to be metabolized by CP450 liver enzymes (e.g., corticosteroids, sex steroids, anticonvulsants, cyclosporin). 	</S>
+<S>Careful monitoring is advisable when GH is administered in combination with other drugs known to be metabolized by CP450 liver enzymes.	</S>
+<S>Methyprylon may interact with other addictive medications, in that it may increase the likelyhood of addiction and abuse. 	</S>
+<S>Concurrent use of alcohol and other CNS depression-producing drugs may increase the CNS depressant effects of methyprylon or these other medications.	</S>
+<S>Barbiturates may decrease the effectiveness of oral contraceptives, certain antibiotics, quinidine, theophylline, corticosteroids, anticoagulants, and beta blockers.	</S>
+<S>Caution is recommended when administering NEXAVAR with compounds that are metabolized/eliminated predominantly by the UGT1A1 pathway (e.g. irinotecan). 	</S>
+<S>Concomitant treatment with NEXAVAR resulted in a 21% increase in the AUC of doxorubicin. 	</S>
+<S>Caution is recommended when administering doxorubicin with NEXAVAR. 	</S>
+<S>Sorafenib inhibits CYP2B6 and CYP2C8 in vitro with Ki values of 6 and 1-2 ?M, respectively. 	</S>
+<S>Systemic exposure to substrates of CYP2B6 and CYP2C8 is expected to increase when co-administered with NEXAVAR. 	</S>
+<S>Caution is recommended when administering substrates of CYP2B6 and CYP2C8 with NEXAVAR.	</S>
+<S>When administered concomitantly with ProAmatine   , cardiac glycosides may enhance or precipitate bradycardia, A.V. 	</S>
+<S>block or arrhythmia. 	</S>
+<S>The use of drugs that stimulate alpha-adrenergic receptors (e.g., phenylephrine, pseudoephedrine, ephedrine, phenylpropanolamine or dihydroergotamine) may enhance or potentiate the pressor effects of ProAmatine   . Therefore, caution should be used when ProAmatine    is administered concomitantly with agents that cause vasoconstriction. 	</S>
+<S>ProAmatine    has been used in patients concomitantly treated with salt-retaining steroid therapy (i.e., fludrocortisone acetate), with or without salt supplementation. 	</S>
+<S>The potential for supine hypertension should be carefully monitored in these patients and may be minimized by either reducing the dose of fludrocortisone acetate or decreasing the salt intake prior to initiation of treatment with. 	</S>
+<S>ProAmatine. Alpha-adrenergic blocking agents, such as prazosin, terazosin, and doxazosin, can antagonize the effects of ProAmatine. Potential for Drug Interactions: It appears possible, although there is no supporting experimental evidence, that the high renal clearance of desglymidodrine (a base) is due to active tubular secretion by the base-secreting system also responsible for the secretion of such drugs as metformin, cimetidine, ranitidine, procainamide, triamterene, flecainide, and quinidine. 	</S>
+<S>Thus there may be a potential for drug-drug interactions with these drugs.	</S>
+<S>Thalidomide has been reported to enhance the sedative activity of barbiturates, alcohol, chlorpromazine, and reserpine. 	</S>
+<S>Peripheral Neuropathy: Medications known to be associated with peripheral neuropathy should be used with caution in patients receiving thalidomide. 	</S>
+<S>Oral Contraceptives: In 10 healthy women, the pharmacokinetic profiles of norethindrone and ethinyl estradiol following administration of a single dose containing 1.0 mg of norethindrone acetate and 75    g of ethinyl estradiol were studied. 	</S>
+<S>The results were similar with and without coadministration of thalidomide 200 mg/day to steady-state levels. 	</S>
+<S>Important Non-Thalidomide Drug Interactions Drugs That Interfere with Hormonal Contraceptives: Concomitant use of HIV-protease inhibitors, griseofulvin, modafinil, penicillins, rifampin, rifabutin, phenytoin, carbamazepine, or certain herbal supplements such as St. 	</S>
+<S>John's Wort with hormonal contraceptive agents may reduce the effectiveness of the contraception and up to one month after discontinuation of these concomitant therapies. 	</S>
+<S>Therefore, women requiring treatment with one or more of these drugs must use two OTHER effective or highly effective methods of contraception or abstain from heterosexual sexual contact while taking thalidomide.    	</S>
+<S>SKELAXIN may enhance the effects of alcohol, barbiturates and other CNS depressants.	</S>
+<S>MAO inhibitors and beta adrenergic blockers increase the effects of pseudoephedrine. 	</S>
+<S>Sympathomimetics may reduce the antihypertensive effects of methyldopa, mecamylamine, reserpine and veratrum alkaloids.	</S>
+<S>Interactions between Leukine and other drugs have not been fully evaluated. 	</S>
+<S>Drugs which may potentiate the myeloproliferative effects of Leukine, such as lithium and corticosteroids, should be used with caution.	</S>
+<S>The in vitro binding of warfarin to human plasma proteins is unaffected by tolmetin, and tolmetin does not alter the prothrombin time of normal volunteers. 	</S>
+<S>However, increased prothrombin time and bleeding have been reported in patients on concomitant TOLECTIN and warfarin therapy. 	</S>
+<S>Therefore, caution should be exercised when administering TOLECTIN to patients on anticoagulants. 	</S>
+<S>In adult diabetic patients under treatment with either sulfonylureas or insulin there is no change in the clinical effects of either TOLECTIN or the hypoglycemic agents. 	</S>
+<S>Caution should be used if TOLECTIN is administered concomitantly with methotrexate. 	</S>
+<S>TOLECTIN and other nonsteroidal anti-inflammatory drugs have been reported to reduce the tubular secretion of methotrexate in an animal model, possibly enhancing the toxicity of methotrexate. 	</S>
+<S>Laboratory Tests Because serious GI tract ulceration and bleeding can occur without warning symptoms, physicians should follow chronically treated patients for the signs and symptoms of ulceration and bleeding and should inform them of the importance of this follow-up.	</S>
+<S>An inhibitor of CYP2C8 (such as gemfibrozil) may increase the AUC of rosiglitazone and an inducer of CYP2C8 (such as rifampin) may decrease the AUC of rosiglitazone. 	</S>
+<S>Therefore, if an inhibitor or an inducer of CYP2C8 is started or stopped during treatment with rosiglitazone, changes in diabetes treatment may be needed based upon clinical response.	</S>
+<S>Pharmacokinetic properties of abacavir were not altered by the addition of either lamivudine or zidovudine or the combination of lamivudine and zidovudine. 	</S>
+<S>No clinically significant changes to lamivudine or zidovudine pharmacokinetics were observed following concomitant administration of abacavir. 	</S>
+<S>Abacavir has no effect on the pharmacokinetic properties of ethanol. 	</S>
+<S>Ethanol decreases the elimination of abacavir causing an increase in overall exposure . The addition of methadone has no clinically significant effect on the pharmacokinetic properties of abacavir. 	</S>
+<S>In a study of 11 HIV-infected patients receiving methadone-maintenance therapy (40 mg and 90 mg daily) with 600 mg of ZIAGEN twice daily (twice the currently recommended dose), oral methadone clearance increased 22% (90% CI 6% to 42%). 	</S>
+<S>This alteration will not result in a methadone dose modification in the majority of patients; 	</S>
+<S>however, an increased methadone dose may be required in a small number of patients.	</S>
+<S>Other beta adrenergic aerosol bronchodilators should not be used concomitantly with Alupent    (metaproterenol sulfate USP) because they may have additive effects. 	</S>
+<S>Beta adrenergic agonists should be administered with caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants, since the action of beta adrenergic agonists on the vascular system may be potentiated.	</S>
+<S>A study published in 2002 found that vigabatrin causes a statistically significant increase in plasma clearance of carbamazepine. 	</S>
+<S>In 1984, Drs Rimmer and Richens at the University of Wales reported that administering vigabatrin with phenytoin lowered the serum phenytoin concentration in patients with treatment-resistant epilepsy. 	</S>
+<S>The concentration of phenytoin falls to 23% within five weeks, according to an experiment published in 1989 by the same two scientists that tried and failed to elucidate the mechanism behind this interaction.	</S>
+<S>Triprolidine may enhance the sedative effects of central nervous system depressants including alcohol, barbiturates, hypnotics, narcotic analgesics, sedatives, and tranquillisers. 	</S>
+<S>The effects of anticholinergic drugs, such as atropine and tricyclic antidepressants may be enhanced by the concomitant administration of triprolidine. 	</S>
+<S>Triprolidine may effect the metabolism of drugs in the liver.	</S>
+<S>Interactions between ZADAXIN and other drugs have not been fully evaluated. 	</S>
+<S>Caution should be exercised when administering ZADAXIN therapy in combination with other immunomodulating drugs. 	</S>
+<S>ZADAXIN should not be mixed with any other drug.	</S>
+<S>The interaction of Retavase    with other cardioactive drugs has not been studied. 	</S>
+<S>In addition to bleeding associated with heparin and vitamin K antagonists, drugs that alter platelet function (such as aspirin, dipyridamole, and abciximab) may increase the risk of bleeding if administered prior to or after Retavase    therapy.	</S>
+<S>The occurrence of stupor, muscular rigidity, severe agitation, and elevated temperature has been reported in some patients receiving the combination of selegiline and meperidine. 	</S>
+<S>Symptoms usually resolve over days when the combination is discontinued. 	</S>
+<S>This is typical of the interaction of meperidine and MAOIs. 	</S>
+<S>Other serious reactions (including severe agitation, hallucinations, and death) have been reported in patients receiving this combination. 	</S>
+<S>Severe toxicity has also been reported in patients receiving the combination of tricyclic antidepressants and ELDEPRYL and selective serotonin reuptake inhibitors and ELDEPRYL. 	</S>
+<S>One case of hypertensive crisis has been reported in a patient taking the recommended doses of selegiline and a sympathomimetic medication (ephedrine).	</S>
+<S>When atropine and pralidoxime are used together, the signs of atropinization (flushing, mydriasis, tachycardia, dryness of the mouth and nose) may occur earlier than might be expected when atropine is used alone. 	</S>
+<S>This is especially true if the total dose of atropine has been large and the administration of pralidoxime has been delayed. 	</S>
+<S>2 - 4 The following precautions should be kept in mind in the treatment of anticholinesterase poisoning, although they do not bear directly on the use of pralidoxime: since barbiturates are potentiated by the anticholinesterases, they should be used cautiously in the treatment of convulsions; 	</S>
+<S>morphine, theophylline, aminophylline, succinylcholine, reserpine, and phenothiazine-type tranquilizers should be avoided in patients with organophosphate poisoning.	</S>
+<S>No drug-drug interaction studies have been conducted with depo-subQ provera 104. 	</S>
+<S>Aminoglutethimide administered concomitantly with depo-subQ provera 104 may significantly decrease the serum concentrations of MPA. 	</S>
+<S>Laboratory Tests The pathologist should be advised of progestin therapy when relevant specimens are submitted. 	</S>
+<S>The physician should be informed that certain endocrine and liver function tests, and blood components may be affected by progestin therapy: (a) Plasma and urinary steroid levels are decreased (e.g., progesterone, estradiol, pregnanediol, testosterone, cortisol). 	</S>
+<S>(b) Plasma and urinary gonadotropin levels are decreased (e.g., LH, FSH). 	</S>
+<S>(c) SHBG concentrations are decreased. 	</S>
+<S>(d) T3-uptake values may decrease. 	</S>
+<S>(e) There may be small changes in coagulation factors. 	</S>
+<S>(f) Sulfobromophthalein and other liver function test values may be increased slightly. 	</S>
+<S>(g) There may be small changes in lipid profiles.	</S>
+<S>In clinical studies of TOBI, patients taking TOBI concomitantly with dornase alfa (PULMOZYME   , Genentech), (beta)-agonists, inhaled corticosteroids, other anti-pseudomonal antibiotics, or parenteral aminoglycosides demonstrated adverse experience profiles similar to the study population as a whole. 	</S>
+<S>Concurrent and/or sequential use of TOBI with other drugs with neurotoxic or ototoxic potential should be avoided. 	</S>
+<S>Some diuretics can enhance aminoglycoside toxicity by altering antibiotic concentrations in serum and tissue. 	</S>
+<S>TOBI should not be administered concomitantly with ethacrynic acid, furosemide, urea, or mannitol.	</S>
+<S>DRUG INTERACTIONS  There are no known drug/drug interactions with oral ALKERAN  Vaccinations with live organism vaccines are not recommended in immunocompromised individuals  Nalidixic acid together with high-dose intravenous melphalan has caused deaths in children due to haemorrhagic enterocolitis.  	</S>
+<S>Impaired renal function has been described in bone marrow transplant patients who were conditioned with high-dose intravenous melphalan and who subsequently received cyclosporin to prevent graft-versus-host disease	</S>
+<S>Pilocarpine should be administered with caution to patients taking beta adrenergic antagonists because of the possibility of conduction disturbances. 	</S>
+<S>Drugs with parasympathomimetic effects administered concurrently with pilocarpine would be expected to result in additive pharmacologic effects. 	</S>
+<S>Pilocarpine might antagonize the anticholinergic effects of drugs used concomitantly. 	</S>
+<S>These effects should be considered when anticholinergic properties may be contributing to the therapeutic effect of concomitant medication (e.g., atropine, inhaled ipratropium). 	</S>
+<S>While no formal drug interaction studies have been performed, the following concomitant drugs were used in at least 10% of patients in either or both Sj   grens efficacy studies: acetylsalicylic acid, artificial tears, calcium, conjugated estrogens, hydroxychloroquine sulfate, ibuprofen, levothyroxine sodium, medroxyprogesterone acetate, methotrexate, multivitamins, naproxen, omeprazole, paracetamol, and prednisone.	</S>
+<S>The induction dose requirements of DIPRIVAN Injectable Emulsion may be reduced in patients with intramuscular or intravenous premedication, particularly with narcotics (eg, morphine, meperidine, and fentanyl, etc.) 	</S>
+<S>and combinations of opioids and sedatives (eg, benzodiazepines, barbiturates, chloral hydrate, droperidol, etc.). 	</S>
+<S>These agents may increase the anesthetic or sedative effects of DIPRIVAN Injectable Emulsion and may also result in more pronounced decreases in systolic, diastolic, and mean arterial pressures and cardiac output. 	</S>
+<S>During maintenance of anesthesia or sedation, the rate of DIPRIVAN Injectable Emulsion administration should be adjusted according to the desired level of anesthesia or sedation and may be reduced in the presence of supplemental analgesic agents (eg, nitrous oxide or opioids). 	</S>
+<S>The concurrent administration of potent inhalational agents (eg, isoflurane, enflurane, and halothane) during maintenance with DIPRIVAN Injectable Emulsion has not been extensively evaluated. 	</S>
+<S>These inhalational agents can also be expected to increase the anesthetic or sedative and cardiorespiratory effects of DIPRIVAN Injectable Emulsion. 	</S>
+<S>DIPRIVAN Injectable Emulsion does not cause a clinically significant change in onset, intensity, or duration of action of the commonly used neuromuscular blocking agents (eg, succinylcholine and nondepolarizing muscle relaxants). 	</S>
+<S>No significant adverse interactions with commonly used premedications or drugs used during anesthesia or sedation (including a range of muscle relaxants, inhalational agents, analgesic agents, and local anesthetic agents) have been observed.	</S>
+<S>Oral metronidazole has been reported to potentiate the anticoagulant effect of coumarin and warfarin, resulting in a prolongation of prothrombin time. 	</S>
+<S>Drug interactions should be kept in mind when METROGEL (metronidazole gel), 1% is prescribed for patients who are receiving anticoagulant treatment, although they are less likely to occur with topical metronidazole administration because of low absorption.    	</S>
+<S>Methazolamide should be used with caution in patients on steroid therapy because of the potential for developing hypokalemia. 	</S>
+<S>Caution is advised for patients receiving high-dose aspirin and methazolamide concomitantly, as anorexia, tachypnea, lethargy, coma and death have been reported with concomitant use of high-dose aspirin and carbonic anhydrase inhibitors.	</S>
+<S>Pyrimethamine may be used with sulfonamides, quinine and other antimalarials, and with other antibiotics. 	</S>
+<S>If signs of folate deficiency develop, pyrimethamine should be discontinued. 	</S>
+<S>Folinic acid (leucovorin) should be administered until normal hematopoiesis is restored. 	</S>
+<S>Mild hepatotoxicity has been reported in some patients when lorazepam and pyrimethamine were administered concomitantly.	</S>
+<S>Due to its effects on gastric emptying, SYMLIN therapy should not be considered for patients taking drugs that alter gastrointestinal motility (e.g., anticholinergic agents such as atropine) and agents that slow the intestinal absorption of nutrients (e.g., alpha glucosidase inhibitors). 	</S>
+<S>Patients using these drugs have not been studied in clinical trials. 	</S>
+<S>SYMLIN has the potential to delay the absorption of concomitantly administered oral medications. 	</S>
+<S>When the rapid onset of a concomitant orally administered agent is a critical determinant of effectiveness (such as analgesics), the agent should be administered at least 1 hour prior to or 2 hours after SYMLIN injection. 	</S>
+<S>In clinical trials, the concomitant use of sulfonylureas or biguanides did not alter the adverse event profile of SYMLIN. 	</S>
+<S>No formal interaction studies have been performed to assess the effect of SYMLIN on the kinetics of oral antidiabetic agents. 	</S>
+<S>Mixing SYMLIN and Insulin The pharmacokinetic parameters of SYMLIN were altered when mixed with regular, NPH, and 70/30 premixed formulations of recombinant human insulin immediately prior to injection. 	</S>
+<S>Thus, SYMLIN and insulin should not be mixed and must be administered separately.	</S>
+<S>Since MEXITIL is a substrate for the metabolic pathways involving CYP2D6 and CYP1A2 enzymes, inhibition or induction of either of these enzymes would be expected to alter mexiletine plasma concentrations. 	</S>
+<S>In a formal, single-dose interaction study (n = 6 males) the clearance of mexiletine was decreased by 38% following the coadministration of fluvoxamine, an inhibitor of CYP1A2. 	</S>
+<S>In another formal study (n = 8 extensive and n = 7 poor metabolizers of CYP2D6), coadministration of propafenone did not alter the kinetics of mexiletine in the poor CYP2D6 metabolizer group. 	</S>
+<S>However, the metabolic clearance of mexiletine in the extensive metabolizer phenotype decreased by about 70% making the poor and extensive metabolizer groups indistinguishable. 	</S>
+<S>In this crossover steady state study, the pharmacokinetics of propafenone were unaffected in either phenotype by the coadministration of mexiletine. 	</S>
+<S>Addition of mexiletine to propafenone did not lead to further electrocardiographic parameters changes of QRS, QTc, RR, and PR intervals than propafenone alone. 	</S>
+<S>When concomitant administration of either of these two drugs with mexiletine is initiated, the dose of mexiletine should be slowly titrated to desired effect. 	</S>
+<S>In a large compassionate use program Mexitil    has been used concurrently with commonly employed antianginal, antihypertensive, and anticoagulant drugs without observed interactions. 	</S>
+<S>A variety of antiarrhythmics such as quinidine or propranolol were also added, sometimes with improved control of ventricular ectopy. 	</S>
+<S>When phenytoin or other hepatic enzyme inducers such as rifampin and phenobarbital have been taken concurrently with Mexitil   , lowered Mexitil    plasma levels have been reported. 	</S>
+<S>Monitoring of Mexitil    plasma levels is recommended during such concurrent use to avoid ineffective therapy. 	</S>
+<S>In a formal study, benzodiazepines were shown not to affect Mexitil    plasma concentrations. 	</S>
+<S>ECG intervals (PR, QRS, and QT) were not affected by concurrent Mexitil    and digoxin, diuretics, or propranolol. 	</S>
+<S>Concurrent administration of cimetidine and Mexitil    has been reported to increase, decrease, or leave unchanged Mexitil    plasma levels; 	</S>
+<S>therefore patients should be followed carefully during concurrent therapy. 	</S>
+<S>Mexitil    does not alter serum digoxin levels but magnesium-aluminum hydroxide, when used to treat gastrointestinal symptoms due to Mexitil   , has been reported to lower serum digoxin levels. 	</S>
+<S>Concurrent use of Mexitil    and theophylline may lead to increased plasma theophylline levels. 	</S>
+<S>One controlled study in eight normal subjects showed a 72% mean increase (range 35-136%) in plasma theophylline levels. 	</S>
+<S>This increase was observed at the first test point which was the second day after starting Mexitil   . Theophylline plasma levels returned to pre-Mexitil    values within 48 hours after discontinuing Mexitil   . If Mexitil and theophylline are to be used concurrently, theophylline blood levels should be monitored, particularly when the Mexitil    dose is changed. 	</S>
+<S>An appropriate adjustment in theophylline dose should be considered. 	</S>
+<S>Additionally, in one controlled study in five normal subjects and seven patients, the clearance of caffeine was decreased 50% following the administration of Mexitil   .	</S>
+<S>Anticoagulants (oral): The activity of oral anticoagulants may be potentiated by anti-vitamin-K activity attributed to methimazole.    	</S>
+<S>-adrenergic blocking agents: Hyperthyroidism may cause an increased clearance of beta ratio. 	</S>
+<S>A dose reduction of beta-adrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid. 	</S>
+<S>Digitalis glycosides: Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid; 	</S>
+<S>reduced dosage of digitalis glycosides may be required. 	</S>
+<S>Theophylline: Theophylline clearance may decrease when hyperthyroid patients on a stable theophylline regimen become euthyroid; 	</S>
+<S>a reduced dose of theophylline may be needed.    	</S>
+<S>Other short-acting beta adrenergic aerosol bronchodilators should not be used concomitantly with MAXAIR AUTOHALER because they may have additive effects.	</S>
+<S>Some anticonvulsants may interact with Mephenytoin. 	</S>
+<S>They can either increase or decrease the effect of Mephenytoin. 	</S>
+<S>Those anticonvulsants include divalproex sodium, valproic acid, and phenobarbital. 	</S>
+<S>Mephenytoin may also affect the effects of other drugs, which include some steroid medications, warfarin, certain heart medicines, birth control pills, anti-infective medicines, furosemide and theophylline Please note that Mephenytoin may interact with other drugs that are not listed here.	</S>
+<S>Use with Other Central Nervous System Depressants: The depressant effects of morphine are potentiated by the presence of other CNS depressants such as alcohol, sedatives, antihistaminics, or psychotropic drugs. 	</S>
+<S>Use of neuroleptics in conjunction with oral morphine may increase the risk of respiratory depression, hypotension and profound sedation or coma. 	</S>
+<S>Interaction with Mixed Agonist/Antagonist Opioid Analgesics: Agonist/antagonist analgesics (i.e., pentazocine, nalbuphine, butorphanol, or buprenorphine) should NOT be administered to patients who have received or are receiving a course of therapy with a proof opioid agonist analgesic. 	</S>
+<S>In these patients, the mixed agonist/antagonist may alter the analgesic effect or may precipitate withdrawal symptoms.	</S>
+<S>Ritalin may decrease the hypotensive effect of guanethidine. 	</S>
+<S>Use cautiously with pressor agents. 	</S>
+<S>Human pharmacologic studies have shown that Ritalin may inhibit the metabolism of coumarin anticoagulants, anticonvulsants (phenobarbital, diphenylhydantoin, primidone), phenylbutazone, and tricyclic drugs (imipramine, clomipramine, desipramine). 	</S>
+<S>Downward dosage adjustments of these drugs may be required when given concomitantly with Ritalin. 	</S>
+<S>Serious adverse events have been reported in concomitant use with clonidine, although no causality for the combination has been established. 	</S>
+<S>The safety of using methylphenidate in combination with clonidine or other centrally acting alpha-2 agonists has not been systemically evaluated.    	</S>
+<S>Co-administration of SUTENT with strong inhibitors of the CYP3A4 family (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin, voriconizole) may increases sunitinib concentrations. 	</S>
+<S>Grapefruit may also increase plasma concentrations of SUTENT. 	</S>
+<S>Co-administration of SUTENT with inducers of the CYP3A4 family (e.g., dexamethasone, phenytoin, carbamazepine, rifampin, rifabutin, rifapentin, phenobarbital, St. Johns Wort) may decrease sunitinib concentrations. 	</S>
+<S>St. 	</S>
+<S>Johns Wort may decrease SUTENT plasma concentrations unpredictably. 	</S>
+<S>Patients receiving SUTENT should not take St. 	</S>
+<S>Johns Wort concomitantly. 	</S>
+<S>SUTENT dose modification is recommended in patients using concomitant CYP3A4 inhibitors or inducers.	</S>
+<S>Diuretics: Excessive reductions in blood pressure may occur in patients on diuretic therapy when ACE inhibitors are started. 	</S>
+<S>The possibility of hypotensive effects with UNIVASC    can be minimized by discontinuing diuretic therapy for several days or cautiously increasing salt intake before initiation of treatment with UNIVASC   . If this is not possible, the starting dose of moexpril should be reduced.. 	</S>
+<S>Potassium Supplements and Potassium-Sparing Diuretics: UNIVASC    can increase serum potassium because it decreases aldosterone secretion. 	</S>
+<S>Use of potassium-sparing diuretics (spironolactone, triamterene, amiloride) or potassium supplements concomitantly with ACE inhibitors can increase the risk of hyperkalemia. 	</S>
+<S>Therefore, if concomitant use of such agents is indicated, they should be given with caution and the patient's serum potassium should be monitored. 	</S>
+<S>Oral Anticoagulants: Interaction studies with warfarin failed to identify any clinically important effect on the serum concentrations of the anticoagulant or on its anticoagulant effect. 	</S>
+<S>Lithium: Increased serum lithium levels and symptoms of lithium toxicity have been reported in patients receiving ACE inhibitors during therapy with lithium. 	</S>
+<S>These drugs should be coadministered with caution, and frequent monitoring of serum lithium levels is recommended. 	</S>
+<S>If a diuretic is also used, the risk of lithium toxicity may be increased. 	</S>
+<S>Other Agents: No clinically important pharmacokinetic interactions occurred when UNIVASC    was administered concomitantly with hydrochlorothiazide, digoxin, or cimetidine. 	</S>
+<S>UNIVASC    has been used in clinical trials concomitantly with calcium-channel-blocking agents, diuretics, H2 blockers, digoxin, oral hypoglycemic agents, and cholesterol-lowering agents. 	</S>
+<S>There was no evidence of clinically important adverse interactions.	</S>
+<S>ALIMTA is primarily eliminated unchanged renally as a result of glomerular filtration and tubular secretion. 	</S>
+<S>Concomitant administration of nephrotoxic drugs could result in delayed clearance of ALIMTA. 	</S>
+<S>Concomitant administration of substances that are also tubularly secreted (e.g., probenecid) could potentially result in delayed clearance of ALIMTA. 	</S>
+<S>Although ibuprofen (400 mg qid) can be administered with ALIMTA in patients with normal renal function (creatinine clearance    80 mL/min), caution should be used when administering ibuprofen concurrently with ALIMTA to patients with mild to moderate renal insufficiency (creatinine clearance from 45 to 79 mL/min). 	</S>
+<S>Patients with mild to moderate renal insufficiency should avoid taking NSAIDs with short elimination half-lives for a period of 2 days before, the day of, and 2 days following administration of ALIMTA. 	</S>
+<S>In the absence of data regarding potential interaction between ALIMTA and NSAIDs with longer half-lives, all patients taking these NSAIDs should interrupt dosing for at least 5 days before, the day of, and 2 days following ALIMTA administration. 	</S>
+<S>If concomitant administration of an NSAID is necessary, patients should be monitored closely for toxicity, especially myelosuppression, renal, and gastrointestinal toxicity. 	</S>
+<S>Drug/Laboratory Test Interactions None known.	</S>
+<S>Prothrombin time or other suitable anticoagulation test should be monitored if tigecycline is administered with warfarin.   	</S>
+<S>Concurrent use of antibacterial drugs with oral contraceptives may render oral contraceptives less effective.  	</S>
+<S>Drug/Laboratory Test Interactions  There are no reported drug-laboratory test interactions.	</S>
+<S>Melatonin may interact with the following drugs: aspirin and other NSAIDs (may lower melatonin levels), fluvoxamine (bioavailability of oral melatonin is increased with coadministration), beta blockers (may decrease melatonin levels), fluoxetine (reports of psychotic episodes when coadministered), progestin (coadministration of melatonin with progestin can inhibit ovarian function in women), benzodiazepenes and other sedating drugs (may result in additive sedation and an increased incidence of adverse effects), and corticosteroids (coadministration of melatonin and corticosteroids may interfere with the efficacy of the corticosteroids).	</S>
+<S>In vitro studies with human liver microsomes showed that terbinafine does not inhibit the metabolism of tolbutamide, ethinylestradiol, ethoxycoumarin, and cyclosporine. 	</S>
+<S>In vitro studies have also shown that terbinafine inhibits CYP2D6-mediated metabolism. 	</S>
+<S>This may be of clinical relevance for compounds predominantly metabolized by this enzyme, such as tricyclic antidepressants,    -blockers, selective serotonin reuptake inhibitors (SSRIs), and monoamine oxidase inhibitors (MAO-Is) Type B, if they have a narrow therapeutic window. 	</S>
+<S>In vivo drug-drug interaction studies conducted in normal volunteer subjects showed that terbinafine does not affect the clearance of antipyrine or digoxin. 	</S>
+<S>Terbinafine decreases the clearance of caffeine by 19%. 	</S>
+<S>Terbinafine increases the clearance of cyclosporine by 15%. 	</S>
+<S>There have been spontaneous reports of increase or decrease in prothrombin times in patients concomitantly taking oral terbinafine and warfarin, however, a causal relationship between LAMISIL    Tablets and these changes has not been established. 	</S>
+<S>Terbinafine clearance is increased 100% by rifampin, a CyP450 enzyme inducer, and decreased 33% by cimetidine, a CyP450 enzyme inhibitor. 	</S>
+<S>Terbinafine clearance is unaffected by cyclosporine. 	</S>
+<S>There is no information available from adequate drug-drug interaction studies with the following classes of drugs: oral contraceptives, hormone replacement therapies, hypoglycemics, theophyllines, phenytoins, thiazide diuretics, beta blockers, and calcium channel blockers.	</S>
+<S>ZANOSAR may demonstrate additive toxicity when used in combination with other cytotoxic drugs. 	</S>
+<S>Streptozocin has been reported to prolong the elimination half-life of doxorubicin and may lead to severe bone marrow suppression; 	</S>
+<S>a reduction of the doxorubicin dosage should be considered in patients receiving ZANOSAR concurrently. 	</S>
+<S>The concurrent use of streptozocin and phenytoin has been reported in one case to result in reduced streptozocin cytotoxicity.    	</S>
+<S>Cholestyramine: Cholestyramine causes a 60% reduction in the absorption and enterohepatic cycling of raloxifene and should not be coadministered with EVISTA. 	</S>
+<S>Warfarin: The coadministration of EVISTA and warfarin has not been assessed under chronic conditions. 	</S>
+<S>However, 10% decreases in prothrombin time have been observed in single-dose studies. 	</S>
+<S>If EVISTA is given concurrently with warfarin, prothrombin time should be monitored. 	</S>
+<S>Other Highly Protein-Bound Drugs: Raloxifene is more than 95% bound to plasma proteins. 	</S>
+<S>In vitro, raloxifene did not affect the binding of warfarin, phenytoin, or tamoxifen. 	</S>
+<S>Caution should be used when EVISTA is coadministered with other highly protein-bound drugs, such as clofibrate, indomethacin, naproxen, ibuprofen, diazepam, and diazoxide. 	</S>
+<S>See also CLINICAL PHARMACOLOGY, Drug-Drug Interactions	</S>
+<S>Sulfamethizole may increase the effects of barbiturates, tolbutamide, and uricosurics. 	</S>
+<S>It may also interact with thiazides (increased thrombocytopenia), cyclosporine (increased nephrotoxicity), sulfonylurea agents (increased hypoglycemic response), warfarin (increased anticoagulant effect), methotrexate (decreased renal excretion of methotrexate), phenytoin (decreased hepatic clearance of phenytoin).	</S>
+<S>Dopamine antagonists, such as the neuroleptics (phenothiazines, butyrophenones, thioxanthines ) or metoclopramide, ordinarily should not be administered concurrently with Permax (a dopamine agonist); 	</S>
+<S>these agents may diminish the effectiveness of Permax. 	</S>
+<S>Because pergolide mesylate is approximately 90% bound to plasma proteins, caution should be exercised if pergolide mesylate is coadministered with other drugs known to affect protein binding.	</S>
+<S>Drug Interactions: Women on oral contraceptives have shown a significant increase in plasma vitamin A levels.	</S>
+<S>The effects of metoclopramide on gastrointestinal motility are antagonized by anticholinergic drugs and narcotic analgesics. 	</S>
+<S>Additive sedative effects can occur when metoclopramide is given with alcohol, sedatives, hypnotics, narcotics, or tranquilizers. 	</S>
+<S>The finding that metoclopramide releases catecholamines in patients with essential hypertension suggests that it should be used cautiously, if at all, in patients receiving monoamine oxi-dase inhibitors. 	</S>
+<S>Absorption of drugs from the stomach may be diminished (e.g., digoxin) by metoclopramide, whereas the rate and/or extent of absorption of drugs from the small bowel may be increased (e.g., acetaminophen, tetracycline, levodopa, ethanol, cyclosporine). 	</S>
+<S>Gastroparesis (gastric stasis) may be responsible for poor diabetic control in some patients. 	</S>
+<S>Exogenously administered insulin may begin to act before food has left the stomach and lead to hypoglycemia. 	</S>
+<S>Because the action of metoclopramide will influence the delivery of food to the intestines and thus the rate of absorption, insulin dosage or timing of dosage may require adjustment.	</S>
+<S>The pharmacokinetic interactions listed below are potentially clinically important. 	</S>
+<S>Drugs that induce hepatic enzymes such as phenobarbital, phenytoin and rifampin may increase the clearance of corticosteroids and may require increases in corticosteroid dose to achieve the desired response. 	</S>
+<S>Drugs such as troleandomycin and ketoconazole may inhibit the metabolism of corticosteroids and thus decrease their clearance. 	</S>
+<S>Therefore, the dose of corticosteroid should be titrated to avoid steroid toxicity. 	</S>
+<S>Corticosteroids may increase the clearance of chronic high dose aspirin. 	</S>
+<S>This could lead to decreased salicylate serum levels or increase the risk of salicylate toxicity when corticosteroid is withdrawn. 	</S>
+<S>Aspirin should be used cautiously in conjunction with corticosteroids in patients suffering from hypoprothrombinemia. 	</S>
+<S>The effect of corticosteroids on oral anticoagulants is variable. 	</S>
+<S>There are reports of enhanced as well as diminished effects of anticoagulants when given concurrently with corticosteroids. 	</S>
+<S>Therefore, coagulation indices should be monitored to maintain the desired anticoagulant effect.	</S>
+<S>Co-administration of oral ketoconazole 200 mg twice daily increased retapamulin geometric mean AUC(0-24) and Cmax by 81% after topical application of retapamulin ointment, 1% on the abraded skin of healthy adult males. 	</S>
+<S>Due to low systemic exposure to retapamulin following topical application in patients, dosage adjustments for retapamulin are unnecessary when co-administered with CYP3A4 inhibitors, such as ketoconazole. 	</S>
+<S>Based on in vitro P450 inhibition studies and the low systemic exposure observed following topical application of ALTABAX, retapamulin is unlikely to affect the metabolism of other P450 substrates. 	</S>
+<S>The effect of concurrent application of ALTABAX and other topical products to the same area of skin has not been studied.	</S>
+<S>Methscopolamine may interact with antidepressants (tricyclic type), MAO inhibitors (e.g., phenelzine, linezolid, tranylcypromine, isocarboxazid, selegiline, furazolidone), quinidine, amantadine, antihistamines (e.g., diphenhydramine), other anticholinergics, potassium chloride supplements, antacids, absorbent-type anti-diarrhea medicines (e.g., kaolin-pectin), phenothiazines (e.g., chlorpromazine, promethazine).	</S>
+<S>FELDENE is highly protein bound, and therefore, might be expected to displace other protein-bound drugs. 	</S>
+<S>Although this has not occurred in in vitro studies with coumarin-type anticoagulants, interactions with coumarin-type anticoagulants have been reported with FELDENE since marketing, therefore, physicians should closely monitor patients for a change in dosage requirements when administering FELDENE to patients on coumarin-type anticoagulants and other highly protein-bound drugs. 	</S>
+<S>Plasma levels of piroxicam are depressed to approximately 80% of their normal values when FELDENE is administered in conjunction with aspirin (3900 mg/day), but concomitant administration of antacids has no effect on piroxicam plasma levels . Nonsteroidal anti-inflammatory agents, including FELDENE, have been reported to increase steady state plasma lithium levels. 	</S>
+<S>It is recommended that plasma lithium levels be monitored when initiating, adjusting and discontinuing FELDENE.	</S>
+<S>When administered concurrently, testolactone may increase the effects of oral anticoagulants; 	</S>
+<S>monitor and adjust anticoagulant dosage accordingly. 	</S>
+<S>Drug/Laboratory Test Interactions: Physiologic effects of testolactone may result in decreased estradiol concentrations with radioimmunoassays for estradiol, increased plasma calcium concentrations, and increased 24-hour urinary excretion of creatine and 17-ketosteroids.	</S>
+<S>Although a causal relationship has not been established, there have been reports of bleeding and/or prolonged prothrombin time in patients treated with TRENTAL with and without anticoagulants or platelet aggregation inhibitors. 	</S>
+<S>Patients on Warfarin should have more frequent monitoring of prothrombin times, while patients with other risk factors complicated by hemorrhage (e.g., recent surgery, peptic ulceration) should have periodic examinations for bleeding including hematocrit and/or hemoglobin. 	</S>
+<S>Concomitant administration of TRENTAL and theophylline-containing drugs leads to increased theophylline levels and theophylline toxicity in some individuals. 	</S>
+<S>Such patients should be closely monitored for signs of toxicity and have their theophylline dosage adjusted as necessary. 	</S>
+<S>TRENTAL has been used concurrently with antihypertensive drugs, beta blockers, digitalis, diuretics, antidiabetic agents, and antiarrhythmics, without observed problems. 	</S>
+<S>Small decreases in blood pressure have been observed in some patients treated with TRENTAL; 	</S>
+<S>periodic systemic blood pressure monitoring is recommended for patients receiving concomitant antihypertensive therapy. 	</S>
+<S>If indicated, dosage of the antihypertensive agents should be reduced.	</S>
+<S>Drug Interactions: The use of ZEMURON    (rocuronium bromide) Injection before succinylcholine, for the purpose of attenuating some of the side effects of succinylcholine, has not been studied. 	</S>
+<S>If ZEMURON    is administered following administration of succinylcholine, it should not be given until recovery from succinylcholine has been observed. 	</S>
+<S>The median duration of action of ZEMURON    0.6 mg/kg administered after a 1 mg/kg dose of succinylcholine when T 1 returned to 75% of control was 36 minutes (range 14-57, n=12) vs. 	</S>
+<S>28 minutes (17-51, n=12) without succinylcholine. 	</S>
+<S>There are no controlled studies documenting the use of ZEMURON    before or after other nondepolarizing muscle relaxants. 	</S>
+<S>Interactions have been observed when other nondepolarizing muscle relaxants have been administered in succession. 	</S>
+<S>Drug/Laboratory Test Interactions:       None known.	</S>
+<S>Concurrent administration of bacteriostatic antibiotics (e.g., erythromycin, tetracycline) may diminish the bactericidal effects of penicillins by slowing the rate of bacterial growth. 	</S>
+<S>Bactericidal agents work most effectively against the immature cell wall of rapidly proliferating microorganisms. 	</S>
+<S>This has been demonstrated in vitro; 	</S>
+<S>however, the clinical significance of this interaction is not well documented. 	</S>
+<S>There are few clinical situations in which the concurrent use of ''static'' and ''cidal '' antibiotics are indicated. 	</S>
+<S>However, in selected circumstances in which such therapy is appropriate, using adequate doses of antibacterial agents and beginning penicillin therapy first, should minimize the potential for interaction. 	</S>
+<S>Penicillin blood levels may be prolonged by concurrent administration of probenecid which blocks the renal tubular secretion of penicillins. 	</S>
+<S>Displacement of penicillin from plasma protein binding sites will elevate the level of free penicillin in the serum.	</S>
+<S>Catecholamine-depleting drugs (e.g., reserpine) may have an additive effect when given with beta-blocking agents. 	</S>
+<S>Patients receiving pindolol plus a catecholamine-depleting agent should, therefore, be closely observed for evidence of hypotension and/or marked bradycardia which may produce vertigo, syncope, or postural hypotension. 	</S>
+<S>Pindolol has been used with a variety of antihypertensive agents, including hydrochlorothiazide, hydralazine, and guanethidine without unexpected adverse interactions. 	</S>
+<S>Pindolol has been shown to increase serum thioridazine levels when both drugs are co-administered. 	</S>
+<S>Pindolol levels may also be increased with this combination. 	</S>
+<S>Risk of anaphylactic reaction: While taking beta blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic. 	</S>
+<S>Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reactions.	</S>
+<S>Although specific drug or food interactions with mifepristone have not been studied, on the basis of this drug   s metabolism by CYP 3A4, it is possible that ketoconazole, itraconazole, erythromycin, and grapefruit juice may inhibit its metabolism (increasing serum levels of mifepristone). 	</S>
+<S>Furthermore, rifampin, dexamethasone, St. 	</S>
+<S>John   s Wort, and certain anticonvulsants (phenytoin, phenobarbital, carbamazepine) may induce mifepristone metabolism (lowering serum levels of mifepristone). 	</S>
+<S>Based on in vitro inhibition information, coadministration of mifepristone may lead to an increase in serum levels of drugs that are CYP 3A4 substrates. 	</S>
+<S>Due to the slow elimination of mifepristone from the body, such interaction may be observed for a prolonged period after its administration. 	</S>
+<S>Therefore, caution should be exercised when mifepristone is administered with drugs that are CYP 3A4 substrates and have narrow therapeutic range, including some agents used during general anesthesia.	</S>
+<S>Concomitant administration of vancomycin and anesthetic agents has been associated with erythema and histamine-like flushing and anaphylactoid reactions. 	</S>
+<S>Concurrent and/or sequential systemic or topical use of other potentially neurotoxic and/or nephrotoxic drugs, such as amphotericin B, aminoglycosides, bacitracin, polymyxin B, colistin, viomycin, or cisplatin, when indicated, requires careful monitoring.	</S>
+<S>Potential for INVEGA    to Affect Other Drugs Paliperidone is not expected to cause clinically important pharmacokinetic interactions with drugs that are metabolized by cytochrome P450 isozymes. 	</S>
+<S>In vitro studies in human liver microsomes showed that paliperidone does not substantially inhibit the metabolism of drugs metabolized by cytochrome P450 isozymes, including CYP1A2, CYP2A6, CYP2C8/9/10, CYP2D6, CYP2E1, CYP3A4, and CYP3A5. 	</S>
+<S>Therefore, paliperidone is not expected to inhibit clearance of drugs that are metabolized by these metabolic pathways in a clinically relevant manner. 	</S>
+<S>Paliperidone is also not expected to have enzyme inducing properties. 	</S>
+<S>At therapeutic concentrations, paliperidone did not inhibit P-glycoprotein. 	</S>
+<S>Paliperidone is therefore not expected to inhibit P-glycoprotein-mediated transport of other drugs in a clinically relevant manner. 	</S>
+<S>Given the primary CNS effects of paliperidone, INVEGA    should be used with caution in combination with other centrally acting drugs and alcohol. 	</S>
+<S>Paliperidone may antagonize the effect of levodopa and other dopamine agonists. 	</S>
+<S>Because of its potential for inducing orthostatic hypotension, an additive effect may be observed when INVEGA    is administered with other therapeutic agents that have this potential. 	</S>
+<S>Potential for Other Drugs to Affect INVEGA    Paliperidone is not a substrate of CYP1A2, CYP2A6, CYP2C9, and CYP2C19, so that an interaction with inhibitors or inducers of these isozymes is unlikely. 	</S>
+<S>While in vitro studies indicate that CYP2D6 and CYP3A4 may be minimally involved in paliperidone metabolism, in vivo studies do not show decreased elimination by these isozymes and they contribute to only a small fraction of total body clearance.	</S>
+<S>The interaction of CYLERT (pemoline) with other drugs has not been studied in humans. 	</S>
+<S>Patients who are receiving CYLERT concurrently with other drugs, especially drugs with CNS activity, should be monitored carefully. 	</S>
+<S>Decreased seizure threshold has been reported in patients receiving CYLERT concomitantly with antiepileptic medications.	</S>
+<S>CYP 3A4 Inhibitors (e.g. Macrolide Antibiotics and Protease Inhibitors) There have been rare reports of serious adverse events in connection with the coadministration of certain ergot alkaloid drugs (e.g. dihydroergotamine and ergotamine) and potent CYP 3A4 inhibitors, resulting in vasospasm leading to cerebral ischemia and/or ischemia of the extremities. 	</S>
+<S>Although there have been no reports of such interactions with methylergonovine alone, potent CYP 3A4 inhibitors should not be coadministered with methylergonovine. 	</S>
+<S>Examples of some of the more potent CYP 3A4 inhibitors include macrolide antibiotics (e.g., erythromycin, troleandomycin, clarithromycin), HIV protease or reverse transcriptase inhibitors (e.g., ritonavir, indinavir, nelfinavir, delavirdine) or azole antifungals (e.g., ketoconazole, itraconazole, voriconazole). 	</S>
+<S>Less potent CYP 3A4 inhibitors should be administered with caution. 	</S>
+<S>Less potent inhibitors include saquinavir, nefazodone, fluconazole, grapefruit juice, fluoxetine, fluvoxamine, zileuton, and clotrimazole. 	</S>
+<S>These lists are not exhaustive, and the prescriber should consider the effects on CYP 3A4 of other agents being considered for concomitant use with methylergonovine. 	</S>
+<S>No pharmacokinetic interactions involving other cytochrome P450 isoenzymes are known. 	</S>
+<S>Caution should be exercised when Methergine    (methylergonovine maleate) is used concurrently with other vasoconstrictors or ergot alkaloids.	</S>
+<S>To minimize CNS depression and possible potentiation, barbiturates, antihistamines, narcotics, hypotensive agents or phenothiazines should be used with caution. 	</S>
+<S>Ethyl alcohol should not be used since there may be an Antabuse (disulfiram)-like reaction. 	</S>
+<S>Because Matulane exhibits some monoamine oxidase inhibitory activity, sympathomimetic drugs, tricyclic antidepressant drugs (e.g., amitriptyline HCl, imipramine HCl) and other drugs and foods with known high tyramine content, such as wine, yogurt, ripe cheese and bananas, should be avoided. 	</S>
+<S>A further phenomenon of toxicity common to many hydrazine derivatives is hemolysis and the appearance of Heinz-Ehrlich inclusion bodies in erythrocytes.  	</S>
+<S>No cross-resistance with other chemotherapeutic agents, radiotherapy or steroids has been demonstrated.	</S>
+<S>Phenothiazines are capable of potentiating CNS depressants (e.g., barbiturates, anesthetics, opiates, alcohol, etc.) 	</S>
+<S>as well as atropine and phosphorous insecticides.	</S>
+<S>Drugs affecting pituitary or adrenocortical function, including all corticosteroid therapy, must be discontinued prior to and during testing with Metopirone. 	</S>
+<S>The metabolism of Metopirone is accelerated by phenytoin; 	</S>
+<S>therefore, results of the test may be inaccurate in patients taking phenytoin within two weeks before. 	</S>
+<S>Asubnormal response may occur in patients on estrogen therapy. 	</S>
+<S>Metopirone inhibits the glucuronidation of acetaminophen and could possibly potentiate acetaminophen toxicity.	</S>
+<S>Preliminary evidence suggests that cimetidine inhibits mebendazole metabolism and may result in an increase in plasma concentrations of mebendazole.	</S>
+<S>Pantoprazole is metabolized through the cytochrome P450 system, primarily the CYP2C19 and CYP3A4 isozymes, and subsequently undergoes Phase II conjugation. 	</S>
+<S>Based on studies evaluating possible interactions of pantoprazole with other drugs, no dosage adjustment is needed with concomitant use of the following: theophylline, cisapride, antipyrine, caffeine, carbamazepine, diazepam (and its active metabolite, desmethyldiazepam), diclofenac, naproxen, piroxicam, digoxin, ethanol, glyburide, an oral contraceptive (levonorgestrel/ethinyl estradiol), metoprolol, nifedipine, phenytoin, warfarin, midazolam, clarithromycin, metronidazole, or amoxicillin. 	</S>
+<S>Clinically relevant interactions of pantoprazole with other drugs with the same metabolic pathways are not expected. 	</S>
+<S>Therefore, when coadministered with pantoprazole, adjustment of the dosage of pantoprazole or of such drugs may not be necessary. 	</S>
+<S>There was also no interaction with concomitantly administered antacids. 	</S>
+<S>There have been postmarketing reports of increased INR and prothrombin time in patients receiving proton pump inhibitors, including pantoprazole, and warfarin concomitantly. 	</S>
+<S>Increases in INR and prothrombin time may lead to abnormal bleeding and even death. 	</S>
+<S>Patients treated with proton pump inhibitors and warfarin concomitantly should be monitored for increases in INR and prothrombin time. 	</S>
+<S>Because of profound and long lasting inhibition of gastric acid secretion, pantoprazole may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability (eg, ketoconazole, ampicillin esters, and iron salts). 	</S>
+<S>Laboratory Tests There have been reports of false-positive urine screening tests for tetrahydrocannabinol (THC) in patients receiving most proton pump inhibitors, including pantoprazole. 	</S>
+<S>An alternative confirmatory method should be considered to verify positive results.	</S>
+<S>Sulfoxone may increase the effects of barbiturates, tolbutamide, and uricosurics. 	</S>
+<S>It may also interact with thiazides (increased thrombocytopenia), cyclosporine (increased nephrotoxicity), sulfonylurea agents (increased hypoglycemic response), warfarin (increased anticoagulant effect), methotrexate (decreased renal excretion of methotrexate), phenytoin (decreased hepatic clearance of phenytoin).	</S>
+<S>Thiabendazole may compete with other drugs, such as theophylline, for sites of metabolism in the liver, thus elevating the serum levels of such compounds to potentially toxic levels. 	</S>
+<S>Therefore, when concomitant use of thiabendazole and xanthine derivatives is anticipated, it may be necessary to monitor blood levels and/or reduce the dosage of such compounds. 	</S>
+<S>Such concomitant use should be administered under careful medical supervision.	</S>
+<S>Administration of valproic acid decreases oral clearance of temozolomide by about 5%. 	</S>
+<S>The clinical implication of this effect is not known. 	</S>
+<S>Patients with Severe Hepatic or Renal Impairment Caution should be exercised when TEMODAR Capsules are administered to patients with severe hepatic or renal impairment.	</S>
+<S>Pharmacokinetic studies show that there are no significant alterations in pharmacokinetic parameters of zidovudine or rifabutin to warrant dosage adjustment when megestrol acetate is administered with these drugs. 	</S>
+<S>A pharmacokinetic study demonstrated that coadministration of megestrol acetate and indinavir results in a significant decrease in the pharmacokinetic parameters (~36% for Cmax and ~28% for AUC) of indinavir. 	</S>
+<S>Administration of a higher dose of indinavir should be considered when coadministering with megestrol acetate. 	</S>
+<S>The effects of indinavir, zidovudine or rifabutin on the pharmacokinetics of megestrol acetate were not studied.	</S>
+<S>Vasopressors, particularly metaraminol, may cause serious cardiac arrhythmias during halothane anesthesia and therefore should be used only with great caution or not at all. 	</S>
+<S>MAO Inhibitors - The pressor effect of sympathomimetic pressor amines is markedly potentiated in patients receiving monoamine oxidase inhibitors (MAOI). 	</S>
+<S>Therefore, when initiating pressor therapy in these patients, the initial dose should be small and used with due caution. 	</S>
+<S>The pressor response of adrenergic agents may also be potentiated by tricyclic antidepressants.	</S>
+<S>The CNS-depressant effect of propoxyphene is additive with that of other CNS depressants, including alcohol. 	</S>
+<S>As is the case with many medicinal agents, propoxyphene may slow the metabolism of a concomitantly administered drug. 	</S>
+<S>Should this occur, the higher serum concentrations of that drug may result in increased pharmacologic or adverse effects of that drug. 	</S>
+<S>Such occurrences have been reported when propoxyphene was administered to patients on antidepressants, anticonvulsants, or warfarin-like drugs. 	</S>
+<S>Sever neurologic signs, including coma, have occurred with concurrent use of carbamazepine.	</S>
+<S>Reduced absorption of folic acid and digoxin have been reported when those agents were administered concomitantly with sulfasalazine. 	</S>
+<S>When daily doses of sulfasalazine 2 g and weekly doses of methotrexate 7.5 mg were coadministered to 15 rheumatoid arthritis patients in a drug-drug interaction study, the pharmacokinetic disposition of the drugs was not altered. 	</S>
+<S>Daily doses of sulfasalazine 2 g (maximum 3 g) and weekly doses of methotrexate 7.5 mg (maximum 15 mg) were administered alone or in combination to 310 rheumatoid arthritis patients in two controlled 52-week clinical studies. 	</S>
+<S>The overall toxicity profile of the combination revealed an increased incidence of gastrointestinal adverse events, especially nausea, when compared to the incidence associated with either drug administered alone. 	</S>
+<S>Drug/Laboratory Test Interactions: The presence of sulfasalazine or its metabolites in body fluids has not been reported to interfere with laboratory test procedures. 	</S>
+<S>REFERENCES 7.Farr M, et al. 	</S>
+<S>Immunodeficiencies associated with sulphasalazine therapy in inflammatory arthritis. 	</S>
+<S>British Jnl Rheum 1991;30:413-417.    	</S>
+<S>Digoxin: There was a slight increase in the area under the curve (AUC, 11%) and mean peak drug concentration (Cmax, 18%) of digoxin with the co-administration of 100 mg sitagliptin for 10 days. 	</S>
+<S>Patients receiving digoxin should be monitored appropriately. 	</S>
+<S>No dosage adjustment of digoxin or JANUVIA is recommended.	</S>
+<S>While co-administration of ZAVESCA    appeared to increase the clearance of Cerezyme by 70%, these results are not conclusive because of the small number of subjects studied and because patients took variable doses of Cerezyme. 	</S>
+<S>Combination therapy with Cerezyme    (imiglucerase) and ZAVESCA    is not indicated.	</S>
+<S>Methysergide may reverse the analgesic activity of narcotic analgesics. 	</S>
+<S>Concurrent use with vasoconstrictor agents including ergot alkaloids, sumatriptan, and nicotine (e.g. smoking) may result in enhanced vasoconstriction.	</S>
+<S>Interactions for Vitamin B1 (Thiamine):  Loop Diuretics, Oral Contraceptives, Stavudine, Tricyclic Antidepressants	</S>
+<S>Interactions for Vitamin B2 (Riboflavin):  Alcohol - impairs the intestinal absorption of riboflavin	</S>
+<S>Probenecid - concurrent use decreases gastrointestinal absorption of riboflavin; 	</S>
+<S>requirements for riboflavin may be increased in patients receiving probenecid.	</S>
+<S>Mequitazine can interact with CNS depressant, antichlolinergic, TCA, MAOIs, and alcohol.	</S>
+<S>Antacids: Absorption of a single dose of Myfortic was decreased when administered to 12 stable renal transplant patients also taking magnesium-aluminum containing antacids (30 mL): the mean Cmax and AUC(0-t) values for MPA were 25% and 37% lower, respectively, than when Myfortic was administered alone under fasting conditions. 	</S>
+<S>It is recommended that Myfortic and antacids not be administered simultaneously. 	</S>
+<S>Cyclosporine: When studied in stable renal transplant patients, cyclosporine, USP (MODIFIED) pharmacokinetics were unaffected by steady state dosing of Myfortic. 	</S>
+<S>Acyclovir/Ganciclovir: may be taken with Myfortic; 	</S>
+<S>however, during the period of treatment, physicians should monitor blood cell counts. 	</S>
+<S>Both acyclovir/ganciclovir and MPAG concentrations are increased in the presence of renal impairment, their coexistence may compete for tubular secretion and further increase in the concentrations of the two. 	</S>
+<S>Azathioprine/Mycophenolate Mofetil: Given that azathioprine and mycophenolate mofetil inhibit purine metabolism, it is recommended that Myfortic not be administered concomitantly with azathioprine or mycophenolate mofetil. 	</S>
+<S>Cholestyramine and Drugs that Bind Bile Acids: These drugs interrupt enterohepatic recirculation and reduce MPA exposure when coadministered with mycophenolate mofetil. 	</S>
+<S>Therefore, do not administer Myfortic with cholestyramine or other agents that may interfere with enterohepatic recirculation or drugs that may bind bile acids, for example bile acid sequestrates or oral activated charcoal, because of the potential to reduce the efficacy of Myfortic. 	</S>
+<S>Oral Contraceptives: Given the different metabolism of Myfortic and oral contraceptives, no drug interaction between these two classes of drug is expected. 	</S>
+<S>However, in a drug-drug interaction study, mean levonorgesterol AUC was decreased by 15% when coadministered with mycophenolate mofetil. 	</S>
+<S>Therefore, it is recommended that oral contraceptives are co- administered with Myfortic with caution and additional birth control methods be considered. 	</S>
+<S>Live Vaccines: During treatment with Myfortic, the use of live attenuated vaccines should be avoided and patients should be advised that vaccinations may be less effective. 	</S>
+<S>Influenza vaccination may be of value. 	</S>
+<S>Prescribers should refer to national guidelines for influenza vaccination. 	</S>
+<S>Drugs that alter the gastrointestinal flora may interact with Myfortic by disrupting enterohepatic recirculation. 	</S>
+<S>Interference of MPAG hydrolysis may lead to less MPA available for absorption.	</S>
+<S>SPIRIVA has been used concomitantly with other drugs commonly used in COPD without increases in adverse drug reactions. 	</S>
+<S>These include sympathomimetic bronchodilators, methylxanthines, and oral and inhaled steroids. 	</S>
+<S>However, the co   administration of SPIRIVA with other anticholinergic   containing drugs (e.g., ipratropium) has not been studied and is therefore not recommended.	</S>
+<S>Interaction with Other Central Nervous System Depressants: MEPERIDINE SHOULD BE USED WITH GREAT CAUTION AND IN REDUCED DOSAGE IN PATIENTS WHO ARE CONCURRENTLY RECEIVING OTHER NARCOTIC ANALGESICS, GENERAL ANESTHETICS, PHENOTHIAZINES, OTHER TRANQUILIZERS, SEDATIVE-HYPNOTICS (INCLUDING BARBITURATES), TRICYCLIC ANTIDEPRESSANTS AND OTHER CNS DEPRESSANTS (INCLUDING ALCOHOL). 	</S>
+<S>RESPIRATORY DEPRESSION, HYPOTENSION, AND PROFOUND SEDATION OR COMA MAY RESULT.	</S>
+<S>Drug-Drug Interactions: The pharmacokinetic and pharmacodynamic interactions between FLOMAX capsules and other alpha-adrenergic blocking agents have not been determined. 	</S>
+<S>However, interactions may be expected and FLOMAX capsules should NOT be used in combination with other alpha-adrenergic blocking agents. 	</S>
+<S>The pharmacokinetic interaction between cimetidine and FLOMAX capsules was investigated. 	</S>
+<S>The results indicate significant changes in tamsulosin HCI clearance (26% decrease) and AUC (44% increase). 	</S>
+<S>Therefore, FLOMAX capsules should be used with caution in combination with cimetidine, particularly at doses higher than 0.4 mg. 	</S>
+<S>Results from limited in vitro and in vivo drug-drug interaction studies between tamsulosin HCI and warfarin are inconclusive. 	</S>
+<S>Therefore, caution should be exercised with concomitant administration of warfarin and FLOMAX capsules.        	</S>
+<S>Catecholamine-depleting drugs (e.g., reserpine) may have an additive effect when given with beta-blocking agents. 	</S>
+<S>Patients treated with extended release metoprolol succinate plus a catecholamine depletor should therefore be closely observed for evidence of hypotension or marked bradycardia, which may produce vertigo, syncope, or postural hypotension.	</S>
+<S>Concomitant administration contra-indicated:  - Vasoconstrictive ergot alkaloids.  	</S>
+<S>Concomitant administrations not recommended:  - Terfenadine and astemizole: Certain macrolides interact with terfenadine and astemizole leading to increased serum concentrations of the latter. 	</S>
+<S>This may result in severe ventricular arrhythmia, typically torsades de pointe. 	</S>
+<S>Although such a reaction has not been demonstrated with roxithromycin, concomitant administration of roxithromycin with terfenadine or astemizole is not recommended. 	</S>
+<S>- Cisapride, pimozide: Other drugs such as cisapride or pimozide, which are metabolised by hepatic CYP3A isozymes have been associated with QT interval prolongation and/or cardiac arrythmias (typically torsades de pointe) as a result of increase in their serum level subsequent to interaction with significant inhibitors of the isozyme, including some macrolide antibacterials. 	</S>
+<S>Although such a risk is not verified for roxithromycin, combination of roxithromycin with such drugs is not recommended.	</S>
+<S>Cimetidine: The effects of chronic cimetidine use on the metabolism of rimantadine are not known. 	</S>
+<S>When a single 100 mg dose of rimantadine HCl was administered one hour after the initiation of Cimetidine (300 mg four times a day), the apparent total rimantadine clearance of this single dose in normal healthy adults was reduced by 18% (compared to the apparent total rimantadine clearance in the same subjects in the absence of cimetidine). 	</S>
+<S>Acetaminophen: Rimantadine HCl, 100 mg, was given twice daily for 13 days to 12 healthy volunteers. 	</S>
+<S>On day 11, acetaminophen (650 mg four times daily) was started and continued for 8 days. 	</S>
+<S>The pharmacokinetics of rimantadine were assessed on days 11 and 13. 	</S>
+<S>Coadministration with acetaminophen reduced the peak concentration and AUC values for rimantadine by approximately 11%. 	</S>
+<S>Aspirin: Rimantadine HCl, 100 mg, was given twice daily fro 13 days to 12 healthy volunteers. 	</S>
+<S>On day 11, aspirin (650 mg, four times daily) was started and continued for 8 days. 	</S>
+<S>The pharmacokinetics of rimantadine were assessed on days 11 and 13. 	</S>
+<S>Peak plasma concentrations and AUC of rimantadine were reduced approximately 10% in the presence of aspirin.	</S>
+<S>Because tetracyclines have been shown to depress plasma prothrombin activity, patients who are on anticoagulant therapy may require downward adjustment of their anticoagulant dosage. 	</S>
+<S>Since bacteriostatic drugs may interfere with the bactericidal action of penicillin, it is advisable to avoid giving tetracycline class drugs in conjunction with penicillin. 	</S>
+<S>Absorption of tetracyclines is impaired by antacids containing aluminum, calcium or magnesium, and iron-containing preparations. 	</S>
+<S>The concurrent use of tetracycline and methoxyflurane has been reported to result in fatal renal toxicity. 	</S>
+<S>Concurrent use of tetracyclines with oral contraceptives may render oral contraceptives less effective.	</S>
+<S>There have been no formal drug interaction studies performed with HERCEPTIN in humans. 	</S>
+<S>Administration of paclitaxel in combination with HERCEPTIN resulted in a two-fold decrease in HERCEPTIN clearance in a non-human primate study and in a 1.5-fold increase in HERCEPTIN serum levels in clinical studies.	</S>
+<S>The concomitant use of Sanctura with other anticholinergic agents that produce dry mouth, constipation, and other anticholinergic pharmacological effects may increase the frequency and/or severity of such effects. 	</S>
+<S>Anticholinergic agents may potentially alter the absorption of some concomitantly administered drugs due to anticholinergic effects on gastrointestinal motility. 	</S>
+<S>Drugs Eliminated by Active Tubular Secretion: Although studies to assess drug-drug interactions with Sanctura have not been conducted, Sanctura has the potential for pharmacokinetic interactions with other drugs that are eliminated by active tubular secretion (e.g. digoxin, procainamide, pancuronium, morphine, vancomycin, metformin and tenofovir). 	</S>
+<S>Coadministration of Sanctura with drugs that are eliminated by active renal tubular secretion may increase the serum concentration of Sanctura and/or the coadministered drug due to competition for this elimination pathway. 	</S>
+<S>Careful patient monitoring is recommended in patients receiving such drugs. 	</S>
+<S>Drug-Laboratory-Test Interactions Interactions between Sanctura and laboratory tests have not been studied.	</S>
+<S>Caution should be observed in administering DEMSER to patients receiving phenothiazines or haloperidol because the extrapyramidal effects of these drugs can be expected to be potentiated by inhibition of catecholamine synthesis. 	</S>
+<S>Concurrent use of DEMSER with alcohol or other CNS depressants can increase their sedative effects.	</S>
+<S>You cannot take mazindol if you have taken a monoamine oxidase inhibitor (MAOI) such as isocarboxazid (Marplan), tranylcypromine (Parnate), or phenelzine (Nardil) in the last 14 days. 	</S>
+<S>Changes in insulin and other diabetes drug therapies may be necessary during treatment with mazindol.	</S>
+<S>Mazindol may reduce the effects of guanethidine (Ismelin). 	</S>
+<S>This could lead to an increase in blood pressure. 	</S>
+<S>Tell your doctor if you are taking guanethidine. 	</S>
+<S>Before taking this medication, tell your doctor if you are taking a tricyclic antidepressant such as amitriptyline (Elavil), amoxapine (Asendin), doxepin (Sinequan), nortriptyline (Pamelor), imipramine (Tofranil), clomipramine (Anafranil), protriptyline (Vivactil), or desipramine (Norpramin). 	</S>
+<S>These drugs may decrease the effects of mazindol.	</S>
+<S>Mitotane has been reported to accelerate the metabolism of warfarin by the mechanism of hepatic microsomal enzyme induction, leading to an increase in dosage requirements for warfarin. 	</S>
+<S>Therefore, physicians should closely monitor patients for a change in anticoagulant dosage requirements when administering Mitotane to patients on coumarin-type anticoagulants. 	</S>
+<S>In addition, Mitotane should be given with caution to patients receiving other drugs susceptible to the influence of hepatic enzyme induction.	</S>
+<S>Ergot-containing drugs have been reported to cause prolonged vasospastic reactions. 	</S>
+<S>Because there is a theoretical basis that these effects may be additive, use of ergotamine-containing or ergot-type medications (like dihydroergotamine or methysergide) and sumatriptan within 24 hours of each other should be avoided. 	</S>
+<S>MAO-A inhibitors reduce sumatriptan clearance, significantly increasing systemic exposure. 	</S>
+<S>Therefore, the use of sumatriptan succinate tablets in patients receiving MAO-A inhibitors is contraindicated . Selective serotonin reuptake inhibitors (SSRIs) (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline) have been reported, rarely, to cause weakness, hyperreflexia, and incoordination when coadministered with sumatriptan. 	</S>
+<S>If concomitant treatment with sumatriptan and an SSRI is clinically warranted, appropriate observation of the patient is advised.	</S>
+<S>The bioavailability of SKELID is decreased 80% by calcium, when calcium and SKELID are administered at the same time, and 60% by some aluminum- or magnesium-containing antacids, when administered 1 hour before SKELID. 	</S>
+<S>Aspirin may decrease bioavailability of SKELID by up to 50% when taken 2 hours after SKELID. 	</S>
+<S>The bioavailability of SKELID is increased 2-4 fold by indomethacin but is not significantly altered by coadministration of diclofenac. 	</S>
+<S>The pharmacokinetic parameters of digoxin are not significantly modified by SKELID coadministration. 	</S>
+<S>In vitro studies show that tiludronate does not displace warfarin from its binding site on protein.	</S>
+<S>There is usually complete cross-resistance between PURINETHOL (mercaptopurine) and TABLOID brand Thioguanine. 	</S>
+<S>As there is in vitro evidence that aminosalicylate derivatives (e.g., olsalazine, mesalazine, or sulphasalazine) inhibit the TPMT enzyme, they should be administered with caution to patients receiving concurrent thioguanine therapy.    	</S>
+<S>Other eye drops or medications such as acetylcholine chloride (Miochol) and carbachol (Carboptic, Isopto Carbachol) may decrease the effects of suprofen ophthalmic.	</S>
+<S>Vasopressors, particularly metaraminol, may cause serious cardiac arrhythmias during halothane anesthesia and therefore should be used only with great caution or not at all. 	</S>
+<S>MAO Inhibitors: The pressor effect of sympathomimetic pressor amines is markedly potentiated in patients receiving monoamine oxidase inhibitors (MAOI). 	</S>
+<S>Therefore, when initiating pressor therapy in these patients, the initial dose should be small and used with due caution. 	</S>
+<S>The pressor response of adrenergic agents may also be potentiated by tricyclic antidepressants.	</S>
+<S>Paricalcitol is not expected to inhibit the clearance of drugs metabolized by cytochrome P450 enzymes CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 CYP2E1 or CYP3A nor induce the clearance of drugs metabolized by CYP2B6, CYP2C9 or CYP3A. 	</S>
+<S>A multiple dose drug-drug interaction study demonstrated that ketoconazole approximately doubled paricalcitol AUC0-   . Since paricalcitol is partially metabolized by CYP3A and ketoconazole le is known to be a strong inhibitor of cytochrome P450 3A enzyme, care should be taken while dosing paricalcitol with ketoconazole and other strong P450 3A inhibitors including atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin or voriconazole. 	</S>
+<S>Dose adjustment of Zemplar Capsules may be required, and iPTH and serum calcium concentrations should be closely monitored if a patient initiates or discontinues therapy with a strong CYP3A4 inhibitor such as ketoconazole. 	</S>
+<S>Drugs that impair intestinal absorption of fat-soluble vitamins, such as cholestyramine, may interfere with the absorption of Zemplar Capsules.	</S>
+<S>Zidovudine competitively inhibits the intracellular phosphorylation of stavudine. 	</S>
+<S>Therefore, use of zidovudine in combination with ZERIT should be avoided. 	</S>
+<S>In vitro data indicate that the phosphorylation of stavudine is also inhibited at relevant concentrations by doxorubicin and ribavirin. 	</S>
+<S>The clinical significance of these in vitro interactions is unknown; 	</S>
+<S>therefore, concomitant use of stavudine with either of these drugs should be undertaken with caution.	</S>
+<S>No specific cytochrome P450-based drug interaction studies have been conducted. 	</S>
+<S>No pharmacokinetic interaction between 85 mg/m2 ELOXATIN and infusional 5-FU has been observed in patients treated every 2 weeks. 	</S>
+<S>Increases of 5-FU plasma concentrations by approximately 20% have been observed with doses of 130 mg/m2 ELOXATIN dosed every 3 weeks. 	</S>
+<S>Since platinum containing species are eliminated primarily through the kidney, clearance of these products may be decreased by coadministration of potentially nephrotoxic compounds; 	</S>
+<S>although, this has not been specifically studied.	</S>
+<S>CHEMET is not known to interact with other drugs including iron supplements; 	</S>
+<S>interactions have not been systematically studied. 	</S>
+<S>Concomitant administration of CHEMET with other chelation therapy, such as CaNa 2 EDTA is not recommended. 	</S>
+<S>Drug/Laboratory Tests Interaction: Succimer may interfere with serum and urinary laboratory tests. 	</S>
+<S>In vitro studies have shown succimer to cause false positive results for ketones in urine using nitroprusside reagents such as Ketostix    and falsely decreased measurements of serum uric acid and CPK.	</S>
+<S>Thiazide diuretics may accentuate the orthostatic hypotension that may occur with phenothiazines. 	</S>
+<S>Antihypertensive effects of guanethidine and related compounds may be counteracted when phenothiazines are used concomitantly. 	</S>
+<S>Concomitant administration of propranolol with phenothiazines results in increased plasma levels of both drugs.	</S>
+<S>A total of 11 clinical drug-drug interaction studies were conducted in healthy volunteers to evaluate the potential for interaction between MYCAMINE and mycophenolate mofetil, cyclosporine, tacrolimus, prednisolone, sirolimus, nifedipine, fluconazole, ritonavir, and rifampin. 	</S>
+<S>In these studies, no interaction that altered the pharmacokinetics of micafungin was observed. 	</S>
+<S>There was no effect of a single dose or multiple doses of MYCAMINE on mycophenolate mofetil, cyclosporine, tacrolimus, prednisolone, and fluconazole pharmacokinetics. 	</S>
+<S>Sirolimus AUC was increased by 21% with no effect on Cmax in the presence of steady-state MYCAMINE compared with sirolimus alone. 	</S>
+<S>Nifedipine AUC and Cmax were increased by 18% and 42%, respectively, in the presence of steady-state MYCAMINE compared with nifedipine alone. 	</S>
+<S>Patients receiving sirolimus or nifedipine in combination with MYCAMINE should be monitored for sirolimus or nifedipine toxicity and sirolimus or nifedipine dosage should be reduced if necessary. 	</S>
+<S>Micafungin is not an inhibitor of P-glycoprotein and, therefore, would not be expected to alter P-glycoprotein-mediated drug transport activity.    	</S>
+<S>Hypokalemia can sensitize or exaggerate the response of the heart to the toxic effects of digitalis (e.g., increased ventricular irritability). 	</S>
+<S>Hypokalemia may develop during concomitant use of steroids or ACTH. 	</S>
+<S>Insulin requirements in diabetic patients may be increased, decreased, or unchanged. 	</S>
+<S>Thiazides may decrease arterial responsiveness to norepinephrine. 	</S>
+<S>This diminution is not sufficient to preclude effectiveness of the pressor agent for therapeutic use. 	</S>
+<S>Thiazide drugs may increase the responsiveness of tubocurarine. 	</S>
+<S>Lithium renal clearance is reduced by thiazides, increasing the risk of lithium toxicity. 	</S>
+<S>Thiazides may add to or potentiate the action of other antihypertensive drugs. 	</S>
+<S>Potentiation occurs with ganglionic or peripheral adrenergic blocking drugs.	</S>
+<S>Carbidopa/Levodopa: Carbidopa/Levodopa does not influence the pharmacokinetics of pramipexole in healthy volunteers (N= 10). 	</S>
+<S>5 hours. 	</S>
+<S>Selegiline: In healthy volunteers (N= 11), selegiline did not influence the pharmacokinetics of pramipexole. 	</S>
+<S>Amantadine: Population pharmacokinetic analysis suggests that amantadine is unlikely to alter the oral clearance of pramipexole (N= 54). 	</S>
+<S>Cimetidine: Cimetidine, a known inhibitor of renal tubular secretion of organic bases via the cationic transport system, caused a 50% increase in pramipexole AUC and a 40% increase in half-life (N= 12). 	</S>
+<S>Probenecid: Probenecid, a known inhibitor of renal tubular secretion of organic acids via the aruonic transporter, did not noticeably influence pramipexole pharmacokinetics (N= 12). 	</S>
+<S>Other drugs eliminated via renal secretion: Population pharmacokinetic analysis suggests that coadministration of drugs that are secreted by the cationic transport system (e.g., cimetidine, ranitidine, diltiazem, triamterene, verapamil, quinidine, and quinine) decreases the oral clearance of pramipexole by about 20%, while those secreted by the anionic transport system (e.g., cephalosporins, penicillins, indomethacin, hydrochlorothiazide, and chlorpropamide) are likely to have little effect on the oral clearance of pramipexole. 	</S>
+<S>CYP interactions: Inhibitors of cytochrome P450 enzymes would not be expected to affect pramipexole elimination because pramipexole is not appreciably metabolized by these enzymes in vivo or in vitro. 	</S>
+<S>Pramipexole does not inhibit CYP enzymes CYPIA2, CYP2C9, CYP2CI9, CYP2EI, and CYP3A4. 	</S>
+<S>Inhibition of CYP2D6 was observed with an apparent Ki of 30 uM, indicating that pramipexole will not inhibit CYP enzymes at plasma concentrations observed following the highest recommended clinical dose (1.5 mg tid). 	</S>
+<S>Dopamine antagonists: Since pramipexole is a dopamine agonist, it is possible that dopamine antagonists, such as the neuroleptics (phenothiazines, butyrophenones, thioxanthenes) or metoclopramide, may diminish the effectiveness of MIRAPEX. 	</S>
+<S>Drug/ Laboratory Test Interactions There are no known interactions between MIRAPEX and laboratory tests.	</S>
+<S>Do not exceed a 5 mg daily dose of VESIcare when administered with therapeutic doses of ketoconazole or other potent CYP3A4 inhibitors. 	</S>
+<S>Patients with Congenital or Acquired QT Prolongation In a study of the effect of solifenacin on the QT interval in 76 healthy women, the QT prolonging effect appeared less with solifenacin 10 mg than with 30 mg (three times the maximum recommended dose), and the effect of solifenacin 30 mg did not appear as large as that of the positive control moxifloxacin at its therapeutic dose. 	</S>
+<S>This observation should be considered in clinical decisions to prescribe VESIcare for patients with a known history of QT prolongation or patients who are taking medications known to prolong the QT interval.	</S>
+<S>Montelukast at a Dose of 10 mg Once Daily Dosed to Pharmacokinetic Steady State  - did not cause clinically significant changes in the kinetics of a single intravenous dose of theophylline (predominantly a cytochrome P450 1A2 substrate). 	</S>
+<S>- did not change the pharmacokinetic profile of warfarin (a substrate of cytochromes P450 2A6 and 2C9) or influence the effect of a single 30-mg oral dose of warfarin on prothrombin time or the INR (International Normalized Ratio). 	</S>
+<S>- did not change the pharmacokinetic profile or urinary excretion of immunoreactive digoxin. 	</S>
+<S>- did not change the plasma concentration profile of terfenadine (a substrate of cytochrome P450 3A4) or fexofenadine, its carboxylated metabolite, and did not prolong the QTc interval following co-administration with terfenadine 60 mg twice daily. 	</S>
+<S>Montelukast at Doses of    100 mg Daily Dosed to Pharmacokinetic Steady State:  - did not significantly alter the plasma concentrations of either component of an oral contraceptive containing norethindrone 1 mg/ethinyl estradiol 35 mcg. 	</S>
+<S>- did not cause any clinically significant change in plasma profiles of prednisone or prednisolone following administration of either oral prednisone or intravenous prednisolone.  	</S>
+<S>Phenobarbital, which induces hepatic metabolism, decreased the AUC of montelukast approximately 40% following a single 10-mg dose of montelukast. 	</S>
+<S>No dosage adjustment for montelukast is recommended. 	</S>
+<S>It is reasonable to employ appropriate clinical monitoring when potent cytochrome P450 enzyme inducers, such as phenobarbital or rifampin, are co-administered with montelukast. 	</S>
+<S>Montelukast has been administered with other therapies routinely used in the prophylaxis and chronic treatment of asthma with no apparent increase in adverse reactions. 	</S>
+<S>In drug-interaction studies, the recommended clinical dose of montelukast did not have clinically important effects on the pharmacokinetics of the following drugs: theophylline, prednisone, prednisolone, oral contraceptives (norethindrone 1 mg/ethinyl estradiol 35 mcg), terfenadine, digoxin, and warfarin. 	</S>
+<S>Although additional specific interaction studies were not performed, montelukast was used concomitantly with a wide range of commonly prescribed drugs in clinical studies without evidence of clinical adverse interactions. 	</S>
+<S>These medications included thyroid hormones, sedative hypnotics, non-steroidal anti-inflammatory agents, benzodiazepines, and decongestants. 	</S>
+<S>Phenobarbital, which induces hepatic metabolism, decreased the AUC of montelukast approximately 40% following a single 10-mg dose of montelukast. 	</S>
+<S>No dosage adjustment for montelukast is recommended. 	</S>
+<S>It is reasonable to employ appropriate clinical monitoring when potent cytochrome P450 enzyme inducers, such as phenobarbital or rifampin, are co-administered with montelukast.	</S>
+<S>In a pharmacokinetic study of 18 chronic hepatitis C patients concomitantly receiving methadone, treatment with PEG-Intron once weekly for 4 weeks was associated with a mean increase of 16% in methadone AUC; 	</S>
+<S>in 2 out of 18 patients, methadone AUC doubled. 	</S>
+<S>The clinical significance of this finding is unknown; 	</S>
+<S>however, patients should be monitored for the signs and symptoms of increased narcotic effect.	</S>
+<S>As with other drugs, the potential for interaction by a variety of mechanisms (e.g., pharmacodynamic, pharmacokinetic inhibition or enhancement, etc.) 	</S>
+<S>is a possibility. 	</S>
+<S>Drugs Affecting Hepatic Metabolism The metabolism and pharmacokinetics of REMERON SolTab    (mirtazapine) Orally Disintegrating Tablets may be affected by the induction or inhibition of drug-metab-olizing enzymes. 	</S>
+<S>Drugs that are Metabolized by and/or Inhibit Cytochrome P450 Enzymes Many drugs are metabolized by and/or inhibit various cytochrome P450 enzymes, e.g., 2D6, 1A2, 3A4, etc. 	</S>
+<S>In vitro studies have shown that mirtazapine is a substrate for several of these enzymes, including 2D6, 1A2, and 3A4. 	</S>
+<S>While in vitro studies have shown that mirtazapine is not a potent inhibitor of any of these enzymes, an indication that mirtazapine is not likely to have a clinically significant inhibitory effect on the metabolism of other drugs that are substrates for these cytochrome P450 enzymes, the concomitant use of REMERON SolTab with most other drugs metabolized by these enzymes has not been formally studied. 	</S>
+<S>Consequently, it is not possible to make any definitive statements about the risks of coadministration of REMERON SolTab    with such drugs. 	</S>
+<S>Alcohol: Concomitant administration of alcohol (equivalent to 60 g) had a minimal effect on plasma levels of mirtazapine (15 mg) in 6 healthy male subjects. 	</S>
+<S>However, the impairment of cognitive and motor skills produced by REMERON    were shown to be additive with those produced by alcohol. 	</S>
+<S>Accordingly, patients should be advised to avoid alcohol while taking REMERON SolTab. Diazepam: Concomitant administration of diazepam (15 mg) had a minimal effect on plasma levels of mirtazapine (15 mg) in 12 healthy subjects. 	</S>
+<S>However, the impairment of motor skills produced by REMERON has been shown to be additive with those caused by diazepam. 	</S>
+<S>Accordingly, patients should be advised to avoid diazepam and other similar drugs while taking REMERON SolTab.	</S>
+<S>Ketoconazole: Spontaneous adverse reaction reports of patients taking concomitant ketoconazole with recommended doses of terfenadine demonstrate QT interval prolongation and rare serious cardiac events, e.g. 	</S>
+<S>death, cardiac arrest, and ventricular arrhythmia including torsades de pointes. 	</S>
+<S>Pharmacokinetic data indicate that ketoconazole markedly inhibits the metabolism of terfenadine, resulting in elevated plasma terfenadine levels. 	</S>
+<S>Presence of unchanged terfenadine is associated with statistically significant prolongation of the QT and QTc intervals.	</S>
+<S>Concomitant administration of ketoconazole and terfenadine is contraindicated. 	</S>
+<S>Itraconazole: Torsades de pointes and elevated parent terfenadine levels have been reported during concomitant use of terfenadine and itraconazole in clinical trials of itraconazole and from foreign post-marketing sources. 	</S>
+<S>One death has also been reported from foreign post- marketing sources. 	</S>
+<S>Concomitant administration of itraconazole and terfenadine is contraindicated. 	</S>
+<S>Due to the chemical similarity of other azole-type antifungal agents (including fluconazole, metronidazole, and miconazole) to ketoconazole, and itraconazole, concomitant use of these products with terfenadine is not recommended pending full examination of potential interactions. 	</S>
+<S>Macrolides: Clinical drug interaction studies indicate that erythromycin and clarithromycin can exert an effect on terfenadine metabolism by a mechanism which may be similar to that of ketoconazole, but to a lesser extent. 	</S>
+<S>Although erythromycin measurably decreases the clearance of the terfenadine acid metabolite, its influence on terfenadine plasma levels is still under investigation. 	</S>
+<S>A few spontaneous accounts of QT interval prolongation with ventricular arrhythmia including torsades de pointes, have been reported in patients receiving erythromycin or troleandomycin. 	</S>
+<S>Concomitant administration of terfenadine with clarithromycin, erythromycin, or troleandomycin is contraindicated: Pending full characterization of potential interactions, concomitant administration of terfenadine with other macrolide antibiotics, including azithromycin, is not recommended. 	</S>
+<S>Studies to evaluate potential interactions of terfenadine with azithromycin are in progress.	</S>
+<S>Acromegalic patients with diabetes mellitus being treated with insulin and/or oral hypoglycemic agents may require dose reductions of these therapeutic agents after the initiation of therapy with SOMAVERT. 	</S>
+<S>In clinical studies, patients on opioids often needed higher serum pegvisomant concentrations to achieve appropriate IGF-I suppression compared with patients not receiving opioids. 	</S>
+<S>The mechanism of this interaction is not known.	</S>
+<S>ARAMINE should be used with caution in digitalized patients, since the combination of digitalis and sympathomimetic amines may cause ectopic arrhythmias. 	</S>
+<S>Monoamine oxidase inhibitors or tricyclic antidepressants may potentiate the action of sympathomimetic amines. 	</S>
+<S>Therefore, when initiating pressor therapy in patients receiving these drugs, the initial dose should be small and given with caution.	</S>
+<S>Tetracycline, a bacteriostatic antibiotic, may antagonize the bactericidal effect of penicillin and concurrent use of these drugs should be avoided.	</S>
+<S>Concomitant use of alcohol with phentermine hydrochloride may result in an adverse drug interaction.	</S>
+<S>AGGRASTAT has been studied on a background of aspirin and heparin. 	</S>
+<S>The use of AGGRASTAT, in combination with heparin and aspirin, has been associated with an increase in bleeding compared to heparin and aspirin alone (see	</S>
+<S>Drug Interactions: Inhibitors of CYP3A4 Isozymes: Caution is advised when midazolam is administered concomitantly with drugs that are known to inhibit the cytochrome P450 3A4 enzyme system (ie, some drugs in the drug classes of azole antimycotics, protease inhibitors, calcium channel antagonists, and macrolide antibiotics). 	</S>
+<S>Drugs such as erythromycin, diltiazem, verapamil, ketoconazole, fluconazole and itraconazole were shown to significantly increase the C max and AUC of orally administered midazolam. 	</S>
+<S>These drug interactions may result in increased and prolonged sedation due to a decrease in plasma clearance of midazolam. 	</S>
+<S>Although not studied, the potent cytochrome P450 3A4 inhibitors ritonavir and nelfinavir may cause intense and prolonged sedation and respiratory depression due to a decrease in plasma clearance of midazolam. 	</S>
+<S>Caution is advised when VERSED Syrup is used concomitantly with these drugs. 	</S>
+<S>Dose adjustments should be considered and possible prolongation and intensity of effect should be anticipated. 	</S>
+<S>Inducers of CYP3A4 Isozymes: Cytochrome P450 inducers, such as rifampin, carbamazepine, and phenytoin, induce metabolism and caused a markedly decreased C max and AUC of oral midazolam in adult studies. 	</S>
+<S>Although clinical studies have not been performed, phenobarbital is expected to have the same effect. 	</S>
+<S>Caution is advised when administering VERSED Syrup to patients receiving these medications and if necessary dose adjustments should be considered. 	</S>
+<S>The difficulty in achieving adequate sedation may have been the result of decreased absorption of the sedatives due to both the gastrointestinal effects and stimulant effects of methylphenidate. 	</S>
+<S>The sedative effect of VERSED Syrup is accentuated by any concomitantly administered medication which depresses the central nervous system, particularly narcotics (eg, morphine, meperidine and fentanyl), propofol, ketamine, nitrous oxide, secobarbital and droperidol. 	</S>
+<S>Consequently, the dose of VERSED Syrup should be adjusted according to the type and amount of concomitant medications administered and the desired clinical response. 	</S>
+<S>No significant adverse interactions with common premedications (such as atropine, scopolamine, glycopyrrolate, diazepam, hydroxyzine, and other muscle relaxants) or local anesthetics have been observed.	</S>
+<S>The concomitant use of other CNS depressants including sedatives, hypnotics, tranquilizers, general anesthetics, phenothiazines, other opioids, tricyclic antidepressants, monoamine oxidase (MAO) inhibitors, and alcohol may produce additive CNS depressant effects. 	</S>
+<S>When such combined therapy is contemplated, the dose of one or both agents should be reduced. 	</S>
+<S>Anticholinergics or other medications with anticholinergic activity when used concurrently with opioid analgesics may result in increased risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. 	</S>
+<S>It has been reported that the incidence of bradycardia was increased when oxymorphone was combined with propofol for induction of anesthesia. 	</S>
+<S>In addition, CNS toxicity has been reported (confusion, disorientation, respiratory depression, apnea, seizures) following coadministration of cimetidine with opioid analgesics; 	</S>
+<S>no clear-cut cause and effect relationship was established.	</S>
+<S>Dosages of concomitantly administered opioids should be reduced by approximately half, because levomepromazine amplifies the therapeutic actions and side-effects of opioids. 	</S>
+<S>Combination with tramadol (Ultram) is associated with increased risk of seizures. 	</S>
+<S>Additive sedative effects and confusional states may emerge if levomepromazine is given with benzodiazepines or barbiturates. 	</S>
+<S>This may be avoided by using the lowest dose possible with the substances in question. 	</S>
+<S>Exert particular caution in combining levomepromazine with other anticholinergic drugs (tricyclic antidepressants and antiparkinsonian-agents): Particularly the elderly may develop delirium, high fever, severe obstipation, even ileus and glaucoma. 	</S>
+<S>Reduce both the dose of levomepromazine and the dose of the other drug. 	</S>
+<S>If possible, avoid such combinations. 	</S>
+<S>Caffeine and/or stimulantes of the ephedrine/amphetamine type may counteract the specific actions of levomepromazine. 	</S>
+<S>Concomitant use of these substances should be avoided. 	</S>
+<S>Coffee and black tea should be avoided because they decrease the absorption of levomepromazine considerably. 	</S>
+<S>The same is true for antacids; 	</S>
+<S>these should be given 1 to 2 hours before or after oral administration of leveomepromazine.	</S>
+<S>Usage with Alcohol: Due to the potential for increased CNS depressants effects, alcohol should be used with caution in patients who are currently receiving pentazocine.	</S>
+<S>The CNS depressant effects of oxycodone hydrochloride may be additive with that of other CNS depressants..	</S>
+<S>Limited evidence suggests that ascorbic acid may influence the intensity and duration of action of bishydroxycoumarin.	</S>
+<S>Alcohol: In a multiple-dose study in 30 normal weight subjects, coadministration of XENICAL and 40 grams of alcohol (e.g., approximately 3 glasses of wine) did not result in alteration of alcohol pharmacokinetics, orlistat pharmacodynamics (fecal fat excretion), or systemic exposure to orlistat. 	</S>
+<S>Cyclosporine: Preliminary data from a XENICAL and cyclosporine drug interaction study indicate a reduction in cyclosporine plasma levels when XENICAL was coadministered with cyclosporine. 	</S>
+<S>Digoxin: In 12 normal-weight subjects receiving XENICAL 120 mg three times a day for 6 days, XENICAL did not alter the pharmacokinetics of a single dose of digoxin. 	</S>
+<S>Fat-soluble Vitamin Supplements and Analogues: A pharmacokinetic interaction study showed a 30% reduction in beta-carotene supplement absorption when concomitantly administered with XENICAL. 	</S>
+<S>XENICAL inhibited absorption of a vitamin E acetate supplement by approximately 60%. 	</S>
+<S>The effect of orlistat on the absorption of supplemental vitamin D, vitamin A, and nutritionally-derived vitamin K is not known at this time. 	</S>
+<S>Glyburide: In 12 normal-weight subjects receiving orlistat 80 mg three times a day for 5 days, orlistat did not alter the pharmacokinetics or pharmacodynamics (blood glucose-lowering) of glyburide. 	</S>
+<S>Nifedipine (extended-release tablets): In 17 normal-weight subjects receiving XENICAL 120 mg three times a day for 6 days, XENICAL did not alter the bioavailability of nifedipine (extended-release tablets). 	</S>
+<S>Oral Contraceptives: In 20 normal-weight female subjects, the treatment of XENICAL 120 mg three times a day for 23 days resulted in no changes in the ovulation-suppressing action of oral contraceptives. 	</S>
+<S>Phenytoin: In 12 normal-weight subjects receiving XENICAL 120 mg three times a day for 7 days, XENICAL did not alter the pharmacokinetics of a single 300-mg dose of phenytoin. 	</S>
+<S>Pravastatin: In a 2-way crossover study of 24 normal-weight, mildly hypercholesterolemic patients receiving XENICAL 120 mg three times a day for 6 days, XENICAL did not affect the pharmacokinetics of pravastatin. 	</S>
+<S>Warfarin: In 12 normal-weight subjects, administration of XENICAL 120 mg three times a day for 16 days did not result in any change in either warfarin pharmacokinetics (both R- and S-enantiomers) or pharmacodynamics (prothrombin time and serum Factor VII). 	</S>
+<S>Although undercarboxylated osteocalcin, a marker of vitamin K nutritional status, was unaltered with XENICAL administration, vitamin K levels tended to decline in subjects taking XENICAL. 	</S>
+<S>Therefore, as vitamin K absorption may be decreased with XENICAL, patients on chronic stable doses of warfarin who are prescribed XENICAL should be monitored closely for changes in coagulation parameters.	</S>
+<S>Probenecid competes with meropenem for active tubular secretion and thus inhibits the renal excretion of meropenem. 	</S>
+<S>This led to statistically significant increases in the elimination half-life (38%) and in the extent of systemic exposure (56%). 	</S>
+<S>Therefore, the coadministration of probenecid with meropenem is not recommended. 	</S>
+<S>There is evidence that meropenem may reduce serum levels of valproic acid to subtherapeutic levels (therapeutic range considered to be 50 to 100    g/mL total valproate).	</S>
+<S>Ondansetron does not itself appear to induce or inhibit the cytochrome P-450 drug-metabolizing enzyme system of the liver. 	</S>
+<S>Because ondansetron is metabolized by hepatic cytochrome P-450 drug-metabolizing enzymes (CYP3A4, CYP2D6, CYP1A2), inducers or inhibitors of these enzymes may change the clearance and, hence, the half-life of ondansetron. 	</S>
+<S>On the basis of limited available data, no dosage adjustment is recommended for patients on these drugs.  	</S>
+<S>Phenytoin, Carbamazepine, and Rifampicin: In patients treated with potent inducers of CYP3A4 (i.e., phenytoin, carbamazepine, and rifampicin), the clearance of ondansetron was significantly increased and ondansetron blood concentrations were decreased. 	</S>
+<S>However, on the basis of available data, no dosage adjustment for ondansetron is recommended for patients on these drugs.1,3  Tramadol: Although no pharmacokinetic drug interaction between ondansetron and tramadol has been observed, data from 2 small studies indicate that ondansetron may be associated with an increase in patient controlled administration of tramadol.4,5  Chemotherapy: Tumor response to chemotherapy in the P 388 mouse leukemia model is not affected by ondansetron. 	</S>
+<S>In humans, carmustine, etoposide, and cisplatin do not affect the pharmacokinetics of ondansetron.  	</S>
+<S>In a crossover study in 76 pediatric patients, I.V. 	</S>
+<S>ondansetron did not increase blood levels of high-dose methotrexate.	</S>
+<S>CYP3A4 Inhibitors: Ketoconazole, an inhibitor of the drug metabolizing enzyme CYP3A4, significantly increased plasma concentrations of tolterodine when coadministered to subjects who were poor metabolizers (see CLINICAL PHARMACOLOGY, Variability in Metabolism and Drug-Drug Interactions). 	</S>
+<S>For patients receiving ketoconazole or other potent CYP3A4 inhibitors such as other azole antifungals (eg, itraconazole, miconazole) or macrolide antibiotics (eg, erythromycin, clarithromycin) or cyclosporine or vinblastine, the recommended dose of DETROL LA is 2 mg daily. 	</S>
+<S>Drug-Laboratory-Test Interactions Interactions between tolterodine and laboratory tests have not been studied.	</S>
+<S>Since trimetrexate is metabolized by a P450 enzyme system, drugs that induce or inhibit this drug metabolizing enzyme system may elicit important drug-drug interactions that may alter trimetrexate plasma concentrations. 	</S>
+<S>Agents that might be coadministered with trimetrexate in AIDS patients for other indications that could elicit this activity include erythromycin, rifampin, rifabutin, ketoconazole, and fluconazole. 	</S>
+<S>In vitro perfusion of isolated rat liver has shown that cimetidine caused a significant reduction in trimetrexate metabolism and that acetaminophen altered the relative concentration of trimetrexate metabolites possibly by competing for sulfate metabolites. 	</S>
+<S>Based on an in vitro rat liver model, nitrogen substituted imidazole drugs (clotrimazole, ketoconazole, miconazole) were potent, non-competitive inhibitors of trimetrexate metabolism. 	</S>
+<S>Patients medicated with these drugs and trimetrexate should be carefully monitored.	</S>
+<S>Coumarin-Derivative Anticoagulants: Prolongation of prothrombin time (PT) and International Normalized Ratio (INR) were observed in patients receiving ZOLINZA concomitantly with coumarin-derivative anticoagulants. 	</S>
+<S>Physicians should carefully monitor PT and INR in patients concurrently administered ZOLINZA and coumarin derivatives. 	</S>
+<S>Other HDAC Inhibitors Severe thrombocytopenia and gastrointestinal bleeding have been reported with concomitant use of ZOLINZA and other HDAC inhibitors (e.g., valproic acid). 	</S>
+<S>Monitor platelet count every 2 weeks for the first 2 months.	</S>
+<S>Nasal Spray: Formal studies designed to evaluate drug interactions with Calcitonin (salmon) have not been done. 	</S>
+<S>No drug interaction studies have been performed with Calcitonin (salmon) nasal spray ingredients. 	</S>
+<S>Currently, no drug interactions with Calcitonin (salmon) have been observed. 	</S>
+<S>The effects of prior use of diphosphonates in postmenopausal osteoporosis patients have not been assessed; 	</S>
+<S>however, in patients with Paget's Disease prior diphosphonate use appears to reduce the anti-resorptive response to Calcitonin (salmon) nasal spray.	</S>
+<S>The absorption of oral medications may be decreased during the concurrent use of scopolamine because of decreased gastric motility and delayed gastric emptying. 	</S>
+<S>Scopolamine should be used with care in patients taking other drugs that are capable of causing CNS effects such as sedatives, tranquilizers, or alcohol. 	</S>
+<S>Special attention should be paid to potential interactions with drugs having anticholinergic properties; 	</S>
+<S>e.g., other belladonna alkaloids, antihistamines (including meclizine), tricyclic antidepressants, and muscle relaxants. 	</S>
+<S>Laboratory Test Interactions Scopolamine will interfere with the gastric secretion test.	</S>
+<S>Formal interaction studies of TNKase with other drugs have not been performed. 	</S>
+<S>Patients studied in clinical trials of TNKase were routinely treated with heparin and aspirin. 	</S>
+<S>Anticoagulants (such as heparin and vitamin K antagonists) and drugs that alter platelet function (such as acetylsalicylic acid, dipyridamole, and GP IIb/IIIa inhibitors) may increase the risk of bleeding if administered prior to, during, or after TNKase therapy. 	</S>
+<S>Drug/Laboratory Test Interactions During TNKase therapy, results of coagulation tests and/or measures of fibrinolytic activity may be unreliable unless specific precautions are taken to prevent in vitro artifacts. 	</S>
+<S>Tenecteplase is an enzyme that, when present in blood in pharmacologic concentrations, remains active under in vitro conditions. 	</S>
+<S>This can lead to degradation of fibrinogen in blood samples removed for analysis.	</S>
+<S>Trilostane may interact with aminoglutethimide or mitotane (causing too great a decrease in adrenal function).	</S>
+<S>Although MIVACRON (a mixture of three stereoisomers) has been administered safely following succinylcholine-facilitated tracheal intubation, the interaction between MIVACRON and succinylcholine has not been systematically studied. 	</S>
+<S>Prior administration of succinylcholine can potentiate the neuromuscular blocking effects of nondepolarizing agents. 	</S>
+<S>Evidence of spontaneous recovery from succinylcholine should be observed before the administration of MIVACRON. 	</S>
+<S>The use of MIVACRON before succinylcholine to attenuate some of the side effects of succinylcholine has not been studied. 	</S>
+<S>There are no clinical data on the use of MIVACRON with other nondepolarizing neuromuscular blocking agents. 	</S>
+<S>Isoflurane and enflurane (administered with nitrous oxide/oxygen to achieve 1.25 M.C. 	</S>
+<S>decrease the ED50 of MIVACRON by as much as 25% (see CLINICAL PHARMACOLOGY: Pharmacodynamics and Individualization of Dosages). 	</S>
+<S>These agents may also prolong the clinically effective duration of action and decrease the average infusion requirement of MIVACRON by as much as 35% to 40%. 	</S>
+<S>A greater potentiation of the neuromuscular blocking effects of MIVACRON may be expected with higher concentrations of enflurane or isoflurane. 	</S>
+<S>Halothane has little or no effect on the ED50 , but may prolong the duration of action and decrease the average infusion requirement by as much as 20%. 	</S>
+<S>Other drugs which may enhance the neuromuscular blocking action of nondepolarizing agents such as MIVACRON include certain antibiotics (e.g., aminoglycosides, tetracyclines, bacitracin, polymyxins, lincomycin, clindamycin, colistin, and sodium colistimethate), magnesium salts, lithium, local anesthetics, procainamide, and quinidine. 	</S>
+<S>The neuromuscular blocking effect of MIVACRON may be enhanced by drugs that reduce plasma cholinesterase activity (e.g., chronically administered oral contraceptives, glucocorticoids, or certain monoamine oxidase inhibitors) or by drugs that irreversibly inhibit plasma cholinesterase . Resistance to the neuromuscular blocking action of nondepolarizing neuromuscular blocking agents has been demonstrated in patients chronically administered phenytoin or carbamazepine. 	</S>
+<S>While the effects of chronic phenytoin or carbamazepine therapy on the action of MIVACRON are unknown, slightly shorter durations of neuromuscular block may be anticipated and infusion rate requirements may be higher. 	</S>
+<S>Some drug interactions are:  - birth control pills - corticosteroids - medicines for angina or high blood pressure - medicines for pain - medicines to control seizures such as phenytoin or carbamazepine - certain antibiotics given by injection - cisplatin - edrophonium - neostigmine - polymyxin B or bacitracin - local anesthetics such as procaine - general anesthetics - succinylcholine or other muscle relaxants	</S>
+<S>Clinically or potentially significant drug interactions between DIFLUCAN and the following agents/classes have been observed. 	</S>
+<S>These are described in greater detail below: DIFLUCAN and the following agents/classes have been observed. 	</S>
+<S>These are described in greater detail below:  Oral hypoglycemics, Coumarin-type anticoagulants, Phenytoin, Cyclosporine, Rifampin, Theophylline, Terfenadine, Cisapride, Astemizole, Rifabutin, Tacrolimus, Short-acting benzodiazepines,  Oral hypoglycemics: Clinically significant hypoglycemia may be precipitated by the use of DIFLUCAN with oral hypoglycemic agents; 	</S>
+<S>one fatality has been reported from hypoglycemia in association with combined DIFLUCAN and glyburide use. 	</S>
+<S>DIFLUCAN reduces the metabolism of tolbutamide, glyburide, and glipizide and increases the plasma concentration of these agents. 	</S>
+<S>When DIFLUCAN is used concomitantly with these or other sulfonylurea oral hypoglycemic agents, blood glucose concentrations should be carefully monitored and the dose of the sulfonylurea should be adjusted as necessary. 	</S>
+<S>Coumarin-type anticoagulants: Prothrombin time may be increased in patients receiving concomitant DIFLUCAN and coumarin-type anticoagulants. 	</S>
+<S>In post-marketing experience, as with other azole antifungals, bleeding events (bruising, epistaxis, gastrointestinal bleeding, hematuria, and melena) have been reported in association with increases in prothrombin time in patients receiving fluconazole concurrently with warfarin. 	</S>
+<S>Careful monitoring of prothrombin time in patients receiving DIFLUCAN and coumarin-type anticoagulants is recommended. 	</S>
+<S>(See amp38lt;a href= amp38quot;flucon_cp.htm#CPamp38quot;sup62CLINICAL PHARMACOLOGY: Drug Interaction Studies.) 	</S>
+<S>Phenytoin: DIFLUCAN increases the plasma concentrations of phenytoin. 	</S>
+<S>Careful monitoring of phenytoin concentrations in patients receiving DIFLUCAN and phenytoin is recommended. 	</S>
+<S>(See amp38lt;a href= amp38quot;flucon_cp.htm#CPamp38quot;sup62CLINICAL PHARMACOLOGY: Drug Interaction Studies.) 	</S>
+<S>Cyclosporine: DIFLUCAN may significantly increase cyclosporine levels in renal transplant patients with or without renal impairment. 	</S>
+<S>Careful monitoring of cyclosporine concentrations and serum creatinine is recommended in patients receiving DIFLUCAN and cyclosporine. 	</S>
+<S>(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.) 	</S>
+<S>Rifampin: Rifampin enhances the metabolism of concurrently administered DIFLUCAN. 	</S>
+<S>Depending on clinical circumstances, consideration should be given to increasing the dose of DIFLUCAN when it is administered with rifampin. 	</S>
+<S>Theophylline: DIFLUCAN increases the serum concentrations of theophylline. 	</S>
+<S>Careful monitoring of serum theophylline concentrations in patients receiving DIFLUCAN and theophylline is recommended. 	</S>
+<S>Terfenadine: Because of the occurrence of serious cardiac dysrhythmias secondary to prolongation of the QTc interval in patients receiving azole antifungals in conjunction with terfenadine, interaction studies have been performed. 	</S>
+<S>One study at a 200-mg daily dose of fluconazole failed to demonstrate a prolongation in QTc interval. 	</S>
+<S>Another study at a 400-mg and 800-mg daily dose of fluconazole demonstrated that DIFLUCAN taken in doses of 400 mg per day or greater significantly increases plasma levels of terfenadine when taken concomitantly. 	</S>
+<S>The combined use of fluconazole at doses of 400 mg or greater with terfenadine is contraindicated. 	</S>
+<S>The coadministration of fluconazole at doses lower than 400 mg/day with terfenadine should be carefully monitored. 	</S>
+<S>Cisapride: There have been reports of cardiac events, including torsade de pointes in patients to whom fluconazole and cisapride were coadministered. 	</S>
+<S>A controlled study found that concomitant fluconazole 200 mg once daily and cisapride 20 mg four times a day yielded a significant increase in cisapride plasma levels and prolongation of QTc interval.	</S>
+<S>The combined use of fluconazole with cisapride is contraindicated. 	</S>
+<S>Astemizole: The use of fluconazole in patients concurrently taking astemizole or other drugs metabolized by the cytochrome P450 system may be associated with elevations in serum levels of these drugs. 	</S>
+<S>In the absence of definitive information, caution should be used when coadministering fluconazole. 	</S>
+<S>Patients should be carefully monitored. 	</S>
+<S>Rifabutin: There have been reports of uveitis in patients to whom fluconazole and rifabutin were coadministered. 	</S>
+<S>Patients receiving rifabutin and fluconazole concomitantly should be carefully monitored. 	</S>
+<S>Tacrolimus: There have been reports of nephrotoxicity in patients to whom fluconazole and tacrolimus were coadministered. 	</S>
+<S>Patients receiving tacrolimus and fluconazole concomitantly should be carefully monitored. 	</S>
+<S>Short-acting Benzodiazepines: Following oral administration of midazolam, fluconazole resulted in substantial increases in midazolam concentrations and psychomotor effects. 	</S>
+<S>This effect on midazolam appears to be more pronounced following oral administration of fluconazole than with fluconazole administered intravenously. 	</S>
+<S>If short-acting benzodiazepines, which are metabolized by the cytochrome P450 system, are concomitantly administered with fluconazole, consideration should be given to decreasing the benzodiazepine dosage, and the patients should be appropriately monitored. 	</S>
+<S>Fluconazole tablets coadministered with ethinyl estradiol- and levonorgestrel-containing oral contraceptives produced an overall mean increase in ethinyl estradiol and levonorgestrel levels; 	</S>
+<S>however, in some patients there were decreases up to 47% and 33% of ethinyl estradiol and levonorgestrel levels. 	</S>
+<S>The data presently available indicate that the decreases in some individual ethinyl estradiol and levonorgestrel AUC values with fluconazole treatment are likely the result of random variation. 	</S>
+<S>While there is evidence that fluconazole can inhibit the metabolism of ethinyl estradiol and levonorgestrel, there is no evidence that fluconazole is a net inducer of ethinyl estradiol or levonorgestrel metabolism. 	</S>
+<S>The clinical significance of these effects is presently unknown. 	</S>
+<S>Physicians should be aware that interaction studies with medications other than those listed in the amp38lt;a href= amp38quot;flucon_cp.htm#CPamp38quot;amp38gt;CLINICAL PHARMACOLOGY section have not been conducted, but such interactions may occur.	</S>
+<S>The interaction of Streptase, Streptokinase, with other drugs has not been well studied. 	</S>
+<S>Use of Anticoagulants and Antiplatelet Agents -- Streptase, Streptokinase, alone or in combination with antiplatelet agents and anticoagulants, may cause bleeding complications. 	</S>
+<S>Therefore, careful monitoring is advised. 	</S>
+<S>In the treatment of acute MI, aspirin, when not otherwise contraindicated, should be administered with Streptokinase ( see below ). 	</S>
+<S>Anticoagulation and Antiplatelets After Treatment for Myocardial Infarction -- In the treatment of acute myocardial infarction, the use of aspirin has been shown to reduce the incidence of reinfarction and stroke. 	</S>
+<S>The addition of aspirin to Streptokinase causes a minimal increase in the risk of minor bleeding (3.9% vs. 3.1%), but does not appear to increase the incidence of major bleeding (see	</S>
+<S>When methyldopa is used with other antihypertensive drugs, potentiation of antihypertensive effect may occur. 	</S>
+<S>Patients should be followed carefully to detect side reactions or unusual manifestations of drug idiosyncrasy. 	</S>
+<S>Patients may require reduced doses of anesthetics when on methyldopa. 	</S>
+<S>If hypotension does occur during anesthesia, it usually can be controlled by vasopressors. 	</S>
+<S>The adrenergic receptors remain sensitive during treatment with methyldopa. 	</S>
+<S>When methyldopa and lithium are given concomitantly the patient should be carefully monitored for symptoms of lithium toxicity. 	</S>
+<S>Read the circular for lithium preparations. 	</S>
+<S>Several studies demonstrate a decrease in the bioavailability of methyldopa when it is ingested with ferrous sulfate or ferrous gluconate. 	</S>
+<S>This may adversely affect blood pressure control in patients treated with methyldopa. 	</S>
+<S>Coadministration of methyldopa with ferrous sulfate or ferrous gluconate is not recommended. 	</S>
+<S>Monoamine oxidase (MAO) inhibitors: See CONTRAINDICATIONS. 	</S>
+<S>Drug/Laboratory Test Interactions Methyldopa may interfere with measurement of: urinary uric acid by the phosphotungstate method, serum creatinine by the alkaline picrate method, and SGOT by colorimetric methods. 	</S>
+<S>Interference with spectrophotometric methods for SGOT analysis has not been reported. 	</S>
+<S>Since methyldopa causes fluorescence in urine samples at the same wave lengths as catecholamines, falsely high levels of urinary catecholamines may be reported. 	</S>
+<S>This will interfere with the diagnosis of pheochromocytoma. 	</S>
+<S>It is important to recognize this phenomenon before a patient with a possible pheochromocytoma is subjected to surgery. 	</S>
+<S>Methyldopa does not interfere with measurement of VMA (vanillylmandelic acid), a test for pheochromocytoma, by those methods which convert VMA to vanillin. 	</S>
+<S>Methyldopa is not recommended for the treatment of patients with pheochromocytoma. 	</S>
+<S>Rarely, when urine is exposed to air after voiding, it may darken because of breakdown of methyldopa or its metabolites.    	</S>
+<S>Anticholinesterases: Concurrent use of procaine hydrochloride and anticholinesterase agents may result in increased systemic toxicity since anticholinesterases inhibit the breakdown of procaine hydrochloride. 	</S>
+<S>Antimyasthenics Concurrent use of procaine hydrochloride and antimyasthenics may result in loss of control of symptoms of myasthenia gravis due to antagonism of the effects of antimyasthenics on skeletal muscle. 	</S>
+<S>Temporary dosage adjustment of antimyasthenics may be required. 	</S>
+<S>Also antimyasthenics may have anticholinesterase activity. 	</S>
+<S>CNS depressant medications: Concurrent use of procaine hydrochloride and CNS depressant medications may result in additive depressant effects. 	</S>
+<S>Hyaluronidase: Hyaluronidase may increase the diffusion rate of procaine hydrochloride, resulting in a decreased time of onset, but an increase in systemic toxicity. 	</S>
+<S>Neuromuscular blocking agents (such as suxamethonium chloride): Concurrent use of procaine hydrochloride and neuromuscular blocking agents may result in prolongation or enhancement of the neuromuscular blockade. 	</S>
+<S>Sulfonamides: Concurrent use of procaine hydrochloride and sulfonamides may result in a reduction of the antibacterial action of the sulfonamide. 	</S>
+<S>Acetazolamide: Concurrent use of acetazolamide and procaine hydrochloride may extend the plasma half-life of procaine.	</S>
+<S>Diuretics: Patients on diuretics, and especially those started recently, may occasionally experience an excessive reduction of blood pressure after initiation of ACEON    Tablets therapy. 	</S>
+<S>The possibility of hypotensive effects can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with perindopril. 	</S>
+<S>If diuretics cannot be interrupted, close medical supervision should be provided with the first dose of ACEON    Tablets, for at least two hours and until blood pressure has stabilized for another hour. 	</S>
+<S>The rate and extent of perindopril absorption and elimination are not affected by concomitant diuretics. 	</S>
+<S>The bioavailability of perindoprilat was reduced by diuretics, however, and this was associated with a decrease in plasma ACE inhibition. 	</S>
+<S>Potassium Supplements and Potassium-Sparing Diuretics: ACEON    Tablets may increase serum potassium because of its potential to decrease aldosterone production. 	</S>
+<S>Use of potassium-sparing diuretics (spironolactone, amiloride, triamterene and others), potassium supplements or other drugs capable of increasing serum potassium (indomethacin, heparin, cyclosporine and others) can increase the risk of hyperkalemia. 	</S>
+<S>Therefore, if concomitant use of such agents is indicated, they should be given with caution and the patient's serum potassium should be monitored frequently. 	</S>
+<S>Lithium: Increased serum lithium and symptoms of lithium toxicity have been reported in patients receiving concomitant lithium and ACE inhibitor therapy. 	</S>
+<S>These drugs should be coadministered with caution and frequent monitoring of serum lithium concentration is recommended. 	</S>
+<S>Use of a diuretic may further increase the risk of lithium toxicity. 	</S>
+<S>Digoxin: A controlled pharmacokinetic study has shown no effect on plasma digoxin concentrations when coadministered with ACEON    Tablets, but an effect of digoxin on the plasma concentration of perindopril/perindoprilat has not been excluded. 	</S>
+<S>Gentamicin: Animal data have suggested the possibility of interaction between perindopril and gentamicin. 	</S>
+<S>However, this has not been investigated in human studies. 	</S>
+<S>Coadministration of both drugs should proceed with caution. 	</S>
+<S>Food Interaction: Oral administration of ACEON    Tablets with food does not significantly lower the rate or extent of perindopril absorption relative to the fasted state. 	</S>
+<S>However, the extent of biotransformation of perindopril to the active metabolite, perindoprilat, is reduced approximately 43%, resulting in a reduction in the plasma ACE inhibition curve of approximately 20%, probably clinically insignificant. 	</S>
+<S>In clinical trials, perindopril was generally administered in a non-fasting state.        	</S>
+<S>Vindesine can interact with the drugs of the following categories:  - Blood dyscrasia: can cause unpredictable myelotoxicity - Bone marrow depressants: can cause a predictable dose-related myelotoxicity - Radiation therapy: may cause marrow depression - Neurotoxic medications: can cause neurologic toxicity - Phenytoin: can increase seizure activity - Live virus vaccines: may potentiate the replication of the vaccine virus, may increase the side effects of the vaccination, and decrease patient's response to the vaccine - Mitomycin-C: may cause shortness of breath and bronchospasm - Killed virus vaccines: may decrease patient's response to the vaccine	</S>
+<S>Posicor inhibits some of the liver's ability to metabolize some other drugs - terfenadine, astemizole, cisapride, cyclosporine, and tricyclic antidepressants. 	</S>
+<S>Thus the concentrations of these drugs would increase meaning side effects may be seen. 	</S>
+<S>A dose adjustment may be required.	</S>
+<S>The concomitant use of oxybutynin with other anticholinergic drugs or with other agents which produce dry mouth, constipation, somnolence (drowsiness), and/or other anticholinergic-like effects may increase the frequency and/or severity of such effects. 	</S>
+<S>Anticholinergic agents may potentially alter the absorption of some concomitantly administered drugs due to anticholinergic effects on gastrointestinal motility. 	</S>
+<S>This may be of concern for drugs with a narrow therapeutic index. 	</S>
+<S>Mean oxybutynin chloride plasma concentrations were approximately 2 fold higher when DITROPAN XL was administered with ketoconazole, a potent CYP3A4 inhibitor. 	</S>
+<S>Other inhibitors of the cytochrome P450 3A4 enzyme system, such as antimycotic agents (e.g., itraconazole and miconazole) or macrolide antibiotics (e.g., erythromycin and clarithromycin), may alter oxybutynin mean pharmacokinetic parameters (i.e., Cmax and AUC). 	</S>
+<S>The clinical relevance of such potential interactions is not known. 	</S>
+<S>Caution should be used when such drugs are co-administered. 	</S>
+<S>Concurrent ingestion of antacid (20 mL of antacid containing aluminum hydroxide, magnesium hydroxide, and simethicone) did not significantly affect the exposure of oxybutynin or desethyloxybutynin.    	</S>
+</Sentences>

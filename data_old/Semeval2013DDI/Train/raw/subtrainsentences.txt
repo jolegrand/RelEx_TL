@@ -1,0 +1,1007 @@
+The concomitant intake of alcohol and Acamprosate does not affect the pharmacokinetics of either alcohol or acamprosate.	
+Pharmacokinetic studies indicate that administration of disulfiram or diazepam does not affect the pharmacokinetics of acamprosate.	
+Co-administration of naltrexone with Acamprosate produced a 25% increase in AUC and a 33% increase in the Cmax of acamprosate.	
+No adjustment of dosage is recommended in such patients.	
+The pharmacokinetics of naltrexone and its major metabolite 6-beta-naltrexol were unaffected following co-administration with Acamprosate.	
+Other concomitant therapies: In clinical trials, the safety profile in subjects treated with Acamprosate concomitantly with anxiolytics, hypnotics and sedatives (including benzodiazepines), or non-opioid analgesics was similar to that of subjects taking placebo with these concomitant medications.	
+Patients taking Acamprosate concomitantly with antidepressants more commonly reported both weight gain and weight loss, compared with patients taking either medication alone.	
+Drug interactions between NEUPOGEN  and other drugs have not been fully evaluated.	
+Drugs which may potentiate the release of neutrophils, such as lithium, should be used with caution.	
+PROSTIN E2 may augment the activity of other oxytocic drugs.	
+Concomitant use with other oxytocic agents is not recommended.	
+Ketorolac is highly bound to human plasma protein (mean 99.2%).	
+Warfarin, Digoxin, Salicylate, and Heparin The in vitro binding of warfarin to plasma proteins is only slightly reduced by ketorolac tromethamine (99.5% control vs 99.3%) when ketorolac plasma concentrations reach 5 to10 m g/mL.	
+Ketorolac does not alter digoxin protein binding.	
+In vitro studies indicate that, at therapeutic concentrations of salicylate (300 m g/mL), the binding of ketorolac was reduced from approximately 99.2% to 97.5%, representing a potential twofold increase in unbound ketorolac plasma levels.	
+Therapeutic concentrations of digoxin, warfarin, ibuprofen, naproxen, piroxicam, acetaminophen, phenytoin andtolbutamide did not alter ketorolac tromethamine protein binding.	
+In a study involving 12 adult volunteers, TORADOLORAL was coadministered with a single dose of 25 mg warfarin, causing no significant changes in pharmacokinetics or pharmacodynamics of warfarin.	
+In another study, TORADOLIV/IM was given with two doses of 5000 U of heparin to 11 healthy volunteers, resulting in a mean template bleeding time of 6.4 minutes (3.2 to 11.4 min) compared to a mean of 6.0 minutes (3.4 to 7.5 min) for heparin alone and 5.1 minutes (3.5 to 8.5 min) for placebo.	
+Although these results do not indicate a significant interaction between TORADOL and warfarin or heparin, the administration of TORADOL to patients taking anticoagulants should be done extremely cautiously, and patients should be closely monitored.	
+Furosemide: TORADOL IV/IM reduced the diuretic response to furosemide in normovolemic healthy subjects by approximately 20% (mean sodium and urinary output decreased 17%).	
+Probenecid: Concomitant administration of TORADOL ORAL and probenecid resulted in decreased clearance of ketorolac and significant increases in ketorolac plasma levels (total AUC increased approximately threefold from 5.4 to 17.8 m g/h/mL) and terminal half-life increased approximately twofold from 6.6 to 15.1 hours.	
+Therefore, concomitant use of TORADOL and probenecid is contraindicated.	
+Lithium: Inhibition of renal lithium clearance, leading to an increase in plasma lithium concentration, has been reported with some prostaglandin synthesis-inhibiting drugs.	
+The effect of TORADOL on plasma lithium has not been studied, but cases of increased lithium plasma levels during TORADOL therapy have been reported.	
+Methotrexate: Concomitant administration of methotrexate and some NSAIDs has been reported to reduce the clearance of methotrexate, enhancing the toxicity of methotrexate.	
+The effect of TORADOL on methotrexate clearance has not been studied.	
+Nondepolarizing Muscle Relaxants: In postmarketing experience there have been reports of a possible interaction between TORADOLIV/IM and nondepolarizing muscle relaxants that resulted in apnea.	
+The concurrent use of TORADOL with muscle relaxants has not been formally studied.	
+ACE Inhibitors: Concomitant use of ACE inhibitors may increase the risk of renal impairment, particularly in volume-depleted patients.	
+Antiepileptic Drugs: Sporadic cases of seizures have been reported during concomitant use of TORADOL and antiepileptic drugs (phenytoin, carbamazepine).	
+Psychoactive Drugs: Hallucinations have been reported when TORADOL was used in patients taking psychoactive drugs (fluoxetine, thiothixene, alprazolam).	
+Morphine: TORADOLIV/IM has been administered concurrently with morphine in several clinical trials of postoperative pain without evidence of adverse interactions.	
+Do not mix TORADOL and morphine in the same syringe.	
+There is no evidence in animal or human studies that TORADOL induces or inhibits hepatic enzymes capable of metabolizing itself or other drugs	
+.	
+fucking empty sentence	
+Synergism between xanthine bronchodilators (e.g., theophylline), ephedrine, and other sympathomimetic bronchodilators has been reported.	
+This should be considered whenever these agents are prescribed concomitantly.	
+Concurrent administration of dyphylline and probenecid, which competes for tubular secretion, has been shown to increase the plasma half-life of dyphylline .	
+Few systemic data have been collected on the metabolism of WELLBUTRIN following concomitant administration with other drugs or, alternatively, the effect of concomitant administration of WELLBUTRIN on the metabolism of other drugs.	
+Because bupropion is extensively metabolized, the coadministration of other drugs may affect its clinical activity.	
+In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by the CYP2B6 isoenzyme.	
+Therefore, the potential exists for a drug interaction between WELLBUTRIN and drugs that affect the CYP2B6 isoenzyme (e.g., orphenadrine and cyclophosphamide).	
+The threohydrobupropion metabolite of bupropion does not appear to be produced by the cytochrome P450 isoenzymes.	
+The effects of concomitant administration of cimetidine on the pharmacokinetics of bupropion and its active metabolites were studied in 24 healthy young male volunteers.	
+Following oral administration of two 150-mg sustained-release tablets with and without 800 mg of cimetidine, the pharmacokinetics of bupropion and hydroxybupropion were unaffected.	
+However, there were 16% and 32% increases in the AUC and Cmax, respectively, of the combined moieties of threohydrobupropion and erythrohydrobupropion.	
+While not systematically studied, certain drugs may induce the metabolism of bupropion (e.g., carbamazepine, phenobarbital, phenytoin).	
+Animal data indicated that bupropion may be an inducer of drug-metabolizing enzymes in humans.	
+In one study, following chronic administration of bupropion, 100 mg 3 times daily to 8 healthy male volunteers for 14 days, there was no evidence of induction of its own metabolism.	
+Nevertheless, there may be the potential for clinically important alterations of blood levels of coadministered drugs.	
+Drugs Metabolized by Cytochrome P450IID6 (CYP2D6): Many drugs, including most antidepressants (SSRIs, many tricyclics), beta-blockers, antiarrhythmics, and antipsychotics are metabolized by the CYP2D6 isoenzyme.	
+Although bupropion is not metabolized by this isoenzyme, bupropion and hydroxybupropion are inhibitors of the CYP2D6 isoenzyme in vitro.	
+In a study of 15 male subjects (ages 19 to 35 years) who were extensive metabolizers of the CYP2D6 isoenzyme, daily doses of bupropion given as 150 mg twice daily followed by a single dose of 50 mg desipramine increased the Cmax, AUC, and t1/2 of desipramine by an average of approximately 2-, 5- and 2-fold, respectively.	
+The effect was present for at least 7 days after the last dose of bupropion.	
+Concomitant use of bupropion with other drugs metabolized by CYP2D6 has not been formally studied.	
+Therefore, co-administration of bupropion with drugs that are metabolized by CYP2D6 isoenzyme including certain antidepressants (e.g., nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, sertraline), antipsychotics (e.g., haloperidol, risperidone, thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone, flecainide), should be approached with caution and should be initiated at the lower end of the dose range of the concomitant medication.	
+If bupropion is added to the treatment regimen of a patient already receiving a drug metabolized by CYP2D6, the need to decrease the dose of the original medication should be considered, particularly for those concomitant medications with a narrow therapeutic index.	
+MAO Inhibitors: Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine .	
+Levodopa and Amantadine: Limited clinical data suggest a higher incidence of adverse experiences in patients receiving bupropion concurrently with either levodopa or amantadine.	
+Administration of WELLBUTRIN Tablets to patients receiving either levodopa or amantadine concurrently should be undertaken with caution, using small initial doses and small gradual dose increases.	
+Drugs that Lower Seizure Threshold: Concurrent administration of WELLBUTRIN and agents (e.g., antipsychotics, other antidepressants, theophylline, systemic steroids, etc.) that lower seizure threshold should be undertaken only with extreme caution.	
+Low initial dosing and small gradual dose increases should be employed.	
+Nicotine Transdermal System: .	
+Alcohol: In post-marketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with WELLBUTRIN.	
+The consumption of alcohol during treatment with WELLBUTRIN should be minimized or avoided (also see  a href= bupropz_od.htm#CI CONTRAINDICATIONS)	
+.	
+fucking empty sentence	
+The action of nondepolarizing relaxants is augmented by Enflurane.	
+Less than the usual amounts of these medicines should be used.	
+If the usual amounts of nondepolarizing relaxants are given, the time for recovery from neuromuscular blockade will be longer in the presence of Enflurane than when halothane or nitrous oxide with a balanced technique are used.	
+The rate of metabolism and the leukopenic activity of cyclophosphamide reportedly are increased by chronic administration of high doses of phenobarbital.	
+The physician should be alert for possible combined drug actions, desirable or undesirable, involving cyclophosphamide even though cyclophosphamide has been used successfully concurrently with other drugs, including other cytotoxic drugs.	
+Cyclophosphamide treatment, which causes a marked and persistent inhibition of cholinesterase activity, potentiates the effect of succinylcholine chloride.	
+If a patient has been treated with cyclophosphamide within 10 days of general anesthesia, the anesthesiologist should be alerted.	
+Both the magnitude and duration of central nervous system and cardiovascular effects may be enhanced when ALFENTA is administered in combination with other CNS depressants such as barbiturates, tranquilizers, opioids, or inhalation general anesthetics.	
+Postoperative respiratory depression may be enhanced or prolonged by these agents.	
+In such cases of combined treatment, the dose of one or both agents should be reduced.	
+Limited clinical experience indicates that requirements for volatile inhalation anesthetics are reduced by 30 to 50% for the first sixty (60) minutes following ALFENTA induction The concomitant use of erythromycin with ALFENTA can significantly inhibit ALFENTA clearance and may increase the risk of prolonged or delayed respiratory depression.	
+Cimetidine reduces the clearance of ALFENTA.	
+Therefore smaller ALFENTA doses will be required with prolonged administration and the duration of action of ALFENTA my be extended.	
+Perioperative administration of drugs affecting hepatic blood flow or enzyme function may reduce plasma clearance and prolong recovery.	
+Azlocillin should not be administered concomitantly with amikacin, ciprofloxacin, gentamicin, netilmicin, or tobramycin.	
+Interactions between Betaseron and other drugs have not been fully evaluated.	
+Although studies designed to examine drug interactions have not been done, it was noted that corticosteroid or ACTH treatment of relapses for periods of up to 28 days has been administered to patients (N=180) receiving Betaseron.	
+Betaseron administration to three cancer patients over a dose range of 0.025 mg to 2.2 mg led to a dose-dependent inhibition of antipyrine elimination.14 The effect of alternate-day administration of 0.25 mg of Betaseron on drug metabolism in MS patients is unknown.	
+Drug-Drug Interactions Albuterol - STRATTERA should be administered with caution to patients being treated with systemically-administered (oral or intravenous) albuterol (or other beta2 agonists) because the action of albuterol on the cardiovascular system can be potentiated resulting in increases in heart rate and blood pressure.	
+CYP2D6 inhibitors - Atomoxetine is primarily metabolized by the CYP2D6 pathway to 4-hydroxyatomoxetine.	
+In EMs, selective inhibitors of CYP2D6 increase atomoxetine steady-state plasma concentrations to exposures similar to those observed in PMs.	
+Dosage adjustment of STRATTERA may be necessary when coadministered with CYP2D6 inhibitors, e.g., paroxetine, fluoxetine, and quinidine.	
+In EM individuals treated with paroxetine or fluoxetine, the AUC of atomoxetine is approximately 6- to 8-fold and Css,max is about 3- to 4-fold greater than atomoxetine alone.	
+In vitro studies suggest that coadministration of cytochrome P450 inhibitors to PMs will not increase the plasma concentrations of atomoxetine.	
+Pressor agents - Because of possible effects on blood pressure, STRATTERA should be used cautiously with pressor agents.	
+Caution should be exercised when anticoagulants are given in conjunction with Atromid-S.	
+Usually, the dosage of the anticoagulant should be reduced by one-half (depending on the individual case) to maintain the prothrombin time at the desired level to prevent bleeding complications.	
+Frequent prothrombin determinations are advisable until it has been determined definitely that the prothrombin level has been stabilized.	
+Atromid-S may displace acidic drugs such as phenytoin or tolbutamide from their binding sites.	
+Caution should be exercised when treating patients with either of these drugs or other highly protein-bound drugs and Atromid-S.	
+The hypoglycemic effect of tolbutamide has been reported to increase when Atromid-S is given concurrently.	
+Fulminant rhabdomyolysis has been seen as early as three weeks after initiation of combined therapy with another fibrate and lovastatin but may be seen after several months.	
+For these reasons, it is felt that, in most subjects who have had an unsatisfactory lipid response to either drug alone, the possible benefits of combined therapy with lovastatin and a fibrate do not outweigh the risks of severe myopathy, rhabdomyolysis, and acute renal failure.	
+While it is not known whether this interaction occurs with fibrates other than gemfibrozil, myopathy and rhabdomyolysis have occasionally been associated with the use of fibrates alone, including clofibrate.	
+Therefore, the combined use of lovastatin with fibrates should generally be avoided.	
+Drug Interactions: Flupenthixol may interact with some drugs, like Monoamine oxidase inhibitors (MAOI): MAOI could theoretically affect flupenthixol pharmacodynamics - Arecoline - Eproxindine - Ethanol: Flupenthixol and Ethanol cause additive CNS depression - Tricyclic antidepressants: Flupenthixol increases the effect of Tricyclic antidepressants	
+The vasodilating effects of nitroglycerin may be additive with those of other vasodilators.	
+Alcohol, in particular, has been found to exhibit additive effects of this variety.	
+Marked symptomatic orthostatic hypotension has been reported when calcium channel blockers and organic nitrates were used in combination.	
+Dose adjustments of either class of agents may be necessary.	
+In clinical studies performed with Fondaparinux, the concomitant use of oral anticoagulants (warfarin), platelet inhibitors (acetylsalicylic acid), NSAIDs (piroxicam), and digoxin did not significantly affect the pharmacokinetics/pharmacodynamics of fondaparinux sodium.	
+In addition, Fondaparinux neither influenced the pharmacodynamics of warfarin, acetylsalicylic acid, piroxicam, and digoxin, nor the pharmacokinetics of digoxin at steady state.	
+Agents that may enhance the risk of hemorrhage should be discontinued prior to initiation of Fondaparinux therapy.	
+If co-administration is essential, close monitoring may be appropriate.	
+In an in vitro study in human liver microsomes, inhibition of CYP2A6 hydroxylation of coumarin by fondaparinux (200 m m M i.e., 350 mg/L) was 17-28%.	
+Inhibition of the other isozymes evaluated (CYPs 2A1, 2C9, 2C19, 2D6, 3A4, and 3E1) was 0-16%.	
+Since fondaparinux does not markedly inhibit CYP450s (CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, or CYP3A4) in vitro, fondaparinux sodium is not expected to significantly interact with other drugs in vivo by inhibition of metabolism mediated by these isozymes.	
+Since fondaparinux sodium does not bind significantly to plasma proteins other than ATIII, no drug interactions by protein-binding displacement are expected.	
+Prospective studies on the potential for hydroxyurea to interact with other drugs have not been performed.	
+Concurrent use of hydroxyurea and other myelosuppressive agents or radiation therapy may increase the likelihood of bone marrow depression or other adverse events.	
+Since hydroxyurea may raise the serum uric acid level, dosage adjustment of uricosuric medication may be necessary	
+.	
+fucking empty sentence	
+Anticoagulants, oral	
+(Effects may be decreased when used concurrently with thiazide diuretics;	
+dosage adjustments may be necessary.)	
+Antigout medications	
+(Thiazide diuretics may raise the level of blood uric acid;	
+dosage adjustment of antigout medications may be necessary to control hyperuricemia and gout.)	
+Antihypertensive medications, other, especially diazoxide, or preanesthetic and anesthetic agents used in surgery or skeletal-muscle relaxants, nondepolarizing, used in surgery	
+(Effects may be potentiated when used concurrently with thiazide diuretics;	
+dosage adjustments may be necessary.)	
+Amphotericin B or Corticosteroids or Corticotropin (ACTH)	
+(Concurrent use with thiazide diuretics may intensify electrolyte imbalance, particularly hypokalemia.)	
+Cardiac glycosides	
+(Concurrent use with thiazide diuretics may enhance the possibility of digitalis toxicity associated with hypokalemia.)	
+Colestipol	
+(May inhibit gastrointestinal absorption of the thiazide diuretics;	
+administration 1 hour before or 4 hours after colestipol is recommended.)	
+Hypoglycemics	
+(Thiazide diuretics may raise blood glucose levels;	
+for adult-onset diabetics, dosage adjustment of hypoglycemic medications may be necessary during and after thiazide diuretic therapy;	
+insulin requirements may be increased, decreased, or unchanged.)	
+Lithium salts	
+(Concurrent use with thiazide diuretics is not recommended, as they may provoke lithium toxicity because of reduced renal clearance.)	
+Methenamine	
+(Effectiveness may be decreased when used concurrently with thiazide diuretics because of alkalinization of the urine.)	
+Nonsteroidal anti-inflammatory agents	
+(In some patients, the steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium sparing, and thiazide diuretics.	
+Therefore, when hydroflumethiazide and nonsteroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.)	
+Norepinephrine	
+(Thiazides may decrease arterial responsiveness to norepinephrine.	
+This diminution is not sufficient to preclude effectiveness of the pressor agent for therapeutic use.)	
+Tubocurarine	
+(Thiazide drugs may increase the responsiveness to tubocurarine.)	
+DIAGNOSTIC INTERFERENCE With expected physiologic effects: Blood and urine glucose levels (usually only in patients with a predisposition for glucose intolerance) and Serum bilirubin levels (by displacement from albumin binding) and Serum calcium levels (thiazide diuretics should be discontinued before parathyroid-function tests are carried out) and Serum uric acid levels (may be increased) Serum magnesium, potassium, and sodium levels (may be decreased;	
+serum magnesium levels may increase in uremic patients) Serum protein-bound iodine (PBI) levels (may be decreased) Thiazides should be discontinued before carrying out tests for parathyroid function.	
+Tablets: The benzodiazepines, including lorazepam, produce CNS-depressant effects when administered with such medications as barbiturates or alcohol.	
+Injection: Lorazepam injection, like other injectable benzodiazepines, produces depression of the central nervous system when administered with ethyl alcohol, phenothiazines, barbiturates, MAO inhibitors, and other antidepressants.When scopolamine is used concomitantly with injectable lorazepam, an increased incidence of sedation, hallucinations, and irrational behavior has been observed.	
+Disulfiram appears to decrease the rate at which certain drugs are metabolized and therefore may increase the blood levels and the possibility of clinical toxicity of drugs given concomitantly.	
+DISULFIRAM SHOULD BE USED WITH CAUTION IN THOSE PATIENTS REVEIVING PHENYTOIN AND ITS CONGENERS.	
+SINCE THE CONCOMITANT ADMINISTRATION OF THESE TWO DRUGS CAN LEAD TO PHENYTOIN INTOXICATION, PRIOR TO ADMINISTERING DISULFIRAM TO A PATIENT ON PHENYTOIN THERAPY, A BASELINE PHENYTOIN SERUM LEVEL SHOULD BE OBTAINED.	
+SUBSEQUENT TO INITIATION OF DISULFIRAM THERAPY.	
+SERUM LEVELS OF PHENYTOIN SHOULD BE DETERMINED ON DIFFERENT DAYS FOR EVIDENCE OF AN INCREASE OR FOR A CONTINUING RISE IN LEVELS.	
+INCREASED PHENYTOIN LEVELS SHOULD BE TREATED WITH APPROPRIATE DOSAGE ADJUSTMENT.	
+It may be necessary to adjust the dosage of oral anticoagulants upon beginning or stopping disulfiram. since disulfiram may prolong prothrombin time.	
+Patients taking isoniazid when disulfiram is given should be observed for the appearance of unsteady gait or marked changes in mental status;	
+the disulfiram should be discontinued if such signs appear.	
+In rats, simultaneous ingestion of disulfiram and nitrite in the diet for 78 weeks has been reported to cause tumors, and it has been suggested that disulfiram may react with nitrites in the rat stomach to form a nitrosamine, which is tumorigenic.	
+Disulfiram alone in the rat s diet did not lead to such tumors.	
+The relevance of this finding to humans is not known at this time.	
+Inhibitors of CYP3A4-Eplerenone metabolism is predominantly mediated via CYP3A4.	
+A pharmacokinetic study evaluating the administration of a single dose of INSPRA 100 mg with ketoconazole 200 mg BID, a potent inhibitor of the CYP3A4 pathway, showed a 1.7-fold increase in Cmax of eplerenone and a 5.4-fold increase in AUC of eplerenone.	
+INSPRA should not be used with drugs described as strong inhibitors of CYP3A4 in their labeling.	
+Administration of eplerenone with other CYP3A4 inhibitors (e.g., erythromycin 500 mg BID, verapamil 240 mg QD, saquinavir 1200 mg TID, fluconazole 200 mg QD) resulted in increases in Cmax of eplerenone ranging from 1.4- to 1.6- fold and AUC from 2.0- to 2.9- fold.	
+ACE Inhibitors and Angiotensin II Receptor Antagonists (Congestive Heart Failure Post-Myocardial Infarction)- In EPHESUS, 3020 (91%) patients receiving INSPRA 25 to 50 mg also received ACE inhibitors or angiotensin II receptor antagonists (ACEI/ARB).	
+Rates of patients with maximum potassium levels  5.5 mEq/L were similar regardless of the use of ACEI/ARB.	
+ACE Inhibitors and Angiotensin II Receptor Antagonists (Hypertension)- In clinical studies of patients with hypertension, the addition of INSPRA 50 to 100 mg to ACE inhibitors and angiotensin II receptor antagonists increased mean serum potassium slightly (about 0.09-0.13 mEq/L).	
+In a study in diabetics with microalbuminuria INSPRA 200 mg combined with the ACE inhibitor enalapril 10 mg increased the frequency of hyperkalemia (serum potassium  5.5 mEq/L) from 17% on enalapril alone to 38%.	
+Lithium-A drug interaction study of eplerenone with lithium has not been conducted.	
+Serum lithium levels should be monitored frequently if INSPRA is administered concomitantly with lithium.	
+Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)-A drug interaction study of eplerenone with an NSAID has not been conducted.	
+The administration of other potassium-sparing antihypertensives with NSAIDs has been shown to reduce the antihypertensive effect in some patients and result in severe hyperkalemia in patients with impaired renal function.	
+Therefore, when INSPRA and NSAIDs are used concomitantly, patients should be observed to determine whether the desired effect on blood pressure is obtained.	
+Tissue culture and animal studies indicate that ELSPAR can diminish or abolish the effect of methotrexate on malignant cells.14 This effect on methotrexate activity persists as long as plasma asparagine levels are suppressed.	
+These results would seem to dictate against the clinical use of methotrexate with ELSPAR, or during the period following ELSPAR therapy when plasma asparagine levels are below normal.	
+Aminosalicylic acid may decrease the amount of digoxin (Lanoxin, Lanoxicaps) that gets absorbed into your body.	
+In the case that you are taking digoxin while taking aminosalicylic acid, higher doses of digoxin may be needed.	
+Aminosalicylic acid may also decrease the absorption of vitamin B12, which can lead to a deficiency.	
+Therefore you may need to take a vitamin B12 supplement while taking aminosalicylic acid.	
+HEMABATE may augment the activity of other oxytocic agents.	
+Concomitant use with other oxytocic agents is not recommended	
+.	
+fucking empty sentence	
+No information is available.	
+Corticotropin may accentuate the electrolyte loss associated with diuretic therapy.	
+Patients receiving other narcotic analgesics, general anesthetics, phenothiazines, tranquilizers, sedative-hypnotics, tricyclic antidepressants or other CNS depressants (including alcohol) concomitantly with DILAUDID may exhibit an additive CNS depression.	
+When such combined therapy is contemplated, the dose of one or both agents should be reduced.	
+No significant drug-drug pharmacokinetic (or pharmacodynamic) interactions have been found in interaction studies with hydrochlorothiazide, digoxin, warfarin, and nifedipine.	
+In vitro studies show significant inhibition of the formation of oxidized irbesartan metabolites with the known cytochrome CYP 2C9 substrates/inhibitors sulphenazole, tolbutamide and nifedipine.	
+However, in clinical studies the consequences of concomitant irbesartan on the pharmacodynamics of warfarin were negligible.	
+Based on in vitro data, no interaction would be expected with drugs whose metabolism is dependent upon cytochrome P450 isozymes 1A1, 1A2,2A6,2B6,2D6,2E1,or 3A4.	
+In separate studies of patients receiving maintenance doses of warfarin, hydrochlorothiazide, or digoxin, irbesartan administration for 7 days had no effect on the pharmacodynamics of warfarin (prothrombin time) or pharmacokinetics of digoxin.	
+The pharmacokinetics of irbesartan were not affected by coadministration of nifedipine or hydrochlorothiazide	
+.	
+fucking empty sentence	
+Interactions between COPAXONE  and other drugs have not been fully evaluated.	
+Results from existing clinical trials suggest no significant interactions between COPAXONE  and other therapies commonly used in MS patients, including the concurrent use of corticosteroids for up to 28 days.	
+COPAXONE  has not been formally evaluated in combination with Interferon beta.	
+However, 10 patients who switched from therapy with Interferon beta to COPAXONE  did not report any serious and unexpected adverse reactions thought to be related to treatment.	
+Esomeprazole is extensively metabolized in the liver by CYP2C19 and CYP3A4.	
+In vitro and in vivo studies have shown that esomeprazole is not likely to inhibit CYPs 1A2, 2A6, 2C9, 2D6, 2E1 and 3A4.	
+No clinically relevant interactions with drugs metabolized by these CYP enzymes would be expected.	
+Drug interaction studies have shown that esomeprazole does not have any clinically significant interactions with phenytoin, warfarin, quinidine, clarithromycin or amoxicillin.	
+Post-marketing reports of changes in prothrombin measures have been received among patients on concomitant warfarin and esomeprazole therapy.	
+Increases in INR and prothrombin time may lead to abnormal bleeding and even death.	
+Patients treated with proton pump inhibitors and warfarin concomitantly may need to be monitored for increases in INR and prothrombin time.	
+Esomeprazole may potentially interfere with CYP2C19, the major esomeprazole metabolizing enzyme.	
+Coadministration of esomeprazole 30 mg and diazepam, a CYP2C19 substrate, resulted in a 45% decrease in clearance of diazepam.	
+Increased plasma levels of diazepam were observed 12 hours after dosing and onwards.	
+However, at that time, the plasma levels of diazepam were below the therapeutic interval, and thus this interaction is unlikely to be of clinical relevance.	
+Esomeprazole inhibits gastric acid secretion.	
+Therefore, esomeprazole may interfere with the absorption of drugs where gastric pH is an important determinant of bioavailability (eg, ketoconazole, iron salts and digoxin).	
+Coadministration of oral contraceptives, diazepam, phenytoin, or quinidine did not seem to change the pharmacokinetic profile of esomeprazole.	
+Concomitant administration of clarithromycin with pimozide is contraindicated.	
+No significant drug-drug pharmacokinetic interactions have been found in interaction studies with hydrochlorothiazide, digoxin, warfarin, cimetidine and phenobarbital.	
+Rifampin, an inducer of drug metabolism, decreased the concentrations of losartan and its active metabolite.	
+In humans, two inhibitors of P450 3A4 have been studied.	
+Ketoconazole did not affect the conversion of losartan to the active metabolite after intravenous administration of losartan, and erythromycin had no clinically significant effect after oral administration.	
+Fluconazole, an inhibitor of P450 2C9, decreased active metabolite concentration and increased losartan concentration.	
+The pharmacodynamic consequences of concomitant use of losartan and inhibitors of P450 2C9 have not been examined.	
+Subjects who do not metabolize losartan to active metabolite have been shown to have a specific, rare defect in cytochrome P450 2C9.	
+These data suggest that the conversion of losartan to its active metabolite is mediated primarily by P450 2C9 and not P450 3A4.	
+As with other drugs that block angiotensin II or its effects, concomitant use of potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, or salt substitutes containing potassium may lead to increases in serum potassium.	
+As with other antihypertensive agents, the antihypertensive effect of losartan may be blunted by the non-steroidal anti-inflammatory drug indomethacin	
+.	
+fucking empty sentence	
+MAO inhibitors should be used with caution in patients receiving hydralazine.	
+When other potent parental antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure.	
+Profound hypotensive episodes may occur when diazoxide infection and hydralazine are used concomitantly.	
+Beta-blockers (metoprolol, propranolol) serum concentrations and pharmacologic effects may be increased.	
+Monitor cardiovascular status.	
+Propranolol increases hydralazines serum concentrations.	
+Acebutolol, atenolol, and nadolol (low hepatic clearance or no first-pass metabolism) are unlikely to be affected.	
+NSAIDs may decrease the hemodynamic effects of hydralazine;	
+avoid use if possible or closely monitor cardiovascular status at the end of drug interactions	
+Theophylline: Twelve healthy male volunteers were administered one 200-mg ceftibuten capsule twice daily for 6 days.	
+With the morning dose of ceftibuten on day 6, each volunteer received a single intravenous infusion of theophylline (4 mg/kg).	
+The pharmacokinetics of theophylline were not altered.	
+The effect of ceftibuten on the pharmacokinetics of theophylline administered orally has not been investigated.	
+Antacids or H 2 -receptor antagonists: The effect of increased gastric pH on the bioavailability of ceftibuten was evaluated in 18 healthy adult volunteers.	
+Each volunteer was administered one 400-mg ceftibuten capsule.	
+A single dose of liquid antacid did not affect the C max or AUC of ceftibuten;	
+however, 150 mg of ranitidine q12h for 3 days increased the ceftibuten C max by 23% and ceftibuten AUC by 16%.	
+The clinical relevance of these increases is not known.	
+Drug/Laboratory Test Interactions: There have been no chemical or laboratory test interactions with ceftibuten noted to date.	
+False-positive direct Coombs tests have been reported during treatment with other cephalosporins.	
+Therefore, it should be recognized that a positive Coombs test could be due to the drug.	
+The results of assays using red cells from healthy subjects to determine whether ceftibuten would cause direct Coombs reactions in vitro showed no positive reaction at ceftibuten concentrations as high as 40  g/mL.	
+Although the occurrence has not been reported with Cefizox, nephrotoxicity has been reported following concomitant administration of other cephalosporins and aminoglycosides.	
+Although acid-base and electrolyte disturbances were not reported in the clinical trials with dorzolamide, these disturbances have been reported with oral carbonic anhydrase inhibitors and have, in some instances, resulted in drug interactions (e.g., toxicity associated with high-dose salicylate therapy).	
+Therefore, the potential for such drug interactions should be considered in patients receiving dorzolamide.	
+Interactions may occur between EPA supplements and aspirin and other non-steroidal anti-inflammatory drugs and herbs such as garlic (Allium sativum) and ginkgo (Ginkgo biloba).	
+Such interactions might be manifested by increased susceptibility to bruising, nosebleeds, hemoptysis, hematemesis, hematuria and blood in the stool.	
+Most who take EPA supplements and the above drugs or herbs do not suffer from these problems and if they occur, they are rare.	
+If they do occur, the EPA dose should be lowered or discontinued.	
+Conflicting results have been reported regarding the effects of EPA supplements on glycemic control in non-diabetics with glucose intolerance, and those with type 2 diabetes.	
+Some early studies indicated that EPA supplements might have detrimental effects in those groups.	
+Recent, better designed studies have not reported these adverse effects.	
+There is no evidence that EPA supplements have detrimental effects on glucose tolerance, insulin secretion or insulin resistance in non-diabetic subjects.	
+Diabetics should discuss the use of these supplements with their physicians and note if the supplements affect their glycemic control.	
+Diabetics who take EPA supplements should be monitored by their physicians.	
+Caution is advised in patients receiving concomitant high-dose aspirin and carbonic anhydrase inhibitors, as anorexia, tachypnea, lethargy and coma have been rarely reported due to a possible drug interaction.	
+No specific information available	
+.	
+fucking empty sentence	
+ZINECARD does not influence the pharmacokinetics of doxorubicin.	
+Carcinogenesis, Mutagenesis, Impairment of Fertility No long-term carcinogenicity studies have been carried out with dexrazoxane in animals.	
+Dexrazoxane was not mutagenic in the Ames test but was found to be clastogenic to human lymphocytes in vitro and to mouse bone marrow erythrocytes in vivo (micronucleus test).	
+The possible adverse effects of ZINECARD on the fertility of humans and experimental animals, male or female, have not been adequately studied.	
+Testicular atrophy was seen with dexrazoxane administration at doses as low as 30 mg/kg weekly for 6 weeks in rats (1/3 the human dose on a mg/m 2 basis) and as low as 20 mg/kg weekly for 13 weeks in dogs (approximately equal to the human dose on a mg/m 2 basis).	
+Persons taking most antibiotics, methotrexate and pyrimethamine invalidate folic acid and vitamin B12 diagnostic blood assays.	
+Colchicine para-aminosalicylic acid and heavy alcohol intake for longer than 2 weeks may produce malabsorption of vitamin B12.	
+No drugs are known to interfere with the conversion of fosphenytoin to phenytoin.	
+Conversion could be affected by alterations in the level of phosphatase activity, but given the abundance and wide distribution of phosphatases in the body it is unlikely that drugs would affect this activity enough to affect conversion of fosphenytoin to phenytoin.	
+Drugs highly bound to albumin could increase the unbound fraction of fosphenytoin.	
+Although, it is unknown whether this could result in clinically significant effects, caution is advised when administering Cerebyx with other drugs that significantly bind to serum albumin.	
+The pharmacokinetics and protein binding of fosphenytoin, phenytoin, and diazepam were not altered when diazepam and Cerebyx were concurrently administered in single submaximal doses.	
+The most significant drug interactions following administration of Cerebyx are expected to occur with drugs that interact with phenytoin.	
+Phenytoin is extensively bound to serum plasma proteins and is prone to competitive displacement.	
+Phenytoin is metabolized by hepatic cytochrome P450 enzymes and is particularly susceptible to inhibitory drug interactions because it is subject to saturable metabolism.	
+Inhibition of metabolism may produce significant increases in circulating phenytoin concentrations and enhance the risk of drug toxicity.	
+Phenytoin is a potent inducer of hepatic drug-metabolizing enzymes.	
+The most commonly occurring drug interactions are listed below: - Drugs that may increase plasma phenytoin concentrations include: acute alcohol intake, amiodarone, chboramphenicol, chlordiazepoxide, cimetidine, diazepam, dicumarol, disulfiram, estrogens, ethosuximide, fluoxetine, H2-antagonists, halothane, isoniazid, methylphenidate, phenothiazines, phenylbutazone, salicylates, succinimides, sulfonamides, tolbutamide, trazodone	
+.	
+- Drugs that may decrease plasma phenytoin concentrations include: carbamazepine, chronic alcohol abuse, reserpine	
+.	
+- Drugs that may either increase or decrease plasma phenytoin concentrations include: phenobarbital, vaiproic acid, and sodium valproate.	
+Similarly, the effects of phenytoin on phenobarbital, valproic acid and sodium plasma valproate concentrations are unpredictable	
+.	
+- Although not a true drug interaction, tricyclic antidepressants may precipitate seizures in susceptible patients and Cerebyx dosage may need to be adjusted	
+.	
+- Drugs whose efficacy is impaired by phenytoin include: anticoagulants, corticosteroids, coumarin, digitoxin, doxycycline, estrogens, furosemide, oral contraceptives, rifampin, quinidine, theophylline, vitamin D.	
+Monitoring of plasma phenytoin concentrations may be helpful when possible drug interactions are suspected.	
+Drug/Laboratory Test Interactions Phenytoin may decrease serum concentrations of 14.	
+It may also produce artifactually low results in dexamethasone or metyrapone tests.	
+Phenytoin may also cause increased serum concentrations of glucose, alkaline phosphatase, and gamma glutamyl transpeptidase (GGT).	
+Care should be taken when using immunoanalytical methods to measure plasma phenytoin concentrations following Cerebyx administration.	
+Cholestyramine and Charcoal Administration of cholestyramine or activated charcoal in patients (n=13) and volunteers (n=96) resulted in a rapid and significant decrease in plasma M1 (the active metabolite of leflunomide) concentration .	
+Hepatotoxic Drugs Increased side effects may occur when leflunomide is given concomitantly with hepatotoxic substances.	
+This is also to be considered when leflunomide treatment is followed by such drugs without a drug elimination procedure.	
+In a small (n=30) combination study of ARAVA with methotrexate, a 2- to 3-fold elevation in liver enzymes was seen in 5 of 30 patients.	
+All elevations resolved, 2 with continuation of both drugs and 3 after discontinuation of leflunomide.	
+A  3-fold increase was seen in another 5 patients.	
+All of these also resolved, 2 with continuation of both drugs and 3 after discontinuation of leflunomide.	
+Three patients met ACR criteria for liver biopsy (1: Roegnik Grade I, 2: Roegnik Grade IIIa).	
+No pharmacokinetic interaction was identified.	
+NSAIDs: In in vitro studies, M1 was shown to cause increases ranging from 13 - 50% in the free fraction of diclofenac and ibuprofen at concentrations in the clinical range.	
+The clinical significance of this finding is unknown;	
+however, there was extensive concomitant use of NSAIDs in clinical studies and no differential effect was observed.	
+Tolbutamide: In in vitro studies, M1 was shown to cause increases ranging from 13 - 50% in the free fraction of tolbutamide at concentrations in the clinical range.	
+The clinical significance of this finding is unknown.	
+Rifampin: Following concomitant administration of a single dose of ARAVA to subjects receiving multiple doses of rifampin, M1 peak levels were increased (~40%) over those seen when ARAVA was given alone.	
+Because of the potential for ARAVA levels to continue to increase with multiple dosing, caution should be used if patients are to be receiving both ARAVA and rifampin.	
+Warfarin: Increased INR (International Normalized Ratio) when ARAVA and warfarin were co-administered has been rarely reported.	
+The potential for clinically significant drug-drug interactions posed by dolasetron and hydrodolasetron appears to be low for drugs commonly used in chemotherapy or surgery, because hydrodolasetron is eliminated by multiple routes.	
+Blood levels of hydrodolasetron increased 24% when dolasetron was coadministered with cimetidine (nonselective inhibitor of cytochrome P-450) for 7 days, and decreased 28% with coadministration of rifampin (potent inducer of cytochrome P-450) for 7 days.	
+Dolasetron has been safely coadministered with drugs used in chemotherapy and surgery.	
+As with other agents which prolong ECG intervals, caution should be exercised in patients taking drugs which prolong ECG intervals, particularly QTc.	
+In patients taking furosemide, nifedipine, diltiazem, ACE inhibitors, verapamil, glyburide, propranolol, and various chemotherapy agents, no effect was shown on the clearance of hydrodolasetron.	
+Clearance of hydrodolasetron decreased by about 27% when dolasetron mesylate was administered intravenously concomitantly with atenolol.	
+Dolasetron does not influence anesthesia recovery time in patients.	
+Dolasetron mesylate did not inhibit the antitumor activity of four chemotherapeutic agents (cisplatin, 5-fluorouracil, doxorubicin, cyclophosphamide) in four murine models.	
+Coadministration of VIDEX with drugs that are known to cause pancreatitis may increase the risk of this toxicity (see WARNINGS) and should be done with extreme caution, only if other alternatives are not available, and only if clearly indicated.	
+Neuropathy has occurred more frequently in patients with a history of neuropathy or neurotoxic drug therapy, including stavudine, and these patients may be at increased risk of neuropathy during VIDEX therapy (see ADVERSE REACTIONS).	
+Allopurinol: The AUC of didanosine was increased about 4-fold when allopurinol at 300 mg/day was coadministered with a single 200-mg dose of VIDEX to two patients with renal impairment (CLcr=15 and 18 mL/min).	
+The effects of allopurinol on didanosine pharmacokinetics in subjects with normal renal function are not known.	
+Antacids: Concomitant administration of antacids containing magnesium or aluminum with VIDEX Chewable/Dispersible Buffered Tablets or Pediatric Powder for Oral Solution may potentiate adverse events associated with the antacid components.	
+Drugs Whose Absorption Can Be Affected by the Level of Acidity in the Stomach: Drugs such as ketoconazole and itraconazole should be administered at least 2 hours prior to dosing with VIDEX.	
+Ganciclovir: Administration of VIDEX 2 hours prior to or concurrent with oral ganciclovir was associated with a 111 (114)% increase in the steady-state AUC of didanosine (n = 12).	
+A 21 (17)% decrease in the steady-state AUC of ganciclovir was observed when VIDEX was administered 2 hours prior to ganciclovir, but not when the two drugs were administered simultaneously (n = 12).	
+Quinolone Antibiotics: VIDEX should be administered at least 2 hours after or 6 hours before dosing with ciprofloxacin because plasma concentrations of ciprofloxacin are decreased when administered with antacids containing magnesium, calcium, or aluminum.	
+In eight HIV-infected patients, the steady-state AUC of ciprofloxacin was decreased an average of 26% (95% CI = 14%, 37%) when ciprofloxacin was administered 2 hours prior to a marketed chewable/dispersible tablet formulation of VIDEX.	
+The AUC of ciprofloxacin was decreased an average of 15-fold in 12 healthy subjects given ciprofloxacin and didanosine-placebo tablets concurrently.	
+In a single subject given one dose of ciprofloxacin 2 hours after a dose of didanosine-placebo tablets, a greater than 50% reduction in the AUC of ciprofloxacin was observed.	
+Plasma concentrations of quinolone antibiotics are decreased when administered with antacids containing magnesium, calcium, or aluminum.	
+The optimal dosing interval for coadministration with VIDEX should be determined by consulting the appropriate quinolone package insert.	
+Interactions with Other Antiretroviral Drugs: Significant decreases in the AUC of delavirdine (20%) and indinavir (84%) occurred following simultaneous administration of these agents with VIDEX.	
+To avoid this interaction, delavirdine or indinavir should be given 1 hour prior to dosing with VIDEX.	
+The pharmacokinetics of nelfinavir are not altered to a clinically significant degree when it is administered with a light meal 1 hour after VIDEX.	
+No formal drug interaction studies have been performed with RAPTIVA.	
+RAPTIVA should not be used with other immunosuppressive drugs.	
+Acellular, live and live-attenuated vaccines should not be administered during RAPTIVA treatment.	
+Drug/Laboratory Test Interactions Increases in lymphocyte counts related to the pharmacologic mechanism of action are frequently observed during RAPTIVA treatment.	
+Concurrent administration of etanercept (another TNF -blocking agent) and anakinra (an interleukin-1 antagonist) has been associated with an increased risk of serious infections, and increased risk of neutropenia and no additional benefit compared to these medicinal products alone.	
+Other TNFa-blocking agents (including REMICADE) used in combination with anakinra may also result in similar toxicities.	
+Specific drug interaction studies, including interactions with MTX, have not been conducted.	
+The majority of patients in rheumatoid arthritis or Crohn s disease clinical studies received one or more concomitant medications.	
+In rheumatoid arthritis, concomitant medications besides MTX were nonsteroidal anti-inflammatory agents, folic acid, corticosteroids and/or narcotics.	
+Concomitant Crohn s disease medications were antibiotics, antivirals, corticosteroids, 6-MP/AZA and aminosalicylates.	
+In psoriatic arthritis clinical trials, concomitant medications included MTX in approximately half of the patients as well as nonsteroidal anti-inflammatory agents, folic acid and corticosteroids.	
+Patients with Crohn s disease who received immunosuppressants tended to experience fewer infusion reactions compared to patients on no immunosuppressants.	
+Serum infliximab concentrations appeared to be unaffected by baseline use of medications for the treatment of Crohn s disease including corticosteroids, antibiotics (metronidazole or ciprofloxacin) and aminosalicylates.	
+When given concurrently the following drugs may interact with thiazide diuretics.	
+- Alcohol, barbiturates, or narcotics: Potentiation of otthostatic hypotension may occur	
+.	
+- Antidiabetic drugs: (Oral agents and insulin) Dosage adjustment of the antidiabetic drug may be required	
+.	
+- Other antihypertensive drugs: Additive effect or potentiation	
+.	
+- Cholestyramine and colestipol resins: Cholestytamine and colestipol resins have the potential of binding thiazide diuretics and reducing diuretic absorption from the gastrointestinal tract	
+.	
+- Corticosteroids, ACTH: Intensified electrolyte depletion, particularly hypokalemia	
+.	
+- Pressor amines (e.g., norepinephrine): Possible decreased response to pressor amines but not sufficient to preclude their use	
+.	
+- Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine): Possible increased responsiveness to the muscle relaxant	
+.	
+- Lithium: Generally should not be given with diuretics.	
+Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.	
+Refer to the package insert for lithium preparations before use of such preparations with chlorothiazide	
+.	
+- Non-steroidal Anti-inflammatory Drugs: In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.	
+Therefore, when chlorothiazide and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained	
+.	
+- Drug/Laboratory Test Interactions: Thiazides should be discontinued before carrying out tests for parathyroid function.	
+Caution should be exercised when the following drugs are administered concomitantly with LODOSYN (Carbidopa) given with levodopa or carbidopa-levodopa combination products.	
+For patients receiving monoamine oxidase inhibitors, see CONTRAINDICATIONS.	
+Dopamine D2 receptor antagonists (e.g., phenothiazines, butyrophenones, risperidone) and isoniazid may reduce the therapeutic effects of levodopa.	
+In addition, the beneficial effects of levodopa in Parkinsons disease have been reported to be reversed by phenytoin and papaverine.	
+Patients taking these drugs with LODOSYN and levodopa or carbidopa-levodopa combination products should be carefully observed for loss of therapeutic response.	
+Iron salts may reduce the bioavailability of carbidopa and levodopa.	
+The clinical relevance is unclear.	
+Although metoclopramide may increase the bioavailability of levodopa by increasing gastric emptying, metoclopramide may also adversely affect disease control by its dopamine receptor antagonistic properties.	
+Drugs that may increase dasatinib plasma concentrations CYP3A4 Inhibitors: Dasatinib is a CYP3A4 substrate.	
+Concomitant use of SPRYCEL and drugs that inhibit CYP3A4 (eg, ketoconazole, itraconazole, erythromycin, clarithromycin, ritonavir, atazanavir, indinavir, nefazodone, nelfinavir, saquinavir, telithromycin) may increase exposure to dasatinib and should be avoided.	
+In patients receiving treatment with SPRYCEL, close monitoring for toxicity and a SPRYCEL dose reduction should be considered if systemic administration of a potent CYP3A4 inhibitor cannot be avoided.	
+Drugs that may decrease dasatinib plasma concentrations CYP3A4 Inducers: Drugs that induce CYP3A4 activity may decrease dasatinib plasma concentrations.	
+In patients in whom CYP3A4 inducers (eg, dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital) are indicated, alternative agents with less enzyme induction potential should be used.	
+If SPRYCEL must be administered with a CYP3A4 inducer, a dose increase in SPRYCEL should be considered.	
+St. Johns wort (Hypericum perforatum) may decrease SPRYCEL plasma concentrations unpredictably.	
+Patients receiving SPRYCEL should not take St. Johns wort.	
+Antacids: Nonclinical data demonstrate that the solubility of dasatinib is pH dependent.	
+Simultaneous administration of SPRYCEL with antacids should be avoided.	
+If antacid therapy is needed, the antacid dose should be administered at least 2 hours prior to or 2 hours after the dose of SPRYCEL.	
+H2 Blockers/Proton Pump Inhibitors: Long-term suppression of gastric acid secretion by H2 blockers or proton pump inhibitors (eg, famotidine and omeprazole) is likely to reduce dasatinib exposure.	
+The concomitant use of H2 blockers or proton pump inhibitors with SPRYCEL is not recommended.	
+The use of antacids should be considered in place of H2 blockers or proton pump inhibitors in patients receiving SPRYCEL therapy.	
+Drugs that may have their plasma concentration altered by dasatinib CYP3A4 Substrates: Dasatinib is a time-dependent inhibitor of CYP3A4.	
+Therefore, CYP3A4 substrates known to have a narrow therapeutic index such as alfentanil, astemizole, terfenadine, cisapride, cyclosporine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus, or ergot alkaloids (ergotamine, dihydroergotamine) should be administered with caution in patients receiving SPRYCEL.	
+Hepatic Impairment There are currently no clinical studies with SPRYCEL in patients with impaired liver function (clinical studies have excluded patients with ALT and/or AST  2.5 times the upper limit of the normal range and/or total bilirubin  2 times the upper limit of the normal range).	
+Metabolism of dasatinib is mainly hepatic.	
+Caution is recommended in patients with hepatic impairment.	
+Renal Impairment There are currently no clinical studies with SPRYCEL in patients with impaired renal function (clinical studies have excluded patients with serum creatinine concentration  1.5 times the upper limit of the normal range).	
+Dasatinib and its metabolites are minimally excreted via the kidney.	
+Since the renal excretion of unchanged dasatinib and its metabolites is  4%, a decrease in total body clearance is not expected in patients with renal insufficiency.	
+Drug interaction studies have not been performed with Soliris.	
+No formal drug-drug interaction studies have been performed.	
+No confirmed interactions have been reported between ZOLADEX and other drugs	
+ATROVENT Inhalation Aerosol has been used concomitantly with other drugs, including sympathomimetic bronchodilators, methylxanthines, and steroids, commonly used in the treatment of chronic obstructive pulmonary disease.	
+With the exception of albuterol, there are no formal studies fully evaluating the interaction effects of ATROVENT Inhalation Aerosol and these drugs with respect to effectiveness.	
+Anticholinergic agents: Although ipratropium bromide is minimally absorbed into the systemic circulation, there is some potential for an additive interaction with concomitantly used anticholinergic medications.	
+Caution is therefore advised in the coadministration of ATROVENT Inhalation Aerosol with other anticholinergic-containing drugs.	
+Concomitant treatment with thrombolytics (eg, rt-PA or streptokinase) may: - increase the risk of bleeding complications - considerably enhance the effect of REFLUDAN on aPTT prolongation	
+Concomitant treatment with coumarin derivatives (vitamin K antagonists) and drugs that affect platelet function may also increase the risk of bleeding.	
+Co-administration of nelfinavir at steady-state with a single dose of azithromycin.	
+Co-administration of nelfinavir at steady-state with a single dose of azithromycin (2 x 600 mg tablets) results in increased azithromycin serum concentrations.	
+Although a dose adjustment of azithromycin is not recommended when administered in combination with nelfinavir, close monitoring for known side effects of azithromycin, such as liver enzyme abnormalities and hearing impairment, is warranted.	
+Azithromycin did not affect the prothrombin time response to a single dose of warfarin.	
+However, prudent medical practice dictates careful monitoring of prothrombin time in all patients treated with azithromycin and warfarin concomitantly.	
+Concurrent use of macrolides and warfarin in clinical practice has been associated with increased anticoagulant effects.	
+Drug interaction studies were performed with azithromycin and other drugs likely to be co-administered.	
+When used in therapeutic doses, azithromycin had a modest effect on the pharmacokinetics of atorvastatin, carbamazepine, cetirizine, didanosine, efavirenz, fluconazole, indinavir, midazolam, rifabutin, sildenafil, theophylline (intravenous and oral), triazolam, trimethoprim/sulfamethoxazole or zidovudine.	
+Co-administration with efavirenz or fluconazole had a modest effect on the pharmacokinetics of azithromycin.	
+No dosage adjustment of either drug is recommended when azithromycin is co administered with any of the above agents.	
+Interactions with the drugs listed below have not been reported in clinical trials with azithromycin;	
+however, no specific drug interaction studies have been performed to evaluate potential drug-drug interaction.	
+Nonetheless, they have been observed with macrolide products.	
+Until further data are developed regarding drug interactions when azithromycin and these drugs are used concomitantly, careful monitoring of patients is advised: Digoxin elevated digoxin concentrations.	
+Ergotamine or dihydroergotamine acute ergot toxicity characterized by severe peripheral vasospasm and dysesthesia.	
+Cyclosporine, hexobarbital and phenytoin concentrations.	
+Laboratory Test Interactions There are no reported laboratory test interactions.	
+Repeat Treatment Studies evaluating the use of repeated courses of Zmax have not been conducted.	
+Oral Anticoagulants: Thyroid hormones appear to increase catabolism of vitamin K-dependent clotting factors.	
+If oral anticoagulants are also being given, compensatory increases in clotting factor synthesis are impaired.	
+Patients stabilized on oral anticoagulants who are found to require thyroid replacement therapy should be watched very closely when thyroid is started.	
+If a patient is truly hypothyroid, it is likely that a reduction in anticoagulant dosage will be required.	
+No special precautions appear to be necessary when oral anticoagulant therapy is begun in a patient already stabilized on maintenance thyroid replacement therapy.	
+Insulin or Oral Hypoglycemics: Initiating thyroid replacement therapy may cause increases in insulin or oral hypoglycemic requirements.	
+The effects seen are poorly understood and depend upon a variety of factors such as dose and type of thyroid preparations and endocrine status of the patient.	
+Patients receiving insulin or oral hypoglycemics should be closely watched during initiation of thyroid replacement therapy.	
+Cholestyramine: Cholestyramine binds both T4 and T3 in the intestine, thus impairing absorption of these thyroid hormones.	
+In vitro studies indicate that the binding is not easily removed.	
+Therefore, 4 to 5 hours should elapse between administration of cholestyramine and thyroid hormones.	
+Estrogen, Oral Contraceptives: Estrogens tend to increase serum thyroxine-binding globulin (TBg).	
+In a patient with a nonfunctioning thyroid gland who is receiving thyroid replacement therapy, free levothyroxine may be decreased when estrogens are started thus increasing thyroid requirements.	
+However, if the patients thyroid gland has sufficient function, the decreased free thyroxine will result in a compensatory increase in thyroxine output by the thyroid.	
+Therefore, patients without a functioning thyroid gland who are on thyroid replacement therapy may need to increase their thyroid dose if estrogens or estrogen-containing oral contraceptives are given.	
+Tricyclic Antidepressants: Use of thyroid products with imipramine and other tricyclic antidepressants may increase receptor sensitivity and enhance antidepressant activity transient cardiac arrhythmias have been observed.	
+Thyroid hormone activity may also be enhanced.	
+Digitalis: Thyroid preparations may potentiate the toxic effects of digitalis.	
+Thyroid hormonal replacement increases metabolic rate, which requires an increase in digitalis dosage.	
+Ketamine: When administered to patients on a thyroid preparation, this parenteral anesthetic may cause hypertension and tachycardia.	
+Use with caution and be prepared to treat hypertension, if necessary.	
+Vasopressors: Thyroxine increases the adrenergic effect of catecholamines such as epinephrine and norepinephrine.	
+Therefore, injection of these agents into patients receiving thyroid preparations increases the risk of precipitating coronary insufficiency especially in patients with coronary artery disease.	
+Careful observation is required.	
+Drug/Laboratory Test Interactions The following drugs or moieties are known to interfere with laboratory tests performed in patients on thyroid hormone therapy: androgens, corticosteroids, estrogens, oral contraceptives containing estrogens, iodine-containing preparations and the numerous preparations containing salicylates.	
+- Changes in TBg concentration should be taken into consideration in the interpretation of T4 and T3 values.	
+In such cases, the unbound (free) hormone should be measured.	
+Pregnancy estrogens and estrogen-containing oral contraceptives increase TBg concentrations.	
+TBg may also be increased during infectious hepatitis.	
+Decreases in TBg concentrations are observed in nephrosis, acromegaly and after androgen or corticosteroid therapy.	
+Familial hyper- or hypo-thyroxine-binding-globulinemias have been described.	
+The incidence of TBg deficiency approximates 1 in 9000.	
+The binding of thyroxine by thyroxine-binding prealbumin (TBPA) is inhibited by salicylates	
+.	
+- Medicinal or dietary iodine interferes with all in vivo tests of radio-iodine uptake producing low uptakes which may not be reflective of a true decrease in hormone synthesis	
+.	
+- The persistence of clinical and laboratory evidence of hypothyroidism in spite of adequate dosage replacement indicates either poor patient compliance, poor absorption, excessive fecal loss, or inactivity of the preparation.	
+Intracellular resistance to thyroid hormone is quite rare.	
+Isoproterenol hydrochloride injection and epinephrine should not be administered simultaneously because both drugs are direct cardiac stimulants and their combined effects may induce serious arrhythmias.	
+The drugs may, however, be administered alternately provided a proper interval has elapsed between doses.	
+ISUPREL should be used with caution, if at all, when potent inhalational anesthetics such as halothane are employed because of potential to sensitize the myocardium to effects of sympathomimetic amines.	
+Taking amyl nitrite after drinking alcohol may worsen side effects and may cause severe hypotension and cardiovascular collapse.	
+In vitro mixing of an aminoglycoside with beta-lactamtype antibiotics (penicillins or cephalosporins) may result in a significant mutual inactivation.	
+Even when an aminoglycoside and a penicillin-type drug are administered separately by different routes, a reduction in aminoglycoside serum half-life or serum levels has been reported in patients with impaired renal function and in some patients with normal renal function.	
+Usually, such inactivation of the aminoglycoside is clinically significant only in patients with severely impaired renal function..	
+See	
+No formal drug interaction studies have been conducted.	
+The effects of ERGOMAR may be potentiated by triacetyloleandomycin which inhibits the metabolism of ergotamine.	
+The pressor effects of ERGOMAR and other vasoconstrictor drugs can combine to cause dangerous hypertension.	
+Administration of 0.1-mg/kg (2 x ED95) NIMBEX at 10% or 95% recovery following an intubating dose of succinylcholine (1 mg/kg) produced  95% neuromuscular block.	
+The time to onset of maximum block following NIMBEX is approximately 2 minutes faster with prior administration of succinylcholine.	
+Prior administration of succinylcholine had no effect on the duration of neuromuscular block following initial or maintenance bolus doses of NIMBEX.	
+Infusion requirements of NIMBEX in patients administered succinylcholine prior to infusions of NIMBEX were comparable to or slightly greater than when succinylcholine was not administered.	
+The use of NIMBEX before succinylcholine to attenuate some of the side effects of succinylcholine has not been studied.	
+Although not studied systematically in clinical trials, no drug interactions were observed when vecuronium, pancuronium, or atracurium were administered following varying degrees of recovery from single doses or infusions of NIMBEX.	
+Isoflurane or enflurane administered with nitrous oxide/oxygen to achieve 1.25 MAC [Minimum Alveolar Concentration] may prolong the clinically effective duration of action of initial and maintenance doses of NIMBEX and decrease the required infusion rate of NIMBEX.	
+The magnitude of these effects may depend on the duration of administration of the volatile agents.	
+Fifteen to 30 minutes of exposure to 1.25 MAC isoflurane or enflurane had minimal effects on the duration of action of initial doses of NIMBEX and therefore, no adjustment to the initial dose should be necessary when NIMBEX is administered shortly after initiation of volatile agents.	
+In long surgical procedures during enflurane or isoflurane anesthesia, less frequent maintenance dosing, lower maintenance doses, or reduced infusion rates of NIMBEX may be necessary.	
+The average infusion rate requirement may be decreased by as much as 30% to 40%.	
+In clinical studies propofol had no effect on the duration of action or dosing requirements for NIMBEX.	
+Other drugs which may enhance the neuromuscular blocking action of nondepolarizing agents such as NIMBEX include certain antibiotics (e. g., aminoglycosides, tetracyclines, bacitracin, polymyxins, lincomycin, clindamycin, colistin, and sodium colistemethate), magnesium salts, lithium, local anesthetics, procainamide, and quinidine.	
+Resistance to the neuromuscular blocking action of nondepolarizing neuromuscular blocking agents has been demonstrated in patients chronically administered phenytoin or carbamazepine.	
+While the effects of chronic phenytoin or carbamazepine therapy on the action of NIMBEX are unknown, slightly shorter durations of neuromuscular block may be anticipated and infusion rate requirements may be higher.	
+Drug/Laboratory Test Interactions None known.	
+The effects of concomitant phenytoin administration on the steady-state pharmacokinetics of quetiapine.  	
+Quetiapine fumarate ('Seroquel') is a newly introduced atypical antipsychotic with demonstrated efficacy in the treatment of positive and negative symptoms of schizophrenia. 	
+It is extensively metabolized, predominantly by cytochrome P450 3A4. 	
+Therefore, concurrent administration of drugs that induce or inhibit this enzyme may affect quetiapine pharmacokinetics. 	
+This study demonstrated that the potent cytochrome P450 enzyme-inducer phenytoin did indeed have a marked effect on the metabolism of quetiapine, resulting in a 5-fold increase in clearance when administered concomitantly to patients with DSM-IV-diagnosed schizophrenia, schizoaffective disorder, or bipolar disorder. 	
+These results indicate that dosage adjustment of quetiapine may be necessary when the two drugs are given concurrently and that caution may be required when administering other drugs that inhibit or induce cytochromes, particularly P450 3A4.	
+[Drug treatment of erection disorders in patients with cardiovascular disease] Erectile dysfunction is a frequent condition in cardiovascular patients. 	
+Since the arrival of oral erection-supporting medication, patients want to know how safe sexual activity is in cardiovascular disease in general and during use of erection-supporting medication in particular. 	
+Sexual intercourse with a steady partner causes no more cardiovascular risk than normal daily activities such as ironing, 2 kilometers of walking without climbing, paperhanging, playing golf or gardening. 	
+The relative risk of myocardial infarction during sexual activity is not significantly higher than for healthy persons. 	
+The incidence of cardiovascular morbidity and mortality is not higher among users of sildenafil. 	
+Sildenafil is contraindicated in patients using long-acting nitrates or who may need to use short-acting nitrates, because the combination may cause a sharp fall of the blood pressure. 	
+No interactions have been observed with beta-receptor blockers, calcium antagonists, thiazide and loop diuretics and ACE inhibitors. 	
+Before prescribing a symptomatic (pharmaceutical) treatment for patients with an erection disorder, attention should be given tot the sexological, psychological and medical backgrounds of the disorder. 	
+Secondary prevention of atherosclerotic risk factors is also important: regulation of blood pressure and blood sugar level, hyperlipidaemia and obesity, as well as a change of lifestyle (giving up smoking, adapting of diet and more physical exertion). 	
+Patients with a very low cardiac capacity should be advised to refrain from treatment of the erection disorder.	
+Failure of neomycin to modify ACTH induced hypertension in sheep.	
+Studies in rats have shown that neomycin administration attenuates certain types of adrenocortical steroid dependent hypertension, including ACTH hypertension. 	
+The effects of oral neomycin on ACTH induced hypertension were examined in conscious sheep. 	
+Neomycin has no effect on the blood pressure or metabolic responses to ACTH in sheep.	
+Pharmacokinetic Interaction between amprenavir and rifabutin or rifampin in healthy males. 	
+The objective of this study was to determine if there is a pharmacokinetic interaction when amprenavir is given with rifabutin or rifampin and to determine the effects of these drugs on the erythromycin breath test (ERMBT). 	
+Twenty-four healthy male subjects were randomized to one of two cohorts. 	
+All subjects received amprenavir (1,200 mg twice a day) for 4 days, followed by a 7-day washout period, followed by either rifabutin (300 mg once a day [QD]) (cohort 1) or rifampin (600 mg QD) (cohort 2) for 14 days. 	
+Cohort 1 then received amprenavir plus rifabutin for 10 days, and cohort 2 received amprenavir plus rifampin for 4 days. 	
+Serial plasma and urine samples for measurement of amprenavir, rifabutin, and rifampin and their 25-O-desacetyl metabolites, were measured by high-performance liquid chromatography. 	
+Rifabutin did not significantly affect amprenavir's pharmacokinetics. 	
+Amprenavir significantly increased the area under the curve at steady state (AUC(ss)) of rifabutin by 2.93-fold and the AUC(ss) of 25-O-desacetylrifabutin by 13.3-fold. 	
+Rifampin significantly decreased the AUC(ss) of amprenavir by 82%, but amprenavir had no effect on rifampin pharmacokinetics. 	
+Amprenavir decreased the results of the ERMBT by 83%. 	
+The results of the ERMBT after 2 weeks of rifabutin and rifampin therapy were increased 187 and 156%, respectively. 	
+Amprenavir plus rifampin was well tolerated. 	
+Amprenavir plus rifabutin was poorly tolerated, and 5 of 11 subjects discontinued therapy. 	
+Rifampin markedly increases the metabolic clearance of amprenavir, and coadministration is contraindicated. 	
+Amprenavir significantly decreases clearance of rifabutin and 25-O-desacetylrifabutin, and the combination is poorly tolerated. 	
+Amprenavir inhibits the ERMBT, and rifampin and rifabutin are equipotent inducers of the ERMBT.	
+[The effect of sandimmune on the activity of mixed-function mono-oxidases in the liver microsomes]  The effects of the immunodepressant--the drug sandimmune--on hepatic microsomal monooxygenase activities were studied. 	
+The agent was found to produce some inhibiting activity against hepatic microsomal 7-ethoxycoumarine deethylase in male Wistar rats in vitro and in vivo experiments. 	
+When given in a dose of 50 mg/kg, sandimmune produced no statistically significant effect on the duration of hexanal-induced sleep in mice. 	
+The findings suggest that the agent has slight effects on the tested activities.	
+Repeated oral administration of coumaphos in sheep: interactions of coumaphos with bishydroxycoumarin, trichlorfon, and phenobarbital sodium.  	
+Interactions between treatments with coumaphos, bishydroxycoumarin (an anticoagulant), trichlorfon (an organophosphorous compound), and phenobarbital sodium (an inducer of microsomal enzymes) were investigated in sheep. 	
+A daily dose of 2 mg of coumaphos/kg of body weight for 6 days did not affect the plasma enzymes or the antiprothrombinemic effect of bishydroxy-coumarin in wethers. 	
+The treatment of ewes with an intravenous (IV) injection of trichlorfon, insufficient to produce significant inhibition of erythrocyte acetylcholinesterase (AChE) activity, appeared to produce additive effects with those produced by subsequent treatment with 4 mg of coumaphos/kg/day. 	
+In ewes given 40 mg of phenobarbital sodium/kg for 5 days intraperitoneally (IP), the anticholinesterase effect of 4 mg of coumaphos/kg was significantly reduced and signs of toxicity were not present. 	
+Treatment with daily doses of 2 mg of coumaphos/kg for 6 days did not modify the anticholinesterase effect of a 2nd series of treatments given 6 weeks later.	
+Pharmacokinetic profile of etodolac in special populations. 	
+The pharmacokinetics of etodolac in healthy normal volunteers has been extensively studied and is well described. 	
+Etodolac is characterised by a high oral bioavailability, low clearance, a small volume of distribution, and a 7-hour half-life. 	
+It is essentially completely metabolised, therefore little is excreted unchanged. 	
+Etodolac is highly protein bound. 	
+To investigate the effect of disease states or concomitant drug administration on a patient's response to etodolac, additional pharmacokinetic studies were carried out in special populations. 	
+Since etodolac has a well-defined pharmacokinetic-pharmacodynamic relationship, measurement of pharmacokinetic parameters is clinically relevant. 	
+Data from studies to date show that disease states, underlying conditions, and concomitantly administered highly protein-bound drugs have essentially no effect on etodolac pharmacokinetics. 	
+Therefore, etodolac can generally be given without the need for dosage modifications in special populations such as uncompromised elderly patients, those with moderate renal impairment, and patients with stable hepatic disease.	
+Enhanced theophylline clearance secondary to phenytoin therapy.  	
+This report describes two cases in which theophylline clearance accelerated markedly with concomitant phenytoin administration. 	
+Maximum calculated theophylline clearance ranged from 2 1/2 to 3 1/2 times baseline. 	
+Onset of the interaction began within five days of beginning concurrent therapy. 	
+With combined use, clinicians should be aware, when phenytoin is added, of the potential for reexacerbation of pulmonary symptomatology due to lowered serum theophylline concentrations.	
+In vitro activity of KRM-1648, either singly or in combination with ofloxacin, against Mycobacterium ulcerans. 	
+The antimicrobial effect of a benzoxazinorifamycin, KRM-1648, either alone or in combination with ofloxacin, was evaluated in vitro against two type strains and six clinical isolates of Mycobacterium ulcerans. 	
+Growth of M. 	
+ulcerans was measured by plate counts and the BACTEC radiometric method. 	
+The minimal inhibitory concentration as well as minimal bactericidal concentration of KRM-1648 against M. 	
+ulcerans was between 0.012 and 0.025 mg/l, while corresponding values for rifampicin and rifabutin were in the range of 0.1-0.8 mg/l and 0.1-0.4 mg/l respectively. 	
+When combined with ofloxacin, KRM-1648 exhibited strong synergistic activity while only additive effects were observed with the combination of rifampicin (or rifabutin) and ofloxacin. 	
+These results suggest that KRM-1648 has a great potential in the treatment of M. 	
+ulcerans infection.	
+Pharmacokinetics of calcium-entry blockers. 	
+Effective use of drugs in therapy depends not only on clinical acumen but also on the availability of relevant pharmacokinetic and pharmacodynamic data. 	
+Such information assists in development of safe dosing regimens, prediction of abnormal handling of drugs in states of disease and disorder and anticipation of drug interactions. 	
+For the calcium-entry blocking agents now available in the United States (verapamil, nifedipine and diltiazem), these data appeared well after clinical patterns of use evolved. 	
+Nonetheless, their relevance continues to be demonstrated by the dependence of each agent on intact liver blood flow and function for normal rates of elimination; 	
+by the nonlinear kinetic characteristics for verapamil and diltiazem (and probably for nifedipine, as well) and the derivative implications for decreased dosing frequency requirements; 	
+and by observations now appearing on the relation between plasma drug levels and drug effects, both therapeutic and toxic. 	
+Such data are discussed herein, with emphasis on those aspects that impact on the clinical use of the calcium-entry antagonists.	
+Herbal remedies, nephropathies, and renal disease. 	
+The use of herbal remedies is becoming increasingly popular in the United States. 	
+Research has shown that herbal remedy use may be associated with acute renal failure. 	
+In addition, the use of herbal remedies may be detrimental for the patient with compromised renal function. 	
+Patients with renal insufficiency or renal failure may be at risk for further kidney damage as well as complications related to interactions of herbal remedies with complex renal therapy regimens. 	
+This article will describe the escalating use of herbal therapy and the hazards of herbal remedy use among patients.	
+Immunosuppressive drugs and their complications.  	
+Drugs that suppress the immune system are widely used. 	
+They are part of the treatment of patients with organ transplants, malignancy, and increasingly those with conditions such as psoriasis, rheumatoid arthritis, and liver and bowel disease in which inflammation is an aetiological factor. 	
+Because of the broadening indications for immunosuppressive drugs, and the prolonged survival in conditions for which they are being used, many patients on immunosuppression are now cared for in the community or seen in non-specialist hospitals, usually in close collaboration with a specialist. 	
+This article looks at five commonly used immunosuppressive drugs in turn (corticosteroids, cyclosporin, azathioprine, methotrexate, cyclophosphamide), discussing the main, non-infection, unwanted effects, ways to avoid them and what to do if problems arise. 	
+The management of infection is dealt with as a separate section.	
+Dexamethasone and retinyl acetate similarly inhibit and stimulate EGF- or insulin-induced proliferation of prostatic epithelium.	
+Prostatic epithelium proliferates in a defined medium consisting of basal medium RPMI1640 containing transferrin (1 microgram/ml), EGF (10 ng/ml), and insulin (3.7 micrograms/ml or 0.1 IU/ml). 	
+Although neither dexamethasone nor retinyl acetate affected the proliferation of prostatic epithelium in RPMI1640 containing transferrin alone, they modify the mitogenic effect of EGF and insulin. 	
+Dexamethasone at 10(-10) M or retinyl acetate at about 3 X 10(-9) M inhibits proliferation stimulated by EGF. 	
+Higher concentrations of dexamethasone (10(-8) - 10(-6) M) or retinyl acetate (3 X 10(-8) - 10(-7) M) enhance the mitogenic activity of EGF. 	
+Dexamethasone had a similar effect in the presence of insulin. 	
+However, retinyl acetate stimulated, but did not significantly inhibit, proliferation in the presence of insulin. 	
+These results suggest that both dexamethasone and retinyl acetate, and possibly other glucocorticoids and retinoids, may regulate the proliferation of prostate epithelium by a dose-dependent modification of the activity of insulin and EGF.	
+Death in amphetamine users: causes and rates.  	
+The world medical literature contains 43 reports of deaths associated with amphetamines in a 35-year period. 	
+These included seven cerebrovascular accidents, six sudden cardiac deaths, three cases of hyperpyrexia, eight poisonings of uncertain mechanism and seven cases of medical complications of intravenous injection; 	
+the remainder were of uncertain cause. 	
+In contrast, in Ontario alone, in 1972 and 1973 there were 26 deaths in amphetamine users, of which 16 were due to accident suicide or homicide. 	
+Of the remaining cases, two were cardiac, two hepatic and the rest were mixed drug overdose. 	
+Pulmonary granulomata, subacute hepatitis and other lesions resulting from intravenous drug use were common findings at autopsy. 	
+On the basis of the estimated number of regular users of intravenous amphetamine in Ontario, the mortality rate in such users is at least four times as high as in the general population of the same age, and is comparable to that in alcoholics and heroin addicts. 	
+However, the absolute number of alcohol-related deaths is far greater than the number of deaths in amphetamine or heroin users.	
+[A pharmacological analysis of the effect of angiotensin on stimulated gastric secretion]  Chronic experiments on dogs with gastric fistulas were carried out to study the influence of angiotensin 1 and angiotensin 2 on pentagastrin- and histamine-induced gastric acid secretion. 	
+It was established that both angiotensins inhibited gastric acid secretion stimulated by pentagastrin but not by histamine. 	
+Comparative analysis of the effects of stimulation and inhibition of cholino- and adrenoreceptors on this inhibitory action of angiotensins suggested the mediation of angiotensin influence through the modulation of cholinergic reactions of parietal cells in the stomach.	
+[Stimulation by cerulein--an analog of the octapeptide cholecystokinin--of 3H-spiroperidol binding after the long-term administration of neuroleptics]  It has been established in experiments on white male rats that prolonged administration (twice a day for 14 days) of haloperidol (0.25 mg/kg) and pyreneperone (0.25 mg/kg) resulted in the reduced interaction between 3H-spiroperidol and low affinity binding sites for apomorphine in subcortical structures, whereas 3H-spiroperidol binding with high affinity binding sites for apomorphine increased both in the frontal cortex and subcortical structures of the forebrain. 	
+After prolonged administration of neuroleptics the displacing effect of cerulein, an analog of cholecystokinin octapeptide, was replaced by the stimulant action on 3H-spiroperidol binding. 	
+It is assumed that increased interaction between 3H-spiroperidol and high affinity binding sites for apomorphine on dopamine2- and serotonin2-receptors underlies the antipsychotic action of neuroleptics after their prolonged administration. 	
+Cholecystokinin octapeptide is a necessary factor for realization of this action of neuroleptics.	
+Interaction of ketamine and halothane in rats. 	
+The interaction of intramuscularly injected ketamine and its N-demethylated metabolite (metabolite I) with halothane was evaluated in rats. 	
+Five, 10, 20, or 50 mg/kg of ketamine alone or 20, 50, or 100 mg/kg of metabolite I alone produced less than 10 minutes of hypnosis. 	
+However, halothane anesthetic requirement (i.e., MAC) was depressed in a dose-dependent fashion as much as 56% 1-2 hours and as much as 14% 5-6 hours after injection of ketamine, 50 mg/kg, im. 	
+The reduction in MAC was correlated with brain levels of ketamine or metabolite I, suggesting a ketamine:metabolite I potency ration of 3:1. 	
+The half-life of ketamine in plasma and brain was longer in the presence of halothane than when ketamine was given alone. 	
+It is concluded that ketamine is not a short-acting drug and that concomitant use with halothane would be expected to prolong further the duration of its action on the central nervous system.	
+In vitro interaction of prostaglandin F2alpha and oxytocin in placental vessels. 	
+The interaction of prostaglandin F2alpha and synthetic oxytocin on placental vessels was studied in vitro. 	
+Resistance was measured near the placental margin after spontaneous term delivery. 	
+In seven experiments reactions to norepinephrine and oxytocin were PGF2alpha. 	
+PGF2alpha produced significantly increased vasoconstriction after a single administration of oxytocin. 	
+In eight experiments the perfusion medium contained oxytocin. 	
+There was no change after a single dose of PGF2alpha. 	
+The reaction after norepinephrine remained the same in both groups of experiments. 	
+There is thus an enhancement effect 	
+There is thus an enhancement effect of PGF2alpha upon the reaction of placental vessels to oxytocin in vitro.	
+Note: dissolution of aerosol particles of budesonide in Survanta, a model lung surfactant. 	
+The effect of a pulmonary surfactant extract from bovine lung, Survanta, on the dissolution rate of aerosol particles of budesonide was determined. 	
+Aerosol particles of budesonide were generated from an ethanol solution, dried, and collected by a cascade impactor for characterization or by a liquid impinger for dissolution experiments. 	
+Powder x-ray diffraction, differential scanning calorimetry, differential thermal analysis, and scanning electron microscopy were used to characterize the aerosol particles and starting material. 	
+No change in phase was detected, although the aerosol particles appeared to contain residual solvent. 	
+The dissolution rate of the aerosol particles in saline was low and variable. 	
+Survanta increased the extent of dissolution of budesonide in proportion to the added concentration, which was also verified by equilibrium solubilization studies. 	
+Survanta also increased rate of dissolution, in a manner similar to sodium dodecyl sulfate. 	
+Analysis of the concentration of budesonide following ultracentrifugation indicated that there is rapid equilibration of budesonide between the Survanta and aqueous phase. 	
+These results show that lung surfactant has the potential of enhancing the rate and extent of dissolution of drugs administered to the lung.	
+Anaesthesia and the epileptic pateint. 	
+A review. 	
+A review is presented of some of the problems that may arise in association with anaesthesia for epileptic patients. 	
+There is the possibility of precipitating anticonvulsant drug toxicity. 	
+Numerous drug interactions are possible with some anticonvulsant agents, such as phenobarbitone and phenytoin, which affect hepatic microsomal enzyme systems. 	
+There is the risk of convulsions occurring in susceptible patients following the use of the new anaesthetic agents which are capable of inducing CNS excitability.	
+Interaction between glycine and glutamate in the development of spontaneous motility in chick embryos. 	
+In this study we investigated whether also glycine fulfils the function as co-activator in glutamatergic activation of NMDA receptors in the neuronal apparatus of spontaneous motility in chick embryos. 	
+The successive application of glycine (5 or 10 mg/kg egg weight (e.w.) 	
+and glutamate (15 mg/kg e.w.) 	
+The successive application of glycine (5 or 10 mg/kg egg weight (e.w.) and glutamate (15 mg/kg e.w.) in a 10 min interval significantly increased the activation of spontaneous motility of 17-day-old chick embryos in comparison with the effect of glutamate alone. 	
+This effect did not depend on the order of application of the drugs. 	
+In 13-day-old embryos, glycine was ineffective in both doses. 	
+It is concluded from these results that the modulatory effect of glycine is evidently a later developmental acquisition (after day 15 of incubation) in the embryogenesis of NMDA-ergic activation of spontaneous motility in chick embryos similarly as glycinergic inhibition.	
+Acute effect of different antidepressants on glycemia in diabetic and non-diabetic rats. 	
+Diabetic patients have a 20% higher risk of depression than the general population. 	
+Treatment with antidepressant drugs can directly interfere with blood glucose levels or may interact with hypoglycemic agents. 	
+The treatment of depression in diabetic patients must take into account variations of glycemic levels at different times and a comparison of the available antidepressant agents is important. 	
+In the present study we evaluated the interference of antidepressants with blood glucose levels of diabetic and non-diabetic rats. 	
+In a first experiment, male adult Wistar rats were fasted for 12 h. 	
+Imipramine (5 mg/kg), moclobemide (30 mg/kg), clonazepam (0.25 mg/kg), fluoxetine (20 mg/kg) sertraline (30 mg/kg) or vehicle was administered. 	
+After 30 min, fasting glycemia was measured. 	
+An oral glucose overload of 1 ml of a 50% glucose solution was given to rats and blood glucose was determined after 30, 60 and 90 min. 	
+Imipramine and clonazepam did not change fasting or overload glycemia. 	
+Fluoxetine and moclobemide increased blood glucose at different times after the glucose overload. 	
+Sertraline neutralized the increase of glycemia induced by oral glucose overload. 	
+In the second experiment, non-diabetic and streptozotocin-induced diabetic rats were fasted, and the same procedures were followed for estimation of glucose tolerance 30 min after glucose overload. 	
+Again, sertraline neutralized the increase in glycemia after glucose overload both in diabetic and non-diabetic rats. 	
+These data raise the question of whether sertraline is the best choice for prolonged use for diabetic individuals, because of its antihyperglycemic effects. 	
+Clonazepam would be useful in cases with potential risk of hypoglycemia.	
+Spermine promotes the translocation of phosphatidate phosphohydrolase from the cytosol to the microsomal fraction of rat liver and it enhances the effects of oleate in this respect.	
+Spermine (0.5-2 mM) promoted the translocation of phosphatidate phosphohydrolase from the soluble to the microsomal fraction in a cell-free system derived from rat liver. 	
+By contrast, spermidine (1 mM) and putrescine (1 mM) had no significant effect on the translocation when added alone. 	
+Spermine, and to a lesser extent, spermidine, enhanced the translocating action of oleate and increased its effectiveness in transferring the phosphohydrolase from the soluble to the microsomal fraction. 	
+It is proposed that the phosphohydrolase becomes metabolically active when it combines with membranes and that polyamines might help to regulate this interaction. 	
+This could facilitate the action of fatty acids and enable cells to increase their capacity for triacylglycerol synthesis to match an increased availability of fatty acids.	
+The effects of ketamine and of Innovar anesthesia on digitalis tolerance in dogs.  	
+In a comparison of digitalis tolerance in dogs anesthetized with ketamine, Innovar Vet, or pentobarbital, the dosage of ouabain needed to cause ventricular tachycardia was significantly higher, as was the LD50 of ouabain, with ketamine or Innovar than with pentobarbital. 	
+Ventricular tachycardia induced by ouabain was generally converted to sinus rhythm following administration of Innovar, ketamine, or droperidol but not after administration of fentayl alone or after pentobarbital.	
+Excretion of thioethers in urine after exposure to electrophilic chemicals.  	
+Electrophilic agents--a class of chemicals that includes most genotoxic compounds--can be inactivated by reaction with glutathione or other SH-bearing molecules. 	
+The conjugates so formed often appear in the urine as mercapturic acids or other thioether products. 	
+This paper critically reviews the suitability of the urinary thioether assay as a method for the detection of exposure to electrophilic agents or their precursors. 	
+In practice, the greatest value of the thioether assay appears to lie in its signal function. 	
+This is demonstrated for cigarette smokers and industrial workers involved in chemical waste incineration. 	
+Whenever increased thioether excretion is observed, it is likely to be due to exposure to one or more suspect compounds. 	
+However, when the thioether concentration ranges within the limits of the normal value, one must not conclude that there is no, or negligible, exposure. 	
+More specific applications of the assay of thio compounds in urine allow development of selective methods that may be useful for biological monitoring.	
+Rhabdomyolysis secondary to a drug interaction between simvastatin and clarithromycin.  	
+OBJECTIVE: To report a case of rhabdomyolysis resulting from concomitant use of clarithromycin and simvastatin. 	
+CASE SUMMARY: A 64-year-old African-American man was admitted to the hospital for worsening renal failure, elevated creatine phosphokinase, diffuse muscle pain, and severe muscle weakness. 	
+About three weeks prior to admission, the patient was started on clarithromycin for sinusitis. 	
+The patient had been receiving simvastatin for approximately six months. 	
+He was treated aggressively with intravenous hydration, sodium bicarbonate, and hemodialysis. 	
+A muscle biopsy revealed necrotizing myopathy secondary to a toxin. 	
+The patient continued to receive intermittent hemodialysis until his death from infectious complications that occurred three months after admission. 	
+There were several factors that could have increased his risk for developing rhabdomyolysis, including chronic renal failure. 	
+DISCUSSION: Clarithromycin is a potent inhibitor of CYP3A4, the major enzyme responsible for simvastatin metabolism. 	
+The concomitant administration of macrolide antibiotics and other hydroxymethylglutaryl coenzyme A (HMG-CoA) reductase inhibitors have resulted in previous reports of rhabdomyolysis. 	
+Other factors may increase the risk of this drug interaction, including the administration of other medications that are associated with myopathy, underlying renal insufficiency, and administration of high doses of HMG-CoA reductase inhibitors. 	
+CONCLUSIONS: Macrolide antibiotics inhibit the metabolism of HMG-CoA reductase inhibitors that are metabolized by CYP3A4 (i.e., atorvastatin, cerivastatin, lovastatin, simvastatin). 	
+This interaction may result in myopathy and rhabdomyolysis, particularly in patients with renal insufficiency or those who are concurrently taking medications associated with myopathy.	
+Optimal designs for the individual and joint exposure general logistic regression models. 	
+Interest in administering compounds in combination lies both in enhancing efficacious effects and in limiting adverse effects. 	
+Although much statistical work has focused on developing mathematical functions to model the joint dose-response curves, relatively little work exists in regard to designing experiments for assessing joint action. 	
+A variety of parametric dose-response models based on either the normal or logistic probability distribution have been proposed in the literature. 	
+These models are typically nonlinear in the parameters, and as such, a nonlinear weighted least squares approach can be employed for the purpose of designing experiments. 	
+The approach is applicable across a wide variety of settings commonly associated with joint action data, including continuous and discrete responses, alternative error structures, and nonzero background response. 	
+Further, designs can be expressed in terms of proportionate responses associated with the individual compounds rather than dose levels, thereby providing for results that are applicable across compounds. 	
+As a precursor to this effort, optimal and minimal experimental designs for the case in which a single compound is administered have also been developed. 	
+Although the proposed methodology for deriving experimental designs can be applied to any nonlinear regression model, primary focus is given to the additive and nonadditive independent joint action (IJA) models for individual and combined exposures proposed by Barton, Braunberg, and Friedman (1).	
+[The GABA-ergic system and brain edema]  It has been shown in rats with experimental toxic and traumatic edemas that picrotoxin (1 mg/kg) removes the antiedematous action of diazepam, phenazepam, phenibut and amizyl and reduces the action of phentolamine. 	
+When the dose of picrotoxin is minimized to 0.5 mg/kg such an effect is not observed. 	
+Prolonged daily administration of picrotoxin in a dose of 1 mg/kg results in the development of brain edema. 	
+It is recommended that GABA-positive drugs be included into a complex of treatment measures for edema.	
+New oral therapies for type 2 diabetes mellitus: The glitazones or insulin sensitizers. 	
+Type 2 diabetes mellitus is a growing problem not only in the United States but also across the world. 	
+There is now strong evidence that intensive control of blood glucose can significantly reduce and retard the microvascular complications of retinopathy, nephropathy, and neuropathy. 	
+Ultimately however, up to 80% of type 2 diabetics die from macrovascular cardiovascular disease. 	
+This increased incidence of atherosclerotic disease is intricately associated with insulin resistance, which is a major pathophysiologic abnormality in type 2 diabetes. 	
+There is strong evidence that insulin resistance is involved in the development of not only hyperglycemia, but also dyslipidemia, hypertension, hypercoagulation, vasculopathy, and ultimately atherosclerotic cardiovascular disease. 	
+This cluster of metabolic abnormalities has been termed the insulin resistance or cardiovascular dysmetabolic syndrome. 	
+The thiazolidinediones (rosiglitazone and pioglitazone), a new class of oral antidiabetic agents, are &quot;insulin sensitizers&quot; 	
+and exert direct effects on the mechanisms of insulin resistance. 	
+These effects not only improve insulin sensitivity and glycemic control with reduced insulin requirements, but also have potentially favorable effects on other components of the cardiovascular dysmetabolic syndrome. 	
+Long-term studies are needed to determine whether the insulin-sensitizing effects of the glitazones can prevent or delay premature atherosclerotic cardiovascular disease, morbidity, and death.	
+Effect of probenecid on the apparent volume of distribution and elimination of cloxacillin.  	
+According to Gibaldi et al. 	
+(1968, 1970), the higher serum concentrations of penicillins and cephaloridine reached after administration of probenecid are due not only to slower renal elimination but also to an altered distribution in the body. 	
+To determine whether probenecid has a direct effect on the distribution of cloxacillin, the elimination and distribution of cloxacillin was studied in six patients, five lacking kidney function and one with a partially impaired renal function, in the presence or absence of probenecid. 	
+No significant difference was found between the mean values of the volume of distribution of cloxacillin with and without probenecid (13.0 and 12.6 liters, respectively). 	
+Thus, the hypothesis of Gibaldi et al. 	
+could not be confirmed for cloxacillin in patients lacking kidney function. 	
+In spite of the absence of kidney function, the value of the elimination rate constant was significantly decreased in the presence of probenecid (from 0.326 to 0.263/h). 	
+This might be explained by a blockade by probenecid of the elimination of cloxacillin by the liver.	
+Stereoselective behavioral effects of N-allylnormetazocine in pigeons and squirrel monkeys.  	
+The behavioral effects of the stereoisomers of N-allylnormetazocine (NANM) were compared with those of phencyclidine (PCP) in pigeons and squirrel monkeys responding under a multiple fixed-interval fixed-ratio (FI FR) schedule of food presentation. 	
+Intermediate doses of (+)-NANM or PCP produced transient increases in FI responding in monkeys and sustained increases in FI responding in pigeons; 	
+higher doses decreased FI and FR responding in both species. 	
+In contrast to its enantiomer, (-)-NANM failed to increase FI responding significantly in either species; 	
+at high doses, (-)-NANM decreased FI and FR responding. 	
+In monkeys, (-)-NANM was about 10 times more potent than (+)-NANM in decreasing responding, whereas in pigeons (-)-NANM was about equipotent with (+)-NANM. 	
+In both species, (-)-NANM, but not (+)-NANM, antagonized the rate-decreasing effects of morphine on FI and FR responding. 	
+In monkeys, the effects of (-)-NANM, but not (+)-NANM or PCP, were antagonized by naloxone; 	
+the doses of naloxone required to antagonize the effects of (-)-NANM were more than 100 times higher than those required to antagonize the effects of morphine. 	
+In pigeons, naloxone did not systematically alter the effects of (-)-NANM, (+)-NANM or PCP. 	
+Haloperidol reduced or eliminated the increases in FI responding produced by intermediate doses of either (+)-NANM or PCP in pigeons, but did not antagonize the decreases in FI or FR responding produced by high doses of PCP or either stereoisomer of NANM. 	
+The results demonstrate a high degree of stereoselectivity in the behavioral effects of NANM. 	
+The levorotatory isomer had opioid-antagonist and non-opioid agonist effects in pigeons and mixed opioid agonist-antagonist effects in monkeys. 	
+The dextrorotatory isomer, on the other hand, had effects similar to those of PCP in both species.	
+Cancer in the elderly: basic science and clinical aspects. 	
+The incidence of cancer increases progressively with age. 	
+Rearrangements of genomes have been found to accompany cellular aging. 	
+These factors, in concert with age-dependent alterations in immune function and host defense, may help to explain the increased risk of malignant disease in aged persons. 	
+The clinical presentation and natural history of neoplasia are also affected by aging. 	
+This conference reviews recent developments in these areas, examines the effects of drug use in the elderly and implications for management, and discusses current information on how age may influence the response of cancer to therapy.	
+Prescribing. 	
+Keys to maximizing benefit while avoiding adverse drug effects. 	
+When prescribing for older patients, some physicians are overly cautious, and this strategy can result in a less than optimal treatment outcome. 	
+The reluctance to treat aggressively is understandable because the geriatric population is susceptible to adverse drug reactions. 	
+The key to maximizing therapy lies in individualizing it as much as possible. 	
+There are a number of steps physicians can take to ensure that their patients are not being undertreated. 	
+These steps include regular reevaluations of dosages and plasma drug concentrations, recognition and understanding of drug side effects, and avoidance of certain agents. 	
+Close monitoring allows physicians to minimize risks, maximize benefits, and get the most out of what modern medications can do to help older patients.	
+Determinants of cellular sensitivity to topoisomerase-targeting antitumor drugs.	
+It is now clear that topoisomerase activity level is an important determinant of sensitivity to topo drugs. 	
+The regulation of topoisomerases is no doubt complex and multifaceted and is probably accomplished through redundancy at many control levels. 	
+The mechanism(s) of altered topo I expression in certain tumor types is unknown, but may be related to the central importance of topoisomerases in proliferating cell functions (transcription, replication, etc.), and the aberrant and chronic activation of these functions as a result of specific tumorigenic alterations. 	
+Small differences in sensitivity to chemotherapy can have a dramatic effect on cure rates, and therefore subtle cell type-specific differences may be important determinants of drug sensitivity. 	
+Whether abnormal topoisomerase quantity and specific activity are associated with resistance or sensitivity to topoisomerase-targeted chemotherapy in the clinic is now being studied. 	
+Determinants downstream of cleavable complex formation that affect the sensitivity of tumor versus normal cells to topo drugs in particular and DNA-damaging agents in general are little known. 	
+The goal of enhancing selective tumor cell killing relative to the normal cells that are dose limiting may be achieved either by overcoming tumor cell resistance or by protecting normal cells. 	
+Both of these strategies will become more feasible as specific molecular differences between tumor and normal cells are being rapidly identified and new combination therapies that take advantage of these differences are being designed and tested.	
+Interactions of cobalt and iron in absorption and retention.  	
+The effects of supplementary oral cobalt and iron, as well as the interaction between both at the absorption site, fecal and urinary excretion as well as the retention of these trace elements were determined by using four diets containing either 9 or 63 micrograms/kg of Co and 48 or 446 mg/kg of Fe over a period of 19 days in a total of 24 rats. 	
+Retention was calculated by the balance technique and by the comparative slaughter technique. 	
+After one day, fecal as well as urinary excretion of both elements had already responded to the dietary treatments, with constant values being reached after approximately three days. 	
+Cobalt excretion was enhanced by supplementary cobalt; 	
+fecal excretion, too, was increased by supplementary iron; 	
+whereas urinary excretion was decreased in both cases. 	
+Additional iron significantly inhibited the absorption of cobalt in both dietary cobalt treatments. 	
+The lower rate of absorption in the groups receiving 446 mg Fe instead of 48 mg of Fe per kg diet resulted in a decreased renal excretion of cobalt. 	
+Consequently, the effect of iron on the retention of cobalt was lower than on absorption. 	
+This suggests that interactions between the two elements only take place at the site of absorption. 	
+Because of the low dietary cobalt concentration as compared to the iron contents of the diets, no effect of cobalt on iron absorption and excretion occurred. 	
+Differences in iron balance were only observed between both dietary concentrations, showing a higher absolute but a lower relative absorption as well as retention in the groups fed further Fe.(ABSTRACT TRUNCATED AT 250 WORDS)	
+[Importance of pharmacogenetics]  Pharmacogenetics deals with the differences in effect of drugs caused by genetic variation. 	
+Differences can occur in therapeutic effect and in adverse events. 	
+Genetic variation in metabolism may result in high concentrations of drugs and an increased risk of adverse effects in slow metabolizers, which is important when using for example antidepressants or chemotherapy. 	
+Genetic variation also occurs in proteins interacting with drugs, which may change the effect of e.g. 	
+asthma drugs and antipsychotics. 	
+The selection of drugs and their dosages may be improved, and the number of adverse effects reduced by pharmacogenetic investigations. 	
+However, it may be important also in case of medical examinations for insurances and job appointments, since some patients may turn out to need expensive drugs or to be susceptible to a certain disease. 	
+Therefore, the use of genetic data in these instances has to be regulated.	
+Carbamazepine overdose recognized by a tricyclic antidepressant assay.  	
+Altered mental status in an adolescent presents a diagnostic challenge, and the clinician depends on clinical evaluation and laboratory studies to determine therapy and prognosis. 	
+We report the case of an adolescent with altered consciousness caused by carbamazepine overdose with a positive tricyclic antidepressant level to alert clinicians to the cross-reactivity of carbamazepine with a toxicology screen for tricyclic antidepressants.	
+Anticoagulants. 	
+Treatment plans for patients taking anticoagulants can become complicated. 	
+Anticoagulants predispose a patient to bleeding problems. 	
+Many drugs used in dentistry cannot be taken concomitantly with these medications.	
+Acute hydrocortisone administration does not affect subjective responses to d-amphetamine in humans.  	
+RATIONALE: Stress and glucocorticoids facilitate and reinstate psychostimulant self-administration in rodents. 	
+However, the effects of stress and glucocorticoids on the subjective and behavioral effects of psychostimulants have not been well studied in humans. 	
+OBJECTIVES: To examine the effects of acute hydrocortisone pretreatment on the subjective and behavioral effects of d-amphetamine. 	
+METHODS: Hydrocortisone (100 mg) and d-amphetamine (20 mg) were administered orally to 16 healthy male and female volunteers in a four-session, placebo-controlled, within-subject, crossover design. 	
+To prevent stomach irritation, subjects received rantidine hydrochloride before each experimental session. 	
+Dependent measures included self-reported mood and subjective effects (Addiction Research Center inventory, the profile of mood states, and a series of visual analogue scales), vital signs, salivary cortisol, and psychomotor performance. 	
+RESULTS: Hydrocortisone elevated salivary cortisol levels, produced modest dysphoria, and reduced subjects' reports of wanting more drug. 	
+However, hydrocortisone pretreatment did not affect any of the physiological, behavioral, or subjective effects of d-amphetamine. 	
+CONCLUSIONS: In contrast to the effects of glucocorticoids in rodent studies, these results indicate that an acute increase in cortisol does not enhance the psychostimulant effects of d-amphetamine in humans.	
+Effect of estradiol on endotoxin-induced changes in steroid hormone levels and lethality in male rats.	
+We examined the effect of exogenous estradiol on the changes in serum steroid hormone levels induced by a nonlethal dose of Escherichia coli endotoxin in male rats and the deaths due to nonlethal and lethal doses of endotoxin. 	
+Injection of estradiol 5 min before a nonlethal dose of endotoxin changed the serum sex steroid hormone response of male rats to endotoxin. 	
+The serum estrogen concentrations of estradiol + endotoxin-treated rats decreased by 50%, while those of the endotoxin-treated rats increased (2- to 5-fold). 	
+The serum androgen concentrations of estradiol + endotoxin-treated rats did not change significantly, while those of endotoxin-treated rats dropped to 30-40%	
+0.001. 	
+Exogenous estradiol also appeared to influence the percentage of endotoxin-induced deaths in a dose-dependent manner. 	
+It reduced the number of deaths induced by nonlethal (2 mg/kg) dose of endotoxin but increased the number of deaths induced by a highly lethal dose (8 mg/kg). 	
+These results, together with the known relationships between estrogen and the immune response, suggest that estrogens affect the course of septic shock in a complex fashion and may have either protective or deleterious effect.	
+Studies on the mechanism of action of miconazole: effect of miconazole on respiration and cell permeability of Candida albicans.  	
+The antifungal drug, miconazole nitrate, inhibits the growth of several species of Candida. 	
+Candida albicans, one of the pathogenic species, was totally inhibited at a concentration of approximately 10 mug/ml. 	
+Endogenous respiration was unaffected by the drug at a concentration as high as 100 mug/ml, whereas exogenous respiration was markedly sensitive and inhibited to an extent of 85%. 	
+The permeability of the cell membrane was changed as evidenced by the leakage of 260-nm absorbing materials, amino acids, proteins, and inorganic cations. 	
+The results we present clearly show that the drug alters the cellular permeability, and thus the exogenous respiration becomes sensitive to the drug.	
+Interferon induction: tool for establishing interactions among homopolyribonucleotides. 	
+Hitherto unrecognized interactions between homopolyribonucleotides and complexes thereof are suggested by interferon induction data obtained in a highly sensitive assay system of primary rabbit kidney cell cultures superinduced by metabolic inhibitors.	
+Sildenafil citrate: a therapeutic update. 	
+BACKGROUND: Since its approval by the US Food and Drug Administration in March 1998, sildenafil citrate has been used by millions of men for the treatment of erectile dysfunction. 	
+Recent studies and consensus reports have expanded our understanding of its efficacy, safety, contraindications, and drug interactions. 	
+OBJECTIVE: This paper reviews recent studies of the efficacy of sildenafil, its adverse effects and drug interactions, and socioeconomic factors involved in its use, with a focus on specific patient populations (prostate cancer, diabetes mellitus, ischemic heart disease, spinal cord injuries, neurologic disorders). 	
+METHODS: Clinical studies, case reports, and commentaries and editorials concerning sildenafil published in the international literature between January 1999 and August 2000 were identified through searches of MEDLINE, PREMEDLINE, and International Pharmaceutical Abstracts, using the terms sildenafil, Viagra, and erectile dysfunction. 	
+RESULTS: Sildenafil has demonstrated effectiveness in men with erectile dysfunction associated with prostatectomy, radiation therapy, diabetes mellitus, certain neurologic disorders, and drug therapy (eg, selective serotonin reuptake inhibitors [SSRIs]). 	
+It has not been as effective in women with sexual dysfunction, with the exception of SSRI-associated sexual dysfunction. 	
+Some disorders unrelated to sexual dysfunction (eg, esophageal motility dysfunction) may also respond to sildenafil. 	
+In the general population, sildenafil is considered to have an acceptable tolerability profile; 	
+however, patients with moderate to severe cardiovascular disease or those taking nitrate therapy are at increased risk for potentially serious cardiovascular adverse effects with sildenafil therapy. 	
+In addition, patients taking drugs that inhibit the cytochrome P450 3A4 isozyme, which metabolizes sildenafil, may experience increased drug concentrations and possible toxicity from normal doses of sildenafil. 	
+CONCLUSIONS: Sildenafil is an effective first-line therapy for erectile dysfunction in men. 	
+The decision to prescribe this agent should include such considerations as the cost-risk-benefit balance, patient access, drug distribution pathways, and prescription drug coverage.	
+Tumor phenotype and susceptibility to progression as an expression of subpopulations of initiated murine cells. 	
+Currently, it is conceived that a number of events, or hits, are required for the induction of tumors by chemical agents. 	
+The first phase of this sequence, initiation, is considered to result from at least one event in the genetic apparatus. 	
+Analyses of this sequence, however, usually give little consideration to the nature of the target cell or to the characteristics of the resultant tumors. 	
+Vesselinovitch et al. 	
+(Cancer Res., 38: 2003-2010, 1978) have reported that a single, small pulse of carcinogen can induce early and numerous liver tumors when administered neonatally to mice with a genetic predisposition to hepatotumorigenesis. 	
+In the current study, the nonpredisposed strain C57BL/6N was also shown to be highly susceptible to diethylnitrosamine during the neonatal period. 	
+C57BL/6N demonstrated large numbers of two of the three types of liver tumors seen in livers of genetically predisposed mice, one of which required the additional stimulus of dietary phenobarbital for growth. 	
+Tumors of more malignant phenotype were demonstrated only in genetically predisposed mice (C57BL/6N X C3H/HeN F1) that received one dose of carcinogen. 	
+These findings suggest that the phenotype of a tumor that results from a pulse of a chemical carcinogen may depend upon the target cell. 	
+The initiated cells that result from this hit may vary from those that demonstrate very little progression in cell type and may or may not require exogenous enhancement of growth to those that can progress very rapidly to fully malignant behavior. 	
+The latter might arise from a hit in a genetically initiated cell, the result of which is a more rapid progression in tumor type.	
+Effects of etofibrate upon the metabolism of chylomicron-like emulsions in patients with coronary artery disease.  	
+Slow chylomicron intravascular catabolism has been associated with coronary artery disease and screening for drugs that can speed-up this process can be important. 	
+In this study, the effects of etofibrate upon chylomicron metabolism was tested by determination of the plasma kinetics of a chylomicron-like emulsion model in 12 patients with coronary artery disease, aged 59+/-11 years, (total cholesterol: 240+/-41 mg/dl; triglycerides: 188+/-42 mg/dl) submitted to a randomized, crossover, double-blind, placebo-controlled study with administration of 1 g per day etofibrate or placebo for 1-month. 	
+A 1-month washout period was inserted between the treatment periods. 	
+Patients were intravenously injected a chylomicron-like emulsion doubly labeled with 14C-cholesteryl oleate and 3H-triolein at baseline and after treatments. 	
+After etofibrate treatment, there was decrease of total cholesterol and triglyceride plasma levels and a trend to increase high-density lipoprotein cholesterol plasma levels. 	
+Etofibrate elicited 62% enhancement of post-heparin lipolytic activity and 100% increase of 3H-triglyceride fractional clearance rate compared with placebo treatment. 	
+14C-cholesterol ester fractional clearance rate was 260% greater after etofibrate than after placebo. 	
+Therefore, a potent effect of etofibrate on both chylomicron lipolysis and remnant removal was achieved, indicating that this drug can be used to improve this metabolism in future prospective studies.	
+Selective survival in pentazocine and tripelennamine of Pseudomonas aeruginosa serotype O11 from drug addicts.  	
+The growth of Pseudomonas aeruginosa, particularly serotype O11, in pentazocine and tripelennamine 	
+was evaluated as a possible explanation for the association of deep-seated infection with this organism and abuse of these drugs. 	
+The mean reduction of growth caused by the drugs was 1,000-fold greater for 49 Pseudomonas strains from normal subjects than for 32 strains from drug addicts (4.2 vs. 1.3 logs of reduction at 2 hr, P less than .0005). 	
+A common phenotypic subset of the serotype O11 strains from drug addicts was especially resistant to the inhibitory effects. 	
+Twelve strains of Staphylococcus aureus (a frequent cause of infection in heroin, but not in pentazocine and tripelennamine, addicts) were completely inhibited by the drug combination. 	
+Dose-response curves (derived from the results of using the tablets as well as pure powders) showed that tripelennamine was responsible for the inhibitory activity, which was partially antagonized by pentazocine. 	
+We conclude that an ability of some P. 	
+aeruginosa serotype O11 strains, but not S. 	
+aureus, to survive in pentazocine and tripelennamine may explain in part a shift from S. 	
+aureus to P. 	
+aeruginosa as common pathogens of drug addicts in areas where abuse of this combination of drugs has increased.	
+Influence of coadministration of fluoxetine on cisapride pharmacokinetics and QTc intervals in healthy volunteers.  	
+STUDY OBJECTIVE: To evaluate the effect of fluoxetine on the pharmacokinetics and cardiovascular safety of cisapride at steady state in healthy men. 	
+DESIGN: Open-label, three-phase, sequential study. 	
+SETTING: Clinical research center. 	
+SUBJECTS:Twelve healthy male volunteers. 	
+INTERVENTIONS: Each subject was treated according to the following sequence: baseline; 	
+phase 1 (days 1-6): cisapride 10 mg 4 times/day; 	
+washout (days 7-13); 	
+phase 2 (days 14-44): fluoxetine 20 mg/day; 	
+and phase 3 (days 45-52): cisapride 10 mg 4 times/day (days 45-51) plus fluoxetine 20 mg/day (days 45-52). 	
+MEASUREMENTS and MAIN RESULTS: Blood samples were drawn and 12-lead electrocardiograms performed at specified time points after the last morning dose of cisapride in phases 1 and 3. 	
+Blood samples also were taken before morning doses on the 3rd, 4th, and 5th days of phases 1 and 3. 	
+Electrocardiograms were done at baseline and on the last day of the washout period and phase 2. 	
+Coadministration of fluoxetine significantly decreased cisapride plasma concentrations. 	
+There were no clinically significant changes in corrected QT intervals during administration of cisapride alone or with fluoxetine. 	
+Cisapride was well tolerated when administered alone or with fluoxetine. 	
+CONCLUSION: Cisapride can be administered safely to patients receiving low therapeutic dosages of fluoxetine.	
+Activity of buforin II alone and in combination with azithromycin and minocycline against Cryptosporidium parvum in cell culture.  	
+The in vitro anti-cryptosporidial activity of buforin II alone and in combination with azithromycin and minocycline was investigated. 	
+Buforin II showed moderate activity, which increased with increasing concentration to 55.7% suppression of growth at 20 microM. 	
+Moreover, its activity was enhanced when it was combined with either azithromycin or minocycline with 90% parasite reduction at the highest concentration tested. 	
+Buforin II may be active in inhibiting Cryptosporidium parvum growth in vitro upon combination with either azithromycin or minocycline.	
+Modification of surface histidine residues abolishes the cytotoxic activity of Clostridium difficile toxin A.  	
+Clostridium difficile toxin A displays both cytotoxic and enterotoxic activities. 	
+It has recently been demonstrated that toxin A exerts its cytotoxic effect by the glucosylation of the small GTP-binding proteins of the Rho family. 	
+Diethyl pyrocarbonate, at pH 7.0, was used to chemically modify exposed histidine residues on toxin A. 	
+Modification of toxin A with diethyl pyrocarbonate abolished both its cytotoxic activity and the ability of the toxin to bind Zn-Sepharose gel. 	
+Treatment of toxin A with [(14)C]-diethyl pyrocarbonate revealed concentration dependent labelling of histidine residues on the toxin molecules. 	
+The effects of diethyl pyrocarbonate could be reversed by hydroxylamine treatment. 	
+These data suggest the modified histidine residues on toxin A are critical to its cytotoxic activity. 	
+Histidine modification had no effect on the glucosyl transferase enzyme activity of toxin A. 	
+However, modification abolished the 'cold' binding of toxin to bovine thyroglobulin in an ELISA and reduced ligand binding activity in a rabbit erythrocyte haemagglutination assay. 	
+The data suggest that the histidine residues may be crucial to the receptor-binding activity of toxin A. 	
+Exposed histidines on toxin A are available for zinc chelation, and these have been exploited in the development of a novel purification protocol for toxin A using zinc-chelating chromatography.	
+Interaction of clindamycin and gentamicin in vitro. 	
+The minimal inhibitory concentrations of clindamycin and gentamicin alone and in combinations were determined by a microdilution method for 163 aerobic, facultative, and anaerobic clinical isolates. 	
+All 77 strains of Staphylococcus aureus, Diplococcus pneumoniae, Streptococcus pyogenes, and anaerobic bacteria (except for three strains of Clostridium) were inhibited by 1.6 mug or less of clindamycin per ml. 	
+Gentamicin did not interfere with the activity of clindamycin within the range of concentrations tested (0.1 to 100 mug/ml); 	
+for some strains combinations were synergistic. 	
+Sixty-two (94%) of 66 strains of Enterobacteriaceae and Pseudomonas aeruginosa were inhibited by 6.2 mug or less of gentamicin per ml. 	
+Combinations of clindamycin and gentamicin were indifferent for 29 strains and synergistic for 33 strains. 	
+All 20 strains of enterococcus, three strains of Clostridium, three strains of Escherichia coli, and one strain of Proteus rettgeri were resistant to both clindamycin (minimal inhibitory concentration greater than 3.1 mug/ml) and gentamicin (minimal inhibitory concentration greater than 6.2 mug/ml). 	
+Combinations of clindamycin and gentamicin were indifferent for 16 and synergistic for 11 of the resistant strains. 	
+Except for clindamycin-sensitive isolates, synergy was usually observed only at concentrations of one or both drugs which are not readily obtainable in vivo. 	
+Antagonism was never observed.	
+Ascorbic acid and the common cold. 	
+Evaluation of its efficacy and toxicity. 	
+We reviewed the clinical data relating to the efficacy and safety of pharmacologic doses of ascorbic acid in the prevention and treatment of the common cold. 	
+Although one study tentatively supports the hypothesis that such doses of ascorbic acid may be efficacious, a second study by the same group did not confirm the significant findings, and no clear, reproducible pattern of efficacy has emerged from the review of all the evidence. 	
+Similarly, there is currently little adequate evidence on either the presence or the absence of serious adverse reactions to such doses of ascorbic acid, although many such reactions have been hypothesized. 	
+The unrestricted use of ascorbic acid for these purposes cannot be advocated on the basis of the evidence currently available.	
+Effects of xanthine derivatives in a light/dark test in mice and the contribution of adenosine receptors.  	
+We investigated the effects of adenosine receptor antagonists, caffeine, theophylline, 8-phenyltheophylline, and 8-cyclopentyl-1,3-dipropylxanthine (DPCPX), in a light/dark test in mice. 	
+All antagonists decreased the time spent in the light zone in this test, which suggested that these compounds have anxiogenic effects. 	
+The anxiogenic effects of theophylline were reduced by pretreatment with CGS 21680, an A2-selective agonist, but not by N6-cyclopentyladenosine (CPA), an A1-selective agonist. 	
+However, the antagonism of the theophylline-induced anxiogenic effects by CGS21680 was only observed in the time spent in the light zone, and DPCPX-induced anxiogenic effects were neither reversed by CGS 21680 nor by CPA. 	
+Finally, it is notable that xanthine-derived adenosine antagonists tested here commonly showed anxiogenic effects in the light/dark test in mice. 	
+It is suggested that there is a minor contribution of adenosine receptors to these effects, although theophylline-induced anxiogenic effects were antagonized by an A2 receptor agonist.	
+Restoration of vancomycin susceptibility in Enterococcus faecalis by antiresistance determinant gene transfer.  	
+We assessed the ability of gene transfer to reverse vancomycin resistance in class A (VanA) glycopeptide-resistant Enterococcus faecalis. 	
+Recombinant shuttle vectors containing a vanH promoter-vanA antisense gene cassette fully restored vancomycin susceptibility through a combined transcriptional activator binding domain decoy and inducible vanA antisense RNA effect.	
+Induction of apoptosis in breast cancer cells in response to vitamin D and antiestrogens.  	
+1,25-Dihydroxycholecalciferol D3 (1,25(OH)2D3), the active metabolite of vitamin D, is a potent inhibitor of breast cancer cell growth both in vivo and in vitro. 	
+We have shown that MCF-7 cells treated with 100 nM 1,25(OH)2D3 exhibit characteristic apoptotic morphology (pyknotic nuclei, chromatin and cytoplasmic condensation, nuclear matrix protein reorganization) within 48 h. 	
+In the experiments reported here, we examined the interactions between 1,25(OH)2D3 and the antiestrogen 4-hydroxytamoxifen (TAM), which also induces apoptosis in MCF-7 cells. 	
+Our data suggest that TAM significantly potentiates the reduction in cell number induced by 1,25(OH)2D3 alone. 	
+Combined treatment with 1,25(OH)2D3 and TAM enhances the degree of apoptosis assessed using morphological markers that identify chromatin and nuclear matrix protein condensation. 	
+We have selected a subclone of MCF-7 cells resistant to 1,25(OH)2D3 (MCF-7D3Res). 	
+These cells express the vitamin D receptor and exhibit doubling times comparable to the parental MCF-7 cells, even when grown in 100 mM 1,25(OH)2D3. 	
+Treatment of both parental and resistant MCF-7 cells with TAM induces apoptosis and clusterin. 	
+These data emphasize that apoptosis can be induced in MCF-7 cells either by activation of vitamin-D-mediated signalling or disruption of estrogen-dependent signalling.	
+Cholinergic role in alcohol's effects on evoked potentials in visual cortex of the albino rat.  	
+Photic evoked potentials were recorded from the visual cortex of chronically implanted albino rats. 	
+Since photic evoked potential components are representations of neural pathways which are activated during photic stimulation, study of the effects of alcohol on these components may help to trace pathways which are affected by alcohol. 	
+In the present study, evoked potentials were recorded at 5, 20, and 40 min following IP injections of saline, ethanol (2.0 g/kg), physostigmine (0.6 mg/kg) or atropine (15.0 mg/kg) on separate days. 	
+Ethanol depressed the amplitudes of most evoked potential components in comparison to saline administration. 	
+Component P2, however, was increased in amplitude. 	
+Physostigmine briefly reduced the amplitude of most components, including P2. 	
+In contrast, atropine increased the amplitudes of components P1 and P2, while decreasing components N1, N2 and N3 for varying durations of time. 	
+Physostigmine pretreatment augmented the depressant effect of alcohol on the early components P1 and N1, while attenuating alcohol's influence on components P2 and P3. 	
+Pretreatment with atropine likewise further reduced the amplitudes of components P1 and N1, and produced a similar effect on component N3. 	
+Atropine, either alone or in combination with alcohol, produced approximately the same degree of enhancement of component P2. 	
+In comparison to saline values, all three agents produced reliable increases in peak latency for most of the components, with only N3 showing no effects. 	
+The amplitude data from this study suggest that ethanol's augmentation of component P2 may result, at least in part, from alterations in cholinergic functions.	
+Increased hepatotoxicity of acetaminophen by concomitant administration of caffeine in the rat.	
+Since caffeine is frequently co-administered with acetaminophen, it is of clinical interest to study the effect of caffeine on the hepatotoxicity of acetaminophen. 	
+In male Sprague-Dawley rats fasted for 18 h, concomitant administration of caffeine (0.1 g/kg, i.p.) 	
+as judged by increased serum enzyme activities and increased incidence of hepatic necrosis. 	
+Careful observations on hepatotoxicity are suggested when acetaminophen is prescribed with caffeine.	
+Dual effect of ouabain on the palytoxin-induced contraction and norepinephrine release in the guinea-pig vas deferens.	
+Palytoxin (PTX), C129H223N3O54, isolated from marine coelenterates of Palythoa tuberculosa, caused a first rapid contraction followed by the slow phasic contraction of guinea-pig vas deferens. 	
+In the presence of ouabain (10(-5) M), PTX (10(-8) M) failed to cause the first contraction; 	
+however, the second contraction was potentiated. 	
+In the presence of phentolamine (10(-6) M), the second contraction was inhibited selectively. 	
+When ouabain was applied to the muscle in the presence of phentolamine, both first and second contractile responses to PTX were abolished. 	
+When the muscle was exposed to the potassium-depleted solution, the first contractile response to PTX was rather potentiated. 	
+PTX caused the release of norepinephrine from the muscle. 	
+Exposure of the muscle to ouabain (10(-5) M) markedly increased the PTX-induced release. 	
+It is indicated that the first and second contractile responses to PTX have entirely different properties. 	
+The second response is due to a release of norepinephrine from nerves and was potentiated by ouabain through the increase in the norepinephrine release, whereas the first response was not due to the norepinephrine release but presumably to a direct action on smooth muscle cell and was inhibited by ouabain. 	
+The mechanism of the action of PTX was discussed in the relation with Na,K-ATPase.	
+Analgesic effects of antihistaminics. 	
+The literature provides considerable evidence indicating that several, but not all antihistaminics, are indeed analgesic agents and some are analgesic adjuvants as well.	
+Those for which effectiveness is reported includes diphenhydramine, hydroxyzine, orphenadrine, pyrilamine, phenyltoloxamine, promethazine, methdilazine, and tripelennamine. 	
+The proposed mechanisms of analgesic action of antihistaminics are reviewed and discussed. 	
+The literature suggests that more than one mechanism of action exists for them. 	
+There is considerable evidence suggesting that histaminergic and serotoninergic central pathways are involved in nociception and that antihistaminic drugs can modulate their responses (1). 	
+The evidence for a role for norepinephrine and dopamine and the effects of antihistaminics on them are less well established. 	
+Still other pathways have been proposed. 	
+A greater understanding of pain mechanisms will aid in elucidating the role of antihistaminics in analgesia.	
+Effect of ginsenosides on voltage-dependent Ca(2+) channel subtypes in bovine chromaffin cells.  	
+In previous reports we have shown that ginsenosides inhibit high threshold voltage-dependent Ca(2+) channels in neuronal cells. 	
+However, these studies did not show whether ginsenosides-induced inhibition of Ca(2+) currents discriminates among the various Ca(2+) channel subtypes, although it is known that there are at least five different Ca(2+) channel subtypes in neuronal cells. 	
+In this study we investigated the effect of ginsenosides on high threshold voltage-dependent Ca(2+) channel subtypes using their selective Ca(2+) channel blockers nimodipine (L-type), omega-conotoxin GVIA (N-type), or omega-agatoxin IVA (P-type) in bovine chromaffin cells. 	
+We could observe that ginsenosides inhibited high threshold voltage-dependent Ca(2+) currents in a dose-dependent manner. 	
+The IC(50) was about 120 microgram/ml. 	
+Nimodipine had no effect on ginsenosides response. 	
+These data suggest that ginsenosides are negatively coupled to three types of calcium channels in bovine chromaffin cell, including an omega-conotoxin GVIA-sensitive (N-type) channel, an omega-agatoxin IVA-sensitive (P-type) channel and nimodipine/omega-conotoxin GVIA/omega-agatoxin VIA-resistant (presumptive Q-type) channel. 	
+Thus, the selective regulation of voltage-dependent Ca(2+) subtypes by ginsenosides in bovine chromaffin cell could be the cellular basis of antistress effects induced by ginseng.	
+A proposed mechanism for the potentiation of cAMP-mediated acid secretion by carbachol.  	
+Acid secretion in isolated rabbit gastric glands was monitored by the accumulation of [(14)C]aminopyrine. 	
+Stimulation of the glands with carbachol synergistically augmented the response to dibutyryl cAMP. 	
+The augmentation persisted even after carbachol was washed out and was resistant to chelated extracellular Ca(2+) and to inhibitors of either protein kinase C or calmodulin kinase II. 	
+Cytochalasin D at 10 microM preferentially blocked the secretory effect of carbachol and its synergism with cAMP, whereas it had no effect on histamine- or cAMP-stimulated acid secretion within 15 min. 	
+Cytochalasin D inhibited the carbachol-stimulated intracellular Ca(2+) concentration ([Ca(2+)](i)) increase due to release from the Ca(2+) store. 	
+Treatment of the glands with cytochalasin D redistributed type 3 inositol 1,4,5-trisphosphate receptor (the major subtype in the parietal cell) from the fraction containing membranes of large size to the microsomal fraction, suggesting a dissociation of the store from the plasma membrane. 	
+These findings suggest that intracellular Ca(2+) release by cholinergic stimulation is critical for determining synergism with cAMP in parietal cell activation and that functional coupling between the Ca(2+) store and the receptor is maintained by actin microfilaments.	

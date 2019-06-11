@@ -1,0 +1,5675 @@
+
+
+0 1 mechanism 
+
+
+
+0 1 effect 
+
+
+0 1 effect 
+
+
+4 5 mechanism 
+
+0 1 mechanism 
+
+
+
+3 4 advise 
+1 3 effect 
+1 2 mechanism 
+0 1 advise 
+
+2 3 mechanism 
+1 2 mechanism 
+
+
+
+
+1 2 effect 1 3 effect 1 4 effect 
+1 2 effect 1 3 effect 1 4 effect 1 5 effect 
+
+
+
+
+
+0 3 effect 1 3 effect 2 3 effect 
+
+0 1 mechanism 
+
+
+
+0 1 int 0 2 int 
+
+
+
+
+0 1 mechanism 0 2 mechanism 0 3 mechanism 
+
+
+
+
+
+0 1 mechanism 
+
+
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 0 5 advise 0 6 advise 0 7 advise 0 8 advise 0 9 advise 0 10 advise 0 11 advise 0 12 advise 0 13 advise 0 14 advise 0 15 advise 0 16 advise 
+
+1 3 effect 
+2 3 effect 2 4 effect 
+0 1 advise 0 2 advise 
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 
+
+
+2 3 effect 
+0 1 advise 
+
+
+
+
+
+0 1 mechanism 
+
+0 1 effect 
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 
+
+
+0 1 mechanism 2 3 mechanism 
+0 1 mechanism 
+
+
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 0 5 advise 
+
+
+0 1 mechanism 
+1 2 advise 
+
+
+0 1 advise 0 2 advise 0 3 advise 
+0 2 mechanism 1 2 mechanism 
+
+
+0 1 advise 
+
+
+0 1 mechanism 0 2 mechanism 
+
+0 1 effect 
+0 1 effect 
+0 1 effect 
+
+0 1 advise 
+0 1 int 0 2 int 3 4 effect 7 8 effect 10 11 effect 
+0 1 effect 
+
+0 1 effect 
+
+
+
+
+
+0 1 mechanism 
+
+
+
+
+
+0 1 effect 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 effect 
+
+
+
+
+
+0 1 advise 
+
+
+
+
+
+
+0 1 effect 0 2 effect 0 3 effect 
+0 1 advise 
+
+0 1 effect 
+
+
+0 1 effect 
+
+
+0 2 effect 0 3 effect 1 2 effect 1 3 effect 
+0 2 effect 0 3 effect 0 4 effect 0 5 effect 0 6 effect 1 2 effect 1 3 effect 1 4 effect 1 5 effect 1 6 effect 7 8 effect 
+
+0 1 advise 
+1 2 effect 
+
+
+
+0 1 advise 
+0 1 advise 
+
+0 1 effect 2 3 effect 
+
+
+
+0 1 mechanism 
+
+0 1 mechanism 0 2 mechanism 0 3 mechanism 0 4 mechanism 
+
+
+2 3 effect 2 4 effect 
+0 2 effect 
+
+1 2 advise 
+
+0 1 effect 
+0 1 advise 
+0 1 effect 
+0 1 advise 
+0 1 mechanism 0 2 mechanism 
+0 1 advise 
+0 1 mechanism 
+0 1 advise 
+0 1 effect 
+
+
+
+
+0 1 effect 
+0 8 effect 1 8 effect 2 8 effect 3 8 effect 4 8 effect 5 8 effect 6 8 effect 7 8 effect 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 effect 
+
+0 1 mechanism 
+
+
+
+0 1 mechanism 0 2 mechanism 0 3 mechanism 
+
+0 1 advise 
+
+0 1 mechanism 
+
+
+0 1 mechanism 
+
+
+
+
+1 3 effect 
+
+
+0 1 advise 
+0 1 effect 0 2 effect 
+0 1 effect 
+
+
+0 1 mechanism 
+
+0 1 effect 
+
+
+
+
+
+
+
+
+0 1 mechanism 0 2 mechanism 
+
+
+
+
+
+1 2 effect 
+0 1 effect 
+
+0 1 int 0 2 int 0 3 int 0 4 int 
+
+
+
+
+
+
+
+
+
+0 1 advise 
+
+
+
+
+
+
+
+
+
+0 3 mechanism 1 3 mechanism 2 3 mechanism 
+
+
+
+
+
+
+
+
+
+
+0 1 mechanism 0 2 mechanism 0 3 mechanism 0 4 mechanism 0 5 mechanism 0 6 mechanism 0 7 mechanism 0 8 mechanism 0 9 mechanism 0 10 mechanism 0 11 mechanism 0 12 mechanism 0 13 mechanism 0 14 mechanism 0 15 mechanism 0 16 mechanism 0 17 mechanism 0 18 mechanism 0 19 mechanism 0 20 mechanism 0 21 mechanism 
+
+0 1 mechanism 0 2 mechanism 0 3 mechanism 
+
+0 1 mechanism 0 2 mechanism 
+0 1 effect 0 2 effect 0 3 effect 
+
+0 1 effect 
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 0 6 effect 0 7 effect 0 8 effect 0 9 effect 0 10 effect 0 11 effect 0 12 effect 
+
+
+
+
+
+2 4 mechanism 3 4 mechanism 
+
+
+0 1 effect 
+
+
+
+
+
+
+
+
+
+
+1 2 mechanism 
+1 2 advise 
+1 2 effect 
+
+1 2 mechanism 1 3 mechanism 
+
+
+
+1 2 mechanism 
+
+
+
+
+2 3 mechanism 
+
+1 4 effect 2 4 effect 3 4 effect 
+0 2 advise 1 2 advise 
+1 2 mechanism 
+1 2 mechanism 
+1 2 advise 3 5 mechanism 3 6 mechanism 3 7 mechanism 
+1 2 mechanism 
+1 2 mechanism 
+0 1 mechanism 
+0 2 mechanism 0 3 mechanism 0 4 mechanism 
+
+1 3 mechanism 2 3 mechanism 
+0 2 advise 1 2 advise 
+
+
+0 1 advise 
+0 3 advise 1 3 advise 2 3 advise 
+
+0 1 effect 
+0 2 effect 1 2 effect 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 6 mechanism 4 6 mechanism 
+
+
+
+
+
+
+
+0 1 advise 
+0 1 mechanism 0 2 mechanism 
+0 1 advise 
+
+1 2 effect 1 3 effect 1 4 effect 
+0 1 advise 
+
+
+
+
+0 5 effect 1 5 effect 2 5 effect 3 5 effect 4 5 effect 
+0 1 effect 0 2 effect 
+
+0 1 mechanism 0 2 mechanism 
+
+0 1 mechanism 
+
+0 1 mechanism 0 2 mechanism 0 3 mechanism 0 4 mechanism 0 5 mechanism 0 6 mechanism 0 7 mechanism 0 8 mechanism 0 9 mechanism 0 10 mechanism 0 11 mechanism 
+
+
+
+
+
+
+
+0 1 advise 
+0 1 advise 
+2 6 effect 3 6 effect 4 6 effect 5 6 effect 
+0 2 advise 1 2 advise 
+1 3 advise 2 3 advise 
+
+0 13 advise 1 13 advise 2 13 advise 3 13 advise 4 13 advise 5 13 advise 6 13 advise 7 13 advise 8 13 advise 9 13 advise 10 13 advise 11 13 advise 12 13 advise 
+
+
+
+
+
+
+
+
+
+
+
+1 2 effect 
+0 1 advise 
+
+
+
+0 1 effect 
+0 1 advise 
+
+0 1 advise 
+0 1 effect 
+
+0 1 mechanism 0 2 mechanism 0 3 mechanism 0 4 mechanism 0 5 mechanism 0 6 mechanism 0 7 mechanism 0 8 mechanism 0 9 mechanism 0 10 mechanism 0 11 mechanism 0 12 mechanism 0 13 mechanism 0 14 mechanism 0 15 mechanism 
+0 2 mechanism 1 2 mechanism 
+
+
+
+
+
+
+
+
+
+
+
+0 1 advise 
+
+
+
+
+
+1 2 mechanism 1 3 mechanism 
+
+0 1 advise 
+
+0 1 mechanism 
+
+0 1 advise 0 3 advise 
+1 2 effect 1 3 effect 
+
+1 2 effect 
+
+1 2 effect 
+
+1 2 effect 1 3 effect 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 advise 
+
+0 1 advise 0 2 advise 
+0 1 effect 
+0 1 effect 0 2 effect 0 3 effect 
+0 1 mechanism 
+
+
+
+0 1 mechanism 1 2 mechanism 
+0 1 effect 
+0 1 effect 
+0 1 effect 
+
+1 2 effect 
+
+
+0 4 effect 0 5 effect 1 4 effect 1 5 effect 2 4 effect 2 5 effect 
+
+
+0 2 advise 1 2 advise 
+
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 0 6 effect 0 7 effect 0 8 effect 0 9 effect 0 10 effect 0 11 effect 0 12 effect 0 13 effect 0 14 effect 0 15 effect 1 2 effect 1 3 effect 1 4 effect 1 5 effect 1 6 effect 1 7 effect 1 8 effect 1 9 effect 1 10 effect 1 11 effect 1 12 effect 1 13 effect 1 14 effect 1 15 effect 
+0 1 effect 0 2 effect 
+0 2 effect 1 2 effect 
+
+
+
+0 1 int 0 2 int 0 4 int 0 6 int 
+
+
+
+
+0 1 mechanism 0 2 mechanism 
+0 1 mechanism 
+
+0 1 effect 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 0 6 effect 0 7 effect 0 8 effect 0 9 effect 0 10 effect 0 11 effect 0 12 effect 0 13 effect 0 14 effect 0 15 effect 0 16 effect 0 17 effect 0 18 effect 0 19 effect 0 20 effect 0 21 effect 0 22 effect 0 23 effect 
+0 1 effect 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 0 6 effect 0 7 effect 0 8 effect 0 9 effect 0 10 effect 0 11 effect 0 12 effect 0 13 effect 0 14 effect 0 15 effect 0 16 effect 0 17 effect 0 18 effect 0 19 effect 0 20 effect 0 21 effect 0 22 effect 0 23 effect 0 24 effect 0 25 effect 0 26 effect 0 27 effect 0 28 effect 0 29 effect 0 30 effect 0 31 effect 0 32 effect 0 33 effect 0 34 effect 0 35 effect 0 36 effect 0 37 effect 0 38 effect 0 39 effect 0 40 effect 0 41 effect 0 42 effect 0 43 effect 0 44 effect 0 45 effect 0 46 effect 0 47 effect 0 48 effect 0 49 effect 0 50 effect 0 51 effect 0 52 effect 0 53 effect 0 54 effect 
+0 1 mechanism 0 2 mechanism 0 3 mechanism 
+0 1 mechanism 3 4 mechanism 
+0 7 effect 1 7 effect 2 7 effect 3 7 effect 4 7 effect 5 7 effect 6 7 effect 
+0 1 advise 
+
+
+
+0 1 int 
+1 2 mechanism 
+
+1 2 effect 
+
+
+1 2 effect 
+0 1 effect 
+1 2 effect 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 effect 
+0 1 advise 
+0 1 effect 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 effect 
+0 1 advise 
+
+
+0 1 mechanism 
+
+0 1 mechanism 
+0 1 mechanism 
+1 2 mechanism 
+0 1 effect 
+
+0 1 effect 
+0 1 effect 
+0 1 advise 
+2 3 advise 
+0 1 effect 
+
+
+
+
+0 1 effect 0 2 effect 
+0 1 effect 
+0 1 advise 
+
+
+
+
+
+
+
+
+
+
+0 1 effect 
+
+0 1 mechanism 
+
+0 1 mechanism 
+
+0 5 effect 1 5 effect 2 5 effect 3 5 effect 4 5 effect 
+0 1 mechanism 
+
+
+0 1 effect 0 2 effect 
+
+
+0 1 advise 0 2 advise 
+0 1 advise 
+
+0 3 mechanism 1 3 mechanism 2 3 mechanism 
+
+
+1 2 int 
+0 1 advise 0 2 advise 0 3 advise 
+1 5 mechanism 2 5 mechanism 3 5 mechanism 4 5 mechanism 
+
+1 2 mechanism 
+
+
+2 3 advise 
+
+1 2 advise 
+0 1 mechanism 0 2 mechanism 
+0 1 advise 
+
+
+0 1 effect 
+0 1 advise 
+
+
+0 1 advise 
+
+1 2 mechanism 
+0 1 advise 
+
+
+
+0 5 advise 1 5 advise 2 5 advise 3 5 advise 4 5 advise 
+
+0 1 effect 
+0 1 mechanism 0 2 mechanism 0 3 mechanism 0 4 mechanism 
+
+
+
+
+
+
+
+
+
+
+0 1 int 
+
+
+
+
+
+
+0 2 mechanism 0 3 mechanism 0 4 mechanism 0 5 mechanism 0 6 mechanism 0 7 mechanism 0 8 mechanism 0 9 mechanism 0 10 mechanism 0 11 mechanism 
+
+2 4 mechanism 2 5 mechanism 3 4 mechanism 3 5 mechanism 
+
+
+1 2 mechanism 
+1 2 mechanism 
+2 3 advise 
+
+0 1 effect 2 3 advise 
+2 3 mechanism 
+
+
+0 1 mechanism 
+
+
+
+
+2 3 effect 
+1 2 effect 
+
+0 1 mechanism 0 2 mechanism 
+0 1 effect 
+
+
+
+
+
+
+
+
+1 2 mechanism 
+0 1 advise 
+1 2 mechanism 
+0 1 mechanism 
+
+
+
+1 2 effect 1 3 effect 
+
+1 2 mechanism 
+0 1 effect 
+0 1 advise 
+0 1 mechanism 
+0 1 advise 
+
+0 1 advise 
+0 1 effect 
+0 1 advise 
+0 1 mechanism 
+
+
+0 1 advise 
+0 1 mechanism 
+0 1 effect 
+0 1 advise 
+0 1 mechanism 
+
+0 1 advise 
+
+
+0 1 mechanism 
+0 1 advise 
+0 1 effect 0 2 effect 0 3 effect 
+
+
+
+
+0 1 effect 
+0 1 advise 
+
+0 1 effect 
+0 1 effect 
+0 1 effect 0 2 effect 
+
+0 1 effect 0 2 effect 
+
+
+0 1 advise 
+0 1 effect 
+0 1 effect 
+
+3 4 advise 
+
+
+
+
+
+
+
+
+
+
+0 1 effect 
+
+
+
+
+
+0 1 advise 2 3 advise 
+
+
+0 2 effect 0 3 effect 1 2 effect 1 3 effect 
+0 1 mechanism 
+0 1 advise 
+0 3 mechanism 1 3 mechanism 2 3 mechanism 
+
+
+
+
+
+0 2 effect 0 3 effect 0 4 effect 0 5 effect 1 2 effect 1 3 effect 1 4 effect 1 5 effect 2 4 effect 2 5 effect 3 4 effect 3 5 effect 
+
+
+
+0 1 mechanism 
+0 1 mechanism 
+
+
+0 1 effect 
+
+0 1 effect 
+
+
+
+
+0 3 mechanism 1 3 mechanism 2 3 mechanism 
+0 1 mechanism 
+0 1 mechanism 
+0 1 mechanism 
+
+
+1 3 advise 2 3 advise 
+
+
+
+
+1 2 effect 1 4 effect 
+0 1 advise 
+1 2 mechanism 
+0 1 effect 
+
+
+
+0 2 advise 0 3 advise 4 6 advise 4 7 advise 
+0 1 effect 
+
+
+
+
+
+
+0 1 advise 
+0 1 mechanism 
+
+
+
+
+
+
+
+0 1 mechanism 0 2 mechanism 0 3 mechanism 0 4 mechanism 0 5 mechanism 0 6 mechanism 0 7 mechanism 0 8 mechanism 0 9 mechanism 0 10 mechanism 0 11 mechanism 0 12 mechanism 0 13 mechanism 0 14 mechanism 0 15 mechanism 0 16 mechanism 0 17 mechanism 0 18 mechanism 0 19 mechanism 0 20 mechanism 0 21 mechanism 0 22 mechanism 0 23 mechanism 0 24 mechanism 0 25 mechanism 0 26 mechanism 
+
+
+
+0 1 mechanism 0 2 mechanism 0 3 mechanism 0 4 mechanism 0 5 mechanism 0 6 mechanism 0 7 mechanism 0 8 mechanism 0 9 mechanism 
+
+
+0 1 mechanism 0 2 mechanism 0 3 mechanism 0 4 mechanism 0 5 mechanism 0 6 mechanism 0 7 mechanism 0 8 mechanism 0 9 mechanism 0 10 mechanism 0 11 mechanism 0 12 mechanism 0 13 mechanism 0 14 mechanism 0 15 mechanism 0 16 mechanism 0 17 mechanism 0 18 mechanism 0 19 mechanism 0 20 mechanism 0 21 mechanism 0 22 mechanism 0 23 mechanism 0 24 mechanism 0 25 mechanism 0 26 mechanism 0 27 mechanism 0 28 mechanism 0 29 mechanism 0 30 mechanism 0 31 mechanism 0 32 mechanism 0 33 mechanism 0 34 mechanism 0 35 mechanism 0 36 mechanism 0 37 mechanism 0 38 mechanism 0 39 mechanism 0 40 mechanism 0 41 mechanism 0 42 mechanism 0 43 mechanism 0 44 mechanism 0 45 mechanism 
+
+1 2 mechanism 1 3 mechanism 1 4 mechanism 
+1 2 effect 
+
+0 3 effect 1 3 effect 2 3 effect 
+
+0 1 advise 0 2 advise 
+1 2 effect 
+1 2 mechanism 
+1 2 effect 
+1 2 effect 
+0 2 effect 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 advise 
+
+
+
+
+
+
+
+
+0 1 advise 
+
+0 1 advise 
+
+
+
+1 2 mechanism 
+
+
+
+
+
+0 1 mechanism 
+
+
+
+
+0 1 effect 
+
+
+
+
+
+
+0 1 advise 
+
+
+
+0 1 effect 
+
+
+
+
+
+
+
+
+0 5 advise 1 5 advise 
+
+
+
+
+
+0 1 advise 
+
+
+
+
+
+2 3 advise 
+
+
+0 1 advise 
+
+
+0 1 advise 
+
+
+0 1 advise 
+
+
+
+
+6 7 mechanism 
+
+2 5 mechanism 3 5 mechanism 
+
+
+0 1 effect 
+
+1 2 advise 
+1 2 mechanism 
+
+
+1 2 mechanism 
+
+
+
+1 3 advise 2 3 advise 
+
+
+
+
+
+
+
+
+
+0 1 effect 
+0 1 advise 
+
+
+
+
+
+
+
+
+0 1 effect 
+0 1 effect 
+0 1 mechanism 
+0 1 effect 
+0 2 mechanism 
+1 2 mechanism 
+
+0 1 effect 
+0 1 effect 
+
+
+
+
+
+
+
+
+0 1 effect 
+2 3 advise 2 4 advise 
+3 6 effect 4 6 effect 5 6 effect 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 
+0 1 advise 
+0 5 effect 1 5 effect 2 5 effect 3 5 effect 4 5 effect 
+0 1 mechanism 
+
+
+0 1 mechanism 
+0 1 advise 
+
+0 1 effect 
+0 1 effect 
+0 1 mechanism 
+0 1 mechanism 
+
+
+0 1 effect 0 2 effect 
+0 2 effect 1 2 effect 
+
+0 2 effect 0 3 effect 1 2 effect 1 3 effect 
+1 2 effect 
+
+
+
+0 1 effect 
+0 1 advise 
+
+
+0 2 effect 1 2 effect 
+
+
+
+2 3 effect 
+1 2 advise 
+0 1 advise 0 2 advise 
+0 1 effect 
+0 1 advise 
+
+
+
+
+
+0 4 effect 0 5 effect 1 3 effect 1 4 effect 1 5 effect 2 3 effect 2 4 effect 2 5 effect 
+
+
+0 1 effect 
+
+0 1 advise 
+4 5 effect 
+0 1 mechanism 
+
+
+0 1 effect 
+0 1 advise 
+1 2 mechanism 
+
+
+
+
+
+
+
+0 6 effect 1 6 effect 2 6 effect 3 6 effect 4 6 effect 5 6 effect 
+
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 
+
+
+0 1 effect 
+0 1 effect 
+0 1 effect 4 6 effect 5 6 effect 
+1 2 effect 
+
+
+
+
+
+2 3 advise 2 4 advise 2 5 advise 2 6 advise 
+
+1 2 mechanism 
+
+
+
+0 1 mechanism 
+
+1 2 mechanism 
+0 1 advise 0 2 advise 
+0 1 mechanism 0 2 mechanism 0 3 mechanism 
+
+
+
+
+
+0 1 mechanism 
+
+
+0 1 advise 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 3 effect 
+0 1 effect 
+0 1 mechanism 
+
+0 1 effect 0 2 effect 0 3 effect 
+
+
+0 1 effect 0 2 effect 
+
+
+
+0 2 mechanism 1 2 mechanism 
+
+0 2 effect 1 2 effect 
+1 2 effect 1 3 effect 
+
+1 2 mechanism 
+
+0 1 advise 
+0 2 mechanism 0 3 mechanism 0 4 mechanism 0 5 mechanism 0 6 mechanism 0 7 mechanism 0 8 mechanism 0 9 mechanism 1 2 mechanism 1 3 mechanism 1 4 mechanism 1 5 mechanism 1 6 mechanism 1 7 mechanism 1 8 mechanism 1 9 mechanism 1 10 mechanism 
+
+0 1 advise 
+
+
+
+1 2 mechanism 
+1 2 mechanism 1 3 mechanism 
+1 3 mechanism 2 3 mechanism 
+
+
+1 3 effect 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 16 mechanism 1 16 mechanism 2 16 mechanism 3 16 mechanism 4 16 mechanism 5 16 mechanism 6 16 mechanism 7 16 mechanism 8 16 mechanism 9 16 mechanism 10 16 mechanism 11 16 mechanism 12 16 mechanism 13 16 mechanism 14 16 mechanism 15 16 mechanism 
+
+0 1 advise 
+
+0 4 mechanism 1 4 mechanism 2 4 mechanism 3 4 mechanism 
+
+
+
+
+
+
+
+
+
+
+
+0 1 mechanism 
+0 1 effect 
+0 1 effect 
+
+0 1 effect 
+
+0 2 effect 0 3 effect 0 4 effect 0 5 effect 1 2 effect 1 3 effect 1 4 effect 1 5 effect 
+0 2 mechanism 1 2 mechanism 
+
+
+
+2 3 mechanism 
+0 1 mechanism 
+0 1 mechanism 
+7 8 int 7 9 int 7 10 int 7 11 int 7 12 int 
+1 2 int 1 3 int 
+0 2 int 0 3 int 0 4 int 0 5 int 0 6 int 1 2 int 1 3 int 1 4 int 1 5 int 1 6 int 
+
+1 2 effect 1 3 effect 1 4 effect 
+0 1 mechanism 
+0 1 advise 
+
+
+1 2 mechanism 
+0 1 effect 
+
+0 1 effect 
+1 2 mechanism 
+
+1 2 mechanism 
+
+1 2 advise 
+0 1 effect 
+
+1 2 advise 
+0 1 mechanism 
+1 2 mechanism 
+0 1 advise 
+1 2 mechanism 
+0 1 effect 
+0 1 advise 
+0 1 effect 
+
+2 3 mechanism 
+1 2 mechanism 
+1 2 mechanism 
+
+
+
+0 1 advise 0 2 advise 
+
+0 1 effect 
+
+
+
+
+
+
+
+
+
+1 2 mechanism 
+1 2 mechanism 
+
+
+
+
+
+
+
+
+1 2 mechanism 
+
+
+
+
+
+0 2 effect 1 2 effect 
+0 1 effect 
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 0 5 advise 0 6 advise 
+
+
+0 1 effect 
+
+
+
+
+
+1 2 mechanism 
+1 2 mechanism 
+1 2 mechanism 
+1 2 mechanism 
+
+1 2 effect 
+
+1 2 mechanism 
+
+
+2 3 mechanism 
+0 1 effect 
+
+1 2 mechanism 
+
+2 3 mechanism 
+1 2 mechanism 1 3 mechanism 1 4 mechanism 
+0 1 advise 
+
+
+
+
+
+0 1 advise 0 2 advise 0 3 advise 
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 mechanism 
+0 1 mechanism 
+
+
+
+
+
+
+1 2 mechanism 
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 0 6 effect 0 7 effect 
+0 1 mechanism 
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 mechanism 
+
+
+1 2 advise 
+0 1 mechanism 
+
+
+
+
+
+
+
+
+
+0 1 advise 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 mechanism 
+0 6 advise 1 6 advise 2 6 advise 3 6 advise 4 6 advise 5 6 advise 
+
+
+0 1 mechanism 
+0 1 mechanism 
+0 1 mechanism 
+0 1 effect 
+0 1 effect 
+
+
+
+
+
+
+
+0 1 effect 
+
+0 1 effect 0 2 effect 0 3 effect 
+
+0 1 int 0 2 int 
+0 1 int 
+0 1 effect 0 2 effect 0 3 effect 
+0 1 effect 
+0 1 effect 
+
+
+0 1 effect 0 2 effect 0 3 effect 
+
+0 1 effect 
+0 1 effect 
+
+
+
+
+
+
+
+
+
+
+
+
+1 3 effect 1 4 effect 2 3 effect 2 4 effect 
+
+
+
+0 2 effect 1 2 effect 
+0 1 mechanism 
+0 1 mechanism 
+2 3 mechanism 4 5 advise 
+0 1 mechanism 
+0 1 advise 
+
+
+
+0 1 effect 
+
+0 1 effect 
+0 1 advise 
+
+
+
+0 1 mechanism 
+
+
+0 2 mechanism 1 2 mechanism 
+
+1 2 effect 
+2 3 effect 2 4 effect 
+0 1 mechanism 0 2 mechanism 0 3 mechanism 
+
+1 3 mechanism 2 3 mechanism 
+
+
+
+1 2 effect 
+1 2 effect 
+1 2 effect 
+1 2 mechanism 
+1 2 effect 
+1 2 effect 
+1 2 effect 
+1 2 mechanism 
+1 2 effect 
+1 2 mechanism 
+
+1 2 mechanism 
+
+1 2 effect 
+1 2 effect 
+
+
+
+
+
+0 1 mechanism 
+0 1 advise 
+
+
+
+
+
+
+3 4 mechanism 
+0 3 mechanism 1 3 mechanism 
+
+
+
+0 1 advise 
+0 1 mechanism 0 2 effect 
+0 1 advise 
+1 2 effect 1 3 effect 1 4 effect 
+0 1 advise 
+1 2 effect 
+
+1 2 advise 3 4 effect 
+
+1 3 effect 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 mechanism 
+1 2 mechanism 
+0 2 mechanism 
+2 3 advise 
+0 1 mechanism 
+0 1 effect 
+0 1 mechanism 
+0 1 advise 
+0 1 mechanism 0 2 mechanism 
+
+
+
+0 1 mechanism 0 2 mechanism 0 3 mechanism 
+0 3 advise 1 3 advise 2 3 advise 
+0 1 effect 0 2 effect 
+0 1 mechanism 0 2 mechanism 
+
+0 1 mechanism 
+0 1 advise 
+0 1 effect 
+0 1 advise 
+0 1 mechanism 
+1 2 advise 
+0 1 effect 
+0 1 advise 
+0 1 effect 
+0 1 effect 
+
+
+0 1 mechanism 
+0 1 effect 
+0 1 effect 
+
+
+
+
+
+
+
+
+
+
+
+0 1 mechanism 0 2 mechanism 0 3 mechanism 0 4 mechanism 0 5 mechanism 0 6 mechanism 
+0 2 mechanism 1 2 mechanism 
+
+1 3 effect 1 4 effect 1 5 effect 1 6 effect 1 7 effect 1 8 effect 1 9 effect 1 10 effect 1 11 effect 1 12 effect 2 3 effect 2 4 effect 2 5 effect 2 6 effect 2 7 effect 2 8 effect 2 9 effect 2 10 effect 2 11 effect 2 12 effect 
+
+1 2 advise 3 4 advise 
+
+
+0 1 mechanism 0 2 mechanism 0 3 mechanism 0 4 mechanism 0 5 mechanism 0 6 mechanism 0 7 mechanism 0 8 mechanism 0 9 mechanism 0 10 mechanism 
+
+0 1 advise 
+
+0 1 mechanism 0 2 mechanism 
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 int 0 2 int 
+0 2 int 0 3 int 1 2 int 1 3 int 
+
+1 2 effect 
+0 1 advise 
+1 2 effect 1 3 effect 
+
+1 2 advise 
+0 1 effect 
+
+1 2 mechanism 
+0 1 mechanism 
+0 1 advise 
+2 3 mechanism 
+0 1 advise 
+
+
+
+0 1 advise 
+
+
+0 1 advise 1 2 int 
+
+
+
+1 3 effect 
+0 1 effect 
+
+
+
+
+0 2 advise 1 2 advise 
+
+0 1 effect 
+
+
+
+0 1 effect 
+
+
+
+0 1 effect 
+
+3 4 effect 
+
+0 1 effect 
+
+
+
+
+1 2 effect 
+0 1 effect 
+
+2 3 effect 
+
+
+3 4 effect 
+
+
+1 5 mechanism 2 5 mechanism 3 5 mechanism 4 5 mechanism 8 9 mechanism 
+
+
+
+
+
+
+
+
+
+
+0 1 advise 
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 0 6 effect 0 7 effect 0 8 effect 
+
+
+
+
+
+
+0 1 int 
+
+0 1 effect 
+
+
+
+
+
+0 1 int 0 2 int 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 2 effect 
+2 3 effect 
+2 3 effect 
+2 3 effect 
+0 1 effect 
+0 3 effect 1 3 effect 2 3 effect 
+
+
+0 2 effect 1 2 effect 
+
+
+
+
+
+0 3 effect 1 3 effect 2 3 effect 
+
+
+12 13 effect 
+
+
+
+
+
+
+0 1 effect 0 2 effect 
+
+
+0 1 effect 
+
+
+0 2 effect 0 3 effect 0 4 effect 0 5 effect 1 2 effect 1 3 effect 1 4 effect 1 5 effect 
+0 1 mechanism 
+2 3 mechanism 
+0 1 advise 
+
+
+1 2 effect 
+0 1 effect 
+
+0 1 mechanism 
+
+1 2 mechanism 3 4 advise 
+1 2 int 
+1 2 mechanism 
+
+0 1 mechanism 
+
+1 2 mechanism 
+1 2 advise 
+0 1 effect 2 3 mechanism 
+0 1 effect 
+0 1 advise 0 2 advise 
+
+
+
+
+
+
+
+
+
+0 1 effect 2 3 mechanism 
+0 1 effect 0 2 effect 0 4 effect 0 6 effect 
+
+
+0 1 advise 
+0 1 mechanism 
+
+
+
+
+
+
+
+0 1 advise 
+0 1 mechanism 
+0 1 advise 
+
+
+
+0 1 mechanism 
+1 2 advise 
+
+
+1 2 advise 
+
+2 3 effect 2 4 effect 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4 5 effect 4 6 effect 4 7 effect 4 8 effect 
+
+
+1 2 advise 1 3 advise 1 4 advise 1 5 advise 
+
+
+
+
+
+
+0 1 mechanism 
+0 1 advise 
+0 1 mechanism 
+0 1 advise 
+1 2 advise 
+1 2 mechanism 
+0 1 advise 
+0 1 mechanism 
+0 1 mechanism 
+0 1 mechanism 
+0 1 advise 
+
+
+
+
+
+
+1 2 mechanism 
+
+1 2 advise 
+
+
+0 1 effect 
+1 2 effect 
+0 1 effect 
+0 1 effect 
+0 1 effect 
+1 2 effect 
+0 1 effect 
+
+0 1 advise 
+2 3 mechanism 
+0 1 mechanism 
+
+
+
+
+1 2 mechanism 
+
+
+0 1 mechanism 
+
+
+
+0 1 mechanism 
+0 1 effect 
+0 1 mechanism 
+0 1 mechanism 
+0 1 effect 
+
+0 2 mechanism 1 2 mechanism 
+
+0 1 effect 
+0 1 advise 0 2 advise 
+
+
+
+
+
+
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 0 5 advise 0 6 advise 0 7 advise 0 8 advise 
+
+
+
+
+0 1 int 
+
+
+
+
+
+
+0 2 int 1 2 int 3 4 mechanism 5 6 mechanism 
+0 1 mechanism 
+
+
+
+0 1 effect 
+
+0 2 mechanism 0 3 mechanism 1 2 mechanism 1 3 mechanism 
+
+
+0 3 mechanism 1 3 mechanism 2 3 mechanism 
+2 3 effect 
+0 1 int 0 2 int 0 3 int 0 4 int 0 5 int 0 6 int 0 7 int 0 8 int 
+
+
+
+
+
+
+
+
+
+
+1 2 effect 
+0 2 effect 
+0 1 advise 
+1 2 effect 
+
+
+
+
+
+
+1 2 mechanism 
+
+
+1 2 effect 1 3 effect 
+
+
+1 2 mechanism 
+
+0 1 advise 
+
+0 1 mechanism 
+1 2 mechanism 
+1 2 advise 
+
+
+1 2 mechanism 
+
+1 2 mechanism 
+1 2 advise 
+
+
+1 2 advise 
+0 1 effect 
+0 1 effect 
+
+
+1 5 effect 2 5 effect 3 5 effect 4 5 effect 
+
+
+0 1 mechanism 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 2 mechanism 
+
+
+
+
+
+
+
+
+
+
+
+
+0 2 effect 3 4 effect 
+0 2 mechanism 1 2 mechanism 
+
+0 1 effect 
+
+
+
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 
+1 2 effect 
+
+
+1 2 effect 
+
+
+
+0 1 mechanism 
+
+
+1 2 mechanism 
+
+
+
+
+
+
+
+
+0 1 mechanism 
+1 2 effect 
+
+1 2 mechanism 
+
+0 2 effect 0 3 effect 1 2 effect 1 3 effect 
+
+0 2 effect 1 2 effect 
+
+1 2 mechanism 
+1 2 effect 
+0 5 advise 1 5 advise 2 5 advise 3 5 advise 4 5 advise 
+0 2 advise 1 2 advise 
+0 1 mechanism 
+
+
+
+1 2 effect 
+0 1 advise 
+
+
+1 2 mechanism 
+
+1 2 advise 
+0 2 mechanism 0 3 mechanism 0 4 mechanism 1 2 mechanism 1 3 mechanism 1 4 mechanism 
+
+
+
+0 1 effect 0 2 effect 
+
+
+
+1 2 mechanism 
+
+
+0 1 effect 
+1 2 mechanism 
+0 1 advise 
+
+1 2 effect 
+0 1 mechanism 0 2 mechanism 
+
+
+0 1 effect 
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 advise 
+0 1 effect 0 2 effect 0 3 effect 
+
+
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 0 6 effect 0 7 effect 
+
+0 5 effect 1 5 effect 2 5 effect 3 5 effect 4 5 effect 
+
+0 1 effect 
+
+
+0 1 advise 
+
+
+
+
+
+0 1 effect 3 4 effect 
+0 1 advise 
+0 1 advise 
+
+
+
+
+
+
+
+
+
+0 1 int 
+0 1 advise 
+
+
+
+
+
+0 3 mechanism 1 3 mechanism 2 3 mechanism 
+
+
+
+0 1 advise 
+
+1 2 mechanism 
+0 1 effect 
+0 1 mechanism 
+2 3 mechanism 
+1 2 mechanism 
+
+1 2 effect 
+0 1 advise 
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 0 5 advise 0 6 advise 
+0 1 effect 
+
+
+
+0 1 effect 
+
+0 1 advise 0 2 advise 0 3 advise 
+
+
+
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 0 6 effect 0 7 effect 0 8 effect 0 9 effect 
+
+
+
+
+
+
+
+
+0 1 int 
+
+0 1 int 
+
+0 1 mechanism 
+
+0 2 effect 1 2 effect 
+
+0 1 effect 
+0 1 effect 0 2 effect 0 3 effect 
+0 1 advise 0 2 advise 
+0 1 effect 
+0 1 effect 
+
+0 1 effect 
+0 1 effect 0 2 effect 
+
+0 1 mechanism 
+0 1 mechanism 
+0 1 mechanism 0 2 mechanism 0 3 mechanism 0 4 mechanism 
+
+
+
+
+
+0 1 effect 
+
+
+
+
+
+
+0 1 effect 
+
+0 1 advise 
+0 1 effect 
+0 1 effect 0 2 effect 
+0 1 advise 
+0 1 effect 
+
+0 1 effect 
+
+0 1 effect 
+
+0 1 advise 
+0 1 effect 
+0 1 effect 
+0 1 effect 
+
+0 1 advise 
+0 2 mechanism 1 2 mechanism 
+
+
+1 2 mechanism 
+0 1 advise 
+
+1 2 effect 
+
+
+0 1 effect 
+
+0 1 effect 
+0 1 effect 
+0 1 effect 
+
+
+
+
+
+
+
+
+
+
+
+1 6 mechanism 2 6 mechanism 3 6 mechanism 4 6 mechanism 5 6 mechanism 
+0 3 mechanism 1 3 mechanism 2 3 mechanism 
+
+1 2 effect 
+0 1 mechanism 
+0 2 mechanism 1 2 mechanism 
+
+2 3 effect 2 4 effect 
+0 1 mechanism 0 2 mechanism 0 3 mechanism 
+
+1 3 mechanism 2 3 mechanism 
+
+
+
+1 2 effect 
+1 2 effect 
+1 2 effect 
+1 2 mechanism 
+1 2 effect 
+1 2 effect 
+1 2 effect 
+1 2 mechanism 
+1 2 effect 
+1 2 mechanism 
+
+1 2 mechanism 
+
+1 2 effect 
+1 2 effect 
+
+
+
+
+
+1 4 mechanism 2 4 mechanism 3 4 mechanism 
+1 4 effect 2 4 effect 3 4 effect 
+
+0 1 advise 
+1 2 mechanism 
+1 4 mechanism 2 4 mechanism 3 4 mechanism 
+0 1 mechanism 
+0 1 effect 
+1 2 mechanism 
+0 2 mechanism 1 2 mechanism 
+1 3 mechanism 2 3 mechanism 
+
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 
+
+
+
+
+
+
+
+
+
+
+0 1 advise 
+0 1 advise 0 2 advise 
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 
+0 1 mechanism 
+0 1 mechanism 0 2 mechanism 0 3 mechanism 0 4 mechanism 0 5 mechanism 1 6 mechanism 2 6 mechanism 3 6 mechanism 4 6 mechanism 5 6 mechanism 
+0 1 mechanism 
+
+
+
+
+
+
+
+
+
+0 1 mechanism 
+0 1 int 
+0 1 advise 
+0 1 advise 
+
+
+
+1 2 mechanism 1 3 mechanism 
+
+
+
+
+0 1 effect 0 2 effect 
+
+0 1 mechanism 
+0 1 effect 0 2 effect 0 3 effect 
+0 2 effect 1 2 effect 
+
+6 8 mechanism 7 8 mechanism 
+
+0 2 mechanism 
+
+0 1 mechanism 0 2 mechanism 0 4 effect 0 5 effect 
+
+
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 0 6 effect 0 7 effect 0 8 effect 
+
+
+
+
+
+
+0 1 effect 
+
+0 1 effect 
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 
+
+
+1 2 mechanism 
+
+0 1 mechanism 
+
+0 1 effect 
+
+
+
+
+0 1 advise 
+
+0 1 effect 
+
+
+0 1 advise 
+0 1 advise 0 2 advise 
+
+
+0 1 effect 0 2 effect 0 3 effect 
+
+0 1 advise 0 2 advise 
+0 1 effect 
+0 1 effect 
+
+1 2 advise 3 4 mechanism 
+1 3 advise 
+1 3 advise 2 3 advise 
+
+0 1 mechanism 0 2 mechanism 0 3 effect 
+0 3 effect 0 4 effect 0 5 effect 2 3 effect 2 4 effect 2 5 effect 
+
+
+1 2 mechanism 1 3 mechanism 
+0 1 effect 
+
+0 2 effect 1 2 effect 
+
+0 1 effect 0 2 effect 
+1 3 effect 2 3 effect 
+
+
+1 2 effect 
+0 1 mechanism 0 2 mechanism 0 3 mechanism 0 4 mechanism 
+
+
+
+
+
+
+
+
+0 6 effect 1 6 effect 2 6 effect 3 6 effect 4 6 effect 5 6 effect 
+0 1 effect 
+0 1 advise 
+
+1 2 effect 
+0 1 advise 
+0 1 advise 
+
+0 1 effect 0 2 effect 
+0 1 mechanism 
+
+0 1 advise 
+
+
+0 5 effect 1 5 effect 2 5 effect 3 5 effect 4 5 effect 
+
+0 1 advise 
+
+0 1 effect 
+
+0 1 effect 
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 0 6 effect 0 7 effect 0 8 effect 0 9 effect 0 10 effect 0 11 effect 0 12 effect 
+
+
+1 2 advise 
+
+
+1 8 advise 2 8 advise 3 8 advise 4 8 advise 5 8 advise 6 8 advise 7 8 advise 
+
+
+
+
+
+0 1 mechanism 
+
+
+
+
+
+
+
+
+
+1 2 mechanism 1 3 mechanism 1 4 mechanism 1 5 mechanism 1 6 mechanism 1 7 mechanism 1 8 mechanism 1 9 mechanism 1 10 mechanism 1 11 mechanism 1 12 mechanism 1 13 mechanism 1 14 mechanism 1 15 mechanism 
+
+0 1 advise 
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 0 5 advise 0 6 advise 0 7 advise 0 8 advise 0 9 advise 
+
+0 2 effect 
+
+
+0 1 effect 
+
+1 2 effect 
+
+0 1 effect 
+
+0 1 effect 
+
+0 1 advise 
+
+
+
+
+0 1 advise 
+
+0 1 effect 
+0 1 advise 
+3 6 effect 3 7 mechanism 4 6 effect 4 7 mechanism 5 6 effect 5 7 mechanism 
+
+2 4 mechanism 3 4 mechanism 
+
+
+0 1 advise 0 2 advise 0 3 advise 
+1 2 mechanism 
+1 2 effect 
+
+
+0 1 effect 
+
+
+
+
+
+
+0 1 effect 
+0 1 effect 
+
+0 1 mechanism 1 2 mechanism 
+0 1 advise 0 2 advise 
+
+
+
+0 3 mechanism 1 3 mechanism 2 3 mechanism 
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 0 6 effect 0 7 effect 0 8 effect 0 9 effect 0 10 effect 0 11 effect 0 12 effect 0 13 effect 0 14 effect 
+0 2 effect 0 3 effect 1 2 effect 1 3 effect 
+
+
+
+2 6 effect 3 6 effect 4 6 effect 5 6 effect 
+
+0 1 effect 0 2 effect 
+1 2 effect 
+0 1 advise 
+
+1 2 mechanism 
+
+
+0 1 advise 1 2 advise 
+2 3 mechanism 
+0 1 effect 
+0 1 advise 
+0 1 mechanism 
+
+1 2 effect 
+1 3 advise 1 4 advise 
+2 3 effect 2 4 effect 
+
+
+
+
+
+
+
+
+
+
+0 2 int 
+
+0 1 advise 
+
+
+
+
+
+
+0 1 mechanism 
+
+
+
+
+
+
+
+0 1 advise 
+
+
+
+
+
+
+
+
+
+0 1 advise 
+
+
+0 2 advise 1 2 advise 
+
+
+2 3 advise 
+
+
+
+
+
+
+
+
+
+
+0 1 advise 
+
+
+
+
+0 1 effect 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 2 effect 
+0 1 int 0 2 int 
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 
+0 1 advise 
+
+0 1 advise 
+0 1 effect 
+
+0 1 effect 
+
+
+
+0 1 effect 
+0 1 effect 
+1 2 mechanism 
+0 1 mechanism 
+0 3 mechanism 1 3 mechanism 2 3 mechanism 
+
+
+
+
+
+
+
+
+
+
+1 2 mechanism 
+
+
+3 4 mechanism 
+1 2 mechanism 
+2 3 mechanism 2 4 mechanism 
+4 5 mechanism 
+
+
+
+
+
+
+
+
+
+0 2 advise 1 2 advise 
+
+
+
+
+
+
+0 1 effect 
+
+
+0 1 effect 
+
+
+
+
+0 1 effect 
+
+0 1 effect 
+1 2 effect 
+
+
+
+
+0 1 mechanism 
+
+
+
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 
+1 2 advise 
+
+
+1 2 advise 
+2 3 mechanism 
+1 2 effect 1 3 effect 
+0 1 advise 
+
+
+
+
+
+0 1 advise 
+0 2 mechanism 1 2 mechanism 
+
+0 2 mechanism 1 2 mechanism 
+
+
+
+
+0 1 advise 
+
+
+0 5 effect 1 5 effect 2 5 effect 3 5 effect 4 5 effect 
+0 3 effect 1 3 effect 2 3 effect 
+0 1 advise 
+0 2 advise 0 3 advise 1 2 advise 1 3 advise 2 4 effect 3 4 effect 
+
+
+
+
+
+0 2 effect 1 2 effect 
+0 1 effect 
+
+
+
+
+
+
+
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 
+
+0 1 effect 0 2 effect 0 3 effect 
+0 1 advise 
+
+
+
+
+
+2 3 effect 
+1 2 mechanism 
+
+
+
+2 3 mechanism 
+
+
+
+
+
+0 2 advise 1 2 advise 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 4 mechanism 
+
+0 1 effect 
+
+
+0 1 mechanism 
+0 1 advise 
+0 1 mechanism 
+
+0 1 mechanism 
+0 1 advise 
+
+0 1 advise 
+0 1 mechanism 
+
+0 1 mechanism 
+
+1 2 mechanism 
+
+2 3 mechanism 
+
+0 1 mechanism 0 2 mechanism 0 3 mechanism 
+
+0 1 advise 
+1 2 mechanism 1 3 mechanism 
+
+
+
+
+
+
+
+
+2 4 effect 3 4 effect 
+0 1 advise 0 2 advise 
+
+0 2 effect 0 3 effect 1 2 effect 1 3 effect 
+
+
+0 1 effect 
+
+
+0 2 advise 0 3 advise 1 2 advise 1 3 advise 
+
+0 2 advise 0 3 advise 1 2 advise 1 3 advise 
+
+
+
+
+
+
+
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 
+0 1 effect 
+
+
+
+0 1 effect 
+0 1 advise 
+0 1 advise 
+0 1 effect 0 2 effect 
+
+
+0 4 advise 1 4 advise 2 4 advise 3 4 advise 
+1 2 mechanism 
+
+1 2 advise 
+
+2 7 effect 3 7 effect 4 7 effect 5 7 effect 6 7 effect 
+0 1 advise 
+1 2 mechanism 
+
+0 1 mechanism 
+1 5 advise 2 5 advise 3 5 advise 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 2 mechanism 
+
+0 1 mechanism 
+1 2 advise 
+2 3 mechanism 
+
+
+0 2 effect 1 2 effect 
+
+
+
+
+
+
+0 1 advise 0 2 advise 
+0 1 effect 
+0 2 effect 0 3 effect 0 4 effect 0 6 effect 
+
+
+0 1 mechanism 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 2 mechanism 
+0 1 advise 
+0 1 mechanism 
+
+
+1 2 mechanism 
+
+
+0 1 effect 
+
+1 2 mechanism 
+
+
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 
+0 1 advise 
+
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 
+0 1 advise 
+0 1 effect 
+0 1 effect 
+0 1 effect 
+
+1 2 mechanism 
+
+0 1 effect 
+
+
+
+
+
+
+
+
+
+0 4 effect 1 4 effect 2 4 effect 3 4 effect 
+
+
+
+
+
+
+
+
+
+
+1 2 effect 
+1 2 advise 1 3 advise 
+0 1 effect 
+1 2 mechanism 
+1 2 effect 
+0 1 advise 
+1 2 effect 
+
+1 2 effect 
+
+1 2 mechanism 
+1 2 effect 
+
+
+
+
+1 2 mechanism 
+2 3 mechanism 
+0 4 mechanism 1 4 mechanism 2 4 mechanism 3 4 mechanism 
+0 3 mechanism 1 3 mechanism 2 3 mechanism 
+
+
+1 2 mechanism 
+0 1 effect 
+2 4 effect 3 4 effect 
+0 1 advise 
+0 1 mechanism 
+1 2 mechanism 
+
+
+1 2 effect 1 3 effect 
+0 1 effect 
+0 1 advise 
+1 2 mechanism 
+0 1 mechanism 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 2 mechanism 1 3 mechanism 1 4 mechanism 1 5 mechanism 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 effect 
+
+0 3 effect 1 3 effect 2 3 effect 
+
+
+1 2 effect 
+
+1 2 effect 
+7 8 effect 
+
+
+
+1 2 effect 1 3 effect 
+
+1 2 effect 
+
+0 1 advise 
+
+
+0 1 mechanism 0 2 mechanism 0 3 mechanism 0 4 mechanism 
+
+
+
+
+2 3 mechanism 
+1 2 mechanism 
+
+
+1 2 mechanism 
+
+
+0 3 effect 1 3 effect 2 3 effect 
+0 1 effect 0 2 effect 0 3 effect 
+0 1 advise 0 2 advise 
+
+
+
+1 2 effect 
+
+
+1 2 effect 
+
+
+
+1 2 effect 
+
+
+
+1 2 mechanism 
+
+
+
+0 1 mechanism 
+
+
+
+0 1 mechanism 
+
+0 1 mechanism 
+
+
+
+
+
+1 2 mechanism 
+0 1 mechanism 
+
+
+
+
+
+
+
+
+
+
+0 1 advise 
+0 1 effect 
+
+0 1 effect 0 2 effect 0 3 effect 
+0 1 effect 
+
+0 3 effect 1 3 effect 2 3 effect 
+0 2 effect 0 3 effect 1 2 effect 1 3 effect 
+
+0 1 advise 0 2 advise 
+0 1 effect 
+0 2 effect 1 2 effect 
+0 1 effect 
+0 1 advise 
+1 2 effect 
+2 3 effect 
+0 1 effect 
+
+
+
+
+
+
+1 2 effect 
+
+
+
+1 2 effect 
+0 1 advise 
+1 2 effect 1 3 effect 
+
+2 3 mechanism 
+0 1 advise 
+
+
+
+
+0 1 mechanism 
+0 1 mechanism 
+1 2 mechanism 
+1 2 advise 
+
+
+0 1 mechanism 0 2 mechanism 0 3 effect 
+
+1 2 advise 
+
+0 1 mechanism 0 2 mechanism 
+0 1 mechanism 0 2 mechanism 
+
+
+
+0 1 mechanism 
+
+1 2 advise 
+
+
+
+0 1 mechanism 
+
+
+
+
+0 1 mechanism 
+
+2 3 advise 
+
+0 1 mechanism 
+1 2 effect 
+
+2 3 mechanism 
+0 1 mechanism 
+
+0 1 advise 
+
+
+
+
+
+
+
+
+0 1 mechanism 0 2 mechanism 0 3 mechanism 0 4 mechanism 
+
+
+0 1 effect 0 2 effect 
+0 1 advise 
+
+
+1 2 advise 1 3 advise 
+1 2 effect 
+0 1 mechanism 
+0 1 advise 
+1 2 mechanism 1 3 effect 
+
+1 2 effect 
+
+
+0 1 effect 0 2 effect 
+1 2 effect 
+
+
+
+
+0 1 mechanism 4 5 mechanism 
+
+0 3 mechanism 1 3 mechanism 2 3 mechanism 
+1 2 advise 
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 0 6 effect 0 7 effect 0 8 effect 0 9 effect 0 10 effect 0 11 effect 
+0 1 effect 
+1 2 effect 
+0 1 advise 
+0 1 effect 
+2 3 advise 
+1 2 effect 
+
+0 1 effect 0 2 effect 
+0 1 advise 
+
+
+
+
+
+0 1 effect 
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 
+
+
+2 3 effect 
+1 2 effect 
+1 2 advise 
+
+0 1 effect 0 2 effect 0 3 effect 
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 
+
+
+0 1 effect 
+
+
+
+
+2 3 advise 
+
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 0 6 effect 0 7 effect 0 8 effect 
+
+
+0 1 mechanism 0 2 mechanism 0 3 mechanism 0 4 mechanism 0 5 mechanism 
+
+0 1 advise 0 2 advise 
+
+0 1 mechanism 0 2 mechanism 0 3 mechanism 0 4 mechanism 0 5 mechanism 0 6 mechanism 
+
+
+
+
+
+
+1 2 mechanism 
+
+0 2 effect 1 2 effect 
+
+
+
+
+
+
+
+
+
+
+
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 0 5 advise 0 6 advise 0 7 advise 0 8 advise 0 9 advise 0 10 advise 0 11 advise 0 12 advise 0 13 advise 
+0 1 advise 0 2 advise 
+
+
+
+0 1 advise 
+0 1 advise 
+
+1 2 mechanism 
+
+1 2 mechanism 
+
+1 3 mechanism 
+
+
+
+1 2 mechanism 
+
+
+
+0 1 advise 
+0 1 advise 
+
+
+1 2 mechanism 
+0 1 advise 
+1 2 mechanism 
+0 1 advise 
+
+2 3 mechanism 
+
+
+
+0 1 effect 
+0 1 effect 
+0 1 effect 
+
+
+
+0 1 mechanism 
+
+
+
+
+
+0 1 mechanism 
+
+
+
+0 1 advise 
+0 1 mechanism 
+0 5 mechanism 1 5 mechanism 2 5 mechanism 3 5 mechanism 4 5 mechanism 
+
+
+0 1 effect 1 2 mechanism 1 3 mechanism 
+
+
+0 1 mechanism 0 2 mechanism 
+
+
+0 1 effect 
+0 1 effect 
+0 1 effect 0 2 effect 
+0 1 effect 
+
+0 1 mechanism 0 2 mechanism 0 3 mechanism 0 4 mechanism 0 5 mechanism 0 6 mechanism 
+0 1 mechanism 
+
+0 1 effect 2 3 advise 
+
+0 2 mechanism 0 3 mechanism 
+0 9 advise 1 9 advise 3 9 advise 4 9 advise 5 9 advise 6 9 advise 7 9 advise 8 9 advise 
+0 1 advise 
+
+
+
+
+
+
+
+0 1 mechanism 
+
+0 1 mechanism 
+
+0 1 effect 
+0 1 mechanism 
+0 1 advise 
+0 5 mechanism 1 5 mechanism 2 5 mechanism 3 5 mechanism 4 5 mechanism 
+
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 0 5 advise 
+
+
+1 3 mechanism 2 3 mechanism 
+
+
+
+0 1 int 0 2 int 0 3 int 
+0 1 effect 
+2 3 mechanism 
+1 2 effect 
+
+
+
+0 1 effect 
+0 1 advise 
+
+1 2 effect 
+0 1 advise 
+1 2 mechanism 
+1 2 effect 
+2 4 advise 3 4 advise 
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 mechanism 
+
+
+
+
+0 1 mechanism 
+0 1 effect 
+0 1 effect 
+
+0 1 advise 
+
+0 1 effect 0 2 effect 0 3 effect 
+0 1 advise 
+0 1 effect 0 2 effect 
+1 2 effect 3 4 advise 3 5 advise 3 6 advise 3 7 advise 3 8 advise 3 9 advise 
+2 3 effect 
+
+3 8 effect 5 9 effect 6 9 effect 7 9 effect 8 9 effect 
+0 1 advise 
+
+
+1 2 advise 1 3 advise 1 4 advise 
+0 2 mechanism 1 2 mechanism 
+0 1 mechanism 
+
+
+0 1 advise 0 2 advise 
+0 1 int 0 2 int 
+0 1 mechanism 0 2 mechanism 
+0 1 mechanism 
+
+0 1 advise 
+
+
+
+
+
+
+
+
+
+
+0 1 mechanism 
+0 1 advise 
+
+
+
+
+
+
+0 1 mechanism 
+0 1 advise 
+0 1 advise 0 2 advise 
+
+
+0 1 mechanism 
+0 1 advise 
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 0 5 advise 
+
+
+
+
+0 1 effect 0 2 effect 0 3 effect 
+
+
+
+
+
+
+
+
+
+1 2 effect 
+2 3 effect 2 4 effect 
+
+
+
+
+
+0 1 mechanism 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 mechanism 0 2 mechanism 
+
+
+1 2 mechanism 
+0 1 advise 
+
+0 1 effect 
+
+
+0 1 mechanism 
+0 1 mechanism 
+0 1 effect 
+0 1 mechanism 
+0 1 effect 
+0 1 mechanism 
+
+
+
+0 1 effect 0 2 effect 
+
+
+
+
+0 1 mechanism 0 2 mechanism 0 3 mechanism 0 4 mechanism 0 5 mechanism 
+
+0 1 mechanism 
+
+0 1 effect 0 2 effect 
+1 2 effect 
+
+2 3 int 4 5 advise 
+1 2 mechanism 
+
+
+
+1 2 advise 
+1 2 mechanism 
+1 2 effect 
+
+2 3 mechanism 
+
+
+0 1 advise 
+0 1 advise 0 2 advise 0 3 advise 
+0 1 advise 0 2 advise 0 3 advise 
+
+
+
+
+
+
+
+
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 
+
+0 1 advise 
+0 1 effect 0 2 effect 
+
+
+
+0 7 effect 1 7 effect 2 7 effect 3 7 effect 4 7 effect 5 7 effect 6 7 effect 
+
+
+
+0 1 int 
+0 1 effect 
+
+0 2 advise 1 2 advise 
+0 1 advise 0 2 advise 
+0 2 effect 1 2 effect 
+
+0 1 advise 
+
+
+
+
+0 1 mechanism 0 2 mechanism 
+0 1 mechanism 
+
+
+
+2 3 mechanism 4 5 mechanism 
+0 1 advise 
+0 1 mechanism 
+
+0 1 mechanism 
+0 2 advise 1 2 advise 
+
+3 4 mechanism 
+0 1 advise 
+3 4 mechanism 
+1 3 mechanism 1 4 mechanism 
+0 1 effect 
+0 1 advise 
+1 2 mechanism 
+0 4 advise 1 4 advise 2 4 advise 3 4 advise 
+
+0 1 mechanism 0 2 mechanism 
+
+
+
+
+
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 0 5 advise 0 6 advise 0 7 advise 
+0 1 advise 
+
+0 1 mechanism 0 3 mechanism 0 4 mechanism 
+
+1 2 mechanism 
+
+1 2 mechanism 
+
+
+1 2 mechanism 
+
+1 2 mechanism 
+
+6 7 mechanism 
+
+2 5 mechanism 3 5 mechanism 
+
+
+0 1 effect 
+
+1 2 advise 
+1 2 mechanism 
+
+
+1 2 mechanism 
+
+
+
+1 3 advise 2 3 advise 
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 int 
+0 1 advise 
+
+
+
+
+
+
+
+
+
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 5 6 effect 5 7 effect 5 8 effect 
+0 1 effect 
+
+0 1 mechanism 
+0 1 mechanism 
+0 1 mechanism 
+1 2 effect 
+0 1 effect 0 2 effect 
+0 1 effect 
+0 2 effect 1 2 effect 
+0 1 advise 
+0 1 effect 
+
+0 1 effect 
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 
+0 1 effect 
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 
+0 1 effect 0 2 effect 
+
+
+
+0 1 advise 0 2 advise 
+
+
+
+
+
+0 1 mechanism 
+
+
+0 1 mechanism 
+
+0 1 effect 0 2 effect 0 3 effect 
+1 2 mechanism 
+0 1 advise 
+1 2 mechanism 
+0 1 mechanism 
+1 2 mechanism 
+1 2 effect 
+2 3 mechanism 
+1 2 mechanism 
+1 2 effect 
+1 3 effect 
+
+
+
+
+
+
+1 2 mechanism 
+1 3 mechanism 2 3 mechanism 
+0 1 mechanism 
+
+1 2 mechanism 
+0 1 mechanism 
+1 2 effect 
+1 3 mechanism 2 3 mechanism 
+
+0 1 advise 
+0 5 effect 1 5 effect 2 5 effect 3 5 effect 4 5 effect 
+
+0 2 effect 1 2 effect 
+0 1 effect 
+0 1 effect 
+2 3 advise 
+0 1 mechanism 
+0 1 effect 
+
+0 1 effect 0 2 effect 
+0 1 mechanism 0 2 mechanism 0 3 effect 
+
+0 1 int 0 2 int 0 3 int 0 4 int 0 5 int 0 6 int 0 7 int 0 8 int 0 9 int 0 10 int 0 11 int 0 12 int 0 13 int 
+
+0 2 mechanism 0 3 mechanism 
+
+0 1 effect 
+0 1 effect 2 3 mechanism 
+
+0 1 advise 
+
+0 1 effect 0 2 effect 0 3 effect 
+0 1 effect 0 2 effect 
+0 1 effect 0 2 effect 0 3 effect 
+0 1 effect 
+0 1 advise 
+1 3 advise 2 3 advise 
+1 2 mechanism 
+
+0 1 advise 
+1 2 effect 
+0 1 advise 
+1 2 effect 1 3 effect 
+
+0 1 advise 
+1 2 mechanism 1 3 mechanism 
+
+
+0 1 advise 
+1 2 effect 
+2 3 mechanism 
+
+
+0 2 effect 0 3 effect 0 4 effect 0 5 effect 0 6 effect 0 7 effect 0 8 effect 0 9 effect 1 2 effect 1 3 effect 1 4 effect 1 5 effect 1 6 effect 1 7 effect 1 8 effect 1 9 effect 
+
+
+
+
+
+6 7 mechanism 
+
+
+
+
+0 1 effect 
+
+1 2 advise 
+1 2 mechanism 
+
+
+1 2 effect 
+
+
+
+1 3 effect 2 3 effect 
+
+0 3 effect 1 3 effect 2 3 effect 
+
+
+
+
+
+
+
+
+
+
+0 1 advise 
+0 2 effect 
+0 1 effect 
+
+1 3 effect 2 3 effect 
+1 2 effect 1 3 effect 
+0 1 advise 0 2 advise 
+4 5 effect 
+1 2 effect 
+3 7 mechanism 4 7 mechanism 5 7 mechanism 
+0 1 effect 
+1 2 effect 
+
+
+
+
+
+1 2 mechanism 1 3 mechanism 1 4 mechanism 1 5 mechanism 1 6 mechanism 1 7 mechanism 
+0 1 mechanism 0 2 mechanism 0 3 mechanism 0 4 mechanism 0 5 mechanism 0 6 mechanism 0 7 mechanism 0 8 mechanism 0 9 mechanism 0 10 mechanism 0 11 mechanism 0 12 mechanism 0 13 mechanism 0 14 mechanism 0 15 mechanism 0 16 mechanism 0 17 mechanism 
+
+
+
+
+
+
+
+
+
+1 2 effect 
+
+
+
+
+
+
+
+
+0 1 effect 
+
+
+
+0 1 mechanism 
+
+0 1 effect 
+0 1 effect 
+
+0 1 effect 
+0 1 effect 
+0 1 advise 
+
+
+
+
+
+
+
+
+2 3 mechanism 2 4 mechanism 
+
+4 5 advise 4 6 advise 
+
+1 3 mechanism 
+
+
+2 3 mechanism 
+0 1 mechanism 
+
+1 2 effect 
+
+
+0 1 advise 
+2 4 effect 3 4 effect 
+
+1 3 effect 2 3 effect 
+
+1 2 mechanism 3 4 mechanism 
+0 1 effect 
+1 2 mechanism 
+
+
+
+0 1 mechanism 
+
+0 1 effect 0 2 effect 
+
+0 1 mechanism 
+
+0 1 effect 0 2 effect 0 3 effect 
+0 1 effect 
+
+0 2 effect 1 2 effect 3 4 advise 
+1 2 effect 1 3 effect 
+
+
+1 3 mechanism 2 3 mechanism 
+0 1 effect 
+0 1 advise 
+
+1 2 effect 1 3 effect 
+
+
+1 2 mechanism 
+
+
+0 1 advise 
+
+0 1 effect 0 2 effect 0 3 effect 
+
+0 1 mechanism 
+0 1 effect 
+0 1 advise 0 2 advise 0 3 advise 
+
+0 1 effect 
+0 1 effect 
+
+
+
+0 2 effect 1 2 effect 
+3 4 mechanism 
+
+
+2 3 advise 
+1 3 mechanism 2 3 mechanism 
+2 4 mechanism 2 6 mechanism 
+0 2 advise 
+
+
+
+
+0 1 mechanism 
+
+
+
+
+
+0 1 effect 
+
+
+0 1 mechanism 
+0 1 mechanism 
+
+3 4 mechanism 
+
+
+0 1 effect 
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 
+
+
+0 1 advise 
+
+0 1 advise 0 2 advise 0 3 advise 
+0 3 effect 0 4 effect 0 5 effect 0 6 effect 0 7 effect 0 8 effect 1 3 effect 1 4 effect 1 5 effect 1 6 effect 1 7 effect 1 8 effect 2 3 effect 2 4 effect 2 5 effect 2 6 effect 2 7 effect 2 8 effect 
+1 2 advise 
+0 1 advise 
+0 1 advise 
+0 2 effect 0 3 effect 0 4 effect 1 2 effect 1 3 effect 1 4 effect 
+
+0 1 advise 
+
+
+
+
+
+
+1 2 mechanism 
+0 1 advise 
+
+
+
+
+8 9 int 
+
+
+
+
+
+
+
+0 4 advise 1 4 advise 2 4 advise 3 4 advise 
+
+0 6 effect 1 6 effect 2 6 effect 3 6 effect 4 6 effect 5 6 effect 
+0 1 advise 
+
+0 1 mechanism 
+1 2 effect 
+
+0 1 mechanism 
+
+0 3 effect 1 3 effect 
+
+0 1 effect 
+
+
+
+0 2 mechanism 1 2 mechanism 
+
+1 2 mechanism 
+
+
+0 1 advise 
+
+
+
+
+
+
+
+
+0 1 mechanism 
+0 1 advise 
+
+2 4 mechanism 3 4 mechanism 
+
+1 2 mechanism 
+
+1 2 mechanism 
+
+1 2 mechanism 
+
+0 1 mechanism 
+
+
+0 2 mechanism 1 2 mechanism 
+
+
+
+0 1 mechanism 
+
+0 1 advise 
+
+3 4 mechanism 
+0 1 advise 
+
+
+
+0 1 mechanism 0 2 mechanism 0 3 mechanism 0 4 mechanism 
+
+
+
+
+
+1 2 mechanism 1 3 mechanism 
+
+
+
+
+
+
+
+
+
+3 4 mechanism 
+
+
+0 1 mechanism 
+1 2 advise 
+
+1 2 mechanism 
+
+0 1 mechanism 
+
+
+1 2 mechanism 
+
+
+0 1 mechanism 
+
+
+1 2 mechanism 
+
+3 4 mechanism 3 5 mechanism 6 7 mechanism 
+1 2 mechanism 3 4 mechanism 
+
+1 2 mechanism 
+
+
+
+
+0 1 mechanism 
+
+
+
+0 4 mechanism 1 4 mechanism 2 4 mechanism 3 4 mechanism 
+
+
+
+
+
+
+
+
+0 1 mechanism 
+
+0 1 mechanism 
+0 1 mechanism 
+1 2 effect 
+0 1 mechanism 
+
+
+0 1 effect 
+0 1 advise 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 2 mechanism 
+
+
+
+
+
+
+
+
+0 1 mechanism 
+
+1 2 mechanism 
+
+
+1 2 mechanism 
+0 1 mechanism 
+0 1 mechanism 
+
+
+
+0 1 mechanism 
+
+2 3 mechanism 
+0 1 mechanism 
+0 1 advise 
+
+
+
+
+
+
+0 1 effect 
+
+0 4 mechanism 1 4 mechanism 2 4 mechanism 3 4 mechanism 
+0 1 advise 0 2 advise 
+
+
+
+
+
+
+
+
+
+
+3 5 advise 4 5 advise 
+
+
+
+
+0 1 int 0 2 int 
+1 2 effect 1 3 effect 1 4 effect 
+
+
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 
+0 1 effect 
+0 1 advise 
+
+0 1 effect 
+1 2 advise 
+1 2 effect 1 3 effect 1 4 effect 
+0 1 effect 
+0 1 effect 
+0 4 effect 1 4 effect 2 4 effect 3 4 effect 
+1 2 advise 
+
+0 1 mechanism 
+1 2 effect 
+0 1 effect 
+1 2 advise 
+0 1 advise 
+
+0 1 int 0 2 int 0 3 int 0 4 int 0 5 int 0 6 int 0 7 int 0 8 int 0 9 int 0 10 int 0 11 int 0 12 int 0 13 int 
+
+
+
+0 1 effect 
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 
+0 1 effect 
+0 4 effect 1 4 effect 2 4 effect 3 4 effect 
+0 1 int 
+0 1 effect 
+0 1 mechanism 1 2 mechanism 
+
+0 3 advise 1 3 advise 2 3 advise 
+
+0 1 effect 
+
+0 8 mechanism 1 8 mechanism 2 8 mechanism 3 8 mechanism 4 8 mechanism 5 8 mechanism 6 8 mechanism 7 8 mechanism 
+0 4 mechanism 1 4 mechanism 2 4 mechanism 3 4 mechanism 
+
+0 2 mechanism 1 2 mechanism 
+0 6 mechanism 1 6 mechanism 2 6 mechanism 3 6 mechanism 4 6 mechanism 5 6 mechanism 
+0 1 mechanism 
+
+0 1 advise 
+0 1 effect 
+
+0 2 effect 1 2 effect 
+
+
+
+0 1 effect 
+0 2 effect 
+
+
+
+0 1 effect 0 2 effect 0 3 effect 
+
+0 1 effect 
+
+0 1 effect 
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 mechanism 
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 0 5 advise 0 6 advise 0 7 advise 0 8 advise 0 9 advise 0 10 advise 0 11 advise 0 12 advise 0 13 advise 
+0 1 mechanism 
+
+
+0 1 advise 
+
+
+
+
+
+
+
+
+
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 0 6 effect 0 7 effect 
+
+
+
+1 2 mechanism 
+
+0 1 effect 
+0 1 advise 
+0 1 mechanism 
+0 1 effect 
+0 1 advise 
+0 1 mechanism 0 2 mechanism 0 3 mechanism 
+
+0 1 mechanism 0 2 mechanism 
+
+
+
+
+
+0 1 advise 
+0 2 effect 1 2 effect 
+0 1 advise 
+0 2 effect 
+0 1 mechanism 
+0 1 advise 
+0 1 mechanism 
+0 2 mechanism 1 2 mechanism 
+
+0 1 mechanism 
+
+
+
+
+
+
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 0 5 advise 
+0 1 advise 0 2 advise 0 3 advise 
+0 1 effect 
+
+
+
+0 1 mechanism 
+
+
+
+
+
+
+
+
+
+
+
+
+0 5 effect 0 6 effect 1 5 effect 1 6 effect 2 5 effect 2 6 effect 3 5 effect 3 6 effect 4 5 effect 4 6 effect 
+0 4 effect 0 5 effect 1 4 effect 1 5 effect 2 4 effect 2 5 effect 3 4 effect 3 5 effect 
+
+
+1 2 effect 
+1 2 effect 
+
+0 1 effect 
+0 1 effect 
+1 2 mechanism 
+
+1 2 mechanism 
+
+
+
+
+
+
+0 1 advise 
+0 2 effect 1 2 effect 
+
+0 1 mechanism 
+
+
+0 1 effect 
+
+0 1 mechanism 
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 0 6 effect 0 7 effect 
+
+
+0 1 effect 
+
+
+0 1 mechanism 0 2 mechanism 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 2 mechanism 1 2 mechanism 
+1 2 mechanism 
+1 2 mechanism 1 3 mechanism 1 4 mechanism 1 5 mechanism 
+0 1 advise 0 2 advise 
+
+
+
+
+
+
+
+
+
+
+
+1 5 mechanism 2 5 mechanism 3 5 mechanism 4 5 mechanism 
+0 3 mechanism 1 3 mechanism 2 3 mechanism 
+0 1 mechanism 
+
+0 1 advise 
+
+
+1 2 mechanism 
+
+1 2 mechanism 
+2 3 advise 
+
+
+
+0 1 advise 
+
+0 1 effect 
+
+
+
+
+
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 0 6 effect 0 7 effect 0 8 effect 0 9 effect 0 10 effect 
+
+0 1 effect 
+0 1 advise 
+
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 
+0 1 mechanism 0 2 mechanism 
+0 1 effect 
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 2 mechanism 
+0 1 advise 
+0 2 effect 1 2 effect 
+1 2 advise 
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 0 5 advise 0 6 advise 0 7 advise 0 8 advise 
+0 1 mechanism 
+
+
+
+
+
+0 1 effect 
+0 1 advise 
+0 1 effect 
+0 1 effect 
+
+0 1 mechanism 
+
+0 4 advise 1 4 advise 2 4 advise 3 4 advise 
+
+0 1 advise 
+
+0 1 advise 
+
+0 1 effect 
+
+0 1 effect 
+
+
+
+
+
+0 1 effect 
+
+
+
+3 4 advise 3 5 advise 
+0 1 effect 0 2 effect 
+
+
+
+
+
+0 3 mechanism 1 3 mechanism 2 3 mechanism 
+
+0 3 mechanism 1 3 mechanism 2 3 mechanism 
+0 1 advise 2 3 mechanism 
+
+
+0 1 mechanism 
+1 2 mechanism 1 3 mechanism 1 4 mechanism 
+0 1 advise 
+
+
+
+
+
+
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 0 5 advise 0 6 advise 0 7 advise 0 8 advise 
+0 1 mechanism 
+
+
+
+
+
+
+
+
+
+0 1 advise 
+0 1 advise 
+
+
+
+
+
+0 1 effect 
+
+
+
+0 1 int 0 2 int 0 3 int 0 4 int 0 5 int 0 6 int 0 7 int 0 8 int 0 9 int 0 10 int 0 11 int 0 12 int 0 13 int 0 14 int 0 15 int 0 16 int 0 17 int 0 18 int 0 19 int 0 20 int 0 21 int 0 22 int 0 23 int 0 24 int 0 25 int 0 26 int 0 27 int 0 28 int 0 29 int 0 30 int 0 31 int 0 32 int 0 33 int 0 34 int 0 35 int 0 36 int 0 37 int 0 38 int 0 39 int 0 40 int 0 41 int 0 42 int 0 43 int 0 44 int 
+
+
+0 1 mechanism 
+0 1 mechanism 
+0 1 effect 
+
+0 1 mechanism 
+
+
+
+1 2 effect 
+
+0 6 mechanism 0 7 mechanism 1 6 mechanism 1 7 mechanism 2 6 mechanism 2 7 mechanism 3 6 mechanism 3 7 mechanism 4 6 mechanism 4 7 mechanism 5 6 mechanism 5 7 mechanism 
+
+1 3 mechanism 2 3 mechanism 
+
+1 2 mechanism 1 3 mechanism 
+1 2 mechanism 1 3 mechanism 1 4 mechanism 1 5 mechanism 1 6 mechanism 1 7 mechanism 1 8 mechanism 
+1 2 mechanism 
+1 2 mechanism 
+
+
+
+1 2 mechanism 
+
+
+1 2 mechanism 
+2 3 mechanism 
+
+
+
+1 2 mechanism 
+1 5 mechanism 2 5 mechanism 3 5 mechanism 4 5 mechanism 
+
+0 1 mechanism 
+
+1 2 mechanism 1 3 mechanism 1 4 mechanism 
+
+1 2 mechanism 
+1 2 mechanism 
+1 2 mechanism 
+0 4 mechanism 1 4 mechanism 2 4 mechanism 3 4 mechanism 
+
+2 3 effect 
+
+
+
+
+
+
+
+0 3 mechanism 0 4 advise 1 3 mechanism 1 4 advise 2 3 mechanism 2 4 advise 
+0 2 mechanism 1 2 mechanism 
+
+0 1 effect 
+1 2 effect 
+0 1 advise 
+0 1 effect 
+0 1 effect 
+
+
+0 1 advise 0 2 advise 
+1 8 effect 2 8 effect 3 8 effect 4 8 effect 5 8 effect 6 8 effect 7 8 effect 
+0 1 effect 
+0 1 advise 
+
+1 5 effect 2 5 effect 3 5 effect 4 5 effect 
+
+
+
+
+
+0 1 effect 
+
+0 1 advise 2 3 advise 
+0 1 advise 
+0 1 effect 
+
+0 1 effect 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 effect 
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 0 6 effect 
+
+
+1 3 effect 2 3 effect 
+
+0 1 effect 0 2 effect 
+
+0 1 effect 
+0 1 effect 
+0 1 effect 0 2 effect 0 3 effect 
+0 1 effect 2 3 effect 2 4 effect 2 5 effect 
+0 1 effect 
+0 1 effect 
+
+0 1 effect 
+0 1 advise 0 2 advise 0 3 advise 
+0 1 effect 
+
+0 1 effect 
+
+
+
+0 1 int 
+
+
+0 1 advise 
+
+
+
+
+
+
+
+
+0 1 mechanism 0 2 mechanism 
+
+0 1 advise 
+
+1 2 effect 
+
+
+
+
+
+
+1 2 advise 
+
+1 2 mechanism 
+0 1 advise 
+
+1 3 mechanism 2 3 mechanism 
+
+1 2 mechanism 
+1 2 advise 
+
+
+
+0 1 advise 
+1 2 advise 
+0 2 mechanism 0 3 mechanism 0 4 mechanism 0 5 mechanism 
+0 1 mechanism 
+0 3 mechanism 1 3 mechanism 2 3 mechanism 
+0 1 effect 0 2 effect 
+0 1 effect 
+
+
+
+
+
+
+
+0 1 advise 
+
+
+
+
+
+
+
+
+
+0 1 advise 
+0 1 advise 
+0 1 mechanism 
+
+0 1 advise 3 4 effect 
+0 1 advise 0 2 advise 
+
+0 1 effect 0 2 effect 
+
+0 1 advise 0 2 advise 0 3 advise 
+0 1 effect 
+
+
+
+
+1 2 mechanism 
+
+1 2 effect 
+0 1 mechanism 0 2 mechanism 
+
+
+
+
+0 1 mechanism 
+
+0 1 mechanism 
+
+2 3 advise 
+0 1 effect 
+0 1 mechanism 0 2 mechanism 
+
+
+0 1 effect 
+0 3 effect 1 3 effect 2 3 effect 
+
+
+
+
+
+
+
+
+
+
+0 5 effect 1 5 effect 2 5 int 3 5 effect 4 5 effect 
+
+
+
+
+1 2 advise 1 3 advise 
+
+0 1 effect 
+
+
+
+
+0 1 mechanism 
+0 4 mechanism 1 4 mechanism 2 4 mechanism 3 4 mechanism 
+1 2 mechanism 
+
+0 1 advise 
+
+
+
+1 2 mechanism 
+1 2 advise 
+
+
+1 2 mechanism 
+0 1 advise 
+
+0 1 advise 
+
+
+
+
+
+0 1 advise 
+
+
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 
+0 1 mechanism 
+0 1 int 
+0 1 effect 
+
+
+1 2 advise 1 3 advise 1 4 advise 
+
+
+
+
+
+1 2 mechanism 
+
+
+0 1 mechanism 
+0 1 advise 0 2 advise 0 3 advise 
+
+
+
+
+0 1 effect 
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 0 5 effect 0 6 effect 
+
+0 1 effect 
+
+
+
+
+2 8 mechanism 4 8 mechanism 5 8 mechanism 6 8 mechanism 7 8 mechanism 
+0 1 mechanism 
+0 3 mechanism 1 3 mechanism 2 3 mechanism 
+0 1 mechanism 
+
+
+
+
+0 1 mechanism 
+1 2 mechanism 
+
+
+2 3 mechanism 
+
+
+
+
+
+
+
+
+1 2 effect 1 3 effect 
+
+
+0 2 effect 
+0 2 effect 1 2 effect 
+
+
+
+
+
+
+
+
+
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 0 5 advise 0 6 advise 0 7 advise 0 8 advise 0 9 advise 0 10 advise 0 11 advise 0 12 advise 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 3 mechanism 
+
+1 2 effect 
+
+0 1 int 
+0 1 effect 
+0 1 advise 
+
+
+
+2 3 mechanism 2 4 mechanism 
+
+
+
+1 2 mechanism 1 3 effect 
+1 2 mechanism 
+1 2 effect 
+
+1 2 effect 1 3 effect 
+0 1 int 0 2 int 0 3 int 0 4 int 0 5 int 0 6 int 0 7 int 0 8 int 0 9 int 0 10 int 
+
+0 1 effect 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 2 effect 
+
+
+0 3 mechanism 1 3 mechanism 2 3 mechanism 
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 4 effect 1 4 effect 2 4 effect 3 4 effect 
+
+
+2 3 effect 2 4 effect 
+
+1 2 effect 
+
+
+1 3 effect 2 3 effect 
+0 1 advise 
+1 2 mechanism 
+
+0 1 advise 
+
+0 1 effect 
+
+0 1 int 
+0 1 advise 
+5 6 mechanism 
+
+1 3 effect 2 3 effect 
+
+0 1 effect 0 2 effect 
+0 1 advise 0 2 advise 
+
+0 1 effect 
+
+0 1 effect 
+1 3 effect 
+0 1 effect 
+
+
+
+
+
+0 3 mechanism 1 3 mechanism 2 3 mechanism 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 effect 
+
+
+
+
+
+
+
+
+1 2 mechanism 
+0 1 mechanism 
+
+
+0 2 advise 1 2 advise 
+
+
+
+
+
+
+
+
+
+0 1 advise 
+
+
+
+
+
+
+
+
+
+
+0 1 advise 
+
+
+
+
+
+
+
+
+
+
+
+0 1 mechanism 
+
+
+
+0 1 mechanism 0 2 mechanism 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 mechanism 
+0 1 mechanism 
+1 2 mechanism 
+
+
+
+
+1 2 mechanism 
+
+
+
+
+
+
+
+0 5 mechanism 1 5 mechanism 3 5 mechanism 4 5 mechanism 
+0 1 mechanism 
+
+
+
+
+0 1 mechanism 1 2 mechanism 
+
+0 1 int 0 2 int 0 3 int 0 4 int 0 5 int 0 6 int 0 7 int 0 8 int 0 9 int 0 10 int 0 11 int 0 12 int 0 13 int 0 14 int 
+
+0 2 int 1 2 int 
+
+
+
+
+3 4 effect 
+1 2 mechanism 
+
+
+
+
+
+
+0 1 mechanism 
+
+0 1 mechanism 
+0 1 mechanism 
+
+
+
+
+0 1 mechanism 0 2 mechanism 
+
+
+0 2 mechanism 1 2 mechanism 
+1 2 advise 
+
+
+
+
+
+2 3 mechanism 2 4 mechanism 
+1 2 mechanism 
+
+0 1 mechanism 
+
+
+0 1 mechanism 
+
+
+
+0 1 mechanism 
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 0 5 advise 0 6 advise 0 7 advise 0 8 advise 0 9 advise 0 10 advise 
+2 3 advise 
+1 2 advise 
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 effect 0 2 effect 
+0 1 effect 
+
+
+
+
+
+0 1 advise 
+1 2 mechanism 
+
+1 3 mechanism 2 3 mechanism 
+
+
+
+
+
+0 1 mechanism 0 2 mechanism 
+
+
+
+
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 0 5 advise 
+0 1 effect 0 2 effect 0 3 effect 0 4 effect 
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 effect 
+
+
+
+
+
+
+
+
+
+
+
+0 1 mechanism 
+0 1 mechanism 
+
+0 7 advise 
+
+0 1 mechanism 
+0 1 effect 
+
+0 1 mechanism 
+
+
+
+0 1 mechanism 
+
+
+
+
+
+
+
+0 3 advise 1 3 advise 2 3 advise 
+
+
+0 11 advise 1 11 advise 2 11 advise 3 11 advise 4 11 advise 5 11 advise 6 11 advise 7 11 advise 8 11 advise 9 11 advise 10 11 advise 
+
+
+0 1 effect 
+
+
+
+
+
+
+
+
+0 1 mechanism 
+0 1 effect 
+0 3 effect 0 4 effect 0 5 effect 0 6 effect 0 7 effect 0 8 effect 0 9 effect 1 3 effect 1 4 effect 1 5 effect 1 6 effect 1 7 effect 1 8 effect 1 9 effect 2 3 effect 2 4 effect 2 5 effect 2 6 effect 2 7 effect 2 8 effect 2 9 effect 
+
+
+0 1 advise 1 2 advise 
+0 1 effect 
+1 2 effect 
+1 2 advise 
+
+1 2 effect 
+
+
+
+3 4 mechanism 
+
+0 1 effect 
+
+
+0 2 effect 1 2 effect 
+
+
+0 1 mechanism 
+1 2 effect 
+
+0 1 mechanism 
+
+1 2 advise 
+0 2 mechanism 1 2 mechanism 
+0 1 mechanism 0 3 mechanism 0 4 mechanism 0 5 mechanism 
+0 2 effect 0 3 effect 1 2 effect 1 3 effect 
+
+0 1 effect 0 2 effect 
+
+
+0 1 advise 
+1 2 mechanism 
+0 1 advise 
+1 3 effect 1 4 effect 2 3 effect 2 4 effect 
+0 2 effect 1 2 effect 
+
+
+
+
+0 2 effect 1 2 effect 
+
+
+
+
+
+
+0 1 mechanism 
+0 1 mechanism 
+
+
+1 2 mechanism 
+
+0 1 mechanism 
+0 1 advise 
+
+
+0 1 mechanism 
+
+1 2 advise 
+
+0 1 effect 
+0 1 advise 
+
+0 1 int 
+0 2 mechanism 
+0 1 advise 
+
+
+0 1 mechanism 
+
+
+0 1 mechanism 0 2 mechanism 
+0 2 mechanism 1 2 mechanism 
+0 1 effect 0 2 effect 
+
+0 1 mechanism 
+
+
+
+0 1 mechanism 
+0 1 advise 
+0 2 mechanism 0 3 mechanism 0 4 mechanism 0 5 mechanism 0 6 mechanism 0 7 mechanism 0 8 mechanism 0 9 mechanism 0 10 mechanism 0 11 mechanism 0 12 mechanism 
+
+2 4 mechanism 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 2 effect 
+2 4 effect 3 4 effect 
+
+0 1 effect 
+0 1 effect 
+0 1 advise 
+
+
+
+
+
+
+
+3 5 advise 4 5 advise 
+
+
+
+0 1 effect 0 2 effect 
+
+1 2 mechanism 
+
+
+
+
+0 1 effect 2 3 advise 
+2 3 effect 
+
+
+1 3 effect 2 3 effect 
+0 1 advise 0 2 advise 0 3 advise 0 4 advise 0 5 advise 0 6 advise 0 7 advise 
+
+
+
+
+
+2 3 mechanism 
+
+1 2 mechanism 
+
+
+
+
+
+
+1 3 mechanism 
+
+
+1 3 mechanism 
+
+
+
+2 3 advise 2 4 advise 
+
+0 1 effect 0 2 effect 0 3 effect 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 1 advise 
+

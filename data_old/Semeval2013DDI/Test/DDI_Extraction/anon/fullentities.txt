@@ -1,0 +1,1299 @@
+drug 0 4 drug 17 21 drug 62 66 
+drug 39 43 drug 46 50 
+group 0 4 drug 33 37 group 54 58 
+group 0 4 
+drug 26 30 
+brand 19 23 group 28 32 
+drug 0 4 drug 41 45 drug 74 78 
+drug 0 4 drug 41 45 drug 74 78 
+group 0 4 drug 68 72 drug 95 99 drug 101 105 drug 107 111 drug 113 117 drug 121 125 
+drug 0 4 drug 14 18 drug 105 109 
+drug 19 23 drug 27 31 
+drug 88 92 drug 226 230 
+drug 40 44 drug 151 155 
+
+
+
+
+drug 32 36 drug 194 198 
+drug 73 77 
+drug 0 4 
+drug 46 50 
+drug 215 219 
+drug 20 24 drug 151 155 
+drug 0 4 
+drug 21 25 group 48 52 group 54 58 drug 109 113 
+
+group 3 7 
+brand 4 8 group 29 33 drug 117 121 
+brand 28 32 
+drug 42 46 
+drug 19 23 
+brand 10 14 
+brand 33 37 
+brand 23 27 
+brand 13 17 
+brand 36 40 
+brand 27 31 
+
+drug 15 19 drug 29 33 drug 118 122 
+drug 15 19 drug 50 54 
+drug 23 27 
+drug 81 85 drug 87 91 drug 95 99 drug 122 126 
+drug 34 38 
+brand 44 48 drug 50 54 
+drug 37 41 drug 64 68 
+drug 28 32 
+drug 33 37 drug 71 75 
+group 0 4 
+brand 0 4 group 13 17 brand 34 38 drug 75 79 
+drug 76 80 
+
+group 0 4 group 27 31 
+group 0 4 group 42 46 
+group 0 4 drug 61 65 drug 67 71 drug 73 77 drug 79 83 drug 85 89 drug 91 95 drug 97 101 drug 103 107 drug 109 114 group 127 132 
+group 31 35 
+
+group 45 49 group 60 64 
+drug 21 25 group 82 86 drug 87 91 
+brand 37 41 
+drug 0 4 drug 37 41 
+drug 13 17 drug 71 75 
+drug 76 80 
+group 0 4 drug 20 24 drug 74 78 
+drug 13 17 
+
+drug 53 57 drug 61 65 
+
+drug 46 50 drug 54 58 
+drug 35 39 drug 41 45 drug 50 54 drug 80 84 drug 109 113 
+drug 11 15 drug 19 23 drug 49 53 
+drug 19 23 
+drug 0 4 brand 45 49 
+group 24 28 group 59 63 drug 76 80 
+brand 0 4 group 44 48 
+drug 11 15 group 22 26 
+group 52 56 group 82 86 
+
+group 17 21 group 25 29 group 61 65 
+drug 11 15 group 50 54 drug 58 62 
+brand 50 54 
+drug 8 12 drug 75 79 
+brand 37 41 
+drug 11 15 
+drug 17 21 brand 25 29 
+group 0 4 group 5 9 group 38 42 
+group 11 15 
+group 78 82 
+drug 0 4 drug 23 27 drug 88 92 drug 119 123 drug 196 200 
+
+drug 26 30 drug 92 96 
+drug 4 8 drug 66 70 drug 135 139 
+drug 89 93 drug 132 136 
+
+group 4 8 drug 9 13 group 43 47 
+group 0 4 drug 7 11 group 61 65 drug 68 72 
+drug 31 35 
+
+
+group 58 62 drug 64 68 group 70 74 drug 81 85 group 88 92 group 94 98 group 105 109 group 112 116 group 118 122 group 124 129 drug 136 141 group 144 149 group 153 158 group 160 165 group 167 172 
+group 0 4 group 27 31 
+group 0 4 group 99 103 
+group 0 4 drug 90 94 
+drug 14 18 
+group 0 4 drug 75 79 
+group 7 11 group 43 47 
+group 22 26 
+brand 5 9 drug 11 15 group 56 60 drug 123 127 drug 164 168 drug 172 176 
+group 0 4 drug 6 10 group 27 31 drug 54 58 
+group 5 9 brand 15 19 group 43 47 
+group 24 28 
+drug 0 4 group 6 10 group 15 19 drug 115 119 
+group 0 4 group 6 10 group 72 76 
+
+group 0 4 drug 7 11 
+drug 0 4 drug 11 15 
+group 0 4 group 6 10 group 70 74 drug 82 86 
+brand 41 45 
+group 0 4 group 13 17 brand 58 62 
+group 0 4 drug 6 10 drug 46 50 
+drug 0 4 drug 58 62 
+group 0 4 drug 6 10 group 25 29 group 72 76 
+
+brand 18 22 drug 27 31 drug 57 61 drug_n 142 146 
+brand 20 24 group 60 64 
+group 31 35 drug 89 93 brand 141 145 
+
+drug 46 50 brand 62 66 
+drug 0 4 group 57 61 group 91 95 
+drug_n 43 47 
+drug 27 31 drug 71 75 
+drug 46 50 drug 92 96 drug 113 117 drug 136 140 
+
+drug 87 91 drug 95 99 
+drug 55 59 drug 81 85 drug 116 120 drug 167 171 
+
+drug 0 4 drug 8 12 drug 32 36 
+drug 13 17 drug 49 53 
+
+
+
+
+
+brand 29 33 drug 35 39 drug 69 73 
+
+
+drug 46 50 drug 54 58 drug 60 64 drug 66 70 drug 74 78 
+drug 38 42 brand 74 78 
+brand 35 39 drug 117 121 
+drug 63 67 drug 122 126 drug 128 132 drug 134 138 drug 142 146 
+drug 77 81 group 136 140 group 148 152 group 160 164 group 172 176 group 184 188 group 196 200 group 208 212 group 221 225 group 236 241 
+group 7 11 group 45 49 group 94 98 
+group 7 11 group 20 24 group 61 65 drug 90 94 group 103 107 group 110 114 drug 121 125 
+group 0 4 group 23 27 group 66 70 
+group 57 61 group 79 83 
+brand 0 4 brand 33 37 drug 109 113 
+
+group 19 23 drug 52 56 brand 60 64 
+brand 35 39 brand 44 48 brand 125 129 
+brand 0 4 brand 24 28 
+drug 0 4 drug 33 37 drug 74 78 
+
+drug 50 54 
+
+drug 0 4 drug 38 42 drug 93 97 
+drug 0 4 drug 6 10 drug 74 78 
+drug 57 61 drug 65 69 
+drug 0 4 group 70 74 drug 106 110 group 114 118 
+
+drug 11 15 drug 25 29 
+drug 0 4 drug 93 97 
+drug 41 45 brand 49 53 
+drug 0 4 group 23 27 drug 59 63 drug 90 94 
+drug 47 51 drug 108 112 drug 147 151 drug 187 191 
+brand 73 77 
+drug 10 14 brand 52 56 
+drug 0 4 drug 83 87 drug 111 115 
+drug 0 4 drug 69 73 
+drug 8 12 drug 27 31 
+drug 0 4 brand 99 103 drug 130 134 
+drug 11 15 drug 42 46 drug 103 107 
+drug 16 20 drug 32 36 drug 87 91 
+
+brand 36 40 drug 45 49 drug 65 69 
+drug 0 4 drug 37 41 
+drug 0 4 drug 47 51 drug 81 85 
+drug 76 80 
+drug 68 72 
+group 41 45 
+brand 8 12 
+brand 69 73 
+group 2 6 group 32 36 
+brand 42 46 
+drug 32 36 drug 84 88 
+drug 20 24 group 115 119 group 121 125 group 127 131 drug 133 137 
+drug 32 36 
+drug 0 4 
+drug 15 19 group 28 32 drug 69 73 
+group 0 4 group 38 42 group 51 55 group 57 61 drug 63 67 group 69 73 group 75 79 group 84 88 
+brand 37 41 drug 120 124 
+brand 24 28 drug 61 65 
+drug 37 41 brand 46 50 
+drug 0 4 
+brand 88 92 
+brand 68 72 
+brand 33 37 group 39 43 
+
+drug 57 61 drug 63 67 drug 69 73 drug 75 79 drug 82 86 brand 129 133 brand 168 172 
+brand 0 4 drug 84 88 
+drug 116 120 
+brand 0 4 group 6 10 drug 18 22 drug 24 28 drug 33 37 brand 64 68 drug_n 192 196 drug 301 305 drug 307 311 drug 313 318 drug 320 325 drug 327 332 drug 334 339 drug 344 349 
+
+drug 0 4 group 50 54 drug 56 60 drug 62 66 drug 71 75 
+drug 117 121 
+group 4 8 drug 55 59 drug 63 67 drug 121 125 drug 134 138 
+drug 53 57 
+drug 13 17 group 56 60 group 78 82 drug 84 88 drug 90 94 group 96 100 drug 102 106 drug 108 112 drug 114 118 drug 120 125 
+drug_n 0 4 group 9 13 
+drug 170 174 
+brand 0 4 drug 27 31 group 33 37 group 46 50 
+group 0 4 group 8 12 drug 33 37 
+group 0 4 drug 42 46 drug 48 52 drug 54 58 group 62 66 
+brand 19 23 
+brand 53 57 drug 65 69 group 73 77 
+drug 19 23 drug 59 63 drug 68 72 
+brand 82 86 drug 90 94 
+brand 51 55 group 68 72 
+group 47 51 drug 54 58 brand 102 106 group 112 116 
+brand 21 25 drug 57 61 
+brand 0 4 group 13 17 drug 63 67 drug 114 118 
+
+drug 26 30 drug 51 55 drug 83 87 drug 108 112 
+drug 79 83 
+drug 27 31 drug 67 71 drug 74 78 drug 97 101 drug 105 109 
+drug 32 36 drug 39 43 drug 108 112 
+drug 0 4 drug 48 52 
+drug 0 4 drug 30 34 drug 83 87 drug 152 156 
+drug 41 45 brand 94 98 drug 148 152 
+drug 30 34 
+drug 19 23 
+group 5 9 brand 42 46 drug 48 52 
+group 0 4 group 62 66 group 69 73 group 91 95 
+drug 30 34 drug 93 97 
+drug 73 77 drug 82 86 drug 102 106 
+drug 18 22 
+drug 0 4 group 35 39 drug 49 53 group 55 59 group 61 65 group 67 71 group 73 77 group 82 86 
+group 12 16 drug 24 28 group 32 36 drug 82 86 
+drug 0 4 
+brand 19 23 
+brand 41 45 group 75 79 
+brand 0 4 
+brand 16 20 
+drug 34 38 group 42 46 brand 85 89 drug 91 95 drug 100 104 brand 162 166 
+drug 131 135 drug 139 143 
+
+drug 31 35 group 39 43 
+
+group 68 72 brand 76 80 group 84 88 brand 92 96 
+drug 79 83 group 88 92 drug 94 98 
+drug 4 8 drug 12 16 drug 152 156 
+drug 36 40 drug 75 79 
+drug 127 131 group 138 142 group 162 166 
+drug 0 4 drug 6 10 drug 12 16 drug 18 22 drug 24 28 group 33 37 
+brand 50 54 
+drug 0 4 brand 34 38 drug 87 91 
+
+
+
+
+
+
+
+
+brand 19 23 brand 39 43 drug 61 65 brand 67 71 group 84 88 group 97 101 group 108 112 group 126 130 
+brand 31 35 
+group 4 8 group 19 23 group 42 46 
+brand 0 4 drug 45 49 drug 51 55 drug 57 61 drug 65 69 
+brand 60 64 group 81 85 drug 133 137 drug 170 174 
+drug 109 113 drug 140 144 
+drug 0 4 group 52 56 
+drug 63 67 
+drug 0 4 
+drug 127 131 drug 140 144 
+drug 148 152 drug 170 174 drug 176 180 drug 182 186 drug 188 192 drug 194 198 drug 200 204 drug 206 210 group 212 216 drug 218 223 drug 225 230 drug 232 237 drug 242 247 
+brand 30 34 group 135 139 drug 144 148 drug 150 154 drug 159 163 
+group 17 21 group 25 29 group 34 38 group 40 44 drug 46 50 drug 52 56 
+brand 54 58 
+brand 49 53 group 192 196 drug 201 205 group 208 212 
+drug 57 61 drug 63 67 drug 72 76 brand 99 103 
+brand 102 106 
+brand 0 4 group 116 120 drug 125 129 group 133 137 
+group 117 121 group 142 146 group 156 160 
+drug 4 8 group 60 64 drug 68 72 
+brand 38 42 drug 44 48 drug 160 164 
+drug 0 4 
+brand 45 49 drug 53 57 brand 159 163 group 167 171 
+drug 0 4 group 18 22 drug 24 28 group 37 41 group 55 59 
+drug 33 37 
+drug 0 4 drug 6 10 
+drug 51 55 drug 59 63 
+brand 33 37 group 127 131 drug 138 142 group 201 205 
+
+brand 0 4 
+group 98 102 brand 165 169 
+group 36 40 group 43 47 brand 83 87 
+brand 62 66 group 86 90 
+brand 6 10 drug 14 18 brand 49 53 drug 131 135 
+brand 5 9 drug 13 17 
+brand 5 9 drug 142 146 
+drug 61 65 drug 113 117 
+drug 83 87 drug 112 116 
+drug 31 35 
+drug 53 57 drug 112 116 
+drug 10 14 drug 17 21 drug 109 113 
+drug 56 60 drug 82 86 
+brand 31 35 group 91 95 group 100 104 
+group 10 14 drug 21 25 drug 28 32 
+drug 4 8 drug 43 47 drug 51 55 brand 85 89 brand 98 102 
+brand 12 16 
+group 15 19 brand 40 44 
+brand 53 57 drug 61 65 group 67 71 drug 75 79 
+drug 26 30 brand 34 38 brand 90 94 
+
+brand 0 4 drug 22 26 drug 36 40 brand 86 90 drug 119 123 
+brand 15 19 drug 23 27 drug 52 56 
+drug 83 87 
+brand 75 79 drug 81 85 brand 112 116 brand 154 158 brand 162 166 drug 170 174 drug 199 203 brand 252 256 
+drug 25 29 
+drug 84 88 brand 132 136 
+group 0 4 group 29 33 drug 86 90 
+group 1 5 
+group 16 20 
+group 0 4 group 73 77 
+group 15 19 
+drug 0 4 drug 6 10 drug 64 68 
+drug 14 18 
+group 5 9 brand 42 46 
+group 4 8 drug 24 28 
+drug 42 46 
+group 5 9 drug 17 21 drug 23 27 drug 32 36 
+drug 0 4 group 57 61 drug 63 67 group 109 113 drug 115 119 drug 123 127 drug 142 146 
+group 12 16 drug 40 44 group 79 83 drug 90 94 group 96 100 group 102 106 group 110 114 
+group 5 9 drug 31 35 
+group 15 19 group 21 25 drug 32 36 drug 38 42 drug 44 48 drug 52 56 group 146 150 
+
+brand 0 4 drug 38 42 
+
+brand 38 42 group 68 72 group 74 78 drug 80 84 drug 86 90 drug 92 96 drug 99 103 group 108 112 drug 114 118 drug 120 125 drug 127 132 
+brand 76 80 
+drug 56 60 
+drug 16 20 drug 38 42 group 65 69 
+brand 19 23 drug 67 71 drug 73 77 drug 79 83 drug 85 89 drug 91 95 drug 97 101 drug 103 107 drug 109 113 drug 115 120 drug 122 127 drug 129 134 drug 148 153 
+brand 47 51 
+brand 19 23 drug 59 63 drug 65 69 drug 71 75 drug 77 81 drug 83 87 drug 89 93 drug 95 99 drug 125 129 
+
+brand 20 24 
+brand 17 21 
+
+brand 0 4 
+group 0 4 group 79 83 
+brand 38 42 brand 164 168 drug 207 211 
+drug 0 4 group 19 23 brand 25 29 
+group 5 9 drug 11 15 drug 17 21 drug 23 27 drug 31 35 group 64 68 
+
+group 4 8 drug 32 36 group 110 114 
+drug 0 4 drug 20 24 drug 44 48 group 92 96 drug 114 118 
+drug 72 76 
+group 3 7 drug 28 32 
+brand 72 76 drug 109 113 drug 115 119 drug 123 127 
+brand 0 4 group 49 53 group 55 59 group 61 65 drug 67 71 group 77 81 
+
+brand 0 4 
+brand 74 78 
+drug 71 75 brand 119 123 
+drug 8 12 brand 44 48 drug 148 152 brand 169 173 
+group 61 65 brand 162 166 
+brand 54 58 group 62 66 group 110 114 brand 184 188 
+group 31 35 
+
+drug 68 72 drug 91 95 
+group 15 19 group 28 32 group 46 50 
+
+drug 0 4 brand 38 42 group 51 55 drug 65 69 drug 78 82 drug 105 109 group 143 147 drug 160 164 drug 173 177 group 225 230 drug 250 255 group 260 265 group 300 305 group 399 404 drug 424 429 group 433 438 group 471 476 
+drug 48 52 drug 82 86 drug 88 92 drug_n 94 98 drug 103 107 
+drug 31 35 
+group 83 87 group 99 103 group 105 109 group 115 119 
+drug 77 81 drug 109 113 drug 116 120 
+drug 0 4 drug 28 32 
+drug 0 4 drug 28 32 
+drug 102 106 drug 110 114 brand 150 154 
+drug 0 4 drug 31 35 drug 75 79 
+drug 0 4 drug 28 32 
+group 103 107 group 137 141 drug 143 147 drug 149 153 group 155 159 group 161 165 group 170 174 
+brand 0 4 
+drug 0 4 drug 54 58 
+drug 15 19 brand 63 67 
+drug 18 22 drug 26 30 drug 72 76 
+drug 0 4 drug 6 10 drug 70 74 brand 107 111 
+drug 0 4 brand 27 31 drug 35 39 
+
+brand 2 6 drug 30 34 
+drug 30 34 
+drug 8 12 drug 37 41 drug 43 47 drug 51 55 
+brand 23 27 drug 84 88 drug 90 94 drug 96 100 drug 102 106 drug 108 112 drug 117 121 
+
+drug 0 4 group 28 32 drug 34 38 group 43 47 
+group 21 25 drug 54 58 group 85 89 drug 122 126 drug 158 162 drug 189 193 drug 196 200 drug 229 233 
+group 0 4 group 15 19 group 21 25 group 27 31 group 33 37 drug 41 45 brand 96 100 group 103 107 
+brand 40 44 
+drug 7 11 drug 78 82 
+group 28 32 group 70 74 
+drug 12 16 group 59 63 group 67 71 
+drug 35 39 drug 51 55 group 57 61 group 63 67 group 69 73 group 77 81 
+drug 14 18 group 140 144 
+drug 52 56 drug 60 64 drug 148 152 drug 154 158 drug 160 164 drug 166 170 drug 172 176 
+
+drug 23 27 
+drug 18 22 drug 95 99 
+
+drug 35 39 drug 41 45 drug 49 53 group 79 83 group 108 112 
+drug 11 15 drug 19 23 group 49 53 
+group 19 23 
+group 0 4 brand 45 49 
+group 24 28 group 59 63 group 76 80 
+brand 0 4 group 44 48 
+group 11 15 group 22 26 
+group 52 56 group 82 86 
+
+drug 23 27 drug 52 56 drug 116 120 
+drug 26 30 drug 89 93 drug 154 158 
+brand 97 101 drug 103 107 
+brand 34 38 
+drug 0 4 group 20 24 group 26 30 group 37 41 drug 48 52 drug 54 58 drug 60 64 drug 66 70 drug 72 76 drug 78 83 drug 86 91 drug 93 98 group 100 105 drug 112 117 group 125 130 drug 132 137 group 150 155 group 157 162 drug 169 174 drug 176 181 group 184 189 drug 196 201 drug 203 208 
+brand 0 4 
+group 46 50 group 68 72 brand 93 97 brand 208 212 group 225 229 
+drug 14 18 brand 72 76 brand 108 112 group 156 160 drug 174 178 group 192 196 brand 207 211 drug 256 260 
+drug 25 29 brand 87 91 
+drug 29 33 group 61 65 
+group 16 20 
+drug 52 56 
+brand 130 134 group 149 153 group 156 160 
+drug 10 14 
+brand 27 31 drug 35 39 drug 72 76 drug 86 90 
+drug 66 70 
+brand 0 4 group 32 36 group 38 42 group 44 48 group 50 54 group 56 60 group 65 69 
+brand 70 74 
+
+group 23 27 
+brand 25 29 drug 31 35 drug 52 56 drug 106 110 
+brand 2 6 drug 46 50 drug 87 91 
+brand 27 31 drug 70 74 
+drug 28 32 
+brand 46 50 group 69 73 
+group 37 41 
+
+group 26 30 drug 37 41 drug 43 47 group 84 88 
+
+
+
+group 76 80 
+group 83 87 
+group 0 4 drug 58 62 group 100 104 
+group 14 18 group 73 77 
+drug 34 38 group 76 80 
+drug 17 21 
+drug 0 4 group 30 34 drug 45 49 drug 51 55 drug 60 64 
+drug 0 4 drug 32 36 
+drug 0 4 
+group 38 42 
+drug 46 50 
+drug 42 46 drug 122 126 drug 128 132 drug 134 138 drug 205 209 
+drug 12 16 drug 18 22 
+group 20 24 drug 26 30 drug 32 36 drug 38 42 drug 53 57 drug 90 94 
+drug 54 58 
+drug 25 29 
+drug 38 42 
+drug 27 31 group 35 39 
+drug 103 107 group 109 113 drug 115 119 drug 121 125 drug 127 131 drug 133 137 drug 141 145 
+brand 12 16 drug 35 39 
+drug 46 50 
+drug 10 14 
+drug 0 4 
+drug 28 32 
+drug 0 4 
+drug 27 31 brand 33 37 group 83 87 drug 91 95 
+drug 0 4 drug 29 33 group 42 46 
+brand 88 92 
+brand 30 34 drug 35 39 
+drug 70 74 
+brand 16 20 drug 22 26 
+brand 23 27 
+brand 59 63 group 81 85 
+group 21 25 group 29 33 group 125 129 drug 135 139 drug 143 147 
+drug 52 56 
+group 52 56 drug 63 67 drug 69 73 drug 75 79 group 82 86 group 89 93 drug 100 104 drug 106 110 drug 112 116 drug 118 123 group 127 132 drug 139 144 drug 146 151 drug 153 158 
+
+drug 27 31 drug 33 37 drug 39 43 drug 61 65 drug 67 71 drug 73 77 drug 82 86 
+drug 124 128 
+
+brand 28 32 drug 34 38 group 67 71 group 74 78 
+group 47 51 group 53 57 group 59 63 group 65 69 group 72 76 
+drug 0 4 
+brand 7 11 group 59 63 group 65 69 drug 81 85 drug 87 91 drug_n 127 131 
+group 40 44 
+group 27 31 group 47 51 
+group 0 4 group 29 33 group 40 44 group 46 50 group 52 56 drug 58 62 
+drug 8 12 drug_n 16 20 
+brand 127 131 
+brand 15 19 drug 35 39 
+drug 57 61 
+
+brand 0 4 drug 33 37 drug 64 68 
+drug 31 35 drug 44 48 drug 107 111 
+drug 0 4 
+drug 46 50 drug 125 129 drug 131 135 drug 137 141 drug 143 147 drug 149 153 drug 155 159 drug_n 184 188 drug 191 195 drug 197 202 drug 204 209 drug 211 216 drug 218 223 drug 225 230 group 238 243 drug 245 250 drug 252 257 drug 260 265 drug 267 272 drug 274 279 drug 281 286 drug 288 293 drug 295 300 drug 302 307 drug 311 316 
+drug 32 36 
+drug 32 36 drug 61 65 
+group 54 58 
+group 84 88 drug 99 103 drug 108 112 
+
+group 19 23 drug 27 31 
+drug 64 68 drug 166 170 drug 172 176 drug 187 191 
+drug 73 77 drug 79 83 group 108 112 drug 123 127 
+
+drug 0 4 group 28 32 drug 34 38 group 43 47 
+group 21 25 drug 54 58 group 85 89 drug 122 126 drug 158 162 drug 189 193 drug 196 200 drug 229 233 
+drug 0 4 drug 36 40 
+drug 30 34 group 38 42 
+
+drug 16 20 drug 45 49 
+
+brand 70 74 
+drug 91 95 drug 98 102 drug 132 136 
+drug 55 59 drug 63 67 drug 155 159 
+drug 29 33 drug 75 79 
+drug 12 16 drug 18 22 drug 25 29 drug 53 57 
+group 0 4 drug 18 22 drug 63 67 
+group 0 4 group 24 28 group 69 73 group 75 79 
+
+group 20 24 group 47 51 
+drug 25 29 group 55 59 drug 70 74 
+drug 35 39 
+
+drug 35 39 group 67 71 group 73 77 drug 81 85 
+drug 66 70 
+drug 19 23 drug 27 31 drug 96 100 
+drug 16 20 drug 39 43 
+drug 12 16 drug 46 50 
+
+drug 45 49 
+
+drug 32 36 
+
+drug 0 4 drug 100 104 drug 136 140 
+drug 17 21 
+drug 20 24 brand 27 31 
+brand 24 28 brand 61 65 brand 177 181 
+brand 22 26 drug 28 32 brand 37 41 
+drug 0 4 group 37 41 
+group 17 21 group 31 35 drug 37 41 drug 46 50 
+drug 15 19 drug 21 25 group 28 32 group 38 42 drug 44 48 group 50 54 
+drug 15 19 drug 21 25 drug 28 32 drug 66 70 
+drug 0 4 drug 56 60 
+drug 15 19 drug 53 57 
+drug 0 4 group 20 24 group 26 30 group 32 36 group 38 42 drug 47 51 
+group 0 4 brand 31 35 drug 107 111 drug 113 117 group 128 132 brand 214 218 
+drug 19 23 group 27 31 
+drug 0 4 drug 49 53 brand 119 123 
+drug 0 4 drug 6 10 brand 26 30 
+
+drug 4 8 drug 10 14 drug_n 18 22 
+drug 0 4 drug 6 10 drug 21 25 drug 29 33 brand 77 81 drug 116 120 drug 123 127 
+drug 0 4 drug_n 85 89 drug 120 124 
+drug 25 29 drug 34 38 drug 162 166 brand 210 214 
+group 4 8 brand 39 43 group 51 55 
+drug 41 45 drug 88 92 
+group 33 37 brand 60 64 
+group 0 4 drug 25 29 group 39 43 
+
+
+brand 53 57 
+drug_n 14 18 drug_n 42 46 
+brand 0 4 
+group 12 16 group 18 22 group 41 45 
+brand 29 33 group 43 47 drug 69 73 
+group 20 24 drug 26 30 group 119 123 group 132 136 group 138 142 group 149 153 group 155 159 group 170 174 group 177 181 group 190 195 drug 206 211 
+
+brand 77 81 group 98 102 
+brand 36 40 group 86 90 
+drug 36 40 brand 44 48 
+drug 38 42 
+brand 10 14 drug 63 67 
+drug 68 72 drug 76 80 
+drug 65 69 brand 73 77 
+drug 34 38 group 76 80 
+drug 34 38 
+group 59 63 
+drug 42 46 drug 50 54 group 63 67 drug 80 84 drug 88 92 
+
+drug 47 51 drug 80 84 drug 89 93 drug 96 100 
+drug 1 5 drug 7 11 drug 29 33 drug 36 40 group 287 291 
+drug 33 37 drug 52 56 
+drug 0 4 drug 25 29 drug 50 54 
+drug 22 26 drug 69 73 drug 111 115 drug 204 208 drug 249 253 
+drug 0 4 drug 6 10 
+drug 8 12 
+drug 21 25 
+drug 20 24 drug 67 71 
+brand 0 4 drug 6 10 
+brand 8 12 
+drug 21 25 
+drug 32 36 brand 79 83 
+group 7 11 group 76 80 group 123 127 
+drug 63 67 group 95 99 drug 117 121 
+group 12 16 group 29 33 drug 44 48 drug 50 54 drug 57 61 drug 66 70 
+group 18 22 drug 26 30 
+group 15 19 group 28 32 group 46 50 
+brand 56 60 
+drug 16 20 brand 38 42 brand 72 76 brand 134 138 
+brand 19 23 group 33 37 
+group 0 4 
+brand 88 92 brand 114 118 drug 224 228 drug 230 234 drug 236 240 drug 242 246 drug 248 252 drug 254 258 drug 262 266 
+brand 18 22 brand 112 116 
+
+brand 51 55 
+brand 38 42 group 62 66 drug 69 73 
+brand 15 19 drug 24 28 drug 36 40 
+drug 13 17 group 33 37 group 39 43 drug 51 55 brand 57 61 drug 64 68 brand 70 74 drug 79 83 brand 85 89 
+drug 9 13 drug 76 80 
+drug 0 4 drug 26 30 brand 32 36 
+
+drug 28 32 
+group 56 60 drug 67 71 brand 73 77 drug 80 84 brand 86 90 drug 93 97 brand 99 103 drug 106 110 brand 112 116 drug 119 124 brand 126 131 drug 134 139 brand 141 146 drug 149 154 brand 156 161 drug 166 171 brand 173 178 
+drug 33 37 
+drug 0 4 drug 47 51 drug 143 147 
+group 60 64 drug 100 104 group 117 121 
+drug 11 15 
+group 0 4 
+drug 66 70 group 84 88 drug 94 98 drug 101 105 drug 110 114 
+group 0 4 drug 11 15 
+drug 18 22 group 49 53 group 72 76 group 78 82 drug 90 94 drug 96 100 drug 102 106 drug 108 112 drug 207 211 
+drug 26 30 group 36 40 
+brand 20 24 drug 41 45 drug 51 55 brand 59 63 drug 105 109 drug 113 117 drug 129 133 brand 162 166 
+brand 0 4 brand 33 37 brand 67 71 
+brand 20 24 drug 45 49 drug 98 102 
+drug 30 34 brand 64 68 
+drug 22 26 drug 42 46 
+brand 45 49 drug 51 55 brand 60 64 drug 70 74 
+group 28 32 drug 39 43 drug 45 49 drug 53 57 drug 144 148 
+drug 32 36 brand 38 42 drug 47 51 brand 53 57 brand 59 63 drug 88 92 
+group 0 4 drug 18 22 drug 63 67 
+group 0 4 group 24 28 group 69 73 group 75 79 
+
+group 20 24 group 47 51 
+drug_n 0 4 
+drug 54 58 drug 79 83 drug 95 99 drug 132 136 drug 219 223 drug 228 232 drug 272 276 drug 278 282 drug 284 288 drug 290 295 drug 297 302 drug 304 309 drug 311 316 drug 318 323 drug 325 330 drug 333 338 
+brand 16 20 drug 175 179 
+group 37 41 drug 49 53 brand 86 90 
+drug 0 4 drug 59 63 
+drug 15 19 brand 37 41 
+drug 43 47 drug 89 93 drug 97 101 
+
+drug 26 30 
+
+brand 42 46 drug 60 64 
+drug 11 15 brand 89 93 
+
+
+brand 0 4 drug 48 52 
+
+brand 27 31 drug 64 68 
+drug 32 36 
+drug 23 27 
+group 0 4 group 59 63 
+drug 25 29 group 70 74 
+drug 27 31 group 36 40 
+brand 120 124 drug 128 132 drug 134 138 drug 140 144 drug 146 150 drug 152 156 drug 158 162 drug 164 168 drug 170 174 drug 179 184 
+drug 60 64 
+brand 46 50 drug 53 57 drug 59 63 drug 65 69 drug 71 75 drug 80 84 
+drug 0 4 brand 70 74 drug 87 91 
+drug 0 4 brand 80 84 drug 97 101 
+drug 17 21 drug 24 28 brand 46 50 drug 71 75 drug 78 82 drug 94 98 drug 101 105 
+drug 0 4 
+group 75 79 
+group 43 47 drug 50 54 
+drug 0 4 
+group 0 4 drug 40 44 
+
+group 0 4 drug 35 39 
+drug 0 4 group 30 34 drug 55 59 
+group 0 4 group 41 45 
+group 22 26 group 29 33 
+drug 0 4 drug 6 10 drug 12 16 drug 18 22 drug 60 64 
+
+drug 0 4 drug 32 36 drug 73 77 
+drug 0 4 drug 51 55 drug 91 95 
+drug 0 4 drug 6 10 drug 114 118 
+drug 0 4 drug 6 10 drug 114 118 
+drug 155 159 drug 161 165 drug 167 171 drug 173 177 drug 179 183 drug 185 189 drug 194 198 drug 227 231 group 294 298 group 300 305 drug 307 312 drug 314 319 drug 324 329 drug 378 383 
+drug 75 79 drug 98 102 
+drug 0 4 
+drug 66 70 
+group 0 4 drug 11 15 group 19 23 group 41 45 group 56 60 group 62 66 group 68 72 group 74 78 group 82 86 brand 117 122 
+brand 65 69 
+brand 26 30 drug 69 73 
+drug 67 71 drug 141 145 drug 214 218 drug 268 272 
+brand 63 67 
+drug 0 4 drug 139 143 
+drug 40 44 drug 127 131 
+drug 72 76 
+drug 44 48 drug 82 86 drug 174 178 
+drug 0 4 group 131 135 drug 146 150 drug 162 166 
+drug 60 64 drug 67 71 drug 107 111 drug 125 129 
+drug 0 4 drug 53 57 drug 101 105 
+drug 21 25 
+drug 96 100 drug 103 107 drug 131 135 
+drug 0 4 
+drug 54 58 drug 136 140 drug 142 146 drug 148 152 group 158 162 drug 164 168 drug 173 177 drug 185 189 drug 191 195 drug 200 205 
+drug 61 65 
+group 24 28 group 30 34 group 36 40 group 42 46 group 51 55 
+drug 0 4 drug 53 57 drug 101 105 
+drug 21 25 
+drug 96 100 drug 103 107 drug 131 135 
+drug 74 78 brand 93 97 drug 154 158 
+drug 19 23 
+
+
+
+
+brand 65 69 drug 71 75 
+
+drug 27 31 
+drug 32 36 drug 94 98 brand 247 251 
+brand 90 94 
+drug 0 4 drug 33 37 drug 88 92 
+brand 56 60 drug 101 105 
+drug 42 46 brand 58 62 drug 64 68 drug 97 101 drug 141 145 
+brand 44 48 drug 90 94 
+drug 42 46 brand 78 82 
+drug 0 4 drug 66 70 drug 93 97 
+
+drug 31 35 drug 67 71 drug 98 102 
+drug 19 23 
+drug 27 31 drug 35 39 
+drug 0 4 drug 40 44 drug 89 93 drug 97 101 drug 120 124 
+
+drug 27 31 drug 35 39 
+group 33 37 drug 48 52 drug 54 58 drug 63 67 drug 71 75 drug 80 84 drug 119 123 
+group 0 4 drug 48 52 drug 56 60 drug 79 83 drug 131 135 
+drug 56 60 
+drug 134 138 drug 141 145 
+drug 27 31 drug 36 40 drug 42 46 drug 50 54 drug 151 155 group 165 169 drug 180 184 
+drug 40 44 drug 49 53 
+drug 55 59 group 70 74 brand 160 164 
+group 28 32 drug 55 59 group 142 146 
+
+brand 0 4 group 71 75 group 79 83 
+group 0 4 group 7 11 group 36 40 
+
+group 0 4 group 21 25 drug 63 67 
+drug 16 20 drug 25 29 
+brand 0 4 brand 34 38 drug 42 46 
+brand 8 12 drug 31 35 brand 39 43 drug 96 100 drug 104 108 
+drug 64 68 group 189 193 group 195 199 group 201 205 group 210 214 
+drug 11 15 drug 17 21 drug 23 27 drug 29 33 drug 35 39 drug 43 47 drug 113 117 
+drug 94 98 
+drug 55 59 drug 63 67 drug 160 164 
+brand 20 24 
+
+drug 54 58 drug 60 64 drug 69 73 drug 134 138 
+drug 44 48 
+brand 33 37 
+group 86 90 drug 147 151 
+brand 19 23 group 127 131 drug 136 140 drug 142 146 drug 150 154 drug 157 161 drug 163 167 drug 169 173 drug 175 179 drug 183 188 
+brand 22 26 
+drug 63 67 drug 69 73 drug 75 79 drug 81 85 drug 87 91 group 101 105 group 114 118 
+group 24 28 group 38 42 group 44 48 group 50 54 group 63 67 group 69 73 group 80 84 group 86 90 group 92 96 drug 101 106 
+
+group 0 4 group 74 78 
+drug 62 66 drug 82 86 
+drug 127 131 group 136 140 
+
+group 34 38 drug 81 85 group 133 137 
+drug 15 19 brand 21 25 
+drug 54 58 group 70 74 group 77 81 
+
+drug 33 37 group 47 51 group 53 57 group 61 65 
+drug 19 23 
+
+drug 0 4 drug 27 31 drug 33 37 drug 75 79 
+
+drug 66 70 
+group 16 20 
+drug 60 64 
+drug 9 13 drug 66 70 drug 128 132 
+drug 25 29 group 58 62 
+drug 27 31 drug 77 81 
+drug 0 4 brand 70 74 drug 87 91 drug 152 156 drug 174 178 drug 235 239 
+drug 0 4 brand 26 30 drug 34 38 drug 79 83 brand 100 104 drug 126 130 
+drug 0 4 brand 40 44 brand 73 77 drug 123 127 
+group 0 4 drug 71 75 brand 129 133 
+brand 0 4 drug 27 31 
+drug 11 15 group 45 49 group 51 55 group 81 85 
+drug 0 4 drug 40 44 drug 72 76 drug 150 154 
+drug 0 4 brand 65 69 brand 98 102 drug 134 138 
+group 4 8 brand 56 60 group 146 150 
+drug 0 4 brand 40 44 brand 73 77 drug 129 133 
+drug 0 4 brand 89 93 brand 122 126 drug 160 164 
+drug 0 4 brand 48 52 drug 112 116 
+brand 88 92 brand 153 157 
+group 12 16 brand 45 49 drug 81 85 brand 102 106 
+drug 0 4 drug 17 21 drug 81 85 
+
+drug 31 35 drug 40 44 
+drug 19 23 drug 46 50 drug 120 124 
+drug 0 4 
+drug 7 11 drug 175 179 
+
+drug 0 4 drug 6 10 drug 15 19 drug 70 74 drug 76 80 drug 85 89 drug 106 110 drug 139 143 
+drug 55 59 drug 100 104 drug 153 157 drug 161 165 drug 215 219 drug 284 288 drug 375 379 
+drug 9 13 drug 15 19 drug 24 28 drug 61 65 
+
+drug 0 4 drug 41 45 
+drug 17 21 drug 112 116 
+drug 20 24 group 65 69 drug 74 78 drug 80 84 group 88 92 drug 97 101 drug 103 107 drug 111 115 drug 118 122 brand 144 149 
+drug 51 55 
+drug 5 9 drug 150 154 
+drug 35 39 drug 107 111 drug 113 117 drug 119 123 drug 125 129 drug 134 138 
+drug 46 50 drug 80 84 drug 102 106 
+group 49 53 drug 55 59 drug 61 65 drug 67 71 drug 111 115 
+drug 34 38 
+group 0 4 brand 106 110 group 128 132 
+brand 74 78 group 82 86 
+group 5 9 brand 95 99 group 108 112 drug 119 123 
+
+drug 62 66 
+drug 45 49 
+drug 32 36 
+group 22 26 
+group 41 45 drug 92 96 
+drug 68 72 
+drug 0 4 group 90 94 group 96 100 drug 104 108 
+
+group 10 14 group 16 20 drug 31 35 group 38 42 group 47 51 
+drug 26 30 
+brand 26 30 
+brand 33 37 drug 62 66 brand 70 74 
+group 0 4 drug 12 16 group 20 24 drug 66 70 drug 72 76 brand 166 170 
+brand 37 41 
+drug 0 4 
+
+drug 0 4 drug 20 24 drug 27 31 
+brand 8 12 brand 144 148 drug 152 156 
+drug 21 25 group 72 76 
+drug 33 37 brand 79 83 
+brand 8 12 drug 19 23 drug 57 61 
+brand 32 36 group 46 50 
+drug 0 4 drug 8 12 drug 30 34 drug 36 40 
+brand 17 21 
+brand 105 109 
+brand 55 59 drug 99 103 drug 106 110 
+drug 0 4 
+drug 57 61 brand 68 72 group 87 91 group 98 102 group 104 108 drug 110 114 group 116 120 drug 122 126 drug 128 132 drug 134 139 drug 144 149 group 152 157 drug 164 169 group 176 181 drug 183 188 drug 193 198 
+brand 32 36 group 128 132 group 134 138 group 149 153 group 267 271 drug 324 328 drug 331 335 
+drug 24 28 drug 31 35 brand 56 60 
+group 43 47 drug 136 140 drug 143 147 group 156 160 drug 178 182 drug 184 188 drug 190 194 drug 196 200 drug 203 207 group 214 219 drug 226 231 group 240 245 drug 247 252 group 260 265 
+brand 57 61 
+brand 38 42 
+group 42 46 group 48 52 drug 54 58 drug 60 64 drug 66 70 drug 72 76 drug 78 82 drug 84 88 drug 90 94 drug 96 101 drug 103 108 group 110 115 group 121 126 brand 188 193 group 202 207 
+brand 67 71 drug 75 79 
+brand 0 4 drug 27 31 drug 33 37 drug 42 46 
+brand 4 8 group 44 48 group 117 121 
+group 0 4 brand 65 69 group 73 77 
+group 38 42 drug 201 205 drug 222 226 
+brand 53 57 group 61 65 
+
+drug 0 4 brand 6 10 drug 45 49 
+drug 19 23 brand 57 61 drug 65 69 
+
+drug 0 4 brand 6 10 drug 35 39 
+drug 19 23 brand 88 92 drug 96 100 
+
+drug 0 4 drug 6 10 brand 58 62 
+brand 80 84 drug 109 113 
+drug 0 4 brand 6 10 drug 44 48 
+drug 24 28 brand 62 66 drug 70 74 
+drug 0 4 group 114 118 drug 136 140 
+drug 28 32 
+drug 41 45 brand 62 66 drug 137 141 
+drug 16 20 drug 48 52 
+drug 21 25 drug 55 59 
+drug 0 4 drug 83 87 drug 91 95 
+drug 36 40 drug 58 62 drug 109 113 
+drug 16 20 drug 25 29 
+drug 0 4 drug 14 18 drug 47 51 
+drug 74 78 
+
+drug 0 4 drug 51 55 drug 59 63 
+drug 17 21 drug 25 29 
+drug 0 4 drug 58 62 drug 66 70 
+drug 17 21 drug 25 29 
+group 0 4 drug 35 39 drug 41 45 drug 78 82 
+drug 12 16 drug 71 75 drug 84 88 
+group 2 6 drug 85 89 group 132 136 
+drug 0 4 drug 30 34 drug 39 43 group 59 63 drug 95 99 drug 103 107 
+drug 55 59 drug 63 67 
+drug 65 69 drug 73 77 drug 91 95 
+drug 24 28 drug 54 58 drug 62 66 drug 89 93 drug 109 113 drug 116 120 
+
+
+brand 16 20 drug 22 26 
+group 5 9 group 13 17 brand 20 24 drug 26 30 group 56 60 group 64 68 
+
+brand 24 28 drug 86 90 
+group 18 22 brand 112 116 
+brand 13 17 drug 20 24 
+drug 4 8 group 24 28 
+
+group 32 36 drug 43 47 
+group 65 69 
+drug 56 60 
+drug 4 8 drug 12 16 drug 87 91 
+drug 18 22 
+drug 56 60 drug 81 85 drug 88 92 
+drug 63 67 
+drug 18 22 drug 27 31 drug 34 38 
+group 0 4 
+drug 31 35 
+
+drug 5 9 
+
+
+drug 0 4 drug_n 38 42 drug_n 44 48 drug_n 102 106 drug_n 109 113 
+drug 0 4 
+drug 74 78 
+group 0 4 drug 21 25 group 29 33 group 75 79 drug 101 105 
+drug 30 34 
+
+
+group 0 4 drug 32 36 group 40 44 
+drug 0 4 drug 6 10 drug 40 44 
+group 0 4 drug 12 16 drug 34 38 group 42 46 
+group 0 4 drug 21 25 group 29 33 group 84 88 
+drug 0 4 drug 21 25 drug 29 33 drug 63 67 
+group 0 4 group 16 20 brand 133 137 
+group 72 76 drug 134 138 
+group 2 6 brand 84 88 
+drug 18 22 group 74 78 
+drug_n 20 24 group 37 41 
+drug 0 4 group 19 23 brand 25 29 
+group 5 9 drug 11 15 drug 17 21 drug 23 27 drug 39 43 drug 101 105 drug 107 111 drug 113 117 
+
+drug 0 4 drug 20 24 drug 38 42 drug 97 101 
+drug 71 75 
+group 6 10 drug 38 42 
+drug 0 4 drug 61 65 brand 102 106 drug 128 132 drug 159 163 drug_n 165 169 
+drug 0 4 drug 63 67 drug 71 75 
+
+
+brand 36 40 drug 98 102 
+drug 38 42 drug_n 65 69 
+drug 17 21 
+drug 0 4 drug 263 267 group 296 300 drug 334 338 drug 428 432 group 475 479 group 514 518 
+brand 0 4 drug 63 67 drug 69 73 drug 75 79 drug 81 85 group 90 94 
+
+
+drug 19 23 group 33 37 
+group 0 4 
+
+drug 4 8 brand 61 65 drug 85 89 
+group 56 60 drug 67 71 drug 75 79 group 83 87 drug 94 98 drug 102 106 drug 117 121 
+
+
+group 21 25 group 33 37 drug 48 52 drug 54 58 drug 63 67 drug 107 111 drug_n 114 118 
+drug 19 23 group 27 31 
+group 25 29 drug 33 37 
+group 40 44 drug 87 91 
+drug 16 20 drug 24 28 drug 161 165 
+drug 0 4 drug 27 31 
+group 22 26 drug 53 57 
+drug 43 47 drug 71 75 drug 79 83 
+group 82 86 drug 90 94 
+drug 13 17 drug_n 21 25 
+drug 58 62 drug 64 68 drug 88 92 
+drug 11 15 drug 19 23 
+
+
+
+drug 58 62 drug 69 73 
+
+drug 0 4 drug 8 12 
+group 67 71 drug_n 94 98 
+
+drug_n 67 71 drug_n 73 77 drug 118 122 drug 126 130 131 135 
+drug_n 34 38 drug 119 123 
+drug_n 17 21 
+drug_n 30 34 drug 74 78 
+drug_n 22 26 drug_n 83 87 
+drug 18 22 drug_n 26 30 
+
+
+
+
+
+drug 4 8 drug 86 90 
+
+drug_n 101 105 
+
+
+drug_n 91 95 drug_n 205 209 
+drug_n 19 23 drug_n 97 101 drug_n 206 210 drug_n 212 216 drug_n 223 227 
+drug_n 14 18 drug_n 32 36 drug_n 106 110 drug_n 112 116 
+drug_n 306 310 drug_n 312 316 drug_n 338 342 
+drug_n 3 7 drug_n 47 51 
+drug_n 2 6 drug_n 211 215 drug_n 217 221 
+drug_n 86 90 drug_n 112 116 
+
+drug 17 21 drug 34 38 drug 64 68 
+drug 44 48 drug 61 65 drug 83 87 
+
+group 91 95 
+drug 27 31 drug 35 39 
+
+
+drug 16 20 drug 24 28 
+
+drug 0 4 brand 13 17 
+drug 35 39 brand 52 56 drug 108 112 brand 133 137 
+drug 14 18 brand 32 36 brand 87 91 
+drug 17 21 brand 121 125 
+brand 46 50 drug 69 73 
+drug 0 4 brand 33 37 brand 51 55 
+drug 35 39 drug 67 71 
+drug 67 71 drug 73 77 
+drug 20 24 drug 96 100 
+drug 138 142 
+
+
+drug 58 62 drug 101 105 
+drug 83 87 
+
+
+
+drug 0 4 
+
+drug 50 54 
+
+
+drug 43 47 
+drug 16 20 drug 48 52 
+
+drug 0 4 drug 47 51 drug 54 58 
+drug 0 4 drug 66 70 drug 74 78 
+drug 23 27 drug 36 40 drug 101 105 
+drug 44 48 drug 63 67 drug 71 75 
+drug 62 66 
+drug 23 27 drug 69 73 drug 77 81 
+drug 27 31 drug 72 76 
+drug 0 4 drug 22 26 group 42 46 
+drug 0 4 drug 26 30 
+drug 1 5 drug 42 46 
+drug 45 49 drug 95 99 drug 114 118 127 131 
+drug 97 101 
+drug 29 33 drug 37 41 
+drug 35 39 
+drug 54 58 drug 106 110 drug 114 118 
+drug 70 74 drug 77 81 
+
+drug 0 4 drug 97 101 
+drug 31 35 drug 39 43 
+drug 22 26 drug 37 41 
+drug 86 90 drug 149 153 
+
+drug 0 4 drug 137 141 drug 152 156 drug 169 173 drug 184 188 
+drug_n 27 31 
+drug_n 3 7 drug_n 9 13 
+
+drug_n 20 24 
+
+
+drug_n 102 106 
+drug_n 44 48 
+
+
+drug_n 38 42 drug_n 78 82 drug_n 86 90 drug_n 165 169 
+drug_n 48 52 
+drug_n 11 15 drug_n 91 95 drug_n 99 103 
+drug_n 23 27 
+drug 17 21 
+brand 0 4 
+drug 21 25 
+drug 22 26 
+drug 72 76 drug 119 123 
+drug 15 19 
+brand 36 40 drug 64 68 
+
+drug 17 21 drug 26 30 
+
+drug 0 4 drug_n 106 110 
+drug_n 8 12 
+drug_n 44 48 drug 69 73 
+drug_n 33 37 
+drug 43 47 
+drug_n 21 25 drug 43 47 drug_n 82 86 drug 112 116 
+drug 35 39 drug_n 111 115 
+drug 84 88 
+drug_n 23 27 drug 50 54 drug_n 81 85 drug 114 118 drug 156 160 
+drug 77 81 
+drug 8 12 drug 66 70 drug 72 76 group 93 97 
+drug 0 4 
+drug 51 55 drug 89 93 
+drug 23 27 
+drug 10 14 
+drug 14 18 drug 45 49 
+drug 0 4 
+drug 15 19 drug 68 72 
+
+drug 14 18 
+
+
+drug 19 23 drug 76 80 
+drug 89 93 drug 144 148 
+drug_n 24 28 
+drug_n 167 171 
+
+drug_n 80 84 drug_n 86 90 
+drug_n 22 26 
+drug_n 148 152 
+drug_n 0 4 
+drug_n 0 4 drug_n 27 31 
+drug_n 56 60 drug 83 87 
+drug_n 60 64 drug_n 66 70 drug 72 76 drug 78 82 
+drug_n 0 4 drug_n 8 12 drug 30 34 drug_n 52 56 
+drug_n 87 91 drug_n 133 137 
+
+drug_n 74 78 
+drug_n 128 132 drug_n 134 138 
+drug_n 0 4 drug_n 183 187 drug_n 189 193 drug_n 195 199 drug_n 203 207 
+
+
+drug_n 13 17 drug_n 20 24 
+drug_n 0 4 drug_n 25 29 
+drug_n 52 56 drug_n 60 64 
+drug_n 0 4 drug_n 59 63 drug_n 66 70 
+
+drug 0 4 brand 6 10 drug 24 28 brand 30 34 
+drug 17 21 brand 23 27 group 48 52 brand 72 76 
+drug 17 21 brand 23 27 drug 32 36 brand 38 42 
+drug 0 4 
+drug 20 24 drug 34 38 
+drug 36 40 
+drug 37 41 
+drug 67 71 
+drug 11 15 drug 49 53 
+drug 53 57 drug 61 65 
+
+drug 50 54 
+drug 41 45 
+drug 19 23 drug 28 32 
+drug 39 43 drug 48 52 drug 138 142 drug 144 148 drug 151 155 
+drug 0 4 drug 6 10 
+drug 0 4 
+
+
+drug 37 41 drug 46 50 
+drug 69 73 drug 111 115 
+drug 52 56 drug 65 69 
+drug_n 11 15 drug 18 22 
+drug_n 0 4 
+
+drug_n 33 37 
+drug_n 17 21 drug 95 99 drug 115 119 drug 169 173 
+drug 0 4 drug_n 65 69 
+drug 39 43 drug_n 64 68 drug 116 120 
+drug_n 33 37 drug 70 74 
+drug 62 66 drug 70 74 
+
+drug 82 86 drug 104 108 
+drug 50 54 drug 131 135 drug 146 150 
+drug 43 47 drug 55 59 drug 123 127 
+drug 27 31 drug 33 37 
+drug 30 34 drug 36 40 
+drug 92 96 drug 98 102 
+group 12 16 
+
+
+
+drug 47 51 drug 53 57 
+drug 27 31 drug 33 37 group 204 208 
+
+drug 66 70 drug 72 76 group 156 160 
+drug_n 18 22 
+
+
+
+drug_n 150 154 drug_n 156 160 
+drug_n 73 77 group 114 118 
+
+
+drug 91 95 
+drug_n 0 4 drug_n 53 57 drug 62 66 
+
+drug 27 31 drug_n 35 39 
+drug_n 21 25 
+
+drug_n 49 53 
+
+group 85 89 
+
+drug 70 74 drug 76 80 drug 82 86 drug 90 94 
+drug_n 50 54 
+drug_n 62 66 drug 70 74 
+
+drug_n 25 29 drug 45 49 drug 53 57 
+brand 0 4 group 35 39 
+brand 27 31 
+group 7 11 
+group 49 53 brand 109 113 
+drug 0 4 
+drug 0 4 group 8 12 
+drug_n 96 100 
+drug 19 23 
+group 0 4 
+drug 0 4 drug 8 12 drug_n 43 47 
+group 77 81 
+
+
+drug 71 75 group 102 106 drug 113 117 drug 121 125 
+group 30 34 group 46 50 
+group 19 23 drug 71 75 drug 80 84 
+drug 13 17 drug 21 25 drug 75 79 drug 81 85 
+drug 109 113 
+drug 27 31 drug 52 56 
+drug 41 45 drug 68 72 
+drug 28 32 drug 36 40 
+drug 84 88 
+drug 23 27 drug 132 136 drug 172 176 
+drug 18 22 drug 77 81 group 131 135 
+drug 96 100 drug 121 125 drug 184 188 
+
+drug_n 12 16 drug 20 24 
+group 12 16 drug_n 17 21 drug_n 23 27 
+group 6 10 drug 11 15 drug_n 56 60 drug_n 62 66 
+
+drug_n 26 30 
+drug_n 21 25 drug 28 32 
+
+drug 14 18 drug 33 37 drug 59 63 
+drug 44 48 drug 87 91 drug 112 116 
+drug 75 79 drug 106 110 drug 129 133 
+drug 0 4 drug 108 112 drug 131 135 drug 172 176 
+drug_n 10 14 drug 24 28 drug 66 70 drug 87 91 
+drug 5 9 drug 13 17 
+drug 33 37 drug 72 76 
+drug 13 17 group 31 35 
+drug 0 4 
+group 33 37 group 83 87 
+
+drug 109 113 drug 115 119 drug 121 125 drug 129 133 drug 134 138 
+drug 24 28 drug 111 115 drug 119 123 
+drug 0 4 
+drug 37 41 
+
+
+
+drug 44 48 drug 99 103 
+drug 22 26 
+group 0 4 drug 6 10 
+drug 50 54 
+drug 88 92 
+group 39 43 drug 106 110 
+drug 110 114 
+drug 15 19 drug 57 61 
+drug 51 55 
+
+drug 0 4 drug 75 79 drug 107 111 drug 139 143 drug 171 175 
+drug 4 8 drug 42 46 
+drug 0 4 drug 22 26 drug 28 32 drug 34 38 drug 40 44 drug 48 52 
+drug 27 31 
+drug 0 4 drug 39 43 
+drug 0 4 
+drug 63 67 drug 82 86 
+
+
+
+drug 14 18 drug 43 47 drug 59 63 drug 74 78 
+drug 49 53 drug 65 69 drug 156 160 
+drug 44 48 drug 66 70 
+drug 42 46 drug 51 55 drug 142 146 group 151 155 
+drug 18 22 drug 26 30 
+drug 0 4 drug 8 12 group 16 20 
+group 0 4 
+drug 5 9 group 25 29 drug 68 72 brand 74 78 drug 80 84 group 88 92 
+
+
+drug 13 17 drug 21 25 
+group 31 35 
+drug 0 4 drug 8 12 drug 29 33 brand 37 41 drug 66 70 group 86 90 
+group 31 35 
+

@@ -1,0 +1,326 @@
+[Interaction between clopidogrel and proton pump inhibitors].  	
+The drug interaction between proton pump inhibitors and clopidogrel has been the subject of much study in recent years. 	
+Contradictory results regarding the effect of proton pump inhibitors on platelet reactivity and on clinical outcome in clopidogrel-treated patients have been reported in literature. 	
+Concomitant use of omeprazole and clopidogrel was found to decrease the exposure (AUC) to clopidogrel's active metabolite by 50% and to sharply increase platelet reactivity, as a result of inhibition by omeprazole of CYP2C19, a cytochrome P450 (CYP) enzyme. 	
+Pantoprazole has a much weaker effect on clopidogrel's pharmacokinetics and on platelet reactivity during concomitant use. 	
+The influence of the other proton pump inhibitors when used simultaneously with clopidogrel has not yet been investigated in adequately randomized studies. 	
+Regulatory agencies state that the combination of clopidogrel and the CYP2C19 inhibitors omeprazole and esomeprazole should be avoided. 	
+To date, there is no conclusive evidence of a clinically-relevant interaction between any of the proton pump inhibitors and clopidogrel.	
+Interaction of dacarbazine and imexon, in vitro and in vivo, in human A375 melanoma cells.  	
+We evaluated mechanisms of interaction between the alkyating agent dacarbazine (DTIC) and the pro-oxidant, imexon, in the human A375 melanoma cell line.	
+The effect of DTIC and imexon, alone and in combination, was evaluated for growth inhibition (MTT), radiolabeled drug uptake, cellular thiol content (HPLC), and DNA strand breaks (Comet assay). 	
+Pharmacokinetic and antitumor effects were evaluated in mice. 	
+Growth inhibition in vitro was additive with the two drugs. 	
+There was no effect on drug uptake or on the number of DNA strand breaks. 	
+There was a >75% reduction in cellular glutathione and cysteine with imexon but not DTIC. 	
+Co-administration of the two drugs in mice caused an increase in the area under the curve of both drugs, but the combination was not effective in reducing human A375 melanoma tumors in vivo. 	
+Imexon and dacarbazine show additive effects in vitro but not in vivo in human A375 melanoma cells.	
+Enhancement of humoral immune responses to inactivated Newcastle disease and avian influenza vaccines by oral administration of ginseng stem-and-leaf saponins in chickens.  	
+Newcastle disease (ND) and avian influenza (AI) are common in the poultry industry. 	
+The objective of this study was to evaluate the effect of oral administration of ginseng stem-and-leaf saponins (GSLS) on the humoral immune responses of chickens to inactivated ND and AI vaccines. 	
+In experiment 1, oral administration of GSLS at a dose of 5 mg/kg of BW for 7 d on the immune response in chickens intramuscularly injected with inactivated ND vaccine was evaluated. 	
+Results showed that GSLS significantly increased the antibody level against ND in the serum of chickens. 	
+In experiment 2, the same regimen of GSLS was administered to chickens inoculated with inactivated AI vaccines, and an enhanced serum antibody response to AI vaccination was also observed. 	
+Considering the safety of GSLS, because no adverse effect was found throughout the experiments, GSLS may be a promising oral adjuvant to improve immunization in poultry.	
+Protective effect of acetyl-l-carnitine and  alpha lipoic acid against the acute toxicity of diepoxybutane to human lymphocytes.	
+The biotransformation and oxidative stress may contribute to 1,2:3,4-diepoxybutane (DEB)-induced toxicity to human lymphocytes of Fanconi Anemia (FA) patients. 	
+Thus, the identification of putative inhibitors of bioactivation, as well as the determination of the protective role of oxidant defenses, on DEB-induced toxicity, can help to understand what is failing in FA cells. 	
+In the present work we studied the contribution of several biochemical pathways for DEB-induced acute toxicity in human lymphocyte suspensions, by using inhibitors of epoxide hydrolases, inhibitors of protective enzymes as glutathione S-transferase and catalase, the depletion of glutathione (GSH), and the inhibition of protein synthesis; 	
+and a variety of putative protective compounds, including antioxidants, and mitochondrial protective agents. 	
+The present study reports two novel findings: (i) it was clearly evidenced, for the first time, that the acute exposure of freshly isolated human lymphocytes to DEB results in severe GSH depletion and loss of ATP, followed by cell death; 	
+(ii) acetyl-l-carnitine elicits a significant protective effect on DEB induced toxicity, which was potentiated by  alpha-lipoic acid.	
+Collectively, these findings contribute to increase our knowledge of DEB-induce toxicity and will be very useful when applied in studies with lymphocytes from FA patients, in order to find out a protective agent against spontaneous and DEB-induced chromosome instability.	
+Metabotropic glutamate receptor 5 antagonist protects dopaminergic and noradrenergic neurons from degeneration in MPTP-treated monkeys.  	
+Degeneration of the dopaminergic nigrostriatal system and of noradrenergic neurons in the locus coeruleus are important pathological features of Parkinson's disease. 	
+There is an urgent need to develop therapies that slow down the progression of neurodegeneration in Parkinson's disease. 	
+In the present study, we tested whether the highly specific metabotropic glutamate receptor 5 antagonist, 3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine, reduces dopaminergic and noradrenergic neuronal loss in monkeys rendered parkinsonian by chronic treatment with low doses of 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine. 	
+Weekly intramuscular 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine injections (0.2-0.5 mg/kg body weight), in combination with daily administration of 3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine or vehicle, were performed until the development of parkinsonian motor symptoms in either of the two experimental groups (1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine/3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine versus 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine/vehicle). 	
+After 21 weeks of 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine treatment, all 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine/vehicle-treated animals displayed parkinsonian symptoms, whereas none of the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine/3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine-treated monkeys were significantly affected. 	
+These behavioural observations were consistent with in vivo positron emission tomography dopamine transporter imaging data, and with post-mortem stereological counts of midbrain dopaminergic neurons, as well as striatal intensity measurements of dopamine transporter and tyrosine hydroxylase immunoreactivity, which were all significantly higher in 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine/3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine-treated animals than in 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine/vehicle-treated monkeys. 	
+The 3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine treatment also had a significant effect on the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-induced loss of norepinephrine neurons in the locus coeruleus and adjoining A5 and A7 noradrenaline cell groups. 	
+In 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine/vehicle-treated animals, almost 40% loss of tyrosine hydroxylase-positive norepinephrine neurons was found in locus coeruleus/A5/A7 noradrenaline cell groups, whereas the extent of neuronal loss was lower than 15% of control values in 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine/3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine-treated monkeys. 	
+Our data demonstrate that chronic treatment with the metabotropic glutamate receptor 5 antagonist, 3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine, significantly reduces 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine toxicity towards dopaminergic and noradrenergic cell groups in non-human primates. 	
+This suggests that the use of metabotropic glutamate receptor 5 antagonists may be a useful strategy to reduce degeneration of catecholaminergic neurons in Parkinson's disease.	
+In vitro activity of minocycline combined with fosfomycin against clinical isolates of methicillin-resistant Staphylococcus aureus.  	
+This study aimed to evaluate the in vitro activity of minocycline combined with fosfomycin against isolates of methicillin-resistant Staphylococcus aureus (MRSA). 	
+A total of 87 clinical isolates of MRSA collected from three Chinese hospitals were included in the study. 	
+The checkerboard method with determination of the fractional IC index (FICI) was used to determine whether antibiotic combinations act synergistically against these isolates. 	
+The susceptibility results for minocycline and fosfomycin were interpreted according to the most relevant criteria. 	
+The results demonstrated the following interactions: 76 isolates (87.4%) showed synergistic interactions (FICI   0.5) and 11 isolates (12.6%) showed indifferent interactions (0.5&amp;lt;FICI&amp;lt;4). 	
+No antagonistic interactions (FICI   4) were observed. 	
+The combination of minocycline and fosfomycin can be synergistic against MRSA. 	
+Further studies are required to determine the potential clinical role of this combination regimen as a therapeutic alternative for certain types of MRSA infections.	
+Lapatinib enhances herceptin-mediated antibody-dependent cellular cytotoxicity by up-regulation of cell surface HER2 expression.  	
+Although it was previously reported that lapatinib combined with Herceptin improved the progression-free survival rate compared with lapatinib alone for patients with Herceptin-refractory HER2-positive metastatic breast cancer, the mechanism is purported to be an antiproliferative effect relating to the synergism of these two agents.	
+We evaluated how lapatinib interacts with Herceptin in HER2-positive breast cancer, with a particular focus on Herceptin-mediated antibody-dependent cellular cytotoxicity (ADCC). 	
+In an in vitro assay, lapatinib induced HER2 expression at the cell surface of HER2-positive breast cancer cell lines, leading to the enhancement of Herceptin-mediated ADCC. 	
+Furthermore, we present a case report in which a second Herceptin treatment following lapatinib resulted in the marked shrinkage of multiple metastatic tumors in HER2-positive breast cancer. 	
+Lapatinib may have the potential to convert Herceptin-refractory to Herceptin-sensitive tumors in HER2-positive breast cancer by up-regulation of the cell surface expression of HER2.	
+Improved parathyroid hormone control by cinacalcet is associated with reduction in darbepoetin requirement in patients with end-stage renal disease.  	
+Uncontrolled hy-per-parathyroidism causes bone marrow fibrosis, leading to erythropoietin (EPO) resistance. 	
+Medical treatment with cinacalcet is effective in reducing plasma parathyroid hormone (PTH) levels, but its effect on darbepoetin dosing is unknown. 	
+METHODS AND AIMS: We conducted a retrospective cohort study of 40 end-stage renal disease (ESRD) patients (age: 55    14; mean    SD; 21:male) who had at least 12 months of cinacalcet therapy. 	
+The distribution of renal replacement therapies were: 14 peritoneal dialysis, 18 conventional hemodialysis and 8 nocturnal hemodialysis. 	
+Standard dialysis related biochemical indices and medications used were recorded. 	
+The primary objective of the study was to ascertain the difference in darbepoetin responsiveness before and after 12 months of cinacalcet therapy. 	
+Our secondary objective was to determine if there was a relationship between the changes in PTH and darbepoetin requirement.	
+Overall, PTH levels decreased from 197.5 (151.8; 249.2) to 66.1 (41.2; 136.5) (median (25th;75th percentile)) pmol/l; 	
+p &amp;lt; 	
+0.001. 	
+Cinacalcet dose increased from 30.0   6 to 63   25 mg/day, p &lt;	
+0.05. 	
+Hemoglobin remained unchanged (116   13 to 116   13 g/l), while darbepoetin requirement decreased from 40 (20; 60) to 24 (19; 59)   g/week, p = 0.02.	
+The remainder of the dialysis-related biochemistry (electrolytes, calcium, phosphate, iron status) and vitamin D use remained unchanged. 	
+A reduction in PTH level of greater than 30% was experienced by 82.5% (33/40) of our cohort. 	
+Among the responders, the fall in PTH and reduction darbepoetin requirement were related (R = -0.48, p = 0.004). 	
+Reduction of PTH by cinacalcet is associated with a decrease in darbepoetin requirement. 	
+The interface between bone and bone marrow in uremia represents a critical step in red blood cell production which merits further investigation.	
+Calcium does not inhibit the absorption of 5 milligrams of nonheme or heme iron at doses less than 800 milligrams in nonpregnant women.	
+Calcium is the only known component in the diet that may affect absorption of both nonheme and heme iron. 	
+However, the evidence for a calcium effect on iron absorption mainly comes from studies that did not isolate the effect of calcium from that of other dietary components, because it was detected in single-meal studies. 	
+Our objective was to establish potential effects of calcium on absorption of nonheme and heme iron and the dose response for this effect in the absence of a meal. 	
+Fifty-four healthy, nonpregnant women were selected to participate in 4 iron absorption studies using iron radioactive tracers. 	
+We evaluated the effects of calcium doses between 200 and 1500 mg on absorption of 5 mg nonheme iron (as ferrous sulfate). 	
+We also evaluated the effects of calcium doses between 200 and 800 mg on absorption of 5 mg heme iron [as concentrated RBC (CRBC)]. 	
+Calcium was administered as calcium chloride in all studies and minerals were ingested on an empty stomach. 	
+Calcium doses   1000 mg diminished nonheme iron absorption by an average of 49.6%.	
+A calcium dose of 800 mg diminished absorption of 5 mg heme iron by 37.7%. 	
+In conclusion, we demonstrated an isolated effect of calcium (as chloride) on absorption of 5 mg of iron provided as nonheme (as sulfate) and heme (as CRBC) iron. 	
+This effect was observed at doses higher than previously reported from single-meal studies, starting at ~800 mg of calcium.	
+Synergistic interaction between sunitinib and docetaxel is sequence dependent in human non-small lung cancer with EGFR TKIs-resistant mutation.	
+Previous studies have demonstrated that sunitinib has the anti-tumor activity in human non-small cell lung cancer (NSCLC). 	
+This study was aimed to investigate the efficacy of single use of sunitinib and that of concurrent or sequential administration of sunitinib and docetaxel in NSCLC cell lines that are resistant to EGFR TKIs.	
+NSCLC cell lines with EGFR T790M mutation and K-ras mutation were exposed to either sunitinib or docetaxel or both based on various sequential administrations. 	
+After exposure, the cell viability was measured by MTT assay, cell cycle distribution was analyzed by flow cytometry, and alterations in signaling pathway were determined by immunoblotting. 	
+Sunitinib exhibited dose-dependent growth inhibition in NSCLC cell lines and arrested cell cycle at G1 phase, whereas docetaxel arrested at S phase. 	
+Although single or concurrent use of sunitinib and docetaxel has some anti-proliferative effects, the sequential administrations of both drugs remarkably enhanced anti-tumor activity. 	
+When cells were exposed to docetaxel followed by sunitinib, synergism was observed. 	
+The molecular basis of this synergism is that the signaling pathways that were initially activated by docetaxel exposure were efficiently suppressed by the subsequent exposure to sunitinib. 	
+In contrast, the reverse of this sequential administration resulted in antagonism, which may be due to differential effects on cell cycle arrest. 	
+Sunitinib as a single agent exhibits anti-proliferative effects in vitro in NSCLC cell lines with EGFR T790M and K-ras mutations but the sequential administration of docetaxel followed by sunitinib is superior to sunitinib followed by docetaxel and concurrent administration.	
+Determinants of sensitivity to DZNep induced apoptosis in multiple myeloma cells.  	
+The 3-Deazaneplanocin A (DZNep), one of S-adenosylhomocysteine (AdoHcy) hydrolase inhibitors, has shown antitumor activities in a broad range of solid tumors and acute myeloid leukemia. 	
+Here, we examined its effects on multiple myeloma (MM) cells and found that, at 500 nM, it potently inhibited growth and induced apoptosis in 2 of 8 MM cell lines. 	
+RNA from un-treated and DZNep treated cells was profiled by Affymetrix HG-U133 Plus 2.0 microarray and genes with a significant change in gene expression were determined by significance analysis of microarray (SAM) testing. 	
+ALOX5 was the most down-regulated gene (5.8-fold) in sensitive cells and was expressed at low level in resistant cells. 	
+The results were corroborated by quantitative RT-PCR. 	
+Western-blot analysis indicated ALOX5 was highly expressed only in sensitive cell line H929 and greatly decreased upon DZNep treatment. 	
+Ectopic expression of ALOX5 reduced sensitivity to DZNep in H929 cells. 	
+Furthermore, down-regulation of ALOX5 by RNA interference could also induce apoptosis in H929. 	
+Gene expression analysis on MM patient dataset indicated ALOX5 expression was significantly higher in MM patients compared to normal plasma cells. 	
+We also found that Bcl-2 was overexpressed in DZNep insensitive cells, and cotreatment with DZNep and ABT-737, a Bcl-2 family inhibitor, synergistically inhibited growth and induced apoptosis of DZNep insensitive MM cells. 	
+Taken together, this study shows one of mechanisms of the DZNep efficacy on MM correlates with its ability to down-regulate the ALOX5 levels. 	
+In addition, DZNep insensitivity might be associated with overexpression of Bcl-2, and the combination of ABT-737 and DZNep could synergistically induced apoptosis. 	
+These results suggest that DZNep may be exploited therapeutically for a subset of MM.	
+Drug interaction of levothyroxine with infant colic drops.  	
+Infacol (Forest Laboratories UK, Kent, UK) is a widely available over-the-counter preparation used to relieve colic symptoms in neonates and infants. 	
+The active ingredient is simeticone. 	
+No drug interactions with simeticone are documented in the current summary of product characteristics. 	
+The authors report the case of an infant with confirmed congenital hypothyroidism on levothyroxine who experienced a possible drug interaction with simeticone. 	
+Despite adequate levothyroxine dosage, thyroid stimulating hormone (TSH) was high, suggesting undertreatment. 	
+Questioning revealed the child was taking Infacol drops before feeds while on levothyroxine. 	
+The colic drops were immediately discontinued and TSH promptly normalised with a reduction in thyroxine requirement to an age appropriate dosage. 	
+Drug interaction of thyroxine with simeticone has not been reported previously and is not listed in the British National Formulary for Children. 	
+Clinicians and parents need to be aware of this interaction to avoid unnecessary undertreatment and prevent potential long-term neurological sequelae.	
+Amphetamine locomotor sensitization and conditioned place preference in adolescent male and female rats neonatally treated with quinpirole.  	
+Neonatal quinpirole treatment has been shown to produce an increase in dopamine D2-like receptor sensitivity that persists throughout the subject's lifetime. 	
+The objective was to analyze the effects of neonatal quinpirole treatment on effects of amphetamine in adolescent rats using locomotor sensitization and conditioned place preference procedures. 	
+Sprague-Dawley rats were treated with quinpirole (1 mg/kg) or saline from postnatal days (P)1 to P11 and raised to adolescence. 	
+For locomotor sensitization, subjects were given amphetamine (1 mg/kg) or saline every second day from P35 to P47 and were placed into a locomotor arena. 	
+In female rats, neonatal quinpirole treatment enhanced amphetamine locomotor sensitization compared with quinpirole-free controls sensitized to amphetamine. 	
+Male rats demonstrated sensitization to amphetamine, although this was muted compared with female rats, and were unaffected by neonatal quinpirole. 	
+For conditioned place preference, subjects were conditioned for 8 consecutive days (P32-39) with amphetamine (1 mg/kg) or saline and a drug-free preference test was conducted at P40. 	
+Rats treated with neonatal quinpirole enhanced time spent in the amphetamine-paired context compared with quinpirole-free controls conditioned with amphetamine, but only female controls conditioned with amphetamine spent more time in the drug-paired context compared with saline-treated controls. 	
+Increased D   -like receptor sensitivity appears to have enhanced the behavioral effects of amphetamine, but these effects were more prevalent in adolescent female rats compared with male rats.	
+Effect of ketoconazole-mediated CYP3A4 inhibition on clinical pharmacokinetics of panobinostat (LBH589), an orally active histone deacetylase inhibitor.  	
+Panobinostat is partly metabolized by CYP3A4 in vitro. 	
+This study evaluated the effect of a potent CYP3A inhibitor, ketoconazole, on the pharmacokinetics and safety of panobinostat.	
+Patients received a single panobinostat oral dose on day 1, followed by 4  days wash-out period. 	
+On days 5-9, ketoconazole was administered. 	
+On day 8, a single panobinostat dose was co-administered with ketoconazole. 	
+Panobinostat was administered as single agent three times a week on day 15 and onward. 	
+In the presence of ketoconazole, there was 1.6- and 1.8-fold increase in C (max) and AUC of panobinostat, respectively. 	
+No substantial change in T (max) or half-life was observed. 	
+No difference in panobinostat-pharmacokinetics between patients carrying CYP3A5*1/*3 and CYP3A5*3/*3 alleles was observed. 	
+Most frequently reported adverse events were gastrointestinal related. 	
+Patients had asymptomatic hypophosphatemia (64%), and urine analysis suggested renal phosphate wasting. 	
+Co-administration of panobinostat with CYP3A inhibitors is feasible as the observed increase in panobinostat PK parameters was not considered clinically relevant. 	
+Considering the variability in exposure following enzyme inhibition and the fact that chronic dosing of panobinostat was not studied with CYP3A inhibitors, close monitoring of panobinostat-related adverse events is necessary.	
+Effects of CYP inhibitors on precocene I metabolism and toxicity in rat liver slices.  	
+We present a comprehensive in vitro approach to assessing metabolism-mediated hepatotoxicity using male Sprague-Dawley rat liver slices incubated with the well characterized hepatotoxicant, precocene I, and inhibitors of cytochrome P450 (CYP) enzymes. 	
+This approach combines liquid chromatography mass spectrometry (LC MS) detection methods with multiple toxicity endpoints to enable identification of critical metabolic pathways for hepatotoxicity. 	
+The incubations were performed in the absence and presence of the non-specific CYP inhibitor, 1-aminobenzotriazole (ABT) and isoform-specific inhibitors. 	
+The metabolite profile of precocene I in rat liver slices shares some features of the in vivo profile, but also had a major difference in that epoxide dihydrodiol hydrolysis products were not observed to a measurable extent. 	
+As examples of our liver slice metabolite identification procedure, a minor glutathione adduct and previously unreported 7-O-desmethyl and glucuronidated metabolites of precocene I are reported. 	
+Precocene I induced hepatocellular necrosis in a dose- and time-dependent manner. 	
+ABT decreased the toxicity of precocene I, increased exposure to parent compound, and decreased metabolite levels in a dose-dependent manner. 	
+Of the isoform-specific CYP inhibitors tested for an effect on the precocene I metabolite profile, only tranylcypromine was noticeably effective, indicating a role of CYPs 2A6, 2C9, 2Cl9, and 2E1. 	
+With respect to toxicity, the order of CYP inhibitor effectiveness was ABT > diethyldithiocarbamate ~ tranylcypromine > ketoconazole. 	
+Furafylline and sulfaphenazole had no effect, while quinidine appeared to augment precocene I toxicity. 	
+These results suggest that rat liver slices do not reproduce the reported in vivo biotransformation of precocene I and therefore may not be an appropriate model for precocene I metabolism. 	
+However, these results provide an example of how small molecule manipulation of CYP activity in an in vitro model can be used to confirm metabolism-mediated toxicity.	
+Glycosidic enzymes enhance retinal transduction following intravitreal delivery of AAV2.  	
+To determine whether the co-injection of extracellular matrix degrading enzymes improves retinal transduction following intravitreal delivery of adeno-associated virus-2 (AAV2).	
+AAV2 containing cDNA encoding enhanced green fluorescent protein (GFP), under the control of a chicken   -actin promoter, was delivered by intravitreal injection to adult mice in conjunction with enzymes including collagenase, hyaluronan lyase, heparinase III, or chondroitin ABC lyase. 	
+Two weeks later, retinal flatmounts were examined for GFP expression using confocal microscopy. 	
+Without the addition of enzymes, transduction was limited to occasional cells in the retinal ganglion cell layer. 	
+The addition of heparinase III or chondroitin ABC lyase greatly enhanced transduction of the retinal ganglion cell layer and increased the depth of transduction into the outer retina. 	
+Hyaluronan lyase had a limited effect and collagenase was ineffective. 	
+Electroretinograms survived with higher concentrations of heparinase III and chondroitin ABC lyase than were required for optimal retinal transduction. 	
+AAV2-mediated retinal transduction is improved by co-injection of heparinase III or chondroitin ABC lyase. 	
+Improved transduction efficiency may allow intravitreal injection to become the preferred route for delivering gene therapy to both the inner and outer retina.	
+Ticagrelor (Brilinta)--better than clopidogrel (Plavix)	
+The FDA has approved ticagrelor (Brilinta-AstraZeneca), an oral antiplatelet drug, for use with low-dose aspirin to reduce the rate of thrombotic cardiovascular events in patients with acute coronary syndrome (ACS). 	
+It will compete with clopidogrel (Plavix) and prasugrel (Effient) for such use. 	
+Clopidogrel is expected to become available generically in the US within the next few months.	
+The role of p27(Kip1) in dasatinib-enhanced paclitaxel cytotoxicity in human ovarian cancer cells.  	
+Less than 50% of ovarian cancers respond to paclitaxel. 	
+Effective strategies are needed to enhance paclitaxel sensitivity.	
+A library of silencing RNAs (siRNAs) was used to identify kinases that regulate paclitaxel sensitivity in human ovarian cancer SKOv3 cells. 	
+The effect of dasatinib, an inhibitor of Src and Abl kinases, on paclitaxel sensitivity was measured in ovarian cancer cells and HEY xenografts. 	
+The roles of p27(Kip1), Bcl-2, and Cdk1 in apoptosis induced by dasatinib and paclitaxel were assessed using a terminal deoxynucleotidyl transferase-mediated dUTP nick-end labeling (TUNEL) assay, siRNA knockdown of gene expression, transfection with Bcl-2 and Cdk1 expression vectors, and flow cytometry. 	
+All statistical tests were two-sided. 	
+Src family and Abl kinases were identified as modulators of paclitaxel sensitivity in SKOv3 cells. 	
+The siRNA knockdown of Src, Fyn, or Abl1 enhanced paclitaxel-mediated growth inhibition in ovarian cancer cells compared with a control siRNA. 	
+HEY cells treated with dasatinib plus paclitaxel formed fewer colonies than did cells treated with either agent alone. 	
+Treatment of HEY xenograft-bearing mice with dasatinib plus paclitaxel inhibited tumor growth more than treatment with either agent alone (average tumor volume per mouse, dasatinib + paclitaxel vs paclitaxel: 0.28 vs. 0.81 cm3, difference = 0.53 cm3, 95% confidence interval [CI] = 0.44 to 0.62 cm3, P = .014); 	
+dasatinib + paclitaxel vs. 	
+dasatinib: 0.28 vs. 	
+0.55 cm3, difference = 0.27 cm3, 95% CI = 0.21 to 0.33 cm3, P = .035). 	
+Combined treatment induced more TUNEL-positive apoptotic cells than did either agent alone. 	
+The siRNA knockdown of p27(Kip1) decreased dasatinib- and paclitaxel-induced apoptosis compared with a negative control siRNA (sub-G1 fraction, control siRNA vs. p27(Kip1) siRNA: 42.5% vs. 20.1%, difference = 22.4%, 95% CI = 20.1% to 24.7%, P = .017). 	
+Studies with forced expression and siRNA knockdown of Bcl-2 and Cdk1 suggest that dasatinib-mediated induction of p27(Kip1) enhanced paclitaxel-induced apoptosis by negatively regulating Bcl-2 and Cdk1 expression. 	
+Inhibition of Src family and Abl kinases with either siRNAs or dasatinib enhances paclitaxel sensitivity of ovarian cancer cells through p27(Kip1)-mediated suppression of Bcl-2 and Cdk1 expression.	
+Influence of piperine on ibuprofen induced antinociception and its pharmacokinetics.  	
+Piperine (CAS 94-62-2), an alkaloid obtained from Piper nigrum and P. 	
+longum, is a known inhibitor of various enzymes (CYP isozymes) responsible for biotransformation of drugs. 	
+By inhibiting the metabolism of drugs, piperine improves the bioavailability of drugs. 	
+In the present study piperine (10 mg/kg) significantly increased the dose-dependent antinociceptive activity of ibuprofen evaluated by both acetic acid writhing and formalin test, when it was administered with ibuprofen. 	
+Ibuprofen plasma concentration was also increased when it was administered with piperine. 	
+The synergistic antinociception activity of ibuprofen when administered with piperine can be attributed to increased plasma concentration of ibuprofen. 	
+From this study it can be concluded that piperine can be used as a bioenhancer along with ibuprofen.	
+Prevention of emergence agitation in seven children receiving low-dose ketamine and propofol total intravenous anesthesia.  	
+Emergence agitation (EA) can be a distressing side effect of pediatric anesthesia. 	
+We retrospectively reviewed the records of 7 pediatric oncology patients who received low-dose ketamine in conjunction with propofol for total intravenous anesthesia (TIVA) repeatedly for radiation therapy. 	
+EA signs were observed in all 7 patients in association with propofol TIVA but did not recur in any of 123 subsequent anesthetics sessions during which low-dose ketamine was added to propofol. 	
+Based on this experience, we suggest that low-dose ketamine added to propofol may be associated with prevention of EA in children with a history of EA with propofol TIVA.	
+[Efficacy of fixed combination amlodipine/valsartan in hospitalized patients with hypertensive disease]	
+Efficacy and tolerability of fixed amlodipine/valsartan combination was studied in 86 patients with hypertensive disease hospitalized in departments of general internal medicine or cardiology. 	
+All patients had indications for antihypertensive therapy and were randomized either to fixed combination amlodipine/valsartan (n=43) or to therapy which corresponded to the hospital formulary (n=43). 	
+Correction of antihypertensive therapy was performed by treating physician at daily rounds. 	
+Self-control of blood pressure (BP) was performed by patients with the use of UA767PC apparatus. 	
+Results of BP self-control were compared with clinical measurements in order to detect concealed inefficacy of treatment. 	
+Results. 	
+Rate of achievement of target BP with fixed combination amlodipine/valsartan (93%) was comparable with that on traditional therapy (90%). 	
+But the use of fixed combination amlodipine/valsartan compared with traditional therapy was associated with lower clinical and self measured BP, quicker achievement of target BP (5.8+/-2.3 and 9.2+/-1.8 days, respectively, 0.05), lesser number of antihypertensive drugs (2.5+/-0.6 and 3.0+/-0.9 days, respectively), lower rate of concealed inefficacy of treatment (12 and 31%, respectively, 0.05). 	
+Conclusions. 	
+We have demonstrated appropriateness of inhospital administration of fixed amlodipine/valsartan combination as an approach allowing to achieve target BP in shorter time, with the use of fewer antihypertensive drugs, and diminishing concealed inefficacy of treatment.	
+Antitumor effects of CRM197, a specific inhibitor of HB-EGF, in T-cell acute lymphoblastic leukemia.  	
+The therapeutic outcome for T-cell acute lymphoblastic leukemia (T-ALL) remains poor; 	
+thus, novel, targeted therapies are urgently needed. 	
+Recently, we showed that heparin-binding epidermal growth factor-like growth factor (HB-EGF), a member of the EGF family, is a promising target for the treatment of various types of cancer. 	
+The aim of the present study was to investigate whether HB-EGF is a therapeutic target for T-ALL, and to further elucidate the antitumor effects of a specific inhibitor of HB-EGF, cross-reacting material 197 (CRM197). 	
+We elucidated the expression of HB-EGF in T-ALL cell lines, and evaluated the effect of CRM197 on these cells alone or in combination with anticancer agent. 	
+The expression of EGFR and EGFR ligands was determined by flow cytometry, RT-PCR and real-time quantitative PCR. 	
+Induction of apoptosis was assessed by TUNEL assay. 	
+HB-EGF was strongly expressed by T-ALL cell lines, and the expression of both HB-EGF and EGFR was enhanced by doxorubicin. 	
+CRM197 induced apoptosis, and furthermore, the combination of CRM197 plus doxorubicin enhanced cytotoxicity in a T-ALL cell line. 	
+These results suggest that HB-EGF is a promising therapeutic target for T-ALL.	
+Distinct synergistic action of piperacillin and methylglyoxal against Pseudomonas aeruginosa.  	
+The dicarbonyl compound methylglyoxal is a natural constituent of Manuka honey produced from Manuka flowers in New Zealand. 	
+It is known to possess both anticancer and antibacterial activity. 	
+Such observations prompted to investigate the ability of methylglyoxal as a potent drug against multidrug resistant Pseudomonas aeruginosa. 	
+A total of 12 test P. 	
+aeruginosa strains isolated from various hospitals were tested for their resistances against many antibiotics, most of which are applied in the treatment of P. 	
+aeruginosa infections. 	
+Results revealed that the strains were resistant to many drugs at high levels, only piperacillin, carbenicillin, amikacin and ciprofloxacin showed resistances at comparatively lower levels. 	
+Following multiple experimentations it was observed that methylglyoxal was also antimicrobic against all the strains at comparable levels. 	
+Distinct and statistically significant synergism was observed between methylglyoxal and piperacillin by disc diffusion tests when compared with their individual effects. 	
+The fractional inhibitory concentration index of this combination evaluated by checkerboard analysis, was 0.5, which confirmed synergism between the pair. 	
+Synergism was also noted when methylglyoxal was combined with carbenicillin and amikacin.	
+Implanon   failure in an HIV-positive woman on antiretroviral therapy resulting in two ectopic pregnancies.	
+Since its introduction in 1999, Implanon   remains one of the preferred contraceptive choices for many women as it offers a highly effective means of long-term contraception for three years that does not rely on adherence. 	
+Like all hormonal contraceptives, certain hepatic enzyme-inducing drugs may reduce its efficacy. 	
+We present an interesting case of an HIV-positive woman on antiretroviral therapy having tubal pregnancies on two separate occasions with Implanon in place.	
+Tamoxifen and CYP 2D6 inhibitors: caution.  	
+Tamoxifen, an estrogen antagonist, is the standard hormone treatment for breast cancer. 	
+It is extensively transformed into its active metabolites by the cytochrome P450 enzyme system, especially into endoxifen by isoenzyme CYP 2D6. 	
+Co-administration of tamoxifen with isoenzyme CYP 2D6 inhibitors reduces this metabolism. 	
+Selective serotonin reuptake inhibitor (SSRI) antidepressants inhibit isoenzyme CYP 2D6. 	
+Paroxetine and fluoxetine reduce the plasma concentration of endoxifen by about 50%. 	
+Two epidemiological studies involving about 3700 women have shown a link between the use of SSRI antidepressants and an increased frequency of breast cancer recurrence. 	
+Other studies, with a lower level of evidence, were less convincing. 	
+Studies of other isoenzyme CYP 2D6 inhibitors showed no increase in the risk of breast cancer recurrence, but they lacked statistical power. 	
+It is better to avoid prescribing isoenzyme CYP 2D6 inhibitors to women treated with tamoxifen for breast cancer, especially SSRI antidepressants such as paroxetine and fluoxetine. 	
+Depression does not always require antidepressant drug therapy, and antidepressants have no proven preventive impact on hot flushes linked to the menopause. 	
+If in certain cases, an antidepressant is considered necessary, it may be advisable to replace tamoxifen with anastrozole.	
+Phase I trial of lenalidomide and CCI-779 in patients with relapsed multiple myeloma: evidence for lenalidomide-CCI-779 interaction via P-glycoprotein.  	
+Multiple myeloma (MM) is an incurable plasma-cell neoplasm for which most treatments involve a therapeutic agent combined with dexamethasone. 	
+The preclinical combination of lenalidomide with the mTOR inhibitor CCI-779 has displayed synergy in vitro and represents a novel combination in MM.	
+In vivo CYP3A activity is significantly lower in cyclosporine-treated as compared with tacrolimus-treated renal allograft recipients.  	
+In vitro studies have identified cyclosporine and tacrolimus as CYP3A inhibitors. 	
+In the current study in renal allograft recipients, we used intravenously and orally administered midazolam as a drug probe to assess whether the study drugs at doses that are generally used in clinical practice have differential effects on in vivo hepatic and first-pass CYP3A activities. 	
+Systemic and apparent oral midazolam clearance were 24% (269    73 vs. 354    102  ml/min, P = 0.022) and 31% (479    190 vs. 688    265  ml/min, P = 0.013), respectively, lower in cyclosporine-treated patients (n = 20) than in matched tacrolimus-treated patients (n = 20). 	
+The latter displayed midazolam clearances similar to those in two larger cohorts of nonmatched tacrolimus-treated patients (n = 58 and n = 80) and to those receiving a calcineurin inhibitor-free regimen (n = 6). 	
+This implies that in vivo hepatic and first-pass CYP3A activities are significantly lower in patients receiving cyclosporine than in those receiving tacrolimus, indicating that, at the doses generally used in clinical practice, cyclosporine is the stronger of the two with respect to CYP3A inhibition. 	
+This observation has important implications in the context of drug-drug interactions in transplant recipients.	
+[Influence of hemantane and doxycycline on MPTP-evoked behavior violations in C57BL/6 mice].  	
+The effects of anti-parkinsonian drug hemantane [(2-adamantyl)hexamethylenimine] (10 mg/kg, p. o.) 	
+and/or antibiotic drug doxycycline (100 mg/kg, p. o.), as well as that of neurotoxin 1-methyl-4-phenyl-1,2,3,4-tetrahydropyridine (MPTP) (4 x 20 mg/kg, i. p.) 	
+were studied in elevated plus maze test on C57BL/6 mice. 	
+On second day after injection, MPTP decreased the locomot or activity in comparison to saline. 	
+Acute administration of hemantane or doxycycline failed to influence locomotion in mice, while their combination normalized motor activity. 	
+The results obtained confirm the role of inflammatory processes in parkinsonism and suggest expediency of combined pharmacotherapy of neurodegenerative diseases.	
+Exposure to oral S-ketamine is unaffected by itraconazole but greatly increased by ticlopidine.  	
+This study examined drug-drug interactions of oral S-ketamine with the cytochrome P450 (CYP) 2B6 inhibitor ticlopidine and the CYP3A inhibitor itraconazole. 	
+In this randomized, blinded, crossover study, 11 healthy volunteers ingested 0.2 mg/kg S-ketamine after pretreatments with oral ticlopidine (250 mg twice daily), itraconazole (200 mg once daily), or placebo in 6-day treatment periods at intervals of 4 weeks. 	
+Ticlopidine treatment increased the mean area under the plasma concentration-time curve extrapolated to infinity (AUC(0-   )) of oral ketamine by 2.4-fold, whereas itraconazole treatment did not increase the exposure to S-ketamine. 	
+The ratio of norketamine AUC(0-   ) to ketamine AUC(0-   ) was significantly decreased in the ticlopidine (P &amp;lt; 0.001) and itraconazole phases (P = 0.006) as compared to placebo. 	
+In the ticlopidine and itraconazole phases, the areas under the effect-time curves (self-reported drowsiness and performance) were significantly higher than those in the placebo phase (P &lt; 0.05). 	
+The findings suggest that the dosage of S-ketamine should be reduced in patients receiving ticlopidine.	
+Interaction of celecoxib with different anti-cancer drugs is antagonistic in breast but not in other cancer cells.  	
+Celecoxib, an inhibitor of cyclooxygenase-2, is being investigated for enhancement of chemotherapy efficacy in cancer clinical trials. 	
+This study investigates the ability of cyclooxygenase-2 inhibitors to sensitize cells from different origins to several chemotherapeutic agents. 	
+The effect of the drug's mechanism of action and sequence of administration are also investigated. 	
+The sensitivity, cell cycle, apoptosis and DNA damage of five different cancer cell lines (HeLa, HCT116, HepG2, MCF7 and U251) to 5-FU, cisplatin, doxorubicin and etoposide   celecoxib following different incubation schedules were analyzed.	
+We found antagonism between celecoxib and the four drugs in the breast cancer cells MCF7 following all incubation schedules and between celecoxib and doxorubicin in all cell lines except for two combinations in HCT116 cells. 	
+Celecoxib with the other three drugs in the remaining four cell lines resulted in variable interactions. 	
+Mechanistic investigations revealed that celecoxib exerts different molecular effects in different cells. 	
+In some lines, it abrogates the drug-induced G2/M arrest enhancing pre-mature entry into mitosis with damaged DNA thus increasing apoptosis and resulting in synergism. 	
+In other cells, it enhances drug-induced G2/M arrest allowing time to repair drug-induced DNA damage before entry into mitosis and decreasing cell death resulting in antagonism. 	
+In some synergistic combinations, celecoxib-induced abrogation of G2/M arrest was not associated with apoptosis but permanent arrest in G1 phase. 	
+These results, if confirmed in-vivo, indicate that celecoxib is not a suitable chemosensitizer for breast cancer or with doxorubicin for other cancers. 	
+Moreover, combination of celecoxib with other drugs should be tailored to the tumor type, drug and administration schedule.	
+Antidepressant-warfarin interaction and associated gastrointestinal bleeding risk in a case-control study.  	
+Bleeding is the most common and worrisome adverse effect of warfarin therapy. 	
+One of the factors that might increase bleeding risk is initiation of interacting drugs that potentiate warfarin. 	
+We sought to evaluate whether initiation of an antidepressant increases the risk of hospitalization for gastrointestinal bleeding in warfarin users.	
+Medicaid claims data (1999-2005) were used to perform an observational case-control study nested within person-time exposed to warfarin in those   18 years.	
+In total, 430,455 warfarin users contributed 407,370 person-years of warfarin use. 	
+The incidence rate of hospitalization for GI bleeding among warfarin users was 4.48 per 100 person-years (95% CI, 4.42-4.55). 	
+Each gastrointestinal bleeding cases was matched to 50 controls based on index date and state. 	
+Warfarin users had an increased odds ratio of gastrointestinal bleeding upon initiation of citalopram (OR   =   1.73 [95% CI, 1.25-2.38]), fluoxetine (OR   =   1.63 [95% CI, 1.11-2.38]), paroxetine (OR   =   1.64 [95% CI, 1.27-2.12]), amitriptyline (OR   =   1.47 [95% CI, 1.02-2.11]). 	
+Also mirtazapine, which is not believed to interact with warfarin, increased the risk of GI bleeding (OR   =   1.75 [95% CI, 1.30-2.35]). 	
+Warfarin users who initiated citalopram, fluoxetine, paroxetine, amitriptyline, or mirtazapine had an increased risk of hospitalization for gastrointestinal bleeding. 	
+However, the elevated risk with mirtazapine suggests that a drug-drug interaction may not have been responsible for all of the observed increased risk.	
+Ephedrine enhances the antinociceptive effect of dexmedetomidine in mice.  	
+Dexmedetomidine, a highly selective alpha-2-adrenoceptor agonist, was recently introduced into clinical practice for its sedative and analgesic properties. 	
+The purpose of this study was to evaluate whether the psychostimulant drug ephedrine has any effect on dexmedetomidine-induced antinociception and locomotor inhibitor activity in mice in acute application.	
+In both sexes of swiss albino mice; 	
+antinociception was assessed with hot-plate test and the locomotor, exploratory activities were assessed with holed open field test. 	
+The animals were received; 	
+saline + saline, ephedrine (10   mg/kg) + saline, saline + dexmedetomidine (15     g/kg) and ephedrine (10   mg/kg) + dexmedetomidine (15     g/kg), intraperitoneally, 30 min before hot plate or holed open field tests. 	
+In the hot plate test in mice, co-administration of 15     g/kg dexmedetomidine with 10   mg/kg ephedrine intraperitoneally not only enhanced, but also prolonged the duration of antinociception induced by dexmedetomidine. 	
+At the same time, the locomotor inhibitory effect of dexmedetomidine was counteracted by ephedrine. 	
+We concluded that the combined administration of dexmedetomidine with ephedrine may have beneficial effects in the treatment of pain without causing sedation, which limits the use of dexmedetomidine as an analgesic in humans.	
+Interaction study of moxifloxacin and lomefloxacin with co-administered drugs. 	
+Moxifloxacin and lomefloxacin are fluoroquinolone antibiotics used in treating urinary and respiratory tract infections. 	
+Fluoroquinolones are known to have interactions with drugs that are active in gastro intestinal tract. 	
+Being moxifloxacin and lomefloxacin fluoroquinolones the interaction study of was carried out with sucralfate, gelusil, erythromycin and multi minerals. 	
+The interaction was studied at neutral, acidic and basic conditions both at room temperature and 37  C. 	
+The effect of dissolution medium simulating various body environments with response to pH has been examined in order to elucidate the interactions. 	
+The response of moxifloxacin and lomefloxacin after interaction with co-administered drugs at different conditions and temperature were noted using a Shimadzu HPLC system with PDA detector. 	
+It was seen that interaction of these fluoroquinolones was more at 37  C than at room temperature. 	
+Moxifloxacin and Lomefloxacin reacts faster with sucralfate and gelusil in acidic media whereas with erythromycin in basic media and multi-minerals in neutral media. 	
+The study ensures the interaction of fluoroquinolones with selected class of drugs. 	
+In order to achieve the effective therapeutic effect appropriate time intervals between administrations of drugs is essential.	

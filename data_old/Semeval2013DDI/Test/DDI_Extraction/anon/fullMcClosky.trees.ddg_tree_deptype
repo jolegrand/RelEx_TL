@@ -1,0 +1,1299 @@
+root p attr com dep acl det attr obj case ppmod case adv ppmod meta p 
+det attr com dep attr aux ppmod obj aux ppmod modal aux root case det ppmod p 
+root p det dep cc conj case ppmod acl case ppmod aux neg aux acl p 
+dep modal root com obj case det ppmod p comp aux ppmod p 
+case det attr ppmod case ppmod p dep root obj case det com ppmod p 
+dep case ppmod case ppmod aux neg root mark dep case ppmod aux comp p 
+root p case det attr ppmod p attr com dep acl com com obj com adv p 
+root p case det attr ppmod p attr com dep acl com com obj com adv p 
+root p det adv attr attr dep aux acl adv dep aux comp case ppmod p conj p conj p conj p cc conj p 
+root p det attr com dep acl adv case num attr com ppmod acl attr obj p adv ppmod p 
+dep dep relcl cc obj cc conj modal aux adv root p 
+root p appo p appo case ppmod det attr attr com dep case ppmod aux acl case ppmod case ppmod adv attr num appo p prn p cc num conj p prn p p num prn det attr appo case num ppmod adv acl case ppmod case attr ppmod p p 
+det attr attr com dep case ppmod aux adv root case ppmod case ppmod adv attr num attr p num prn det attr appo case num ppmod adv acl case ppmod case attr ppmod p p 
+dep root det adv attr obj case com ppmod case attr ppmod cc conj p 
+det dep case ppmod aux root adv adv case det attr attr p attr p ppmod case attr ppmod cc attr conj ppmod cc case attr conj p 
+det dep case ppmod aux root adv adv case det attr com ppmod case attr attr com ppmod ppmod cc case attr conj p 
+case ppmod p dep root det obj case ppmod case det adv attr com com ppmod p 
+case attr p attr p com ppmod case ppmod acl case ppmod p dep root det obj case attr ppmod case ppmod adv attr num appo case attr cc conj ppmod p num prn det attr appo case num ppmod adv acl case ppmod case attr ppmod p p 
+com com root p meta dep acl det attr cc conj obj case ppmod case attr ppmod p 
+dep modal aux root case ppmod adv mark det attr dep comp det obj aux det ppmod p 
+case attr p prn p attr com ppmod case ppmod acl case ppmod cc conj case ppmod p dep root det obj case attr ppmod case det ppmod acl p num p num p num prn p p 
+case ppmod p attr dep case attr attr attr ppmod p attr dep case attr ppmod p attr attr com appo p attr prn p aux root case num ppmod p num prn det attr appo case num ppmod adv acl case ppmod case attr ppmod p p 
+case ppmod acl case ppmod p det attr dep case attr attr ppmod aux root case num ppmod p num prn det attr appo case num ppmod adv acl case ppmod case attr ppmod p p 
+dep root det obj adv attr dep cc conj comp case attr attr ppmod p 
+attr com dep case ppmod acl case ppmod case ppmod p prn p case ppmod cc conj case ppmod root case attr ppmod cc com conj p 
+attr dep root case attr ppmod case com ppmod acl aux ppmod p 
+det dep aux root case attr cc conj ppmod p 
+adv dep aux advcl case det ppmod case det ppmod case attr ppmod p root aux det com ppmod cc conj obj case det ppmod p 
+dep cc attr det conj case ppmod case ppmod cc conj case attr ppmod root dep p 
+advcl obj case com ppmod p dep aux attr ppmod case com ppmod root adv aux ppmod case ppmod acl case attr ppmod p 
+dep aux neg root mark dep aux comp case attr com ppmod p 
+adv p dep modal neg aux root case attr ppmod mark det attr dep comp det attr obj aux det ppmod p 
+attr root det dep case ppmod case ppmod p num cc conj prn p aux aux acl aux comp dep aux ppmod case ppmod p 
+dep acl case ppmod case det attr ppmod root dep aux num ppmod p num cc conj prn p case det com ppmod cc num conj p num cc conj prn p case det com ppmod p 
+dep case ppmod case ppmod p attr p num prn p aux neg root p 
+attr dep case det ppmod dep relcl obj case attr ppmod p appo root obj cc conj p dep prn obj dep relcl obj cc conj p p 
+det dep cc conj case ppmod root dep case det ppmod cc attr conj p 
+attr dep case det attr ppmod modal aux root prt p 
+dep case ppmod p mark dep advcl neg obj acl attr obj p poss dep aux ppmod adv acl obj modal root case attr attr ppmod p 
+mark case det attr ppmod modal aux advcl adv case ppmod aux root p 
+adv dep advcl neg dep p com dep modal aux root case det ppmod cc det dep modal aux conj mark attr attr dep comp com neg dep cc det dep aux conj aux comp obj dep relcl obj p 
+case det ppmod case ppmod num attr dep aux relcl p adv attr dep case ppmod p conj cc conj root attr obj case attr attr ppmod aux det attr cc conj ppmod p 
+case case det adv attr ppmod case ppmod aux com ppmod p det attr dep case ppmod modal root attr obj case attr com ppmod case ppmod dep modal relcl case ppmod case com ppmod p 
+adv p dep modal aux root case ppmod obj p com prn p aux ppmod acl det attr obj p 
+dep root det obj case det com ppmod case ppmod adv comp case ppmod p 
+adv p det com dep case ppmod aux adv root p 
+det dep case attr ppmod case ppmod aux root adv adv case det ppmod case ppmod p 
+dep root det attr obj case p ppmod acl aux comp obj p 
+dep cc attr conj modal root dep aux ppmod cc modal conj com obj case ppmod aux attr ppmod p 
+dep cc conj dep relcl com obj modal root attr obj cc attr conj case ppmod p adv comp com obj p 
+attr dep cc conj modal root attr obj cc conj com obj p 
+dep acl adv case ppmod modal root aux attr ppmod p 
+dep modal root det attr obj case attr ppmod case det com ppmod p 
+dep root case det ppmod case ppmod case com com ppmod p adv appo p conj p conj p conj p conj p conj p conj p conj p conj p cc adv conj p 
+advcl com com obj dep root case com ppmod case ppmod aux com ppmod p dep modal aux relcl case det attr com com ppmod case det ppmod p 
+com dep cc attr conj root dep p 
+case attr ppmod adv acl attr obj p adv appo p det attr dep case ppmod case ppmod aux aux root p 
+dep aux aux root mark dep modal comp det com obj case ppmod dep aux relcl det com obj p 
+det dep modal aux root case ppmod adv dep aux comp aux ppmod adv case attr ppmod p cc det com dep modal aux conj p 
+dep modal root det attr obj case ppmod p 
+case det attr ppmod p dep root det attr cc conj obj case det ppmod case ppmod cc aux neg conj det attr obj case det attr com ppmod p 
+adv advcl det obj adv p dep modal root dep case attr attr com ppmod p 
+dep modal adv root obj case attr attr ppmod p adv comp attr com obj p 
+det dep case ppmod modal root case det com com com com ppmod case ppmod p comp case ppmod case adv ppmod meta case det ppmod case attr ppmod p 
+det attr dep acl case root adv adv dep p 
+attr dep case ppmod root case attr ppmod case ppmod cc conj p 
+adv p dep root dep mark attr dep acl case det attr ppmod case det ppmod modal comp attr dep aux comp p 
+dep aux aux root case attr ppmod case ppmod cc conj p 
+dep dep relcl attr obj adv case ppmod p conj p cc conj modal root det obj case ppmod cc modal aux conj case com ppmod aux comp det attr obj p 
+dep adv case ppmod cc conj modal root det obj case ppmod cc adv conj poss obj p 
+adv p det dep case ppmod modal aux root aux comp com obj p 
+dep modal root det obj case attr attr com ppmod p 
+dep modal root aux attr com com ppmod cc conj det obj case com ppmod adv dep aux comp p 
+dep modal aux root adv case ppmod case ppmod case ppmod acl case ppmod p 
+det dep case ppmod case attr ppmod root obj p 
+dep root obj case ppmod com cc com attr conj case ppmod adv comp adv case ppmod p 
+adv p com dep modal aux root aux comp det attr attr obj p 
+dep acl obj cc conj adv modal neg aux root case ppmod p 
+det dep case ppmod modal aux root case ppmod p attr appo cc conj p 
+case attr ppmod p det attr dep case det com ppmod cc attr conj adv acl case det ppmod case ppmod aux neg root case det attr attr ppmod p 
+adv p dep p det attr appo case com com ppmod p modal root com obj case ppmod case attr ppmod p 
+det attr com com dep case ppmod cc attr conj aux aux root p 
+dep adv case ppmod modal root det obj case ppmod p 
+dep acl obj cc conj modal lv adv attr root case com ppmod p 
+com dep modal root obj aux attr ppmod p 
+dep case det ppmod modal root aux aux comp mark dep aux comp attr com obj p 
+dep acl attr com obj root attr obj p com adv dep aux comp cc conj p 
+root p det attr dep case ppmod p acl case num cc conj com ppmod case num attr ppmod adv acl case ppmod p acl case det attr ppmod case com ppmod case num cc conj ppmod cc conj case num cc conj com com ppmod p attr dep case com ppmod cc conj aux adv acl p 
+attr dep p num p cc attr conj p num p aux adv root p 
+det adv dep case det attr com ppmod case num attr attr num ppmod p adv num meta prn case com ppmod p p root dep aux comp det com obj case ppmod p 
+adv com dep aux advcl case det ppmod adv acl obj case ppmod p det dep cc com conj p prn p modal aux root adv cc det dep case ppmod acl case ppmod case det attr com ppmod cc conj aux aux conj p 
+adv p case ppmod acl det obj p attr dep case det ppmod cc conj p cc conj case det com ppmod mark acl aux root adv det com dep aux comp cc conj p 
+dep modal aux adv root case ppmod cc conj case attr ppmod p 
+attr com dep modal root det obj case attr ppmod p 
+dep cc conj case ppmod case ppmod p attr appo case ppmod cc conj modal root det obj p 
+attr com dep attr modal root obj case attr ppmod p comp case attr attr com com ppmod cc attr com conj case ppmod cc conj p 
+attr com com dep root dep p 
+case ppmod p det dep case ppmod cc attr com conj modal root p 
+det attr dep modal root attr obj cc attr conj case ppmod p appo p conj p ppmod p prn p p conj p conj p ppmod p prn p p conj p conj p conj p ppmod p num p p appo cc conj p appo p appo p cc attr conj lv attr acl p 
+dep root det obj case ppmod p 
+dep case det ppmod case attr attr ppmod modal root dep adv comp adv case ppmod adv case ppmod p 
+dep modal root attr obj case attr ppmod p adv case adv attr com ppmod case ppmod p 
+attr com com dep modal root p 
+dep modal root det obj case ppmod dep relcl attr obj p adv case ppmod p 
+mark dep modal advcl case det ppmod case ppmod p attr dep case det ppmod modal aux root p 
+det com dep case ppmod case attr attr com ppmod aux root case ppmod acl aux comp obj cc conj acl aux comp attr obj p 
+mark dep p prn p modal advcl case adv attr ppmod p attr com com dep case det ppmod modal root dep p attr prn modal acl det com obj case ppmod cc conj p p 
+root p dep cc com attr conj acl adv case ppmod modal acl adv attr cc conj obj case ppmod cc conj p 
+attr root p adv com dep aux advcl case attr ppmod p dep modal aux acl p adv case attr ppmod p 
+com dep case attr ppmod modal root dep p 
+root p conj p cc conj p det attr dep case det ppmod modal aux acl case det com ppmod dep modal aux relcl case com ppmod p 
+dep p attr attr appo modal root det obj case det ppmod aux ppmod p 
+attr dep modal root p 
+root cc conj p modal acl det obj case ppmod cc conj obj cc com conj p 
+attr p com com dep modal root p 
+root p attr attr dep modal advcl com com obj case ppmod p prn case ppmod p det adv attr dep modal acl attr obj dep modal relcl aux ppmod p 
+adv p dep modal root dep aux com com ppmod num appo case attr ppmod p 
+dep cc attr conj p modal root det attr obj case com ppmod p 
+root p dep modal acl attr obj aux ppmod p cc det dep conj neg dep aux comp obj case det attr ppmod case attr ppmod p 
+dep p appo modal aux root adv aux attr attr ppmod case ppmod p 
+dep p conj p com cc com attr conj p modal root det attr obj aux ppmod p 
+com dep modal root dep p 
+dep case ppmod case ppmod root case attr com com ppmod p num meta p p attr com com com conj p num meta p p cc attr com com conj p num meta p p 
+dep case ppmod root case det attr ppmod case det ppmod case com ppmod dep relcl adv dep p 
+dep case det attr ppmod case ppmod p num prn p root case det num meta ppmod case com ppmod case ppmod cc modal conj com obj case ppmod case ppmod p 
+det dep root adv dep p 
+case ppmod case com ppmod acl case ppmod p root aux det com com ppmod p 
+dep modal aux root case ppmod case ppmod acl attr attr obj cc conj adv attr aux ppmod p mark det attr dep case det ppmod comp dep p 
+com dep aux root case det ppmod case ppmod p det attr appo p 
+adv adv p det com dep case ppmod aux root case ppmod meta case ppmod case ppmod p num prn attr case num ppmod p p det attr cc conj com appo p 
+adv attr dep case com ppmod p adv case ppmod p acl adv case ppmod case ppmod p modal root case ppmod acl aux attr com com ppmod p 
+dep modal aux root adv com dep aux comp p 
+attr dep case ppmod acl aux aux comp case ppmod case attr ppmod adv case ppmod cc conj modal adv root p 
+dep case det attr cc conj ppmod case ppmod p appo p num com prn case num ppmod case com ppmod acl num dat case ppmod p root det num meta obj case attr com ppmod case ppmod p 
+dep modal root dep p 
+dep cc conj root dep case com ppmod p 
+det dep case ppmod aux attr ppmod acl obj modal aux root p case adv dep aux aux adv ppmod p 
+dep cc conj modal root case com com ppmod p 
+root p aux neg acl det obj mark dep comp obj p 
+dep modal root dep p 
+root case ppmod p mark comp p 
+adv advcl obj p root attr obj p appo adv cc aux neg conj p 
+attr root appo case ppmod p prn p case det ppmod case attr ppmod p dep aux adv acl case ppmod case ppmod p 
+attr dep root case det attr com com ppmod p 
+adv case adv attr ppmod p det attr com dep case ppmod acl case det attr com ppmod aux root p dep p conj p conj p conj p conj p conj p cc conj p 
+det attr dep aux root case ppmod cc conj p conj p conj p cc conj case ppmod case attr ppmod p 
+det dep case com ppmod acl case ppmod aux neg root case ppmod case ppmod p 
+dep case attr ppmod case det ppmod case ppmod p appo dep relcl cc conj com obj aux neg root aux comp det obj case ppmod p 
+attr attr attr dep root mark det dep case ppmod aux neg adv comp case attr ppmod case ppmod p conj p conj p cc conj p 
+com com dep case det ppmod case num ppmod root mark det dep case ppmod aux neg comp case adv attr ppmod adv case ppmod p prn p p appo p prn p p conj p num p p conj p prn p p conj p num p p conj p num p p conj p prn p p conj p prn p p cc conj p prn p p 
+dep case ppmod p case case poss ppmod case ppmod p dep root det obj aux acl case det ppmod case ppmod p 
+dep case ppmod cc attr conj p det attr dep modal aux root adv dep aux comp adv case ppmod p attr conj cc conj adv case ppmod p 
+com dep root mark dep modal comp det attr obj case ppmod p 
+det dep modal aux lv root case ppmod acl obj adv case ppmod p 
+root p attr dep case ppmod p num com prn p aux attr ppmod acl aux comp det obj p num meta p cc conj p num meta p case ppmod p 
+det attr dep case det ppmod aux neg root p 
+adv p case case attr ppmod p attr dep case ppmod cc conj aux neg adv root case case det ppmod case attr attr ppmod p 
+attr dep case attr ppmod case ppmod modal root case det attr ppmod case com ppmod cc attr conj p comp aux ppmod case ppmod adv p 
+dep aux neg det root case ppmod case attr ppmod p 
+root p dep case num ppmod case ppmod adv acl det obj case ppmod case ppmod meta p 
+dep root case det ppmod case ppmod p case num prn aux num ppmod p cc det num meta conj case ppmod p 
+dep root det obj case det com ppmod case ppmod case det attr ppmod p 
+det attr dep case det ppmod aux neg aux root p 
+root p attr dep case num ppmod attr attr aux neg acl det attr obj case num com ppmod p 
+dep p attr num appo adv attr case num ppmod aux neg root det com com obj case ppmod case attr ppmod case num ppmod case attr ppmod p 
+adv attr dep root det com com com obj case ppmod cc conj p 
+root p attr dep p com cc com attr conj p aux acl mark dep modal comp det attr obj case ppmod cc conj case det ppmod p 
+det dep aux aux root aux ppmod case attr com ppmod p 
+dep case com ppmod cc conj aux neg root det obj case attr ppmod p 
+root p attr cc conj com dep cc conj aux neg acl case attr ppmod case ppmod p 
+adv p case attr ppmod case ppmod cc conj p dep modal aux root adv case ppmod case ppmod attr obj p com cc com aux conj attr obj p 
+root p case attr ppmod p dep aux acl det obj case com com ppmod cc det conj case attr com ppmod p 
+case det ppmod acl case attr ppmod p com com com dep cc conj aux root case ppmod meta case ppmod acl com obj acl case ppmod aux num com ppmod case attr num com ppmod mark acl aux ppmod acl obj adv p 
+det dep aux aux root aux ppmod case attr com ppmod case ppmod p 
+dep case com ppmod modal aux adv root adv dep aux comp cc conj p 
+root p det dep case num attr attr p prn p ppmod acl det obj case attr ppmod case ppmod case det ppmod case ppmod acl com adv p 
+dep aux neg root det attr obj case det ppmod case attr ppmod case ppmod p 
+adv adv p dep aux neg root obj case poss attr com com ppmod p 
+root p com dep modal aux acl p adv case det attr attr ppmod case ppmod cc conj com obj case ppmod acl attr cc conj obj p mark det dep comp case det attr ppmod case ppmod p 
+det dep case ppmod case det attr ppmod case ppmod aux root case det ppmod case attr ppmod acl attr obj case ppmod dep relcl det obj p attr attr prn p case ppmod cc conj p 
+case det ppmod p dep aux neg root com obj cc det attr com conj case ppmod mark comp case com ppmod p 
+adv p num dep root det obj case ppmod case num attr ppmod p 
+dep modal aux root adv comp obj case ppmod mark dep case ppmod modal comp obj case ppmod cc det attr conj case attr ppmod adv det attr dep aux comp p 
+dep modal root det attr obj case ppmod p 
+dep p acl case det attr attr ppmod p root det com obj case ppmod meta cc conj det attr attr com obj case ppmod meta p 
+adv advcl det obj adv p dep modal root dep case attr attr com ppmod p 
+attr com dep modal root det attr obj case ppmod p 
+dep case com ppmod modal root poss attr attr obj adv acl aux comp det attr obj case ppmod p 
+det dep case ppmod case ppmod case attr attr ppmod acl com obj aux neg aux root p 
+attr com dep modal root det attr obj case ppmod p 
+mark com dep aux advcl p det com dep modal aux adv root p 
+dep root det obj case det attr ppmod case com com ppmod case ppmod adv acl case attr attr com ppmod p 
+attr attr dep root mark com dep comp com obj p prn p acl case ppmod case ppmod p 
+det dep root mark com dep modal comp det obj case ppmod acl aux aux comp case com com ppmod p adv p ppmod p appo p appo p prn p p 
+attr dep root dep adv dep aux comp case ppmod case attr ppmod acl aux aux comp case com com ppmod p 
+dep modal root case attr attr ppmod p case ppmod dep modal relcl det obj case ppmod cc conj p 
+attr dep case ppmod cc attr conj modal root det com com obj case ppmod cc det attr conj p 
+dep modal root det obj case attr ppmod p attr conj p conj p conj p conj p conj p cc conj p 
+dep aux root adv comp obj case ppmod dep aux relcl adv case det com ppmod p ppmod prn p p 
+attr dep case ppmod root case det num meta ppmod case det ppmod case ppmod p 
+dep aux root adv comp obj case ppmod p 
+dep root obj cc conj adv adv case com ppmod case ppmod cc conj p appo p adv p 
+attr dep aux ppmod case ppmod cc conj aux root aux comp adv comp case ppmod p 
+dep aux root adv comp obj case ppmod cc conj case ppmod p 
+adv advcl adv case ppmod p dep modal root cc conj obj p appo 
+root cc conj p 
+det dep case ppmod dep relcl attr obj p adv p prn p conj p conj p conj cc conj p modal advcl cc conj det com obj case ppmod p adv p dep modal aux root adv dep aux comp adv case ppmod dep relcl obj p 
+dep aux aux root case ppmod adv acl case attr com ppmod p ppmod p prn p p ppmod cc case com conj p 
+det dep case attr ppmod modal aux adv root case det ppmod cc modal aux conj case cc ppmod det obj case ppmod cc conj det com obj attr aux ppmod case ppmod case p 
+dep p appo p adv case ppmod p conj p cc conj p modal comp det obj case ppmod p dep case com ppmod p dep root dep p mark dep comp det attr attr obj p mark det attr attr dep case ppmod p det prn p comp dep aux attr attr ppmod case det attr ppmod adv attr case det ppmod case attr ppmod case ppmod p conj p conj p conj p conj p conj p cc conj p 
+adv dep modal root det obj case attr ppmod case det ppmod p 
+dep aux aux root aux comp det attr obj case ppmod p conj p conj p cc conj p 
+attr root p dep acl aux aux comp case attr ppmod modal aux acl case ppmod case ppmod acl obj p 
+attr root p case num attr ppmod p det attr dep case ppmod cc conj adv ppmod case det attr ppmod acl num obj case ppmod cc num conj case ppmod aux acl p 
+det dep root dep ppmod cc case conj case attr num ppmod aux attr ppmod p 
+attr com com com root appo mark acl case ppmod p attr appo case ppmod p conj p conj p conj p conj p conj p conj p conj p cc attr attr conj adv case ppmod 
+dep case ppmod modal root det obj case det ppmod cc adv attr num conj case ppmod case det attr ppmod p 
+adv p dep acl obj case ppmod cc conj case det ppmod modal root num attr attr cc adv conj obj case ppmod cc conj case attr attr ppmod mark comp obj p 
+dep modal root det obj case ppmod p conj cc attr conj p 
+dep cc conj root det obj case ppmod p 
+dep modal root det attr obj case ppmod p conj p conj cc conj p 
+dep case ppmod cc attr conj aux neg aux adv root p 
+dep dep modal relcl det attr obj case ppmod p adv case ppmod cc conj p modal aux root case ppmod p 
+det adv attr dep case ppmod aux attr com ppmod aux root case ppmod p cc dep aux neg conj det com obj case attr ppmod p 
+adv p attr com dep cc conj aux aux root case ppmod case attr ppmod cc attr conj p 
+adv p dep modal aux root adv comp obj aux ppmod case ppmod p 
+case attr attr ppmod case ppmod case cc ppmod cc conj dep root det obj case det attr ppmod case cc ppmod cc det conj p 
+dep modal aux root mark dep aux comp adv case ppmod p 
+dep cc attr conj aux aux root aux comp det attr obj case ppmod case det attr ppmod p adv comp det obj case ppmod p 
+com dep mark attr com com dep cc conj modal advcl case attr ppmod p dep modal root adv attr obj case det ppmod cc conj case ppmod cc conj cc modal conj obj case det ppmod case det ppmod p 
+det dep case ppmod p prn case ppmod p modal root det obj case ppmod cc det dep case ppmod p prn case ppmod p modal conj det obj case ppmod p 
+adv p mark det dep cc det conj case ppmod aux advcl cc conj case ppmod case ppmod p dep case com ppmod modal aux root adv case attr ppmod p 
+attr dep case ppmod aux neg root case det ppmod case cc ppmod cc conj cc det conj case ppmod cc conj p 
+det adv attr dep aux ppmod cc com conj aux root adv attr ppmod case ppmod p 
+dep root det obj case det attr ppmod case ppmod p 
+dep advcl det obj case ppmod acl det obj case attr ppmod p det dep case ppmod root det adv attr obj case det attr ppmod case ppmod p 
+case det ppmod case num attr ppmod acl com com obj p num prn cc num conj adv p case num ppmod case ppmod com adv p adv det adv attr prn p p attr com dep root obj meta p num meta prn num meta attr num meta p p 
+det dep modal neg root case det attr com ppmod case det ppmod case ppmod p 
+adv p det attr com dep modal aux root case det attr ppmod case ppmod p 
+attr dep modal neg aux root adv case ppmod p com prn p mark dep modal comp attr obj p 
+dep modal aux root case ppmod aux ppmod aux acl case ppmod cc conj p mark det dep case ppmod case det attr ppmod modal aux comp p 
+det dep acl case ppmod root mark dep comp det adv attr obj case com ppmod case ppmod p 
+case ppmod p dep attr cc conj case det ppmod case ppmod root mark advcl obj case ppmod comp det com com obj case ppmod case attr ppmod p 
+det dep case ppmod root aux ppmod meta case num ppmod p acl aux det ppmod acl case ppmod case det attr num ppmod dep relcl cc conj aux comp det obj acl det obj p 
+dep modal root det attr obj case ppmod adv ppmod p conj p conj p conj p conj p cc conj p 
+det dep case ppmod p adv case ppmod cc conj modal aux root case det attr ppmod case ppmod p 
+dep modal root det obj case ppmod case det ppmod p 
+dep case ppmod cc attr conj aux neg aux adv root p 
+dep modal aux root adv comp com obj case ppmod case attr ppmod p 
+dep modal neg aux root case det attr ppmod p 
+det dep case ppmod case attr attr ppmod aux neg aux root p 
+case advnp aux ppmod acl case ppmod cc conj p dep dep relcl com obj p prn case ppmod p conj p cc conj p modal root det obj case ppmod mark acl adv ppmod cc case com conj p 
+det dep case ppmod p attr conj p attr conj p cc attr conj aux aux root case det ppmod acl det obj case ppmod cc conj p 
+dep adv root case ppmod adv det dep aux comp p 
+dep root dep case det ppmod case ppmod cc conj p 
+attr attr dep p adv attr prn p conj p cc conj p aux aux root case ppmod acl det obj p 
+attr dep aux adv aux root case ppmod acl det obj case ppmod cc conj cc conj cc conj p 
+num dep case com ppmod aux aux root case det ppmod acl det attr obj case ppmod cc det conj p prn p p 
+adv dep cc conj aux advcl adv p det dep case ppmod p prn p conj p conj p conj case det ppmod cc conj p modal root adv mark modal aux comp adv dep aux comp adv p 
+dep root adv dep mark det attr dep case ppmod aux comp dep cc det dep case ppmod aux aux conj p 
+num cc conj det attr dep modal aux advcl case ppmod case det ppmod case com ppmod p mark dep aux neg comp adv case det ppmod case ppmod p mark dep aux advcl case det ppmod p dep modal aux root adv case det ppmod case ppmod p 
+dep p conj p conj p conj p conj p cc conj modal aux root case ppmod case attr ppmod p 
+det attr com dep aux aux root case ppmod p 
+dep acl adv case ppmod modal adv root det com obj case ppmod p 
+com dep det attr modal aux root case com ppmod adv attr dep aux comp p 
+det dep modal aux advcl mark attr dep cc com com conj p cc com conj modal aux comp case com ppmod p p meta p dep cc attr com conj aux root p ppmod p prn p appo p appo p appo p appo p p 
+p meta p dep cc attr com conj aux root p adv p ppmod p prn p p 
+p meta p com dep aux root p 
+p attr p attr dep modal root p 
+p prn p dep modal root attr obj case com ppmod p 
+p attr p dep cc attr com com com conj modal aux root adv p 
+p prn p dep modal root attr obj case com ppmod p 
+case attr ppmod case ppmod p dep acl obj adv case ppmod p dep p prn p p conj p attr conj p attr conj p cc attr conj root dep comp obj attr aux det com ppmod case det ppmod p 
+attr cc conj dep case ppmod case attr ppmod case attr cc conj ppmod modal aux root p 
+det dep modal root com obj case ppmod com obj case ppmod cc conj p 
+dep modal neg aux root adv case ppmod p conj p conj p cc conj p 
+com dep dep acl det attr com obj case attr com ppmod case ppmod aux neg advcl case attr ppmod dep adv case attr attr ppmod aux root obj case ppmod attr aux attr ppmod p 
+attr attr dep aux aux root case com com com ppmod dep aux advcl case attr attr ppmod cc dep adv conj obj aux comp attr obj 
+dep modal aux root case ppmod aux ppmod acl obj case case det ppmod case com ppmod p 
+dep case attr ppmod acl adv case ppmod modal aux root aux comp case attr attr ppmod p 
+dep modal root det attr obj case ppmod acl adv p 
+det dep modal aux root case attr ppmod modal aux acl aux det attr ppmod case attr ppmod p adv p ppmod p attr prn p p 
+mark det attr com com dep aux aux advcl p det attr attr dep aux root case case attr ppmod meta case ppmod case ppmod cc det com com com conj p conj p attr conj p conj p conj p conj p conj p conj p conj p conj p conj p conj p conj p conj p cc conj p 
+det com com dep case attr attr ppmod modal aux root case ppmod case attr cc conj ppmod p adv case ppmod p prn p conj p conj p cc conj p conj p p 
+cc root case ppmod cc conj p prn p appo p appo p appo p appo p appo p p p 
+det dep modal root det attr cc conj obj case attr attr ppmod cc modal adv conj case adv attr ppmod case attr p conj p cc advnp conj ppmod cc attr conj p 
+case ppmod case ppmod cc conj p det dep case attr attr com ppmod modal aux root adv aux det attr ppmod case ppmod cc conj cc modal aux conj case det advnp case attr ppmod p prn p conj cc conj p p 
+det attr dep case attr attr ppmod p prn p conj p conj p cc conj p case ppmod case attr attr ppmod aux neg aux adv root p 
+det attr dep modal adv aux root aux comp det attr cc attr cc conj obj case attr attr ppmod p 
+attr attr dep aux neg root det adv attr obj case ppmod p conj p cc conj case ppmod case det adv attr ppmod p prn p conj cc conj p p 
+det attr attr dep case adv attr ppmod cc conj acl case ppmod cc conj p adv det ppmod case ppmod p attr conj p conj p cc attr conj p aux aux root p 
+attr dep aux aux root aux comp det attr obj case ppmod cc conj p comp case det ppmod case com ppmod p 
+com dep modal aux root case ppmod adv dep p com prn p p appo meta aux comp case ppmod dep aux relcl com obj p mark dep comp adv dep aux comp case attr com ppmod case case attr ppmod p 
+dep modal aux root case ppmod case ppmod case com ppmod case case det ppmod case ppmod obj p 
+dep aux root case ppmod acl attr obj cc conj adv p mark dep p conj p conj p conj cc conj aux aux comp case attr ppmod case attr ppmod cc conj p 
+dep modal aux root case ppmod p conj cc attr conj p cc case attr conj p 
+mark dep case com ppmod advcl p dep modal aux root p 
+dep p prn p modal aux root mark attr dep aux comp p 
+attr dep aux aux root case det ppmod adv dep cc conj aux comp adv p 
+case aux poss ppmod case attr ppmod p com dep modal neg aux root case ppmod acl obj dep relcl attr obj p ppmod p prn adv case ppmod p cc conj dep relcl det attr obj case ppmod p ppmod p prn p p 
+dep acl det obj aux neg aux root case attr ppmod p 
+dep root det obj aux acl det obj case adv attr attr ppmod p 
+adv det attr dep case det attr adv attr ppmod advcl det attr obj case ppmod p prn case ppmod p p det dep modal aux root case attr num ppmod adv ppmod cc num conj case com ppmod p 
+case attr ppmod p det attr dep case ppmod cc conj aux neg root det attr com obj case ppmod p 
+det attr com dep aux aux root aux comp det obj case ppmod case det ppmod case attr ppmod p 
+adv ppmod cc conj det attr dep case ppmod aux root adv comp case attr p conj p cc num conj ppmod case attr ppmod adv attr aux ppmod p 
+adv p dep cc conj modal neg aux root cc modal aux conj adv p 
+mark dep advcl det obj case det attr ppmod acl attr cc conj obj p dep cc conj case ppmod case det ppmod modal aux root aux comp com com obj p 
+case det adv p attr com ppmod p prn attr num advnp p det dep case ppmod aux root case ppmod meta adv det ppmod case ppmod p det appo case ppmod p 
+case det attr ppmod p prn attr num attr cc advnp attr num attr conj case ppmod p p dep case ppmod aux neg root det obj case ppmod case det attr com com ppmod p 
+adv p det attr dep case ppmod case det attr com ppmod root case adv ppmod meta comp det attr cc conj com comp dep p 
+case det attr attr com ppmod p det dep case ppmod aux root case det ppmod case det ppmod case ppmod p 
+dep case ppmod aux ppmod aux neg root aux attr attr com ppmod case ppmod p conj p conj p cc com conj case ppmod adv p 
+adv attr dep case ppmod case det num ppmod case ppmod aux advcl p det dep case ppmod modal aux adv root aux attr ppmod p 
+case det attr attr com ppmod dep aux aux root adv case adv attr ppmod p conj p cc attr case attr conj p 
+det dep case ppmod adv case ppmod cc conj aux adv root p adv case attr ppmod case attr ppmod p 
+adv dep cc attr attr com conj adv case ppmod cc conj aux aux advcl adv case ppmod p attr com com dep aux aux root p 
+dep case com com ppmod aux root case attr attr ppmod aux acl attr obj p 
+case det attr ppmod p dep aux root neg aux comp com com obj p 
+com dep p prn p conj p cc conj p aux neg root case attr ppmod cc conj p conj p cc conj p 
+attr dep case ppmod cc conj aux aux root aux comp p conj p cc conj attr com com obj p 
+adv dep modal aux root adv case attr ppmod p 
+dep aux neg root com com obj cc dep p adv relcl aux comp attr obj adv aux ppmod p aux aux conj aux comp com com obj p 
+attr dep case ppmod cc conj modal root aux attr com com ppmod p 
+num attr dep case num attr ppmod root det num meta com obj p prn num meta p case com com ppmod p 
+det dep aux advcl case det attr com ppmod dep relcl det attr obj case ppmod obj p com com dep root aux attr com ppmod case num ppmod case com ppmod p mark dep cc conj acl aux aux comp adv p com com dep modal aux comp p com adv det com dep aux comp p 
+det attr dep case com ppmod modal aux root p 
+adv p case num attr ppmod case num attr ppmod cc num conj p det dep case ppmod aux root obj meta adv det ppmod case ppmod p 
+root p prn p p det dep case attr ppmod modal aux acl case com ppmod acl aux ppmod p 
+cc attr p dep modal root det attr obj case com ppmod p 
+det com dep case ppmod modal aux root adv det attr dep comp dep p 
+root p com com dep modal aux acl adv attr dep case det attr com ppmod comp dep p 
+attr dep case ppmod modal aux root p 
+root p com dep modal acl adv attr dep case det attr com ppmod comp dep p 
+det attr dep case ppmod modal aux root p 
+attr dep modal neg aux root adv case ppmod mark dep modal comp attr obj p 
+det dep modal root case ppmod p 
+dep modal adv root cc conj det obj case ppmod p 
+det dep root obj p conj p cc conj p 
+dep modal adv root det obj case attr ppmod p dep relcl det attr p conj p attr com conj p com com conj p conj p conj cc conj dep comp mark dep modal comp case attr ppmod dep aux neg relcl adv p 
+dep case attr ppmod p det com dep case ppmod aux root case det ppmod case attr ppmod adv case ppmod p conj p conj p cc conj p 
+dep case ppmod case ppmod case attr ppmod modal root det obj case attr ppmod p conj cc attr conj cc conj p 
+dep case ppmod p appo p ppmod p prn p conj p conj p cc conj p modal neg aux root aux ppmod dep aux relcl cc aux conj det obj case ppmod case det com ppmod p 
+case det ppmod p det attr dep modal root det attr obj cc modal conj com obj p 
+dep modal root det attr obj case ppmod p 
+dep root case attr ppmod p 
+attr attr dep aux root mark dep modal comp det obj case ppmod p conj p prn p appo p appo p p conj p cc conj p prn p appo p appo p p 
+com com dep case det ppmod modal aux root adv comp adv case ppmod p 
+attr attr dep aux aux root case attr ppmod case ppmod p mark det dep case det ppmod aux aux comp p 
+det dep case ppmod obj case ppmod case ppmod cc attr adv attr conj aux neg aux adv root p 
+dep case ppmod case attr ppmod case det com ppmod p ppmod p prn p appo p appo p appo p appo p appo p appo p appo p appo p appo p appo p dep root com obj p 
+dep modal adv root com obj case ppmod p 
+dep case ppmod case ppmod case det com ppmod p ppmod p prn p appo p appo p appo p appo p appo p appo p appo com attr p modal root com obj p 
+root 
+com dep modal root com com obj adv p 
+dep acl obj modal neg root obj 
+com root adv p 
+attr com dep aux root case ppmod acl attr attr obj cc conj p 
+root p attr dep case com ppmod modal acl case ppmod case attr ppmod adv dep aux comp p 
+det dep case attr ppmod case ppmod modal aux advcl case ppmod attr obj case attr ppmod cc adv conj com obj case ppmod case ppmod case ppmod p mark dep advcl neg dep p det attr dep case ppmod modal aux root p p 
+com root cc conj p dep modal acl com obj mark dep comp com obj p 
+dep case ppmod p prn p appo p appo p cc com conj adv case ppmod modal root det obj case ppmod p 
+adv p mark attr dep case attr ppmod aux advcl p dep modal aux root case ppmod cc det poss case com dep modal aux conj p 
+attr attr p com dep case ppmod root aux comp det adv attr obj case det com ppmod case det ppmod cc case poss attr conj p 
+root p attr com com dep cc conj case com ppmod aux aux acl case ppmod acl obj case ppmod case ppmod p 
+det dep modal aux root case ppmod p cc attr dep case com com ppmod aux conj p 
+mark det dep aux adv advcl p det dep case com ppmod modal aux root p 
+attr root p det adv attr attr dep acl adv dep aux comp adv case ppmod p conj p cc conj p 
+dep aux aux root case attr ppmod adv case ppmod p conj p conj p conj p attr conj p cc attr conj p 
+dep root det obj case adv attr attr ppmod p 
+dep aux adv root dep adv case det ppmod case attr ppmod cc attr conj p 
+attr dep case attr ppmod modal root case attr ppmod case ppmod p 
+attr dep case ppmod dep aux adv adv relcl p adv p prn p modal adv root case attr ppmod case ppmod p 
+mark dep p num prn attr p modal aux advcl case ppmod case ppmod case attr attr ppmod p attr attr num prn p p dep modal aux root adv comp obj adv case ppmod aux ppmod case adv adv attr attr ppmod p com prn case num cc conj ppmod p p 
+dep case adv adv attr attr ppmod modal root comp obj case attr com ppmod case det ppmod case num ppmod case p det conj case p cc num conj acl obj case ppmod p 
+case det ppmod case ppmod acl attr obj case ppmod cc conj case attr ppmod p det dep acl det obj modal root obj case case attr num ppmod case p det appo case p cc num conj acl com obj p 
+mark attr dep case det ppmod advcl dep p dep modal aux root adv case ppmod p adv conj p conj p cc attr conj p 
+attr com dep dep root p 
+com dep cc attr attr com conj modal aux root mark dep aux comp case ppmod p 
+attr dep case ppmod case attr ppmod modal root attr obj adv attr p 
+attr com dep adv root det attr attr com obj p 
+dep modal root case det attr attr p appo cc attr conj p modal acl com obj p p ppmod p prn case attr ppmod aux acl case ppmod p p conj p modal prn com obj p p conj p prn case attr ppmod adv relcl p p conj p prn case ppmod case ppmod modal acl attr obj case ppmod p p conj cc attr attr conj p modal prn case attr ppmod cc det attr conj case attr ppmod p p cc conj p prn case ppmod cc conj modal acl case det ppmod case det ppmod p p 
+adv attr dep case attr com ppmod root mark dep aux neg comp det obj case ppmod p conj p conj p cc conj p 
+adv attr dep aux adv root mark dep comp attr obj p 
+dep modal root case attr ppmod case ppmod adv acl case det ppmod p adv case ppmod p conj p conj p prn p p cc conj p mark dep comp det attr attr obj p 
+adv attr attr com dep acl case attr com ppmod root mark dep aux neg comp det obj case ppmod cc conj p 
+dep root det obj case ppmod case ppmod meta p 
+dep root det obj case ppmod case ppmod meta p 
+dep aux advcl attr obj case ppmod cc conj case com ppmod case ppmod adv acl attr obj cc conj p adv p det attr dep case com ppmod cc det conj aux neg aux root p 
+com dep aux root obj meta case ppmod p det com com appo p cc conj obj meta case ppmod p det com com appo p 
+com dep aux root case ppmod p 
+dep root det obj attr case attr attr com ppmod case det attr ppmod case ppmod p attr appo p com com conj p conj p conj p conj p conj p conj p cc conj p 
+dep modal root attr obj adv comp case ppmod case attr attr ppmod p 
+dep aux aux root aux comp det com obj case ppmod cc modal conj aux attr com com ppmod p 
+det dep case det com ppmod modal aux root case ppmod acl obj adv p 
+det attr dep case ppmod cc conj aux aux root case num ppmod aux comp case attr com ppmod p 
+root p dep acl det num meta obj case det ppmod cc attr conj case ppmod cc modal neg aux conj case ppmod p 
+root p det dep case ppmod cc conj aux neg aux acl case attr ppmod p 
+adv p num meta dep case com ppmod aux aux root case attr ppmod p 
+mark dep aux advcl adv case ppmod p com dep modal aux root p 
+attr adv attr root p dep acl attr com obj meta acl aux com ppmod p 
+adv adv p dep aux neg root det obj case ppmod p conj p cc conj p 
+dep modal aux root adv dep aux comp case attr adv attr ppmod p adv case ppmod p conj p conj p conj p conj p cc conj p 
+root adv attr obj p attr dep 
+dep modal root det obj case ppmod p conj p cc conj p 
+dep modal adv root case ppmod p attr prn p p appo p attr prn p p appo p attr attr prn p p appo p attr com prn p p appo p attr attr prn case ppmod p p appo p attr attr prn case ppmod p p 
+dep p adv case det ppmod p prn p appo p appo p cc conj p adv modal neg aux root adv case ppmod p det prn p p 
+det dep modal root det obj case ppmod p 
+mark dep advcl adv obj meta acl aux com ppmod p dep modal aux root mark dep aux comp case attr ppmod acl aux comp com obj p 
+com dep p appo case attr ppmod aux root det attr obj case com com ppmod p 
+det dep case ppmod case attr ppmod aux root case ppmod cc conj p 
+attr attr dep modal root adv dep aux comp case ppmod p conj p conj p conj p cc conj p 
+det dep mark dep acl obj case ppmod case attr ppmod root mark dep modal aux comp adv p adv case ppmod p case ppmod acl obj p 
+dep case ppmod case det ppmod modal aux advcl p ppmod p prn p case ppmod p case det dep cc conj case ppmod case ppmod case det attr ppmod modal aux root p ppmod p prn p appo p appo p appo p appo p p 
+dep p attr prn p modal root dep case attr attr ppmod case det ppmod p 
+adv attr dep modal root aux comp mark dep comp attr det obj cc conj aux ppmod p 
+mark det dep case ppmod modal advcl det obj case ppmod aux det ppmod cc adv det conj case ppmod p com dep cc conj case ppmod modal root obj p 
+det attr dep acl case root adv adv dep p 
+dep dep relcl attr obj adv case ppmod p conj cc conj modal root det obj case ppmod cc modal conj obj case com ppmod aux comp det attr obj p 
+dep adv case ppmod cc conj modal root det obj case ppmod cc adv conj poss obj p 
+adv p det dep case ppmod modal aux root aux comp com obj p 
+dep modal root det obj case attr attr com ppmod p 
+dep modal root aux attr com com ppmod cc conj det obj case com ppmod adv dep aux comp p 
+dep modal aux root adv case ppmod case ppmod case ppmod acl case ppmod p 
+det dep case ppmod case attr ppmod root obj p 
+dep root obj case ppmod com cc com attr conj case ppmod adv comp adv case ppmod p 
+adv p com dep modal aux root aux comp det attr attr obj p 
+dep case attr attr num ppmod com adv root attr attr attr obj p num p cc conj case ppmod meta case attr ppmod case com ppmod p appo meta case det attr ppmod case attr attr ppmod p 
+adv aux attr attr ppmod aux ppmod adv attr ppmod case ppmod p com dep case ppmod root dep adv comp case attr ppmod p adv case ppmod p 
+adv case adv attr com com ppmod cc det attr attr conj acl adv attr ppmod case ppmod p dep root dep aux comp det obj case attr com ppmod p 
+det dep case attr ppmod case ppmod cc attr attr conj aux det attr ppmod case ppmod aux neg aux root p 
+dep modal root case ppmod p com prn p p appo p ppmod p prn p appo p appo p appo p appo p appo p p appo p appo p appo p ppmod p num p p attr appo p num appo p appo p appo p ppmod p num cc conj p p appo p adv p ppmod p num p p 
+dep aux adv dep root p cc adv p modal aux conj aux comp attr attr obj p 
+mark dep aux neg advcl case adv attr ppmod case ppmod p dep case ppmod aux aux root case ppmod mark dep p adv p dep modal adv comp obj case det ppmod case com ppmod adv comp obj aux ppmod case ppmod cc attr adv attr conj p 
+com dep case ppmod aux comp aux adv ppmod meta case poss attr ppmod adv dep aux comp case ppmod case ppmod p num prn p p cc attr dep case ppmod conj det obj case com com ppmod p dep p acl obj p aux aux root aux comp attr com com com obj p 
+dep aux root mark com com dep aux comp adv comp p conj cc conj obj p 
+adv advcl adv p dep modal root det obj case attr ppmod p 
+root cc conj com obj adv p 
+com com root p attr dep case ppmod modal acl case attr com ppmod case ppmod case ppmod p attr com com conj p cc attr attr attr conj case ppmod cc conj p 
+mark det attr dep aux neg aux advcl p dep aux root obj case attr cc conj com ppmod case ppmod acl case ppmod ppmod cc case conj cc conj p 
+dep case ppmod modal lv adv attr root case com ppmod p mark dep case attr com ppmod acl case ppmod p adv p attr ppmod p attr prn p modal comp attr obj case ppmod adv ppmod cc conj p 
+attr dep case ppmod cc attr attr conj root aux attr com ppmod cc com conj case det ppmod p 
+attr dep modal aux adv root case ppmod case ppmod cc conj poss attr obj acl case ppmod p 
+dep aux aux root adv case ppmod p conj p conj p conj p conj p cc conj p case attr ppmod p 
+attr dep case com ppmod aux aux root case det ppmod acl case ppmod p 
+attr attr com com dep aux root case ppmod acl attr attr obj p 
+mark advcl p dep case det ppmod modal aux root p 
+com root p det dep case attr p attr p ppmod case ppmod p case det ppmod case ppmod obj case det attr ppmod case ppmod p aux neg aux acl p 
+mark dep aux advcl adv ppmod case ppmod p dep modal neg aux root case ppmod mark dep aux aux comp p 
+det attr dep case ppmod case attr num ppmod root case det num com ppmod case ppmod adv dep num acl aux ppmod meta case ppmod comp num obj p prn num p appo p adv p 
+num root p num p appo p case ppmod p 
+dep root det attr obj acl det obj case ppmod ppmod cc case attr conj p 
+dep aux aux root adv attr dep aux aux comp case ppmod p 
+attr com dep p dep root p 
+attr dep case ppmod p adv p ppmod p prn p modal root det attr obj case ppmod case ppmod det obj case attr ppmod p 
+attr dep root com adv case det attr com ppmod case adv attr ppmod p 
+dep aux aux root adv adv p 
+adv p det attr dep case det ppmod aux neg adv root p 
+dep root attr attr obj case ppmod det attr dep case attr attr ppmod cc conj attr p p appo aux relcl p 
+adv p case attr ppmod case ppmod attr dep relcl dep p comp attr obj case attr ppmod cc conj com obj adv p modal root det obj case ppmod p 
+com com dep modal aux root case attr ppmod case ppmod dep relcl det attr attr obj case ppmod p 
+dep case ppmod case com com com ppmod modal root det obj case attr ppmod case det ppmod p 
+attr dep p adv p prn p modal root det attr obj adv comp case ppmod p 
+dep acl obj cc det attr conj modal p adv p aux adv root case ppmod case ppmod cc attr conj dep modal relcl obj p conj p cc attr conj p 
+dep aux aux root case det ppmod case ppmod p adv ppmod p conj p cc conj case attr attr ppmod p 
+dep aux aux root aux comp com com obj adv det dep comp obj p 
+com dep modal adv aux root case det ppmod p 
+root case attr ppmod p mark advcl obj p dep case det ppmod case attr attr ppmod aux det ppmod case ppmod modal acl adv dep aux attr ppmod p cc conj p conj p cc conj p 
+attr dep modal root dep aux det attr ppmod case ppmod acl aux comp attr obj p 
+mark attr dep cc com conj case ppmod aux neg aux advcl p case det advnp case det com com ppmod case com ppmod p dep root dep mark dep p conj p conj p cc com conj modal comp poss obj p prn com obj case ppmod p p 
+adv p root p appo p appo 
+com com dep p cc attr conj p prn p appo p appo p modal root com obj p prn com obj case ppmod p p 
+adv case adv attr com ppmod p dep case ppmod modal root aux det ppmod case com ppmod case ppmod dep relcl com com obj p 
+case aux det attr ppmod case ppmod case det ppmod p attr dep modal aux root case det attr ppmod case poss ppmod p 
+adv p dep modal aux root adv dep aux comp case ppmod dep relcl com com obj cc conj attr attr obj p adv det ppmod acl case attr ppmod p 
+attr dep case ppmod cc conj aux aux root case ppmod cc attr conj cc attr conj p 
+attr cc conj attr cc conj dep case attr adv attr cc conj ppmod p adv case ppmod p conj p conj p conj p conj p conj p cc conj p adv relcl p root attr obj p 
+dep case ppmod aux acl attr obj acl aux neg root aux comp adv attr attr obj case ppmod dep aux relcl case com com ppmod p 
+adv attr dep case attr com ppmod root mark dep aux neg adv comp det obj case ppmod acl case com com ppmod p adv ppmod p conj p conj p conj p conj p conj p cc conj p 
+adv p dep aux neg root aux comp obj case ppmod dep aux relcl case det attr ppmod case det adv attr ppmod p 
+dep aux adv neg root aux comp com com obj p 
+case attr ppmod p dep aux neg root obj p 
+dep aux adv neg root aux comp attr obj case attr ppmod case det adv attr ppmod p 
+case det attr com ppmod case ppmod p dep modal aux root case ppmod case ppmod case attr ppmod cc conj p 
+dep modal root det obj case ppmod cc attr conj p 
+case case poss ppmod case ppmod attr obj p det attr dep modal aux root adv dep aux comp case attr attr ppmod dep relcl det obj p 
+dep case attr ppmod aux com com ppmod root neg det obj case ppmod p conj p conj p cc conj p adv mark det dep case ppmod cc conj case det ppmod comp dep p 
+mark adv attr dep advcl mark dep cc conj modal aux adv comp case com ppmod p adv attr dep aux neg root attr obj case det ppmod cc dep conj aux adv det attr ppmod case attr com ppmod p 
+det dep case ppmod p prn p case attr ppmod aux neg aux root case ppmod p 
+dep dep aux relcl obj adv case attr ppmod p adv appo case com ppmod p modal aux root adv p 
+attr com dep aux aux root case ppmod acl obj adv case ppmod p 
+advcl com obj p adv prn cc conj p dep aux root attr obj case attr attr ppmod case ppmod case det ppmod case attr ppmod p adv prn cc conj p cc attr com com conj p comp case ppmod acl aux attr ppmod cc conj case det ppmod p 
+mark dep aux advcl det obj case attr ppmod case ppmod adv p attr com com dep modal neg aux root case ppmod p 
+dep case ppmod case det adv attr com com ppmod root obj p ppmod p prn p appo p appo p p conj cc conj p ppmod p prn p appo p appo p appo p cc conj p ppmod p num p num p num p p 
+adv attr com com dep modal aux root case ppmod p 
+adv attr dep root obj p conj p conj p com conj p conj p conj p conj p cc conj p 
+det dep root neg dep p cc det dep modal conj det dep case com ppmod case attr ppmod aux comp case attr ppmod case ppmod p 
+det attr dep acl attr com com obj aux root p 
+dep modal aux root adv dep p prn p aux comp adv case attr ppmod cc conj p 
+aux advcl com obj cc attr conj p conj p conj p conj p conj cc conj modal aux root case ppmod p 
+dep modal neg aux root mark dep modal comp det advnp p advnp p attr obj p 
+mark dep advcl det attr attr attr obj p appo p attr dep p adv p ppmod p prn p cc attr conj cc conj case attr attr com ppmod p adv case ppmod p conj p attr conj cc conj p modal aux root p 
+det attr dep case ppmod attr aux attr ppmod root obj cc det conj case attr com ppmod case ppmod p 
+det dep case attr ppmod p conj cc conj aux aux root p 
+dep root dep case com ppmod p ppmod p prn p appo p appo p appo p appo p p 
+com root case ppmod cc conj p 
+dep acl obj cc attr conj p adv com com ppmod p modal aux root adv ppmod cc case conj case ppmod p 
+det dep case ppmod aux root case ppmod p 
+adv p dep case det ppmod modal root dep case ppmod acl obj case num ppmod case p 
+attr dep modal root case ppmod case com ppmod p 
+dep root det obj case ppmod cc modal adv conj com obj p 
+attr dep root mark dep comp com obj cc modal conj case det ppmod case com ppmod case ppmod p 
+dep aux root case det com com ppmod p adv det attr cc conj appo p cc adv conj attr num obj p 
+adv case ppmod acl attr obj case ppmod case attr ppmod p det attr dep aux root case attr ppmod case det ppmod p appo p appo p appo p appo p appo p appo p cc poss attr conj p appo p p conj p conj p conj p conj p conj p conj p det attr conj p num p num p p conj p conj p conj p conj p conj p conj p conj p cc conj p 
+adv attr dep case ppmod case attr ppmod case det attr attr ppmod aux neg root p 
+adv p adv advcl case ppmod p dep case det ppmod case ppmod cc case attr conj modal neg root dep p 
+dep root adv det obj case adv attr ppmod p 
+dep aux root attr obj case attr ppmod cc com conj case ppmod acl obj p comp obj p cc conj adv p 
+dep case ppmod cc com conj modal root aux attr ppmod cc attr conj p 
+dep acl case ppmod cc conj adv modal aux root case ppmod case ppmod cc com conj p 
+case case attr cc adv conj ppmod case attr com ppmod p dep modal root case ppmod case ppmod adv attr dep relcl det attr obj case poss ppmod p prn p conj p com conj p cc com conj p p 
+com root dep aux acl obj case attr com com ppmod case ppmod p prn p case ppmod acl attr obj p adv ppmod p 
+det attr com dep modal aux root aux comp attr obj p 
+dep modal root det obj case ppmod p conj p cc conj p 
+dep modal adv root case ppmod p attr prn p p appo p attr prn p p appo p attr attr prn p p appo p attr com prn p p appo p attr attr prn case ppmod p p appo p attr attr prn case ppmod p p 
+dep modal root case attr ppmod p adv case ppmod p case ppmod case ppmod case det ppmod p adv comp det com obj case attr ppmod aux adv attr ppmod p 
+adv p adv attr dep case ppmod cc conj advcl dep p dep modal root dep aux comp com obj cc conj det obj case attr ppmod p 
+attr attr dep modal aux root case attr attr ppmod p 
+dep case ppmod root attr obj case ppmod case adv ppmod meta p 
+det attr dep case det ppmod aux neg root p 
+dep case attr attr cc conj com ppmod modal aux root adv com dep aux comp aux ppmod case attr attr cc conj ppmod p 
+attr dep root mark dep comp det attr obj case attr ppmod case ppmod cc conj aux comp com obj adv dep aux comp case det ppmod p 
+det attr dep root mark dep case ppmod cc conj comp case det attr ppmod case det attr ppmod p num meta case ppmod cc conj meta case ppmod p case ppmod p 
+dep case det attr ppmod case ppmod modal aux root adv comp case ppmod p 
+det dep case ppmod p conj cc conj case det ppmod case ppmod aux neg root p 
+dep p adv appo p modal root attr attr obj case com ppmod cc adv modal aux conj adv case attr ppmod cc neg case conj p 
+dep cc det attr conj case ppmod aux adv root case ppmod acl obj p prn p p 
+adv p adv advcl com obj case det ppmod p det attr dep modal root dep cc conj case attr ppmod p 
+det attr dep case ppmod modal adv aux root case ppmod p 
+det attr dep case ppmod root dep case ppmod case attr ppmod p adv ppmod p 
+mark advcl det obj case attr attr ppmod p dep modal root det obj case det adv attr ppmod p 
+modal obj comp p det attr com dep case det ppmod modal root case attr attr cc conj ppmod case det ppmod p 
+attr dep aux aux root adv dep aux comp aux ppmod case ppmod p conj p cc attr attr conj p 
+attr attr dep p adv ppmod p aux root case attr ppmod case ppmod p 
+attr dep case ppmod cc conj aux aux root adv det dep aux comp adv case ppmod p 
+adv attr dep case attr num ppmod cc attr conj case attr num ppmod aux advcl aux num attr com ppmod case det attr com ppmod p det attr dep case det ppmod aux neg root p 
+attr dep case attr num ppmod p attr num prn p cc attr conj case attr num ppmod p attr num prn p aux root adv cc case conj aux num attr com ppmod case num attr attr attr ppmod p 
+det attr com dep case det ppmod root det attr obj case attr attr ppmod p adv appo p adv comp aux det ppmod acl case det ppmod acl adv p 
+com com root p det dep case ppmod cc poss conj case com ppmod aux neg aux acl aux comp case attr com ppmod p 
+dep root obj p attr appo p 
+dep root case com ppmod case attr ppmod p 
+com dep attr num p root p 
+root p dep acl det attr obj case det ppmod case det ppmod p prn p appo meta p cc attr attr com conj p prn p appo meta p case ppmod case det ppmod case num com ppmod case num ppmod p 
+dep acl obj modal aux root adv p 
+det attr dep case ppmod cc conj aux root p 
+mark dep case ppmod advcl aux comp det obj case ppmod case ppmod meta p det dep root neg dep case case det attr ppmod case ppmod acl cc mark dep advcl attr obj case ppmod p 
+com dep case ppmod p prn p cc conj aux neg root p 
+dep modal root det attr obj case ppmod p 
+attr dep case ppmod adv ppmod p conj p cc conj p adv prn p modal root case attr ppmod p 
+root case ppmod p prn p p appo p attr appo p appo p appo 
+root mark dep p prn p p appo p acl det attr obj case ppmod 
+dep cc attr conj root attr obj case ppmod p 
+dep case ppmod modal aux root case ppmod acl obj p 
+dep modal root case ppmod p conj p conj p conj p cc conj p 
+root p dep case det attr ppmod case ppmod aux advcl adv comp aux num attr attr com ppmod adv acl obj cc conj acl obj p num prn p p det com dep cc attr p prn p conj case ppmod acl num meta cc conj meta dep p adv p case adv dep aux ppmod adv case attr ppmod p 
+dep aux root mark dep cc conj neg aux comp adv p 
+root p adv advcl case attr attr com ppmod p attr p attr p attr p dep aux acl case attr com ppmod case ppmod p 
+dep p appo p modal aux root case ppmod p 
+adv p case det ppmod case ppmod p dep modal root com com obj p 
+det root p attr cc conj dep aux advcl case det ppmod case attr ppmod p poss dep modal acl case attr ppmod cc attr conj case det ppmod case det ppmod p 
+root p appo p case mark dep cc conj ppmod com obj p dep aux acl mark dep neg aux comp adv case ppmod cc conj p 
+root cc conj dep relcl attr obj p det dep acl attr obj cc conj com obj adv comp case ppmod p 
+adv p aux neg root obj case ppmod cc attr conj dep modal relcl case attr ppmod cc conj dep modal relcl attr obj p case ppmod attr com attr cc attr conj p case case det ppmod aux acl det obj case ppmod p 
+attr root p case det attr ppmod case ppmod cc attr conj p det com dep case det num ppmod case ppmod aux acl p 
+adv p case det attr com ppmod p attr com dep aux root case ppmod meta adv comp case ppmod p 
+adv p dep aux root mark attr dep comp obj acl case ppmod case ppmod cc attr com com dep aux conj p 
+root p case ppmod case ppmod p det dep case ppmod modal aux acl cc dep modal aux conj mark dep modal comp adv dep p 
+com dep modal root case ppmod p 
+dep modal root aux attr ppmod case com ppmod p 
+dep dep relcl det attr obj modal root case ppmod case ppmod attr obj p 
+dep case com ppmod modal root aux attr ppmod attr case ppmod p 
+dep aux aux root adv case attr ppmod adv acl case ppmod case ppmod case attr com ppmod p 
+dep root obj p conj p cc attr cc conj conj p 
+adv p det com dep case ppmod case attr com com ppmod p ppmod p prn p aux neg aux root cc aux adv neg conj p 
+dep case attr attr p ppmod modal aux root case attr ppmod cc case attr conj case ppmod dep aux adv relcl attr obj p attr conj p conj p attr conj p conj p adv prn p p conj cc attr conj p adv prn p p 
+attr dep p conj p cc attr conj cc conj modal root p 
+attr root p det attr cc conj dep case attr ppmod cc attr conj aux neg aux acl p 
+adv p dep modal aux root cc com dep modal neg aux conj case ppmod case attr ppmod p 
+det attr dep case ppmod cc com conj aux root p 
+det dep root attr obj case attr ppmod p num meta prn p cc conj p num meta prn p p 
+adv p com dep modal aux root case ppmod case ppmod case ppmod p adv case ppmod attr case num ppmod p 
+dep case attr adv attr cc adv conj attr com ppmod case ppmod cc conj root dep p 
+adv p dep modal aux root case attr ppmod case attr cc conj ppmod p 
+attr dep p adv p prn p modal root det attr obj adv comp case ppmod p 
+dep acl case attr com ppmod cc det com conj modal adv aux adv root case ppmod case ppmod cc attr conj p dep modal relcl obj p conj p cc attr conj p 
+attr root attr p cc attr conj p 
+attr dep neg acl p cc appo cc conj p attr appo root case ppmod cc conj acl aux attr com ppmod case det ppmod p 
+dep modal root case attr com ppmod p adv com com appo p 
+mark det det dep aux neg aux advcl case ppmod p attr dep case ppmod case ppmod cc conj aux neg root p 
+cc root p appo p attr dep adv case ppmod cc conj p dep aux relcl case attr com ppmod aux aux acl case com com ppmod cc attr conj p adv com com prn p case det ppmod case ppmod case poss com ppmod attr aux ppmod case attr ppmod case det ppmod p adv det ppmod p 
+mark det det dep aux neg advcl case ppmod p dep case ppmod case attr ppmod aux neg root p 
+root p det dep case attr com ppmod case det ppmod case ppmod aux neg acl p 
+adv det attr num com dep case ppmod aux advcl num dat case det ppmod case ppmod p num attr num prn det appo p p det attr attr com dep case det attr ppmod case attr attr ppmod aux root case ppmod meta p adv aux det attr attr com prn case det attr ppmod case det ppmod case ppmod p p 
+dep p appo p num appo p aux root com adv case num ppmod aux num attr ppmod p 
+case ppmod num p dep p num prn num advnp adv p aux root cc conj case num ppmod p 
+det dep case ppmod aux root case ppmod num cc conj p 
+dep case ppmod root det com obj cc com conj case ppmod case adv ppmod meta p 
+attr p dep p num appo p aux root adv attr attr num obj aux num attr ppmod p 
+case ppmod num p dep p num prn p num advnp adv p aux root cc conj case num ppmod p 
+det dep case ppmod aux root case ppmod num cc conj p 
+com com dep cc conj case ppmod aux root adv obj meta case det ppmod case ppmod p 
+mark dep aux aux advcl aux comp com com obj p dep dep relcl case com ppmod modal root attr obj case poss com ppmod p 
+mark attr dep modal advcl case det attr ppmod case ppmod p dep root dep aux comp com obj case ppmod case ppmod p 
+dep case ppmod aux root case ppmod acl obj p conj cc conj p cc attr attr conj p 
+det attr dep case ppmod cc conj aux aux root aux comp case attr attr ppmod p 
+attr dep case ppmod case attr ppmod modal root attr obj adv attr p 
+dep aux root det attr com com obj acl case ppmod case ppmod p 
+dep case ppmod case ppmod case ppmod root case det attr ppmod case com ppmod case det attr attr ppmod cc case det attr conj case com com ppmod case attr ppmod p 
+det attr dep case ppmod case attr ppmod dep relcl attr obj p conj p cc attr attr attr conj modal root det obj cc conj case attr ppmod p 
+dep modal adv root det obj case det adv attr ppmod attr aux attr ppmod case attr ppmod p 
+dep advcl case attr attr ppmod p mark dep aux acl attr obj case ppmod aux neg aux advcl p dep root det obj case attr ppmod case attr ppmod dep aux relcl case attr attr ppmod p ppmod prn p conj p conj p conj p conj p conj cc conj p p 
+dep case ppmod case ppmod dep aux relcl case attr attr attr ppmod modal root det com obj case ppmod cc det attr conj case aux ppmod case det com ppmod p 
+attr com dep aux root case ppmod acl attr obj p 
+attr com dep case ppmod cc com conj aux neg aux root p 
+dep modal aux root case ppmod obj aux ppmod acl obj cc conj mark det attr dep case det ppmod modal aux acl aux aux comp case ppmod case com ppmod p 
+attr dep case ppmod case ppmod cc attr conj modal root poss attr obj p 
+dep modal root obj mark adv aux comp det obj p prn p adv case ppmod p prn p p conj p prn p p cc conj p prn p case det attr num ppmod p 
+dep case ppmod cc attr com com conj modal root dep case ppmod case ppmod p 
+dep modal root det obj case ppmod p prn p p 
+dep modal root aux det ppmod case com ppmod p 
+com com dep case ppmod aux root obj p 
+case lv det root p com com dep case ppmod aux acl det obj attr case ppmod p prn p p conj p prn p p conj p prn p p conj p prn p p conj p num p p conj p num p p conj p num p p cc conj p num p p 
+det dep modal root det obj case ppmod p 
+dep aux aux root aux comp det obj case ppmod case det ppmod case attr attr com ppmod p comp aux det ppmod case com ppmod case ppmod p 
+adv p dep modal adv root obj case det ppmod case com com ppmod adv comp obj aux ppmod case ppmod p 
+case ppmod p dep modal aux root case ppmod aux ppmod acl attr obj attr aux det ppmod case attr com ppmod p 
+attr attr dep aux aux root aux comp attr attr obj p 
+mark dep advcl det attr obj mark det dep modal acl dep p dep case adv attr cc ppmod p case prn cc conj p cc conj case num ppmod case det ppmod modal aux root p 
+dep root com obj p adv comp attr obj p 
+adv p det dep case com ppmod case ppmod acl obj aux advcl p dep p prn p p ppmod p prn p appo p appo p appo p aux aux root p adv p aux comp obj p conj p cc conj adv comp case ppmod p 
+mark attr dep case ppmod cc det conj aux adv advcl p attr dep case det ppmod aux root p 
+det dep case ppmod aux root obj meta case ppmod p adv dep cc conj aux relcl case det attr ppmod p cc conj meta case det ppmod p cc attr attr conj p adv comp num dat case ppmod p 
+dep modal root obj case ppmod case adv attr ppmod meta adv comp num dat case ppmod p 
+det dep case ppmod aux root num obj case ppmod cc aux neg adv conj case ppmod case ppmod p 
+det attr dep case ppmod aux neg adv root case com ppmod p 
+adv attr dep root mark dep aux neg comp obj case poss attr ppmod case ppmod p 
+dep root adv attr obj case ppmod p prn p cc com com conj p 
+mark dep advcl adv attr obj mark dep p adv p prn p conj p cc conj p acl det com obj p dep modal aux root case ppmod aux ppmod acl attr com obj p 
+attr com dep cc conj adv case ppmod p prn p cc conj p prn p appo p modal root det obj case ppmod attr p 
+dep p adv appo p modal root attr attr obj case com ppmod cc adv modal aux conj adv case attr ppmod cc neg case conj p 
+root p det attr dep case ppmod aux adv acl case ppmod acl obj p prn p p 
+adv p adv advcl com obj case det ppmod p det attr dep modal root dep cc conj case attr ppmod p 
+det attr dep case ppmod modal adv aux root case ppmod p 
+dep aux neg root aux comp det obj case ppmod acl case com com ppmod appo p conj p conj p conj p conj p conj p com conj cc conj cc conj det obj case ppmod acl case ppmod p conj cc conj p 
+det attr attr attr com dep root mark dep adv comp obj num p mark dep aux adv advcl case ppmod cc com dep aux conj aux comp det attr obj case com com com ppmod p dep modal aux acl case com ppmod case ppmod cc attr attr com com conj adv ppmod p appo p appo p num p conj p conj p conj p conj p conj cc conj p 
+com dep case com ppmod modal aux root p cc dep cc com com conj modal aux adv conj mark det dep comp cc conj obj case det attr com ppmod adv case ppmod p 
+dep dep relcl attr obj case ppmod p adv case ppmod p modal root case det ppmod case com ppmod p 
+dep adv root det attr obj case ppmod p 
+adv p dep case ppmod case ppmod case ppmod modal aux root p 
+attr attr dep root mark det dep case ppmod aux adv comp case attr ppmod case ppmod cc conj p 
+det attr dep case det adv attr ppmod root dep p 
+adv p attr dep case ppmod case ppmod case det ppmod modal aux root case ppmod p 
+det attr attr attr com com dep aux aux root p 
+det attr dep case num com ppmod cc attr conj aux aux root case ppmod acl det num obj p 
+dep case com com ppmod case adv ppmod meta aux aux root mark dep case num ppmod aux comp det num obj p 
+mark com com dep aux advcl adv case det ppmod p dep case det ppmod modal aux root case ppmod case adv attr ppmod p 
+case p dep aux neg aux adv root p 
+dep aux neg root aux comp case attr ppmod adv com ppmod p 
+dep aux neg aux adv root p 
+attr dep case ppmod case attr com ppmod p adv case ppmod aux neg root p 
+com com comp p dep modal root case ppmod cc attr com conj p 
+adv attr dep aux root obj aux comp adv attr obj case ppmod case ppmod acl com obj adv case ppmod cc adv attr conj case attr attr ppmod cc conj p 
+dep modal root det attr obj dep modal relcl case ppmod p 
+attr dep case attr cc conj ppmod modal aux root adv dep aux comp adv p 
+attr dep case ppmod case ppmod root case attr com ppmod case det ppmod p 
+det dep case num attr attr com ppmod aux root case attr ppmod aux comp det obj case ppmod case ppmod cc conj p conj p conj p conj p conj p conj p conj p conj p cc conj p 
+case det ppmod p det dep dep relcl det obj case ppmod aux root p 
+dep root det obj case det attr ppmod cc attr conj case ppmod case ppmod p conj p conj p conj p cc com conj p 
+com dep aux root case ppmod meta case det ppmod case ppmod case det ppmod case attr ppmod adv case ppmod adv p 
+com dep cc conj aux root case ppmod meta cc conj meta p conj p case det ppmod case attr ppmod adv case ppmod adv p 
+dep acl obj cc conj case ppmod case ppmod modal aux root case ppmod cc com conj cc conj cc com dep modal aux conj mark comp p 
+dep root neg det obj case ppmod cc p adv p modal neg aux conj aux comp attr com com obj p 
+dep modal root cc conj det obj case det ppmod aux det attr ppmod case ppmod p adv p attr com prn p p 
+dep modal root case attr ppmod case ppmod cc conj p 
+com dep case attr ppmod modal root dep p conj p cc conj p 
+dep modal root attr obj aux ppmod p 
+det dep root neg dep aux comp obj case det attr ppmod case attr ppmod p 
+dep modal root det obj case ppmod p 
+attr attr dep aux root case ppmod p comp det obj case com ppmod p 
+dep modal root ppmod cc conj det obj case attr ppmod p 
+dep root case ppmod cc conj p 
+dep p appo p appo p appo aux neg root det obj case ppmod case attr ppmod p prn num p p 
+num root p 
+dep p case attr ppmod p prn num p p dep aux neg root det obj case ppmod p 
+attr p attr attr dep root mark dep comp dep aux comp det attr obj case ppmod p prn num p p 
+dep p appo p det attr appo case attr attr ppmod case attr ppmod case det attr com ppmod p root det num meta obj case com ppmod cc det num meta conj case ppmod p prn num p p 
+dep p appo p det attr appo case attr attr ppmod case attr ppmod case det attr ppmod p aux neg adv root com obj p prn num p p 
+attr root acl case attr ppmod p attr attr dep acl mark dep case ppmod dep aux relcl case det attr com ppmod p adv p ppmod p conj p conj p conj p conj p conj p cc conj p comp det attr obj case ppmod case adv ppmod meta p mark det dep case det attr com ppmod p adv p ppmod p conj p conj p conj p cc conj p comp dep aux comp attr obj case det attr ppmod case ppmod p 
+attr root p dep case com com ppmod modal neg aux acl aux comp com obj mark dep aux neg adv comp case det ppmod adv adv cc adv conj p 
+dep aux neg root attr obj attr p conj p conj p conj p cc conj p 
+dep case ppmod aux root case det attr ppmod case num ppmod p comp mark dep modal neg comp attr obj case com ppmod acl adv det attr attr attr ppmod p num prn attr p p 
+root p mark dep advcl det obj p dep acl dep mark dep p adv case det ppmod p prn p appo p appo p cc conj p modal comp det obj case ppmod p 
+advcl com com obj dep root det attr obj case ppmod cc com conj p 
+aux neg root det num attr attr obj case ppmod adv comp case attr ppmod case ppmod cc attr attr attr conj p 
+dep case attr cc conj com ppmod case det ppmod case det ppmod case ppmod case det attr ppmod case num attr ppmod p det attr attr conj acl dep case attr num ppmod case case num ppmod p num prn det attr attr appo p p cc det conj case attr num ppmod aux neg root case ppmod case ppmod case det attr com ppmod case poss attr ppmod p 
+det dep modal aux root case attr ppmod aux comp obj case ppmod case det attr ppmod case com ppmod cc conj dep aux lv relcl acl aux comp det attr obj p 
+dep case det ppmod case num ppmod adv attr adv aux attr attr ppmod p aux neg root adv attr obj case det ppmod case det attr attr ppmod case ppmod p adv det com com com prn p p 
+cc aux neg root det attr obj case ppmod p det prn case com com ppmod cc conj p cc conj det obj case det attr attr attr ppmod case ppmod case com ppmod cc det conj p prn acl obj p p 
+cc aux neg root det attr obj cc attr conj case attr ppmod p 
+dep aux neg root det com com obj case ppmod p det prn case com com ppmod p cc conj p poss attr appo p cc aux neg conj det com obj adv ppmod case attr num ppmod com adv p 
+dep case ppmod case num ppmod adv root aux attr attr ppmod p cc aux neg adv conj det com obj case det ppmod case det attr ppmod acl attr num attr attr num obj p 
+cc aux neg root det adv attr obj case com ppmod case ppmod cc conj adv ppmod case cc attr ppmod cc attr conj p 
+dep p dep relcl attr obj p root det obj case ppmod adv dat meta adv det attr attr ppmod case ppmod p 
+det attr dep case ppmod aux root p 
+dep root dep aux comp attr attr obj adv attr com com com dep p adv case ppmod cc conj p aux comp case ppmod p 
+dep aux aux root case attr ppmod adv acl case det ppmod cc attr conj case ppmod case det attr ppmod case attr ppmod p 
+case com ppmod p det attr attr dep case ppmod aux neg root adv attr obj case det ppmod case det attr ppmod p appo p conj p conj p attr conj p attr num attr attr num prn p p conj p conj p cc conj p 
+mark attr attr com dep aux neg advcl p dep aux root adv case det attr ppmod case adv attr ppmod case attr ppmod case ppmod case attr attr ppmod p 
+det dep root obj p conj p conj p conj p cc conj p 
+dep p dep relcl attr obj p root det obj case ppmod adv dat meta adv det attr attr ppmod case ppmod p 
+det attr dep case ppmod aux root p 
+dep root dep aux comp attr attr obj adv attr com com com dep p adv case ppmod cc conj p aux comp case ppmod p 
+case det attr ppmod case num attr com com ppmod adv acl obj p dep case ppmod com adv case num ppmod aux root case det attr ppmod case ppmod meta case com ppmod p 
+case num case case num ppmod p com dep root p 
+det attr dep case det ppmod root dep p 
+adv p dep modal aux root case det ppmod cc conj case attr attr ppmod p 
+case case attr ppmod p det root case ppmod case det ppmod case ppmod p ppmod p adv p attr prn cc conj p conj p p 
+root det obj p 
+dep acl attr obj det attr cc attr case ppmod p prn p adv attr conj modal aux root case det ppmod cc conj case attr ppmod p 
+dep dep aux relcl case ppmod root com com obj attr dep aux acl case cc conj attr com com obj p adv p ppmod p appo p appo p appo p 
+adv attr dep aux root mark dep comp det obj case ppmod case det ppmod p adv ppmod p conj p cc conj p 
+mark adv attr dep aux advcl mark dep comp neg det attr obj case ppmod case det ppmod p det appo mark dep aux neg adv aux acl det adv attr attr obj case det ppmod case attr ppmod dep relcl obj case det com com ppmod p det attr dep case ppmod case attr attr ppmod acl case det ppmod aux neg aux adv root p 
+adv p dep root neg dep aux lv det attr comp case det ppmod case ppmod case ppmod case attr ppmod p 
+root p attr dep case ppmod p attr com num prn p acl det attr obj case com ppmod case ppmod p num prn p case num attr attr ppmod p 
+adv p det dep case attr cc com ppmod acl case ppmod aux root aux comp dep case ppmod acl case ppmod p 
+adv p dep modal aux advcl aux comp obj mark comp attr p obj p attr dep case ppmod p num prn p root det attr obj case com ppmod case ppmod p num prn p case num attr ppmod p 
+adv p det dep case com ppmod acl case ppmod aux aux root aux comp dep case ppmod acl case ppmod p 
+adv p dep modal aux root aux comp obj cc attr attr conj mark comp obj p 
+root p attr attr com dep case ppmod acl attr obj case attr ppmod case ppmod acl attr attr obj cc attr attr attr conj p ppmod 
+dep p attr conj p cc attr conj root obj adv attr p 
+attr dep root mark dep adv comp det obj case ppmod p comp case attr com com ppmod p 
+dep case attr ppmod aux root case adv attr ppmod case det ppmod cc com conj p 
+attr dep case ppmod cc conj aux root p 
+root p dep adv attr cc attr com com conj aux aux acl case attr ppmod case ppmod cc conj case attr ppmod case ppmod cc case attr attr conj p 
+num dep aux adv aux root case attr attr attr ppmod p 
+attr dep case ppmod cc conj aux root p 
+adv aux det attr ppmod case attr ppmod p adv prn p conj p cc conj p aux ppmod p cc conj p attr dep case det ppmod case ppmod aux neg root comp attr obj case attr ppmod p 
+root p attr com com dep acl mark dep cc conj modal comp det obj case com ppmod case det ppmod dep modal relcl dep aux ppmod case ppmod p cc aux det attr conj p 
+mark dep adv advcl det obj case det com com ppmod p poss dep case com com ppmod root adv case ppmod p 
+det attr attr dep case attr attr ppmod case attr ppmod adv ppmod adv attr p aux aux root case ppmod acl obj cc conj p 
+attr dep case ppmod case ppmod p conj p cc conj aux advcl p advcl attr obj case attr ppmod p attr dep case ppmod case attr ppmod p adv ppmod p aux neg root p 
+dep aux acl attr obj case ppmod case ppmod root case ppmod p 
+attr dep case com ppmod aux acl case ppmod cc attr attr conj modal root com obj case det attr ppmod case det ppmod case ppmod case ppmod p 
+case attr ppmod p dep case ppmod adv root attr com com obj aux comp attr com obj adv case ppmod neg acl obj p 
+det dep case det ppmod aux neg root p 
+dep modal aux root case ppmod case attr ppmod p mark det dep case ppmod cc conj modal comp attr obj p 
+dep cc conj modal root det obj case ppmod p 
+adv p adv advcl com obj case ppmod acl det obj p det attr dep modal root dep cc conj case ppmod p 
+dep p det attr appo p modal root det attr obj case ppmod cc attr dep case det ppmod modal aux conj p 
+attr dep case ppmod case ppmod modal root case det attr com ppmod p 
+dep aux aux root case det ppmod case ppmod cc conj p 
+det dep case ppmod p case ppmod case ppmod cc conj p aux aux root case det ppmod case ppmod acl aux ppmod cc conj adv p prn 
+com root p appo case com ppmod p dep aux acl adv dep aux comp adv case ppmod dep aux relcl aux comp det com com com com obj p ppmod p det prn case det com ppmod case ppmod p conj p conj p cc conj p p 
+dep adv case ppmod p conj p conj p conj p conj cc conj aux root aux adv comp det com obj cc conj case adv attr ppmod p 
+det com dep modal root case attr cc conj ppmod attr aux det ppmod case com ppmod case ppmod p 
+mark neg advcl p det attr com com com dep appo cc conj modal root attr cc conj obj cc attr conj adv aux det ppmod case com ppmod case ppmod p 
+dep aux root adv dep aux comp adv case det ppmod p 
+com dep modal aux root cc attr dep cc conj case ppmod modal aux conj p 
+root case com ppmod p com com dep p adv case ppmod p conj p cc conj p acl obj cc conj det adv attr com obj cc conj case attr ppmod case attr ppmod p 
+mark attr dep aux neg aux advcl p dep aux root aux comp det attr obj p 
+dep aux root adv advcl obj aux ppmod acl det obj cc mark attr com dep modal aux conj p 
+det dep case ppmod attr obj modal aux root det obj case attr ppmod case det ppmod attr aux cc det attr ppmod cc attr conj case ppmod p 
+det attr dep case ppmod aux root case det adv attr ppmod dep relcl det attr attr obj p adv appo p prn p conj p conj cc conj p p conj p conj p conj p conj cc conj p 
+adv p det dep case ppmod modal aux root adv aux det ppmod cc conj case attr ppmod acl cc det attr attr conj p 
+det attr attr dep case attr ppmod p prn case ppmod p conj p conj p conj p conj p cc attr conj p cc attr conj aux aux root p 
+det attr dep case attr ppmod adv ppmod p conj p conj p attr conj p conj p attr conj p conj p conj p cc conj modal root attr com com obj p 
+adv attr attr dep aux advcl p det dep case ppmod cc attr conj modal aux root p 
+dep cc attr conj case attr root adv comp adv mark dep modal comp case attr ppmod case attr ppmod cc attr conj p dep modal relcl aux attr ppmod p 
+dep aux aux root mark det dep case ppmod aux comp adv dep aux comp case ppmod case ppmod case ppmod p 
+case ppmod p com dep aux aux root p prn p appo p attr appo p appo p appo p adv ppmod case ppmod case ppmod p 
+det attr attr cc conj dep aux root p 
+dep case adv attr ppmod modal aux root case adv ppmod p mark dep comp det attr obj cc conj case ppmod p 
+dep case ppmod p prn p aux root case attr ppmod case ppmod p 
+attr attr dep cc attr conj modal root mark dep aux comp case ppmod cc conj p 
+dep modal aux root case ppmod det attr obj attr case det ppmod case ppmod p 
+advcl attr obj case ppmod obj case attr ppmod p prn cc conj p p adv det dep modal root obj p attr conj p attr conj p attr conj cc conj p 
+root cc det obj case ppmod cc det conj case det attr ppmod p 
+mark advcl p root attr obj p 
+dep cc conj case det attr p com ppmod modal root det attr obj case ppmod p 
+attr dep case det ppmod modal aux root p 
+dep cc attr conj modal aux root mark dep comp det obj case ppmod adv p 
+det dep root dep case ppmod p 
+dep modal aux root num cc conj obj ppmod cc case attr conj case ppmod p 
+root case ppmod p adv aux det ppmod case attr com com ppmod p dep modal aux acl case ppmod case ppmod dep aux adv relcl obj p 
+det com com dep case ppmod modal root dep case ppmod case attr ppmod p p 
+attr dep root mark dep modal comp det obj cc conj case ppmod case ppmod p 
+root p case det attr ppmod case num attr com ppmod p dep case ppmod cc num conj case ppmod p ppmod p adv num prn case ppmod p aux neg acl case ppmod case com ppmod p com conj p attr attr prn p p cc attr conj aux ppmod p 
+root p attr dep case det ppmod cc com com com conj acl det obj case com com ppmod adv dep aux relcl case ppmod p 
+root p case num attr ppmod acl attr num attr num obj det appo case num ppmod p dep aux neg acl det obj case det attr ppmod case ppmod p 
+root cc conj p det attr com dep acl det num meta obj case attr com ppmod adv adv comp case ppmod p 
+dep root obj case det com ppmod case adv ppmod meta p 
+det dep case ppmod case det ppmod case attr ppmod p conj p cc attr conj aux neg root case det ppmod p 
+dep p case num attr ppmod acl attr num obj num appo det appo case num ppmod p appo aux neg root det obj cc conj p advnp prn p case ppmod p 
+root p com prn p p case num attr ppmod acl attr num attr num obj det appo case num ppmod p dep aux neg acl det obj case ppmod p com prn p p 
+attr root p case num attr attr ppmod p det dep case attr num attr num ppmod det appo case num ppmod acl case det ppmod case det attr ppmod case attr ppmod p 
+root p case num attr ppmod acl attr num attr num obj det appo case num ppmod p dep aux neg acl det obj case det attr com ppmod case ppmod p 
+root p case det attr com ppmod case num adv p adv attr ppmod acl attr num attr num obj det appo case num ppmod p dep aux neg acl det obj case ppmod p 
+root p case num attr ppmod p dep case attr num attr num ppmod det appo case num ppmod aux neg acl case det ppmod case cc com ppmod p cc prn cc conj p cc conj p com prn cc com com conj p p 
+mark attr dep p det appo case attr attr attr ppmod p advcl dep case com ppmod p com com dep root aux ppmod case ppmod acl obj p 
+adv p mark com dep modal aux advcl case ppmod p dep case attr attr ppmod case ppmod dep aux relcl obj modal aux root adv case ppmod case com ppmod p 
+dep root case ppmod case attr attr ppmod cc adv conj det attr obj case ppmod p 
+dep root aux adv attr ppmod case det com ppmod p num meta p cc case det conj case attr ppmod p num meta p p 
+adv p det dep case ppmod case ppmod aux neg root p 
+dep root obj mark dep modal acl com obj case ppmod aux attr ppmod p attr prn acl aux comp num cc conj attr attr obj p p 
+dep root neg obj acl aux comp cc conj det com com com com obj case det ppmod p 
+mark dep aux advcl case attr attr attr attr ppmod p prn p appo p appo p p dep cc conj case det ppmod modal root det obj cc p adv p det conj case ppmod p 
+case det advnp case attr attr ppmod p det attr dep aux root case ppmod case det ppmod p 
+root p conj p cc conj p case ppmod acl case attr ppmod case ppmod p adv p prn p conj p cc conj p p det dep case ppmod aux adv acl cc com com dep aux conj p 
+adv p case det advnp case attr ppmod p det attr dep case ppmod aux advcl case ppmod case det attr ppmod p mark det attr com dep case ppmod cc conj aux aux advcl p dep case num attr ppmod advcl mark dep modal aux comp case det ppmod case advnp attr ppmod case attr num p num ppmod p com dep aux ppmod case det attr num com com ppmod aux neg root case ppmod p 
+case ppmod p dep p conj p cc conj aux neg root det obj case ppmod p 
+case det attr ppmod case num attr ppmod p root 
+dep aux neg root com obj case attr ppmod p 
+attr root p dep p det appo case det com com com ppmod p adv acl com obj case ppmod adv comp aux ppmod dep relcl attr obj p prn attr obj p conj case ppmod cc attr conj p p 
+case ppmod acl obj cc attr attr attr conj adv case attr ppmod p prn p appo p appo p cc conj p prn p appo p appo p cc conj cc conj p det attr dep case ppmod root num obj adv p 
+attr com dep case ppmod cc com conj aux neg aux root p 
+mark dep aux advcl case det com com ppmod p dep dep relcl cc conj det com com com obj modal root attr attr obj dep modal relcl com com obj p 
+dep dep modal aux relcl case ppmod case com ppmod case attr ppmod dep modal relcl det obj root obj p conj p conj p conj p cc conj p 
+adv attr dep case attr com ppmod aux root mark dep advcl det attr obj case com ppmod cc mark dep conj det attr obj case com ppmod adv case ppmod case com ppmod p 
+adv case det adv attr com com ppmod p attr attr dep p prn p appo p appo p root adv p attr obj case com ppmod p 
+dep acl case det ppmod cc conj modal aux adv root p 
+root p dep case com ppmod p prn p cc attr attr conj p prn p aux acl case ppmod acl obj adv case ppmod p 
+dep modal adv root obj cc conj case ppmod adv acl comp cc conj p 
+attr attr attr dep cc attr conj aux aux root case attr ppmod case ppmod cc attr conj p ppmod p prn p p 
+com com dep det num root case det attr num ppmod p 
+attr attr p attr dep acl aux comp com obj case ppmod aux neg aux root p 
+det com com dep aux aux root case attr attr com ppmod p 
+adv p det com dep case ppmod aux aux root p 
+det dep case attr ppmod case ppmod case attr com ppmod aux neg aux root p 
+adv p case ppmod case attr case ppmod attr com dep root aux comp det attr obj aux attr attr ppmod p 
+det dep case attr ppmod modal aux root case det attr ppmod case ppmod case case attr attr ppmod cc attr attr conj p 
+dep modal aux root case ppmod case ppmod acl attr obj dep relcl dep case ppmod com obj adv case ppmod p conj p cc conj p 
+attr dep modal root dep aux attr ppmod case ppmod acl attr obj p 
+adv p attr root p conj p adv prn p p conj p cc conj p 
+com com dep attr modal root case det attr com ppmod p 
+attr com dep case ppmod case attr ppmod aux neg aux root p 
+dep acl case attr ppmod case ppmod aux adv root case ppmod cc conj p 
+dep p prn case ppmod cc conj p cc conj dep relcl com obj p prn case ppmod p conj p cc com com conj p modal root det obj case ppmod mark acl adv ppmod p ppmod p cc case com conj p 
+attr com dep case com ppmod p conj case com ppmod cc conj case attr ppmod modal root dep mark attr dep aux comp aux comp adv attr obj p 
+dep root det obj dep p adv advcl case ppmod case attr ppmod p relcl dep case adv attr ppmod p 
+dep modal root aux ppmod case ppmod case com ppmod acl case ppmod p 
+dep modal root case ppmod cc conj p acl adv attr det obj case attr ppmod p p 
+mark dep p det prn case num ppmod p aux aux advcl adv comp attr com obj p det dep case ppmod cc conj aux neg aux adv root p 
+attr dep case ppmod modal root det attr com obj case ppmod p 
+dep case attr ppmod case ppmod modal aux root case det ppmod case ppmod p 
+det dep case ppmod case ppmod aux acl obj case det attr ppmod case ppmod aux neg aux root p 
+dep root det attr obj case det ppmod case ppmod case attr ppmod p 
+root cc conj p acl case ppmod p appo aux acl num obj 
+root det obj case ppmod case adv attr case ppmod meta p prn attr obj p appo cc conj case ppmod p p 
+det dep modal adv root det adv attr obj case ppmod cc conj det attr com obj case ppmod case adv attr case ppmod meta aux ppmod meta p 
+det attr dep case det attr com ppmod case ppmod modal aux root case attr ppmod case ppmod cc conj p 
+dep root obj cc attr conj case det ppmod p cc modal conj det obj case ppmod cc conj det attr com obj case adv attr case ppmod meta p 
+attr dep dep modal relcl det attr attr obj case ppmod adv case ppmod root attr obj p adv p prn p conj p conj p conj p conj p conj p conj p cc conj p p com conj p conj p attr conj p conj p cc conj p 
+det attr com dep case ppmod modal aux advcl case ppmod dep relcl com com obj p adv p adv attr attr prn p conj p cc attr conj p cc case conj dep adv relcl com obj p dep aux det attr attr ppmod case attr ppmod aux aux root case ppmod adv acl obj cc conj p 
+mark det dep case attr ppmod cc attr conj case det ppmod case ppmod advcl dep p adv attr dep case attr ppmod modal aux root cc com com dep modal conj dep p 
+det com dep root p cc com com obj cc conj p dep case ppmod cc attr com conj cc conj case ppmod cc conj aux com ppmod adv case ppmod cc conj cc attr conj acl case ppmod cc conj cc conj cc conj cc conj cc conj cc attr conj attr case ppmod cc attr conj p dep cc attr conj 
+adv cc adv attr com dep case ppmod cc det attr conj aux aux root p 
+dep aux root case attr ppmod case p ppmod cc det attr dep aux aux conj p 
+dep aux advcl case attr ppmod case p attr ppmod p appo p appo p appo p appo p appo p appo p appo p appo p appo p appo p appo p attr appo p adv attr dep modal root dep case det ppmod case ppmod case attr ppmod p 
+dep num aux aux root case ppmod case ppmod case attr ppmod cc com conj p 
+dep root det obj case ppmod p conj p cc conj cc conj det com obj case det ppmod p 
+adv dep aux advcl adv case ppmod cc attr conj p com com dep modal aux adv root cc det dep case det ppmod modal aux conj case ppmod p 
+dep p com appo modal aux root case ppmod acl attr obj cc conj p 
+case attr ppmod p case case attr ppmod p attr dep p prn p conj p attr conj p conj p cc conj p aux aux root case ppmod case ppmod case com ppmod case ppmod acl obj adv case ppmod p 
+attr dep case com ppmod case ppmod acl obj cc conj aux root p 
+p root obj p det attr appo p com com appo p com appo p com com appo p p 
+dep p appo root det com obj case ppmod p 
+attr dep case com ppmod case ppmod acl obj cc conj aux root p 
+p root obj p det attr appo p com com appo p com appo p com com appo p p 
+root p dep modal adv acl com obj case attr com ppmod ppmod cc case attr conj p 
+attr dep case com ppmod cc com conj aux root case ppmod acl obj cc conj p 
+p root attr obj p com com dep p p 
+dep p appo root det obj case adv attr ppmod p 
+adv case attr ppmod p dep modal aux root aux ppmod det obj case ppmod adv dep aux relcl case ppmod p 
+dep p appo root det com obj case ppmod p 
+attr dep case com com ppmod case ppmod acl obj cc conj aux root p 
+root p case case det ppmod case attr attr ppmod attr aux ppmod case det com ppmod case ppmod acl obj case ppmod case ppmod p com dep aux aux acl p 
+num dep case det attr attr ppmod case ppmod root aux comp det obj case com ppmod p 
+det dep case det attr cc conj attr ppmod case ppmod root mark dep acl case ppmod case num ppmod case ppmod cc conj adv comp com obj case ppmod adv comp adv p 
+det attr dep case ppmod case ppmod case num ppmod cc num case ppmod aux root p 
+det dep case ppmod case ppmod attr case num ppmod case ppmod modal aux adv root p 
+root p dep aux acl obj case attr ppmod p adv com com ppmod case ppmod aux ppmod dep cc conj aux relcl p 
+det attr dep root mark attr attr num dep com adv cc attr num conj num appo det attr comp det attr obj case com com ppmod cc conj case com ppmod p 
+det attr dep case ppmod case ppmod aux root p 
+root p det dep case ppmod case ppmod adv acl obj cc attr conj acl case det com com ppmod modal aux acl case ppmod case com ppmod case det ppmod p 
+case det ppmod case attr ppmod p dep modal aux root adv comp obj p 
+dep modal aux adv root p 
+root p dep aux acl obj case ppmod case ppmod aux ppmod dep cc conj aux relcl p 
+dep acl obj cc conj adv modal aux adv root p 
+root p dep aux acl obj case ppmod case ppmod aux ppmod dep cc conj aux relcl p 
+dep acl obj cc conj adv modal aux adv root p 
+root p attr attr dep case ppmod p appo acl case attr ppmod case com ppmod cc com conj p 
+det dep case ppmod root aux comp adv dep adv attr ppmod case ppmod case case ppmod acl adv p 
+mark dep p dep aux relcl case det com com ppmod p aux adv advcl case ppmod p dep modal aux root aux ppmod det com obj p cc det dep modal aux adv conj p 
+com dep acl case ppmod p cc attr attr attr conj root det attr com obj case ppmod cc com conj p 
+adv p case det ppmod dep root obj prt aux ppmod meta cc conj meta case ppmod cc com conj p 
+det dep adv attr root mark det dep case det attr ppmod cc com com conj case com ppmod comp adv det obj case attr ppmod p 
+mark dep advcl obj mark dep modal acl det obj case ppmod cc conj p dep root det obj mark dep acl det attr obj case ppmod cc com conj p 
+det attr dep case det ppmod root adv dep p 
+dep modal root obj mark com dep case ppmod attr case ppmod acl case det ppmod p det com appo p com com appo p appo p attr com appo aux neg aux comp p cc attr dep modal conj p 
+det dep case ppmod p appo p case attr ppmod aux neg aux adv root p 
+dep case ppmod cc conj p appo p appo p adv cc case conj case ppmod cc conj p modal root attr obj p 
+adv p attr dep root dep p 
+case det ppmod case attr ppmod p dep p adv neg adv advcl p modal aux root case ppmod p prn case p p 
+root cc conj case ppmod case attr ppmod p case det ppmod case attr attr ppmod p det dep case ppmod aux aux acl aux comp det obj case ppmod cc conj p 
+det dep case ppmod aux ppmod root det attr obj case det ppmod case attr ppmod p num meta cc conj meta p p cc aux neg conj aux comp det obj case attr ppmod p prn 
+adv dep aux advcl case attr ppmod p dep case attr ppmod modal root p 
+dep modal aux root adv aux comp attr obj cc attr conj case com ppmod p 
+dep modal root attr obj case ppmod adv case ppmod p 
+mark dep aux advcl case ppmod p dep adv modal aux root case ppmod p 
+det attr dep root dep case ppmod case ppmod p 
+adv dep cc conj aux advcl adv det dep modal aux adv root case ppmod case com ppmod p 
+root det obj case com ppmod p 
+attr dep root det obj case det ppmod case ppmod adv dep aux comp case ppmod cc conj p 
+dep modal adv root com com obj case ppmod acl case ppmod p 
+dep case ppmod case ppmod cc conj aux neg root p 
+root p acl obj p 
+attr com dep adv modal root case ppmod case p attr attr ppmod case det com ppmod p com conj case det com com ppmod p cc conj case attr ppmod p 
+dep case attr ppmod case com ppmod aux neg aux root p 
+mark dep advcl obj case com ppmod case det attr com ppmod case ppmod p adv attr dep case attr ppmod modal aux root p 
+dep modal root case det ppmod case ppmod p 
+dep root dep aux comp det obj case det ppmod case det attr ppmod aux acl aux ppmod p 
+dep aux neg root case ppmod case ppmod p prn p p det appo case ppmod p case det ppmod dep relcl obj aux ppmod p 
+dep aux neg root case det ppmod case ppmod case ppmod p 
+adv p adv dep aux advcl aux ppmod case ppmod p dep modal root case case ppmod case ppmod cc poss conj p 
+root p attr dep case ppmod cc conj modal acl case attr attr ppmod mark dep comp det obj case ppmod p 
+attr attr dep case ppmod cc conj modal root case ppmod case ppmod case ppmod case attr ppmod attr aux ppmod case det ppmod case ppmod case attr ppmod p 
+attr com dep case ppmod modal aux root p 
+adv dep modal lv com root p 
+attr root p attr dep case ppmod cc conj modal acl case attr com ppmod p 
+dep p appo modal root det com obj case ppmod p comp case det attr ppmod case ppmod p cc det conj case attr ppmod p 
+root p com cc prn p p attr dep case ppmod cc conj modal acl case ppmod cc conj case det attr ppmod p 
+root p attr dep case ppmod cc conj modal acl case det ppmod case det attr ppmod case det ppmod p 
+root p attr dep case ppmod cc conj modal acl det com obj case ppmod p 
+root p dep case ppmod p cc com conj acl adv p modal adv acl det attr obj case com ppmod case ppmod case num com ppmod p 
+det dep case attr ppmod modal aux root case cc ppmod det obj cc conj det com obj attr aux ppmod case ppmod case ppmod p 
+mark com dep aux advcl p attr attr dep modal aux root case det attr ppmod case com ppmod p case case attr num ppmod cc case com ppmod aux conj case det ppmod p 
+det dep cc conj case ppmod attr cc conj aux neg root case attr ppmod p 
+det dep case ppmod aux root case ppmod p adv p cc dep aux conj case det ppmod case com com ppmod p 
+com dep cc attr p com conj modal root com obj case case poss ppmod aux acl com obj p 
+dep case ppmod p prn p conj p conj cc conj p p com conj cc attr conj attr case ppmod com obj p prn p conj p conj cc conj p modal root det obj case ppmod p 
+adv p mark attr dep case attr ppmod aux advcl p dep modal aux root case ppmod cc det poss case com dep modal aux conj adv p 
+root p attr com dep cc conj case com ppmod aux aux acl case ppmod acl attr obj cc com com conj p 
+det dep modal aux root case ppmod cc attr dep case com com ppmod aux conj p 
+dep case det ppmod modal adv root det obj case com ppmod p 
+root p det attr attr dep aux acl det obj case com com ppmod adv relcl case com ppmod p cc det dep case ppmod case det com ppmod case attr p ppmod aux neg aux conj p 
+attr p com dep aux root det obj case ppmod case ppmod cc conj p 
+adv p dep aux neg aux root case attr ppmod p 
+dep case det ppmod modal root case ppmod p 
+com root p attr dep case com ppmod case ppmod acl neg adv attr det obj cc conj case com ppmod attr aux det attr ppmod p 
+adv p det dep case ppmod case ppmod aux det attr ppmod p appo p aux root adv obj meta p acl case det ppmod case det com com com ppmod case adv ppmod meta p adv adv dep p 
+case attr ppmod p dep aux adv root case det attr ppmod p 
+dep modal advcl case det ppmod case det attr ppmod p p com appo p modal acl attr obj p com com appo p modal acl det attr attr obj p com appo p modal acl com obj p attr appo p modal acl attr obj p appo p modal acl attr obj p appo p modal conj det obj case det com ppmod p modal conj det attr obj case det ppmod p cc conj attr case obj aux det ppmod p dep p modal acl obj case ppmod cc conj p appo p modal root attr case obj aux det ppmod 
+dep root obj case det attr case ppmod aux acl det attr obj p appo p conj p conj p conj p cc conj p 
+adv det dep case det ppmod modal advcl obj attr dep modal aux root p 
+det com dep modal aux root p 
+det attr dep case ppmod case attr ppmod cc case attr conj dep relcl attr obj p conj p conj p prn p p cc attr attr conj modal root det obj cc conj case attr ppmod p 
+dep modal adv root det obj case det adv attr ppmod attr aux attr ppmod case attr ppmod p 
+dep modal root case ppmod case ppmod case det attr attr ppmod p 
+attr com com dep root adv num advnp dep adv dep aux comp case ppmod p det attr com appo p 
+attr dep case det com com com com ppmod p adv case ppmod p adv p prn cc conj p cc conj p adv p prn cc conj p p modal root attr attr attr obj p ppmod p prn cc conj p p 
+det attr dep case attr attr ppmod aux neg root p 
+dep modal aux root adv attr dep comp obj p 
+attr dep case ppmod p num prn case ppmod acl obj p conj p cc conj p aux neg adv root det obj case ppmod cc conj p 
+root case ppmod cc conj p p 
+det com dep case ppmod cc conj aux root det obj case attr ppmod case attr ppmod p 
+attr dep acl det obj case ppmod case com ppmod cc case attr conj case num attr ppmod aux aux root case ppmod p 
+attr dep case ppmod cc conj aux root aux comp det obj p prn p aux attr case attr ppmod case ppmod meta cc aux adv conj com obj p case det ppmod case ppmod case ppmod case ppmod p det com attr p prn p appo p 
+dep root det adv attr obj case attr case ppmod cc case com conj case attr ppmod p 
+det dep case det attr ppmod adv relcl adv case ppmod aux neg adv aux root case adv attr ppmod p 
+attr com root mark det dep case ppmod cc det com conj appo cc conj modal aux comp p 
+aux ppmod p dep root det attr obj case det attr ppmod case ppmod case det ppmod cc conj p 
+root case ppmod cc conj p adv adv cc adv conj p case attr com com ppmod p 
+dep root obj case ppmod case det attr com ppmod p prn p cc det conj p appo p case det attr com com com ppmod p 
+det dep case ppmod cc conj p adv cc case conj p aux root case com ppmod p prn p p attr com conj p attr com conj p prn p p cc com com conj p com prn p p 
+attr cc conj dep aux root case ppmod p 
+com dep adv adv root dep case det num ppmod p 
+dep root det obj case com ppmod cc case det conj case com com ppmod p 
+dep root det num meta obj case attr ppmod cc conj case ppmod cc com conj p 
+dep case det num ppmod case ppmod root det obj case det ppmod case det ppmod case det ppmod p cc det dep conj neg dep case ppmod attr com com obj adv adv p 
+dep cc conj root attr obj adv adv cc com adv adv case attr com com ppmod p 
+dep case attr attr ppmod ppmod root attr obj cc conj case attr ppmod case ppmod case ppmod p 
+attr dep p prn p cc attr conj p prn p root dep case det com ppmod p 
+det dep case det ppmod root aux comp det obj case attr ppmod case ppmod p prn p case det attr attr ppmod case ppmod aux ppmod cc com conj p 
+case ppmod num p attr dep case ppmod case det ppmod case num ppmod case ppmod case num ppmod case det attr ppmod case ppmod adv acl case ppmod aux root p 
+dep root mark dep adv comp det com obj case ppmod case det ppmod case ppmod p 
+case ppmod num p det attr dep case ppmod aux root aux ppmod acl case ppmod p cc det attr com com dep aux com ppmod aux adv conj p 
+advcl det obj case ppmod p mark det attr dep aux advcl case det ppmod p dep modal root det attr attr obj aux acl obj case ppmod p 
+attr root case ppmod cc conj case det attr ppmod case ppmod aux attr ppmod p 
+det dep cc attr conj modal root aux advnp p advnp p attr ppmod aux attr ppmod case com attr p prn p ppmod p 
+adv p det dep case attr ppmod case ppmod p com cc com det conj case det attr ppmod case attr ppmod p case attr ppmod p modal root aux comp dep aux comp case com ppmod p 
+case det attr ppmod dep root det obj case attr attr ppmod case attr attr ppmod case attr com ppmod p case ppmod obj case com ppmod p conj case attr ppmod case com ppmod cc conj p det conj case ppmod p prn p p cc det conj case com ppmod p 
+cc det root case attr attr ppmod p adv ppmod p cc attr attr conj p 
+det attr dep advcl num attr obj p p meta p dep aux adv root p case det attr ppmod p mark det attr dep case adv attr attr ppmod aux ppmod comp case attr com ppmod cc conj case ppmod p comp case com ppmod p 
+p meta p dep root det attr attr obj case attr attr ppmod p dep aux relcl case ppmod p 
+adv p det dep root aux comp poss obj case attr ppmod cc modal conj adv dep adv comp case ppmod case ppmod case attr ppmod p mark dep aux comp prt det attr obj case attr cc conj com ppmod p 
+attr com attr num dep root attr cc conj obj case ppmod case attr attr ppmod p 
+dep case det attr attr ppmod cc case attr conj case det com ppmod root attr attr obj case poss case ppmod p 
+dep root det attr obj aux acl obj case attr attr det ppmod case ppmod case poss case ppmod p 
+case det attr ppmod p dep root mark det adv attr attr com attr num dep p appo p comp attr cc conj attr obj case ppmod acl obj case attr ppmod case attr ppmod case ppmod p 
+attr com com dep p num com com prn p p case ppmod case attr ppmod case ppmod cc conj p aux root case det ppmod case attr com ppmod case ppmod case det num attr ppmod p prn p conj cc com conj p p 
+case num ppmod case com ppmod p det attr attr dep advcl attr obj p case dep case det attr p attr attr ppmod aux adv root p 
+det attr dep root dep case adv attr com com com com ppmod acl obj p cc case attr attr conj case attr attr ppmod p com cc com attr com conj case com ppmod cc com com conj p dep relcl adv adv dep case attr p attr attr ppmod case case num attr ppmod p 
+det com dep adv root det attr obj case det advnp attr ppmod case com ppmod case det com attr cc attr conj cc com conj com ppmod p 
+case attr attr ppmod p adv num meta dep case advnp attr com ppmod aux root case com com com com ppmod p mark det dep case attr ppmod comp attr com obj meta case com ppmod case attr p attr attr ppmod p 
+poss dep root mark attr dep case det attr com attr num ppmod p appo p adv comp com obj case attr cc conj com ppmod case attr ppmod p 
+dep root mark det dep case attr attr attr num ppmod modal comp det attr obj aux acl obj case attr ppmod case poss case ppmod p 
+adv attr dep case ppmod root case ppmod case attr ppmod case ppmod attr adv adv p 
+det dep root aux comp det adv attr obj case ppmod acl case ppmod case ppmod case ppmod attr attr attr p prn p p 
+det dep case num attr ppmod case ppmod acl case num attr ppmod aux root case det ppmod p 
+det attr dep case ppmod case det attr com ppmod p prn p aux root aux comp mark com dep comp adv case det ppmod p 
+det com dep case ppmod cc conj aux root adv aux det adv attr ppmod p 
+det dep advcl det attr obj p num dep p num meta p aux attr obj p prn num p cc num conj p num meta p root attr obj p prn p appo p appo p appo p appo p p 
+det attr dep p prn num p aux root p 
+det dep case ppmod cc conj modal root dep case ppmod p 
+attr dep aux root aux comp det adv attr obj case det com ppmod case det attr ppmod case attr ppmod case com ppmod p 
+dep root advnp attr attr attr obj case ppmod case com com com ppmod p 
+mark dep aux adv advcl mark dep acl case ppmod comp det attr com obj adv case ppmod adv case ppmod case attr attr attr attr com ppmod p det dep aux root aux comp det attr obj acl aux det ppmod case det num ppmod p 
+dep root adv dep comp case ppmod case attr com ppmod p case det attr ppmod case attr attr attr attr ppmod p prn p p 
+case det adv attr ppmod p dep root com obj case det com ppmod case attr com com com ppmod p comp aux det ppmod case attr attr ppmod p 
+adv p dep root det com obj case ppmod det attr com dep adv ppmod relcl case det attr ppmod case attr attr ppmod case attr com ppmod p 
+dep modal root det obj aux acl com obj aux attr attr ppmod case attr com ppmod case ppmod case det com com ppmod case ppmod p 
+attr attr com dep case ppmod aux root case ppmod case com ppmod case ppmod case attr attr ppmod p 
+attr dep root com com obj p comp aux attr p attr p ppmod p 
+attr dep case ppmod root dep case ppmod attr attr attr p prn p obj p cc poss dep case com ppmod conj dep p 
+root cc conj p dep acl det attr com obj case num attr attr attr p prn p ppmod p prn p num num p com appo p appo p appo p dep relcl case attr num obj case com ppmod p 
+det dep case attr com ppmod root p num attr obj p num attr appo cc num attr conj p 
+attr attr attr attr dep cc conj acl aux root p 
+det attr dep case det ppmod root aux comp det obj case com ppmod ppmod cc case num conj case com ppmod p 
+poss attr dep root aux comp mark dep comp det obj case det ppmod case ppmod cc com conj p 
+adv p com dep root case num p num p num p attr appo p num p num p p prn p prn p com appo p p ppmod p 
+com root p appo p 
+root p 
+com dep root case num num cc conj num attr p com ppmod p 
+root p 
+dep root dep p num num cc conj num prn p p mark com dep comp case num p num p ppmod p aux num p num p num p ppmod p appo attr num p 
+det dep case det attr ppmod p prn p appo p appo p com appo p cc com com conj root dep p 
+det dep case com ppmod case attr com ppmod meta aux root case ppmod meta p num p case poss ppmod p 
+case det ppmod p dep acl case ppmod cc com com conj aux root p prn attr num p dep advcl obj p p 
+dep case ppmod case ppmod aux root case det ppmod case com ppmod p 
+det dep case ppmod cc com conj case ppmod root det attr obj case attr com com ppmod dep relcl attr obj p 
+dep aux neg root det obj case num ppmod case ppmod cc conj case ppmod attr case num ppmod case attr ppmod p 
+dep root det adv attr obj case det ppmod dep modal relcl obj case cc ppmod cc conj p 
+adv p det dep case det attr ppmod case com ppmod adv root case ppmod dep aux neg relcl det obj case ppmod case ppmod case attr attr ppmod p mark dep aux comp case attr ppmod p 
+poss dep root aux comp attr obj case ppmod case ppmod case ppmod cc conj cc det com conj case det ppmod case det ppmod case det ppmod p 
+attr adv p attr dep aux root aux comp case num attr com ppmod acl attr attr obj p 
+dep root det obj case attr ppmod case num cc conj ppmod case ppmod case num com ppmod p case prn p p 
+dep adv root det obj case attr ppmod case num cc conj ppmod case ppmod case num attr attr attr attr ppmod p prn p p p 
+dep aux root case ppmod case det ppmod cc dep aux conj case det attr ppmod p 
+com dep num appo root com obj case det ppmod case ppmod meta p 
+det attr dep case num ppmod root obj case num com ppmod case ppmod meta p 
+case ppmod p dep root det attr obj case ppmod p case prn p case ppmod case num ppmod case ppmod acl case ppmod p case prn p cc attr p case prn p conj p 
+det dep aux root case ppmod attr mark adv comp case attr ppmod p comp case num ppmod case ppmod p 
+attr dep case ppmod cc conj root advnp dep case attr com com ppmod case attr attr ppmod p 
+attr dep aux root mark dep lv det attr comp case attr attr com com ppmod p prn p p 
+det dep aux root aux comp det obj case attr ppmod case ppmod cc conj case attr cc conj ppmod case ppmod cc conj case com com ppmod dep relcl dep aux com ppmod p 
+com com dep case com com ppmod cc com conj aux root aux cc ppmod cc conj cc conj acl case attr attr ppmod p 
+case ppmod p det com dep aux root case com ppmod p com com dep aux conj case com ppmod p cc dep case com ppmod aux conj case ppmod p 
+dep advcl attr com obj case com com ppmod cc conj com obj case com ppmod p case dep root case com ppmod p 
+mark attr cc conj dep case ppmod cc conj advcl det attr obj p det attr dep case det ppmod adv root attr obj p 
+adv dep aux advcl aux ppmod comp case ppmod p dep aux root p 
+det attr dep case det ppmod root mark det com dep dep aux adv relcl case com ppmod aux adv comp case det attr ppmod aux ppmod p 
+case ppmod p det dep case det attr ppmod root case ppmod p dep modal relcl dep aux attr ppmod case com com ppmod p 
+dep case det attr ppmod root attr obj adv adv case com com ppmod case com ppmod cc com conj cc det attr dep case ppmod acl case ppmod conj dep aux ppmod acl case ppmod cc attr conj p 
+dep case ppmod aux ppmod root obj case attr com ppmod p 
+det dep p prn p p appo case attr p prn p com ppmod p aux root attr obj case det attr ppmod case attr ppmod cc attr attr conj p 
+adv p dep root poss obj case attr attr p prn p ppmod cc conj mark p case num ppmod p dep adv comp obj cc conj obj case num case num com com ppmod p 
+dep case attr cc conj attr ppmod aux root case attr attr attr num ppmod cc dep case det attr ppmod case com ppmod aux conj case com ppmod case attr p attr p ppmod p 
+dep root det adv attr obj p prn p case attr ppmod cc aux conj case attr ppmod case attr ppmod p 
+det dep aux root case attr ppmod p 
+attr dep aux obj aux adv root adv case attr com ppmod num cc adv conj case com ppmod p 
+attr dep case ppmod root obj aux ppmod case com ppmod p 
+adv p dep case ppmod case com ppmod modal adv root obj case ppmod p 
+com com dep case com com ppmod aux com obj root adv dep case com ppmod adv aux attr com ppmod p 
+dep adv root mark dep aux comp case attr attr ppmod p cc dep case ppmod cc conj p det com com appo p adv conj obj cc conj obj case attr attr com ppmod p 
+advcl adv p det dep root obj case ppmod case det com ppmod case attr ppmod case poss ppmod aux acl det com obj p 
+case ppmod p com dep modal aux root case ppmod case ppmod p cc det dep case ppmod cc conj modal adv conj obj p 
+det dep root mark dep modal aux comp adv case det ppmod case ppmod p 
+com root case ppmod case com com ppmod p 
+dep p prn appo attr p attr p appo p root det adv attr com obj acl aux comp com obj case ppmod cc conj p 
+det attr dep root obj p 
+det com dep case ppmod aux root case det attr ppmod case com ppmod p 
+det dep root det obj case det ppmod case attr attr ppmod case ppmod dep relcl det attr com obj case ppmod p 
+case attr com ppmod p com com dep p prn p root dep p comp obj p 
+dep root det obj acl adv com ppmod mark comp case case ppmod p 
+det com dep aux adv root cc dep adv conj case det ppmod case com ppmod aux det attr attr ppmod p 
+com dep case ppmod case ppmod aux neg aux root adv cc aux neg conj case det com com ppmod case ppmod p 
+dep cc conj root aux comp obj case det ppmod aux acl attr obj cc conj attr attr attr obj p 
+attr com dep cc attr com conj case attr attr cc conj ppmod adv root case ppmod p 
+attr com dep aux aux root aux comp det obj case attr attr com ppmod dep relcl case det poss case ppmod p 
+det dep root aux comp det obj case attr com ppmod case ppmod case ppmod case attr ppmod acl com attr cc attr com conj obj p 
+com dep aux root case ppmod p num prn p cc conj case attr ppmod p prn p num cc conj cc conj aux ppmod p 
+case com ppmod p dep aux root obj p num prn p cc attr det attr conj case ppmod aux ppmod cc aux conj case det attr ppmod p 
+case attr ppmod p attr com dep root com com obj adv case num attr ppmod acl aux ppmod p 
+attr dep root obj aux ppmod p mark dep aux comp adv case attr ppmod p cc aux conj case attr ppmod p 
+case attr com ppmod p dep aux root case num attr ppmod p prn p case ppmod p num prn p cc conj cc det attr com dep aux conj case ppmod p 
+dep acl case attr attr attr com ppmod case det attr attr ppmod adv case num attr ppmod acl case ppmod p cc com attr conj acl case ppmod root attr obj case det attr ppmod adv case attr ppmod p 
+attr attr attr com dep root aux aux comp det attr obj case ppmod p cc det dep conj adv dep case attr attr ppmod adv case attr ppmod p 
+root case attr attr com ppmod case attr ppmod case ppmod p prn p p det adv attr appo p 
+dep aux adv root case ppmod adv adv p 
+det dep root det obj case det attr com ppmod p appo p case det ppmod cc conj case ppmod p 
+dep root det attr attr attr obj case ppmod num p acl case num com com ppmod p 
+case ppmod num p dep aux root p 
+case ppmod num p det attr com dep aux root case ppmod p 
+dep aux root case attr ppmod num appo det appo case ppmod num cc conj p 
+case det advnp case ppmod p dep root obj cc attr conj case ppmod p prn p cc conj case ppmod p conj p 
+det attr dep case ppmod p prn p cc conj aux root p 
+det dep case com ppmod case ppmod acl com com com attr num cc com com com conj num obj aux root p 
+com adv attr attr dep root adv dep p 
+dep root attr obj p num meta p p cc com dep conj attr com obj p 
+dep case ppmod case com ppmod root dep mark det attr dep case com com ppmod aux neg comp adv dep p 
+advcl det obj case ppmod adv com ppmod cc det conj mark attr dep case ppmod aux neg acl case com ppmod p attr dep case advnp attr attr ppmod root dep p 
+root case com ppmod case com ppmod cc conj case com com ppmod p 
+dep root det attr adv attr obj aux ppmod attr obj acl attr com com com obj acl case det adv attr ppmod p conj p cc conj case com attr p prn p ppmod p 
+det dep root attr com com attr p num prn p com obj case attr com ppmod aux comp obj case attr attr ppmod case ppmod p 
+det dep aux root case det ppmod cc conj case det attr com ppmod p conj p prn p cc attr conj p 
+det com dep case ppmod case com com ppmod root det obj case det adv attr ppmod p cc adv lv det attr conj case ppmod com com com dep aux neg relcl aux det attr ppmod p 
+case ppmod case poss com com com com ppmod p det attr com dep cc adv attr attr cc conj conj case ppmod aux root p 
+dep root attr obj case det attr cc conj ppmod p 
+dep root det obj case ppmod p conj obj aux com ppmod p cc conj com obj case det attr ppmod p 
+case det attr com ppmod acl case det ppmod case det com com ppmod p adv dep root adv dep p comp det obj case ppmod attr p conj p conj p cc conj p 
+case advnp aux ppmod p det dep case com com ppmod root com com com com com com obj p 
+dep cc conj root det obj p mark dep comp aux comp com obj p 
+det dep root mark com com dep aux neg comp det attr adv attr obj case ppmod cc adv modal neg conj det attr obj case com ppmod p 
+adv p det dep root det obj case adv attr com dep case com ppmod case det adv attr ppmod modal aux ppmod aux comp attr obj p 
+attr dep root com obj adv attr ppmod case ppmod p 
+aux root mark det dep case attr com com ppmod comp com obj adv attr ppmod case ppmod p prn p p 
+dep acl obj acl attr attr attr obj p prn p p case det ppmod case det com com ppmod p aux root case attr ppmod aux attr ppmod case ppmod case ppmod adv ppmod p conj p conj p cc conj p 
+num advnp adv p attr dep aux root case com ppmod acl attr obj p 
+case det ppmod case ppmod p dep aux root aux attr ppmod case det attr com com ppmod p 
+det dep case ppmod cc conj adv root obj case det attr com com ppmod cc conj det obj case ppmod case det attr ppmod p 
+dep root det attr obj cc dep conj dep p 
+dep root case attr ppmod case ppmod cc conj mark aux comp case attr attr ppmod p 
+attr attr com dep aux root case ppmod case ppmod cc conj p 
+attr com dep modal root attr obj aux comp det attr obj case ppmod com obj aux cc det attr cc conj ppmod p 
+advnp p advnp p root case ppmod p prn p 
+det dep root attr obj p com prn p p det attr appo p case ppmod case attr ppmod aux acl det obj case attr attr ppmod case ppmod case attr attr ppmod p prn p p 
+dep modal root case ppmod p prn p cc conj p prn p case attr ppmod p 
+dep aux root aux comp dep adv case det ppmod case det attr attr ppmod p 
+det root case ppmod p prn p case attr attr com ppmod case attr attr com ppmod p 
+attr com num meta case attr ppmod root aux ppmod p 
+attr dep aux root aux comp com obj p 
+det dep case attr ppmod p prn p aux root aux comp obj dep relcl com obj case attr attr attr attr ppmod p 
+det dep case ppmod p det appo case ppmod cc com conj p case com ppmod aux root case attr com ppmod cc com conj p 
+det dep case ppmod p prn p p conj p cc conj case ppmod acl case ppmod cc conj aux root comp det attr attr attr com com attr p prn p obj p com conj case com ppmod p conj case ppmod cc com com conj p cc com conj p 
+det attr dep aux root p 
+com dep cc com conj aux root case ppmod case com ppmod case attr ppmod p 
+det com dep case ppmod p conj p cc conj root advnp attr com obj case attr com ppmod adv case det com ppmod p 
+com dep acl case ppmod cc conj root attr obj mark comp obj acl case det ppmod adv p 
+dep case attr attr ppmod case ppmod cc conj root com obj attr case ppmod case det ppmod adv p attr com dep case ppmod p conj cc conj cc conj p num cc num dep p attr attr num conj p num meta com com prn p attr num cc conj advnp p prn attr num p p 
+dep cc conj root p 
+dep p root cc p 
+num dep p dep root obj num p num meta prn attr num cc conj advnp p dep advcl obj p p 
+attr dep root adv attr attr obj mark comp det obj adv p 
+det com dep case ppmod p prn p root obj p cc advnp attr conj adv case det attr com ppmod p com dep p com conj cc attr p prn p conj p num meta cc conj meta p attr attr num meta p num meta dep attr num meta attr num meta p attr attr num p p 
+dep case attr ppmod cc com conj case ppmod cc conj root mark attr attr dep case ppmod p prn p comp attr attr obj case adv ppmod obj cc com conj p 
+dep case com ppmod cc com conj case cc ppmod cc conj root com obj case attr com ppmod case advnp p advnp p attr ppmod case ppmod cc com conj p 
+dep case ppmod case ppmod root obj cc poss conj p 
+dep p com num p p det root acl case com ppmod cc conj p 
+dep p root det attr obj case attr ppmod p com prn p attr case ppmod case ppmod p 
+case ppmod det obj case ppmod p dep root det obj case ppmod p 
+case det attr ppmod dep p num prn p adv root det attr attr obj case ppmod acl case cc com ppmod cc com conj p adv dep aux comp case ppmod p 
+com com dep aux adv root adv dep aux comp case ppmod p 
+det attr com dep case ppmod adv relcl case ppmod modal aux root aux attr com ppmod case ppmod p 
+case det ppmod dep modal aux root mark dep modal aux comp case det ppmod case case ppmod p 
+root case com ppmod case num ppmod acl attr obj cc attr attr attr conj p 
+com dep p prn p modal root det attr attr obj case attr ppmod p 
+dep aux root det obj case num attr com ppmod dep relcl attr obj case ppmod case ppmod case attr attr ppmod p prn p adv case com ppmod p 
+com dep aux root case det num ppmod case ppmod case com ppmod cc aux neg conj case ppmod case num attr com ppmod case ppmod attr dep aux relcl aux ppmod p 
+adv case ppmod acl p dep root mark attr dep acl aux ppmod modal aux comp case ppmod case ppmod case ppmod case det ppmod case ppmod case com ppmod p 
+root case attr attr attr p ppmod case attr ppmod case attr ppmod p 
+dep cc conj case attr attr p com ppmod aux root case num ppmod case attr ppmod acl case ppmod case attr attr ppmod cc conj p 
+det dep lv root case attr ppmod cc aux conj cc aux attr com ppmod p appo p num p cc aux conj dep relcl aux det com ppmod p prn p p 
+dep case com ppmod aux root case ppmod obj case attr ppmod p 
+dep case com ppmod p prn p aux root case ppmod case det ppmod case com ppmod p 
+dep case com ppmod aux root case attr ppmod mark dep aux comp attr obj case ppmod p 
+root p 
+dep case ppmod case com ppmod case attr com ppmod p appo p num meta p root dep case ppmod case attr ppmod p num meta p p 
+cc det dep case attr com ppmod p appo acl case attr ppmod aux root case adv attr cc advnp conj ppmod p attr appo case com ppmod p num cc num conj p adv p appo p p attr appo case ppmod p num cc conj prn p adv p p attr appo case attr ppmod case ppmod p num cc conj meta p adv p appo p p 
+root p 
+dep aux root obj case attr ppmod case attr attr p com ppmod case det ppmod acl aux comp com obj case attr ppmod p case det ppmod case attr ppmod p cc conj attr obj case ppmod p 
+attr root case ppmod p det attr appo case ppmod p case attr attr attr ppmod p 
+det attr dep case attr attr attr ppmod p prn p root dep p 
+adv p adv p attr dep aux adv root p 
+adv p dep root mark attr attr attr attr com dep p prn p p det appo case det com ppmod p comp det attr obj case det ppmod case attr ppmod case ppmod p 
+det dep case det attr ppmod root aux comp mark dep comp det attr obj case ppmod p cc aux adv conj det attr obj case det attr ppmod case ppmod p appo p prn p p 
+dep root det obj case ppmod case com com ppmod p cc conj det obj case ppmod case det ppmod adv cc case conj case ppmod p 
+det dep case attr cc conj ppmod aux root case com ppmod p conj cc attr attr conj p 
+dep case ppmod aux root case com ppmod p 
+dep aux adv root case com com ppmod p cc det dep case cc ppmod cc conj aux conj case ppmod p 
+dep root obj p cc adv p det dep case ppmod cc conj conj obj case det com com ppmod p 
+det dep root mark dep comp det attr attr obj case ppmod p 
+attr attr root case ppmod cc conj case attr ppmod p 
+det com com dep root det attr obj case com ppmod acl case com ppmod case attr ppmod p 
+dep aux root aux comp cc attr cc conj obj p 
+attr dep root aux comp det obj case ppmod case det attr ppmod case attr attr attr ppmod p 
+det dep case ppmod root obj p 
+attr dep acl case attr ppmod aux root case poss ppmod case attr ppmod p dep case ppmod aux relcl case det ppmod case ppmod p 
+attr root p 
+dep advcl mark det dep comp dep aux attr ppmod case attr ppmod p adv dep p conj p conj cc conj root obj case adv attr ppmod p 
+adv attr ppmod dep aux root mark dep comp adv dep case det det ppmod case attr ppmod p 
+attr cc adv conj dep aux root case ppmod cc conj case com com ppmod adv comp case poss attr ppmod p 
+det attr attr com dep case det ppmod acl case com ppmod p root obj p dep relcl obj case det ppmod p 
+dep aux adv root adv dep aux comp case ppmod cc conj p 
+com dep case det attr ppmod case com ppmod root case num attr ppmod p 
+case poss ppmod case ppmod p dep root obj case det attr attr ppmod case attr ppmod mark dep comp det adv attr obj case attr ppmod case num ppmod dep aux neg relcl case ppmod p 
+case det ppmod p attr attr attr dep modal root poss obj p 
+dep root det attr obj case det attr ppmod case com ppmod lv attr acl case num attr ppmod case ppmod case ppmod p 
+attr cc com conj dep p root p 
+dep p det appo p root det attr com obj case com ppmod p 
+dep aux adv root case poss attr ppmod case det com com com ppmod p adv case ppmod case com com ppmod p 
+dep case ppmod case attr com com ppmod root det obj p 
+dep root com com obj p 
+dep cc conj root det com obj case ppmod case adv ppmod meta p 
+num attr dep acl adv num obj aux root det obj case det ppmod case ppmod cc det attr conj case com com ppmod p 
+attr dep p case det attr ppmod case ppmod p root adv dep p 
+dep case attr attr com com ppmod root det obj case det ppmod case com com ppmod p cc dep conj attr obj p 
+dep root adv aux comp attr attr com com obj aux ppmod acl case ppmod case com ppmod p adv appo adv case ppmod cc conj p 
+dep aux neg adv root com obj p cc dep conj det attr attr obj case attr ppmod acl aux det ppmod p 
+mark case attr ppmod p det dep aux advcl dep p dep modal root dep aux comp obj case ppmod p 
+com com root case ppmod cc conj case ppmod case attr attr ppmod p appo case ppmod p com appo case ppmod p 
+attr dep p prn p root det attr com obj case ppmod attr dep relcl det attr obj acl case ppmod p 
+det attr dep case ppmod case det com com ppmod aux root obj adv adv cc conj det attr obj case ppmod p 
+adv attr com dep root adv dep case ppmod attr mark comp case attr attr attr com ppmod p 
+adv attr dep aux root obj cc conj case com ppmod p 
+case det attr ppmod case attr com ppmod p dep root adv cc conj attr obj case det com ppmod aux comp mark det com dep case ppmod dep aux adv relcl case attr ppmod comp attr obj case adv attr attr cc conj com ppmod p 
+attr cc adv conj com dep root obj meta p num num cc com conj dep p attr attr num p cc conj meta p num num cc com conj dep p attr attr num p p adv p conj case attr attr ppmod p prn attr num p case case attr attr attr ppmod p prn attr num p p 
+det dep root com obj attr aux ppmod case num attr ppmod case attr attr attr ppmod p prn attr num cc conj attr num p cc aux conj acl det advnp attr obj p prn attr num p p 
+dep root mark adv attr attr cc conj com dep comp adv dep case ppmod acl obj case case ppmod acl obj p comp mark p case det ppmod adv acl case attr ppmod p dep comp det obj case det ppmod case ppmod aux com ppmod p 
+det dep lv attr root case det ppmod case attr ppmod case com ppmod p 
+root case ppmod cc conj case attr com ppmod case com ppmod p p 
+det root case attr ppmod p prn p p num prn p attr appo p p 
+cc com root p num prn p com appo p p com cc com conj case com ppmod p prn p p num cc conj prn p com appo p p 
+aux root case attr cc conj ppmod case com ppmod p 
+case attr ppmod case ppmod p dep root det obj cc conj case ppmod aux ppmod p 
+attr dep case ppmod cc conj root aux comp obj case ppmod p mark poss dep comp com obj p 
+det dep acl root det obj case attr ppmod case ppmod cc conj obj case attr ppmod case attr ppmod p 
+dep aux attr ppmod root dep case ppmod cc adv conj case ppmod p 
+det dep root attr obj case attr ppmod case det com attr p prn p com com ppmod cc det com com conj p 
+case det adv p adv p attr ppmod p num attr dep root num com obj case ppmod case attr ppmod p num prn com adv p p conj p num prn adv attr p p cc conj case attr com ppmod case ppmod case num ppmod p 
+com dep root det attr obj case det com com ppmod acl aux ppmod p prn p num p p case attr ppmod case ppmod p mark com dep aux neg comp det obj aux ppmod p 
+det dep case com ppmod p num p aux com ppmod p num p aux adv root case det ppmod p com prn p appo p appo p case attr ppmod p prn attr num p mark comp aux ppmod p 
+case det ppmod cc com conj p det dep case det attr ppmod p attr prn cc conj p root adv dep case ppmod case det com ppmod p attr num p num p p 
+det dep root mark det dep case ppmod modal aux comp case ppmod acl obj p 
+dep case ppmod case attr ppmod root dep case ppmod cc neg case attr com conj p 
+dep p det appo case ppmod p aux aux root case ppmod case com ppmod case attr attr ppmod p 
+det dep root det obj case ppmod aux acl obj case attr ppmod aux attr ppmod p 
+det dep case det poss case ppmod case ppmod cc conj case ppmod aux adv root p 
+det dep p com conj p conj cc com conj case num attr com com ppmod p appo p conj p conj p conj cc conj p aux ppmod p conj p conj cc attr attr attr attr com conj aux root p 
+dep root obj case ppmod cc det num conj case det com com ppmod adv acl det com obj cc case conj cc conj case det com ppmod case case num ppmod case com ppmod p 
+dep case det attr num ppmod case det attr num com ppmod root case attr ppmod p 
+attr dep root mark dep comp attr attr obj case attr ppmod p 
+case det ppmod p dep root det attr com obj acl com obj case ppmod case attr ppmod adv comp obj cc conj case ppmod p 
+case attr ppmod p dep root attr com obj acl obj aux attr attr com ppmod case ppmod case ppmod cc conj com obj acl case ppmod p 
+case det attr ppmod p attr dep case com ppmod aux neg root case ppmod cc attr conj case com ppmod p 
+det dep p mark advcl obj p root mark dep comp neg det attr obj case com ppmod cc case conj case attr ppmod p 
+adv p dep case ppmod case attr ppmod modal aux root aux det com ppmod p conj cc com conj p 
+root cc com conj cc conj attr attr obj case det attr ppmod p 
+dep root det adv attr cc advnp conj obj case com ppmod p 
+num case det ppmod dep modal relcl attr obj root obj case com ppmod dep relcl obj p 
+dep root aux comp mark dep case det ppmod comp det obj case ppmod case attr ppmod case com ppmod p 
+com com dep p num p aux root aux comp det attr attr obj acl case ppmod acl aux ppmod case det num ppmod p 
+case ppmod p num com dep root num obj case com ppmod p 
+det com dep case ppmod case attr ppmod case com ppmod root num case num obj p num meta num p num p p 
+det attr attr dep aux root aux num ppmod acl case com ppmod cc conj p 
+com dep root det attr com obj case attr ppmod case ppmod case ppmod p cc attr num num meta prn p appo p p p appo p cc attr num num meta prn p appo p p p appo p cc attr num num meta prn p appo p p p appo p cc attr num num meta num p num p p p 
+adv dep p dep aux neg relcl aux comp case ppmod p root det obj case attr ppmod p cc attr com num meta prn p appo p p p 
+com dep dep relcl obj p conj p conj p conj p cc conj lv det attr root case ppmod case attr ppmod p 
+adv p det attr dep case ppmod root mark det attr dep modal neg aux comp dep case ppmod case det attr attr ppmod p 
+dep root det attr obj case ppmod case ppmod p 
+dep p det adv attr com appo p aux adv root case attr ppmod case poss attr cc conj ppmod p 
+det dep case det ppmod root aux comp mark det attr com dep comp det obj case attr attr ppmod cc com com conj case ppmod case attr ppmod p 
+case det root case com com ppmod p 
+dep aux root case attr ppmod cc det adv p attr dep aux conj case attr attr com ppmod p 
+det dep aux root p 
+root cc conj p conj p num prn p cc conj p conj cc conj p num prn p cc conj p num prn p cc conj p num prn p p adv p num appo case attr ppmod cc attr attr com conj p 
+case det attr com ppmod case ppmod p dep case num com ppmod case num com ppmod com com cc root p cc com conj det obj case ppmod acl case ppmod p 
+case det attr ppmod p det attr attr dep case ppmod aux root case ppmod p 
+dep root mark det attr dep case ppmod case ppmod modal comp attr obj case det ppmod case ppmod case ppmod obj p dep relcl det obj case ppmod case det ppmod case ppmod p 
+com root case ppmod cc conj case attr ppmod p 
+dep cc conj aux adv root case ppmod attr cc conj com obj p 
+dep aux root aux lv comp case ppmod dep relcl dep case attr attr ppmod p 
+adv ppmod cc com conj det com dep case aux root prt case ppmod p conj p conj cc conj p 
+det dep aux root case attr p conj cc conj ppmod cc case attr conj cc num conj p 
+det dep case com ppmod acl attr com obj case ppmod aux ppmod aux aux root mark dep aux comp det obj p 
+det dep case ppmod cc conj case ppmod case com ppmod case attr ppmod cc conj aux root comp det com com obj case com ppmod p 
+dep aux root mark dep case det ppmod comp adv case num ppmod case case attr ppmod p 
+dep cc conj root adv case ppmod cc conj case attr ppmod com cc conj case attr ppmod cc conj case attr ppmod p 
+det dep root det obj case ppmod case attr ppmod case ppmod p 
+mark dep aux advcl det adv attr attr attr com obj case ppmod case ppmod root dep p 
