@@ -1,9 +1,9 @@
-require('data2')
+require('data')
 require('torch')
 require('nn')
 require('rnn')
 require('network')
-require('test2')
+require('test')
 require("trepl")
 require("nngraph")
 
@@ -69,7 +69,6 @@ cmd:option('-maxload', math.huge, 'data to load')
 cmd:option('-maxsize', math.huge, 'sentencesizemax')
 cmd:option('-display', false, 'display network')
 cmd:option('-notest', false, 'do not test')
-cmd:option('-notestcorpus', false, 'do not extract test')
 cmd:option('-debug', false, 'debug option for nngraph')
 cmd:option('-mobius', false, 'run on mobius')
 cmd:option('-corpus', '{full}', 'corpus to use')
@@ -90,10 +89,6 @@ cmd:option('-channels', 1, '')
 cmd:option('-1r', 0, 'use only 1 specified relation for the additional corpus') --only for 1 additional corpus
 cmd:option('-fusr', '{}', 'fusion relations for the additional corpus')
 cmd:option('-select_data', '{}', 'fusion relations for the additional corpus')
-cmd:option('-mergerelations', 0, 'merge relations: 1=onerelation, 2=keep isEquivalentTo')
-cmd:option('-aotf', false, 'anonymize on the fly')
-cmd:option('-hierarchy', 0, "pk_phenotype -> phenotype, ... for input entiites")
-cmd:option('-decodedir', '', '')
 cmd:text()
 
 local params = cmd:parse(arg)
@@ -118,7 +113,6 @@ params.corpus = params.corpus:gsub(",", "\",\"")
 params.select_data = params.select_data:gsub(" +", "")
 --params.select_data = params.select_data:gsub(",", "\",\"")
 
-
 if params.fusr~="{}" then
    params.fusr = params.fusr:gsub("{", "{\"")
    params.fusr = params.fusr:gsub("}", "\"}")
@@ -136,7 +130,9 @@ params.fusr = loadstring("return " .. params.fusr)()
 params.wszs = loadstring("return " .. params.wszs)()  
 local restartparams = loadstring("return " .. params.restartparams)()
 
-if params.arch==6 and params.wsz~=1 then error("") end
+
+
+
 
 local frestart
 local rundir
@@ -144,8 +140,6 @@ local expidx = 0
 if params.restart ~= '' then
    print(string.format('restarting from <%s>', params.restart))
    frestart = torch.DiskFile(params.restart):binary()
-   local decodedir = params.decodedir
-   local mobius = params.mobius
    local restart = params.restart
    params = frestart:readObject()
    params.restart = restart
@@ -161,8 +155,6 @@ if params.restart ~= '' then
          break
       end
    end
-   params.decodedir = decodedir
-   params.mobius = mobius
    --params.corpus = params.corpus or 'drugbank'
    if not params.pfsz then params.pfsz=0 end
    if not params.tfsz then params.tfsz=0 end
@@ -286,11 +278,8 @@ function is_related(params, data, nsent, ent1, ent2)
    elseif data.corpus=="EUADR_drug_disease" or data.corpus=="EUADR_drug_target" or data.corpus=="EUADR_target_disease" then
       return true --maybe can be optimized
    elseif data.corpus=="PGxCorpus" then
-      local overlap = data.entities.overlap(data, nsent, ent1, ent2)
-      if overlap then return false end
       local t1 = data.entities.typeent(data, nsent, ent1)
       local t2 = data.entities.typeent(data, nsent, ent2)
-
       --print(data.relations:isrelated(nsent, ent1, ent2))
       if data.relations:isrelated(nsent, ent1, ent2)~=1 then
 	 if relation_pos[t1 .. "-" .. t2]==nil then relation_pos[t1 .. "-" .. t2]=1 else relation_pos[t1 .. "-" .. t2]= relation_pos[t1 .. "-" .. t2] +1 end
@@ -327,61 +316,33 @@ end
 
 for i=1,#params.corpus do
    local data = createdata(params, params.corpus[i], "train")
-
-   -- printw(data.words[4], data.wordhash)
-   -- print(data.relations[4])
-   -- for i=1,#data.entities[4] do
-   --    print(data.entities[4][i])
-   --    print(data.entities[4][i][2])
-   -- end
-   -- exit()
-   
    table.insert(datas, data)
    
    if params.corpus[i]~="PGxCorpus" and params.corpus[i]~="reACE" and params.corpus[i]~="ppi" and params.corpus[i]~="LLL" and params.corpus[i]~="AIMed" and params.corpus[i]~="HPRD50" and params.corpus[i]~="IEPA" and params.corpus[i]~="BioInfer" and params.corpus[i]~="ADE" and (not params.corpus[i]:match("EUADR")) then
       local tdata = createdata(params, params.corpus[i], "test")
       table.insert(tdatas, tdata)
       if params.validp~=0 then
-   	 local vdata = extract_data(datas[i], params.validp, params.valids, true)
-   	 table.insert(vdatas, vdata)
+	 local vdata = extract_data(datas[i], params.validp, params.valids, true)
+	 table.insert(vdatas, vdata)
       else
-   	 table.insert(vdatas, tdata)
+	 table.insert(vdatas, tdata)
       end
       local subtraindata = extract_data(datas[i], params.validp, params.valids, false)
       table.insert(subtraindatas, subtraindata)
    else --extract 
       print("extracting a valid and a test subcorpora")
       if params.validp~=0 then
-   	 local vdata = extract_data(datas[i], params.validp, params.valids, true)
-   	 table.insert(vdatas, vdata)
+	 local vdata = extract_data(datas[i], params.validp, params.valids, true)
+	 table.insert(vdatas, vdata)
       else
-   	 table.insert(vdatas, tdata)
+	 table.insert(vdatas, tdata)
       end
-      local tdata
-      if not params.notestcorpus then
-	 local data = extract_data(datas[i], params.validp, params.valids, true)
-	 table.insert(tdatas, tdata)
-      end
+      local tdata = extract_data(datas[i], params.validp, params.valids, true)
+      table.insert(tdatas, tdata)
       local subtraindata = extract_data(datas[i], params.validp, params.valids, false)
       table.insert(subtraindatas, subtraindata)      
    end
 end
-
-
--- printw(datas[1].words[1], datas[1].wordhash)
--- print(datas[1].words.sent[1])
--- printw(datas[1].words[2], datas[1].wordhash)
--- print(datas[1].words.sent[2])
--- printw(datas[1].words[3], datas[1].wordhash)
--- print(datas[1].words.sent[3])
-
--- printw(vdatas[1].words[1], vdatas[1].wordhash)
--- print(vdatas[1].words.sent[1])
-
--- printw(tdatas[1].words[1], tdatas[1].wordhash)
--- print(tdatas[1].words.sent[1])
---  io.read()
-
 
 if #params.select_data~=0 then
    print(params.select_data)
@@ -395,6 +356,24 @@ if #params.select_data~=0 then
       --datas[i]
    end
 end
+
+
+-- for i=1,datas[1].size do
+--    printw(datas[1].words[i], datas[1].wordhash)
+   
+-- end
+-- exit()
+
+
+--exit()
+-- print(datas[1].words[1])
+-- print(datas[1].entities.nent(datas[1], 1,1,2))
+-- print(datas[1].entities.getent(datas[1], 1,1,2))
+
+-- exit()
+--print(datas[1].words[1])
+
+--exit()
 
 local dataidx = {}
 for i=1,#datas do
@@ -416,12 +395,26 @@ end
 
 params.nword = math.min(params.nword, #datas[1].wordhash)
 
+if false then
+   print(data.words[340])
+   print(data.entities:nent(340))
+   for i=2,data.entities:nent(340) do
+      local toto = data.entities.getent(datas[1], 340, 1, i)
+      print(toto:reshape(1,toto:size(1)))
+   end
+   print(data.words[1])
+   print(data.entities:nent(1))
+   print(data.entities.getent(datas[datacorpus], 1,2,4))
+   print(data.relations[3])
+   print(data.entities:getenttags(340))
+end
+
 print("creating network")
 local network = createnetworks(params,datas)
 
+print(network.lookup)
 
 if frestart then
-   
    print('reloading network')
    if params.restart:match("model_net") then
       print("net")
@@ -433,45 +426,41 @@ if frestart then
    end
    print("now testing")
    local d = params.corpus=="medline" and 'MedLine' or (params.corpus=='drugBank' and 'Drugbank' or 'Full')
-
-
-
-   if true then
-      params.brat=true
-      local macro_p,macro_r,macro_f1,c,micro_p,micro_r,micro_f1 = test(network, vdatas[1], params)
-      print("Valid_macro: " .. macro_p .. " " .. macro_r .. " " .. macro_f1)
-      print("Valid_micro: " .. micro_p .. " " .. micro_r .. " " .. micro_f1)
-      params.brat=false
-      
-
-      local ddata =  createdata(params, params.corpus[1], "train", params.decodedir)
-      params.brat=true
-      local macro_p,macro_r,macro_f1,c,micro_p,micro_r,micro_f1 = test(network, ddata, params)
-      print("Valid_macro: " .. macro_p .. " " .. macro_r .. " " .. macro_f1)
-      print("Valid_micro: " .. micro_p .. " " .. micro_r .. " " .. micro_f1)
-      params.brat=false
-      
-      exit()
-   end
-
-   
    for i=1,#datas do
-      params.brat=true
       local macro_p,macro_r,macro_f1,c,micro_p,micro_r,micro_f1 = test(network, vdatas[i], params)
       print("Valid_macro: " .. macro_p .. " " .. macro_r .. " " .. macro_f1)
       print("Valid_micro: " .. micro_p .. " " .. micro_r .. " " .. micro_f1)
-      params.brat=false
-      io.read()
-      params.brat=true
+      
       local macro_p,macro_r,macro_f1,c,micro_p,micro_r,micro_f1 = test(network, tdatas[i], params)
       print("Test_macro: " .. macro_p .. " " .. macro_r .. " " .. macro_f1)
       print("Test_micro: " .. micro_p .. " " .. micro_r .. " " .. micro_f1)
-      params.brat=false
       --exit()
    end
    -- print(p)
    -- print(r)
    -- print(f1)
+   -- exit()
+end
+--print(network.lookup)
+--print(network.lookup2)
+
+if false then
+   local tree = treelstm.Tree()
+   local son1 = treelstm.Tree()
+   son1.idx = 1
+   local son2 = treelstm.Tree()
+   son2.idx = 2
+   local son3 = treelstm.Tree()
+   son3.idx = 3
+   tree:add_child(son1)
+   tree:add_child(son2)
+   tree:add_child(son3)
+   tree.idx=4
+   
+   local input = {torch.Tensor({1,2,3,4}), torch.Tensor({1,1,2,3})}
+   local a, b = network:forward(tree, input)
+   print(a)
+   
    exit()
 end
 
@@ -576,7 +565,7 @@ while true do
       local datacorpus = (not params.nosgd) and dataidx[perm[i]][1] or dataidx[i][1]
       local idx = (not params.nosgd) and dataidx[perm[i]][2] or dataidx[i][2]
       if (not params.nosgd) then fwddatas[ dataidx[perm[i]][1] ] = fwddatas[ dataidx[perm[i]][1] ] + 1 end
-     -- print("====================== corpus " .. datacorpus .. " sentence " .. idx .. " size " .. datas[datacorpus].words[idx]:size(1) .. " nb entities " .. datas[datacorpus].entities.nent(datas[datacorpus], idx))
+      --print("====================== corpus " .. datacorpus .. " sentence " .. idx .. " size " .. datas[datacorpus].words[idx]:size(1) .. " nb entities " .. datas[datacorpus].entities.nent(datas[datacorpus], idx))
       --printw(datas[datacorpus].words[idx], datas[datacorpus].wordhash)
       
       --collectgarbage()
@@ -609,19 +598,127 @@ while true do
 
 
       if params.batch~=0 then
-	 error("not anymore")
+	 if false then -- first batch version. Requires too much memory for long sentences with many entities > 8Go
+	    local n = datas[datacorpus].entities.nent(datas[datacorpus], idx)
+	    if n>currentmax then print("new currencmax " .. n); currentmax=n end
+	    if n>=2 then
+	       local nf = ((n * (n-1))/2) --nb paires to forward
+	       inputwords = words:view(1,words:size(1)):expand(nf, words:size(1))
+	       inputentities:resize(nf, words:size(1)):fill(-1)
+	       
+	       local c = 0
+	       for ent1=1,datas[datacorpus].entities.nent(datas[datacorpus], idx) do
+		  for ent2=ent1+1,datas[datacorpus].entities.nent(datas[datacorpus], idx) do
+		     c = c + 1
+		     inputentities[c]:copy( datas[datacorpus].entities.getent(datas[datacorpus], idx, ent1, ent2) )
+		  end
+	       end
+	       -- print(c)
+	       -- print(nf)
+	       -- assert(c==nf)
+	       -- print(inputwords)
+	       -- print(inputentities)
+	       
+	       local input = {inputwords}
+	       table.insert(input, inputentities)
+	       
+	       if params.debug then
+		  nngraph.setDebug(true)
+		  network.g.name = 'my_bad_linear_net'
+		  pcall(function() network:forward(input) end)
+		  os.execute('echo my_bad_linear_net.svg')
+	       end
+	       
+	       local output = network:forward(input)
+	       
+	       --print(output)
+	       
+	       gradinput:resizeAs(output)
+	       local c = 0
+	       for ent1=1,datas[datacorpus].entities.nent(datas[datacorpus], idx) do
+		  for ent2=ent1+1,datas[datacorpus].entities.nent(datas[datacorpus], idx) do
+		     c = c + 1
+		     local target = datas[datacorpus].relations:isrelated(idx, ent1, ent2)
+		     cost = cost + criterion:forward(output[c], target)
+		     gradinput[c]:copy(criterion:backward(output[c], target))
+		  end
+	       end
+	       
+	       --print(gradinput)
+	       network:zeroGradParameters()
+	       network:backward(input, gradinput)
+	       network:updateParameters(params.batchdiv and params.lr/nf or params.lr)
+	    end
+	 else --batch second version
+	    --print(words)
+	    --printw(words, datas[datacorpus].wordhash)
+	    
+	    local n = datas[datacorpus].entities.nent(datas[datacorpus], idx)
+	    if n>=2 then
+
+	       local currentb = 0
+
+	       
+	       --filling input and targets
+	       local nf = ((n * (n-1))/2) --nb paires to forward
+	       
+	       inputentities:resize(nf, words:size(1)):fill(-1)
+	       targets:resize(nf)
+	       local c = 0
+	       for ent1=1,datas[datacorpus].entities.nent(datas[datacorpus], idx) do
+		  for ent2=ent1+1,datas[datacorpus].entities.nent(datas[datacorpus], idx) do
+		     c = c + 1
+		     inputentities[c]:copy( datas[datacorpus].entities.getent(datas[datacorpus], idx, ent1, ent2) )
+		     targets[c] = datas[datacorpus].relations:isrelated(idx, ent1, ent2)
+		  end
+	       end
+	       
+	       for b=1, math.ceil(nf/params.batch) do
+		  --print("forwarding batch no " .. b)
+		  local _start = ((b-1)*params.batch) + 1
+		  local _end = ((b-1)*params.batch) + 10
+		  _end = math.min(_end, nf)
+		  local _size = _end-_start+1
+		  --print(_start .. " " .. _end .. " " .. _size )
+		  local inent = inputentities:narrow(1,_start, _size)
+		  local inputwords = words:view(1,words:size(1)):expand(_size, words:size(1))
+		  local input = {inputwords}
+		  table.insert(inent)
+		  
+		  --print(input)
+		  
+		  --forwarding
+		  local output = network:forward(input)
+
+		  --cost + grad
+		  gradinput:resizeAs(output)
+		  for t=1, _size do
+		     local tt = _start + t - 1
+		     cost = cost + criterion:forward(output[t], targets[tt])
+		     gradinput[t]:copy(criterion:backward(output[t], targets[tt]))
+		  end
+
+		  --backwarding
+		  network:zeroGradParameters()
+		  network:backward(input, gradinput)
+		  network:updateParameters(params.batchdiv and params.lr/_size or params.lr)
+	       end
+
+	       --io.read()
+	       
+	    end
+	 end	 
       else --no batch
 	 if (params.arch==2 or params.dp==2 or params.dp==3 or params.rnn=="lstm" or params.rnn=="cnn") and (not (params.arch==4 or params.arch==5)) then words = words:view(1,words:size(1)) end
 
 	 local nrel = 0
 	 for ent1=1,datas[datacorpus].entities.nent(datas[datacorpus], idx) do
 	    for ent2=ent1+1,datas[datacorpus].entities.nent(datas[datacorpus], idx) do
-	       
 	       --nf = nf +1
 	       --print(nf)
 	       --printw(words, datas[1].wordhash)
 	       --print(datas[datacorpus].relations[idx])
-	       
+      
 	       nrel = nrel + 1
 	       local fwd_truesgd = true
 	       if params.truesgd then
@@ -633,14 +730,11 @@ while true do
 	       
 	       --print(_select(params, datas[datacorpus], idx,ent1,ent2))
 	       if fwd_truesgd and is_related(params, datas[datacorpus], idx, ent1, ent2) and _select(params, datas[datacorpus], idx,ent1,ent2) then
-		  --print(" sentence " .. idx .. " relation between " .. ent1 .. " and " .. ent2 .. " (" .. datas[datacorpus].relations:isrelated(idx, ent1, ent2) .. ")")
+		  --print(nf .. " sentence " .. idx .. " relation between " .. ent1 .. " and " .. ent2 .. " (" .. datas[datacorpus].relations:isrelated(idx, ent1, ent2) .. ")")
 		  local entities = datas[datacorpus].entities.getent(datas[datacorpus], idx, ent1, ent2)
-
-		  --print(entities)
 		  if (params.arch==2 or params.dp==2 or params.dp==3 or params.rnn=="lstm" or params.rnn=="cnn") and (not (params.arch==4 or params.arch==5)) then entities = entities:view(1, entities:size(1)) end
 		  
 		  local input = {words}
-
 		  
 		  if params.tfsz~=0 then table.insert(input, datas[datacorpus].entities.getenttags(datas[datacorpus], idx)) end
 		  if params.pfsz~=0 then table.insert(input, datas[datacorpus].pos[idx]) end
@@ -677,42 +771,6 @@ while true do
 		  end
 
 		  if params.time then timer2:reset() end
-
-
-		  if params.aotf then
-		     -- print('==========')
-		     -- print(entities)
-		     -- print(datas[datacorpus].words.sent[i])
-		     -- printw(datas[datacorpus].words[i], datas[datacorpus].wordhash)
-		     -- printw(words, datas[datacorpus].wordhash)
-		     local new_input = {}
-		     for inp=1,#input do
-			local new_tab = {}
-			local previous_tab = input[inp]
-			local k = 1
-			while k<=words:size(1) do
-			   if entities[k]==2 or entities[k]==1 then --1=padding, 2=other
-			      table.insert(new_tab, previous_tab[k])
-			      k = k+1
-			   else
-			      --print(entities)
-			      local ent = entities[k]
-			      if inp==1 then --words
-				 table.insert(new_tab, datas[datacorpus].wordhash["drug0"])
-			      else --other features
-				 table.insert(new_tab, previous_tab[k])
-			      end
-			      while entities[k]==ent do k = k + 1 end
-			   end
-			end
-			table.insert(new_input, torch.Tensor(new_tab)) --memory allocation is bad
-			-- print(previous_tab)
-			-- print(new_tab)
-			-- io.read()
-		     end
-
-		     input = new_input
-		  end
 
 		  local output
 		  if params.arch==1 or params.arch==3 or params.arch==6 then
@@ -851,7 +909,7 @@ while true do
    end
 
    -- print(datas[1].relationhash)
-   print(relation_pos)
+   -- print(relation_pos)
 
    -- local total = 0
    -- for k,v in pairs(relation_pos) do
@@ -977,35 +1035,33 @@ while true do
       end
 
 
-      if not params.notestcorpus then
-	 --test on test (bouhou!)
-	 print("*****************************Test on test***********************************")
-	 for i=1,#datas do
-	    if params.testc==0 or params.testc==i then
-	       local fcost = io.open(rundir .. "/" .. datas[i].corpus .. "-cost_test", 'a')
-	       local f_macro_precision = io.open(rundir .. "/" .. datas[i].corpus .. "-macro_precision_test", 'a')
-	       local f_macro_recall = io.open(rundir .. "/" .. datas[i].corpus .. "-macro_recall_test", 'a')
-	       local f_macro_f1 = io.open(rundir .. "/" .. datas[i].corpus .. "-macro_f1-score_test", 'a')
-	       local f_micro_precision = io.open(rundir .. "/" .. datas[i].corpus .. "-micro_precision_test", 'a')
-	       local f_micro_recall = io.open(rundir .. "/" .. datas[i].corpus .. "-micro_recall_test", 'a')
-	       local f_micro_f1 = io.open(rundir .. "/" .. datas[i].corpus .. "-micro_f1-score_test", 'a')
-	       
-	       local macro_p,macro_r,macro_f1,c,micro_p,micro_r,micro_f1 = test(network, tdatas[i], params)
-	       print("Test_macro: " .. macro_p .. " " .. macro_r .. " " .. macro_f1)
-	       print("Test_micro: " .. micro_p .. " " .. micro_r .. " " .. micro_f1)
-	       
-	       f_macro_precision:write(macro_p .. "\n"); f_macro_precision:flush()
-	       f_macro_recall:write(macro_r .. "\n"); f_macro_recall:flush()
-	       f_macro_f1:write(macro_f1 .. "\n"); f_macro_f1:flush()
-	       f_micro_precision:write(micro_p .. "\n"); f_micro_precision:flush()
-	       f_micro_recall:write(micro_r .. "\n"); f_micro_recall:flush()
-	       f_micro_f1:write(micro_f1 .. "\n"); f_micro_f1:flush()
-	       fcost:write(c .. "\n"); fcost:flush()
-	       
-	       fcost:close()
-	       f_macro_precision:close(); f_macro_recall:close(); f_macro_f1:close()
-	       f_micro_precision:close(); f_micro_recall:close(); f_micro_f1:close()
-	    end
+      --test on test (bouhou!)
+      print("*****************************Test on test***********************************")
+      for i=1,#datas do
+	 if params.testc==0 or params.testc==i then
+	    local fcost = io.open(rundir .. "/" .. datas[i].corpus .. "-cost_test", 'a')
+	    local f_macro_precision = io.open(rundir .. "/" .. datas[i].corpus .. "-macro_precision_test", 'a')
+	    local f_macro_recall = io.open(rundir .. "/" .. datas[i].corpus .. "-macro_recall_test", 'a')
+	    local f_macro_f1 = io.open(rundir .. "/" .. datas[i].corpus .. "-macro_f1-score_test", 'a')
+	    local f_micro_precision = io.open(rundir .. "/" .. datas[i].corpus .. "-micro_precision_test", 'a')
+	    local f_micro_recall = io.open(rundir .. "/" .. datas[i].corpus .. "-micro_recall_test", 'a')
+	    local f_micro_f1 = io.open(rundir .. "/" .. datas[i].corpus .. "-micro_f1-score_test", 'a')
+	    
+	    local macro_p,macro_r,macro_f1,c,micro_p,micro_r,micro_f1 = test(network, tdatas[i], params)
+	    print("Test_macro: " .. macro_p .. " " .. macro_r .. " " .. macro_f1)
+	    print("Test_micro: " .. micro_p .. " " .. micro_r .. " " .. micro_f1)
+	    
+	    f_macro_precision:write(macro_p .. "\n"); f_macro_precision:flush()
+	    f_macro_recall:write(macro_r .. "\n"); f_macro_recall:flush()
+	    f_macro_f1:write(macro_f1 .. "\n"); f_macro_f1:flush()
+	    f_micro_precision:write(micro_p .. "\n"); f_micro_precision:flush()
+	    f_micro_recall:write(micro_r .. "\n"); f_micro_recall:flush()
+	    f_micro_f1:write(micro_f1 .. "\n"); f_micro_f1:flush()
+	    fcost:write(c .. "\n"); fcost:flush()
+	    
+	    fcost:close()
+	    f_macro_precision:close(); f_macro_recall:close(); f_macro_f1:close()
+	    f_micro_precision:close(); f_micro_recall:close(); f_micro_f1:close()
 	 end
       end
    else
