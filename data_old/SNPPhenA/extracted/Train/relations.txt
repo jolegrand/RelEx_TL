@@ -1,0 +1,356 @@
+0 1 weak_confidence_association 	
+0 1 neutral_association 	
+0 1 weak_confidence_association 	
+0 1 negative_association 	
+0 2 weak_confidence_association 0 3 negative_association 1 2 weak_confidence_association 1 3 negative_association 	
+0 1 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 2 moderate_confidence_association 0 1 moderate_confidence_association 	
+0 1 neutral_association 	
+0 1 weak_confidence_association 	
+0 9 strong_confidence_association 1 9 strong_confidence_association 2 9 strong_confidence_association 3 9 strong_confidence_association 4 9 strong_confidence_association 5 9 strong_confidence_association 6 9 strong_confidence_association 7 9 strong_confidence_association 8 9 strong_confidence_association 	
+0 2 strong_confidence_association 1 2 strong_confidence_association 	
+0 2 negative_association 0 3 negative_association 0 1 negative_association 	
+2 3 strong_confidence_association 0 3 strong_confidence_association 1 3 strong_confidence_association 	
+0 1 weak_confidence_association 0 2 weak_confidence_association 	
+0 3 negative_association 1 3 negative_association 2 3 negative_association 	
+0 1 weak_confidence_association 	
+0 3 weak_confidence_association 1 3 weak_confidence_association 2 3 weak_confidence_association 	
+0 1 strong_confidence_association 	
+0 5 neutral_association 1 5 neutral_association 2 5 neutral_association 3 5 neutral_association 4 5 neutral_association 	
+0 2 strong_confidence_association 1 2 strong_confidence_association 	
+0 1 strong_confidence_association 0 2 strong_confidence_association 	
+0 4 weak_confidence_association 1 4 weak_confidence_association 2 4 weak_confidence_association 3 4 weak_confidence_association 	
+0 1 strong_confidence_association 	
+0 1 strong_confidence_association 	
+0 1 weak_confidence_association 0 2 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 2 weak_confidence_association 0 3 weak_confidence_association 1 2 weak_confidence_association 1 3 weak_confidence_association 	
+0 1 strong_confidence_association 0 2 strong_confidence_association 	
+0 1 strong_confidence_association 	
+0 1 weak_confidence_association 0 2 neutral_association 	
+0 1 negative_association 	
+0 1 strong_confidence_association 	
+0 1 strong_confidence_association 	
+0 1 negative_association 	
+0 1 negative_association 	
+0 1 weak_confidence_association 	
+0 4 strong_confidence_association 1 4 strong_confidence_association 2 4 weak_confidence_association 3 4 weak_confidence_association 	
+0 2 weak_confidence_association 0 3 weak_confidence_association 1 2 weak_confidence_association 1 3 weak_confidence_association 	
+0 1 negative_association 0 2 negative_association 	
+0 1 moderate_confidence_association 0 2 strong_confidence_association 	
+0 1 weak_confidence_association 	
+0 2 weak_confidence_association 1 2 weak_confidence_association 	
+0 1 negative_association 0 2 negative_association 	
+0 3 negative_association 1 3 negative_association 0 2 weak_confidence_association 1 2 neutral_association 	
+0 1 strong_confidence_association 	
+0 1 strong_confidence_association 	
+0 1 negative_association 	
+0 2 weak_confidence_association 1 2 neutral_association 0 3 neutral_association 1 3 negative_association 	
+0 2 strong_confidence_association 1 2 strong_confidence_association 	
+0 3 strong_confidence_association 1 3 strong_confidence_association 2 3 strong_confidence_association 	
+0 1 moderate_confidence_association 0 2 strong_confidence_association 0 3 weak_confidence_association 0 4 weak_confidence_association 	
+0 2 weak_confidence_association 0 3 weak_confidence_association 1 2 weak_confidence_association 1 3 weak_confidence_association 	
+0 2 strong_confidence_association 0 3 neutral_association 1 2 neutral_association 1 3 weak_confidence_association 	
+0 1 moderate_confidence_association 0 2 moderate_confidence_association 	
+0 1 negative_association 0 2 negative_association 	
+0 3 strong_confidence_association 0 1 strong_confidence_association 0 2 strong_confidence_association 	
+0 1 strong_confidence_association 0 2 strong_confidence_association 	
+0 2 weak_confidence_association 1 2 weak_confidence_association 2 3 weak_confidence_association 	
+0 1 weak_confidence_association 0 2 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 moderate_confidence_association 0 2 moderate_confidence_association 0 3 weak_confidence_association 	
+0 2 weak_confidence_association 0 3 weak_confidence_association 1 2 weak_confidence_association 1 3 weak_confidence_association 	
+0 1 moderate_confidence_association 0 2 weak_confidence_association 	
+0 2 weak_confidence_association 0 3 weak_confidence_association 0 1 weak_confidence_association 	
+1 3 moderate_confidence_association 2 3 weak_confidence_association 0 3 moderate_confidence_association 	
+0 3 moderate_confidence_association 1 3 moderate_confidence_association 2 3 weak_confidence_association 	
+0 1 strong_confidence_association 	
+0 1 moderate_confidence_association 0 2 moderate_confidence_association 	
+0 5 neutral_association 1 5 neutral_association 2 5 neutral_association 3 5 neutral_association 4 5 neutral_association 	
+0 3 strong_confidence_association 1 3 strong_confidence_association 2 3 negative_association 	
+0 1 weak_confidence_association 	
+0 1 strong_confidence_association 	
+0 1 strong_confidence_association 	
+0 2 strong_confidence_association 1 2 strong_confidence_association 	
+1 2 strong_confidence_association 0 2 weak_confidence_association 	
+0 2 moderate_confidence_association 1 2 negative_association 	
+0 2 strong_confidence_association 1 2 strong_confidence_association 	
+0 1 negative_association 0 2 negative_association 0 3 negative_association 	
+0 1 strong_confidence_association 	
+0 1 strong_confidence_association 	
+0 6 neutral_association 1 6 neutral_association 2 6 neutral_association 3 6 neutral_association 4 6 neutral_association 5 6 neutral_association 	
+0 1 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 2 weak_confidence_association 1 2 moderate_confidence_association 	
+0 2 weak_confidence_association 1 2 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 4 weak_confidence_association 1 4 weak_confidence_association 2 4 weak_confidence_association 0 3 weak_confidence_association 1 3 weak_confidence_association 2 3 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 weak_confidence_association 0 2 weak_confidence_association 	
+0 1 negative_association 	
+0 3 strong_confidence_association 1 3 strong_confidence_association 0 2 strong_confidence_association 1 2 strong_confidence_association 	
+0 2 weak_confidence_association 0 3 weak_confidence_association 1 2 weak_confidence_association 1 3 weak_confidence_association 	
+0 3 strong_confidence_association 0 4 strong_confidence_association 1 3 strong_confidence_association 1 4 strong_confidence_association 2 3 strong_confidence_association 2 4 strong_confidence_association 	
+0 6 neutral_association 1 6 neutral_association 2 6 neutral_association 3 6 neutral_association 0 7 neutral_association 1 7 neutral_association 2 7 neutral_association 3 7 neutral_association 4 6 neutral_association 4 7 neutral_association 5 6 neutral_association 5 7 neutral_association 	
+0 1 strong_confidence_association 	
+0 2 weak_confidence_association 0 3 weak_confidence_association 1 2 weak_confidence_association 1 3 weak_confidence_association 	
+0 2 weak_confidence_association 1 2 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 4 weak_confidence_association 1 4 weak_confidence_association 2 4 neutral_association 0 5 neutral_association 1 5 neutral_association 2 5 weak_confidence_association 0 3 weak_confidence_association 1 3 weak_confidence_association 2 3 neutral_association 	
+0 1 strong_confidence_association 	
+0 1 strong_confidence_association 	
+0 1 weak_confidence_association 	
+0 2 weak_confidence_association 1 2 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 3 strong_confidence_association 0 4 strong_confidence_association 1 3 strong_confidence_association 1 4 strong_confidence_association 2 3 strong_confidence_association 2 4 strong_confidence_association 	
+0 4 strong_confidence_association 1 4 strong_confidence_association 2 4 strong_confidence_association 3 4 strong_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 negative_association 	
+0 1 weak_confidence_association 	
+0 1 negative_association 	
+0 1 weak_confidence_association 	
+0 2 strong_confidence_association 0 3 strong_confidence_association 0 4 strong_confidence_association 1 2 strong_confidence_association 1 3 strong_confidence_association 1 4 strong_confidence_association 	
+0 1 negative_association 	
+0 1 moderate_confidence_association 	
+0 2 strong_confidence_association 1 2 strong_confidence_association 	
+0 2 negative_association 1 2 negative_association 	
+0 3 weak_confidence_association 1 3 weak_confidence_association 2 3 weak_confidence_association 	
+0 1 negative_association 0 2 negative_association 0 3 negative_association 	
+0 1 strong_confidence_association 	
+0 1 neutral_association 0 2 neutral_association 	
+0 1 weak_confidence_association 0 2 weak_confidence_association 	
+0 2 weak_confidence_association 1 2 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 11 weak_confidence_association 0 12 weak_confidence_association 0 13 weak_confidence_association 0 14 weak_confidence_association 0 15 weak_confidence_association 1 11 weak_confidence_association 1 12 weak_confidence_association 1 13 weak_confidence_association 1 14 weak_confidence_association 1 15 weak_confidence_association 2 11 weak_confidence_association 2 12 weak_confidence_association 2 13 weak_confidence_association 2 14 weak_confidence_association 2 15 weak_confidence_association 3 11 weak_confidence_association 3 12 weak_confidence_association 3 13 weak_confidence_association 3 14 weak_confidence_association 3 15 weak_confidence_association 4 11 weak_confidence_association 4 12 weak_confidence_association 4 13 weak_confidence_association 4 14 weak_confidence_association 4 15 weak_confidence_association 5 11 weak_confidence_association 5 12 weak_confidence_association 5 13 weak_confidence_association 5 14 weak_confidence_association 5 15 weak_confidence_association 6 11 weak_confidence_association 6 12 weak_confidence_association 6 13 weak_confidence_association 6 14 weak_confidence_association 6 15 weak_confidence_association 7 11 weak_confidence_association 7 12 weak_confidence_association 7 13 weak_confidence_association 7 14 weak_confidence_association 7 15 weak_confidence_association 8 11 weak_confidence_association 8 12 weak_confidence_association 8 13 weak_confidence_association 8 14 weak_confidence_association 8 15 weak_confidence_association 9 11 weak_confidence_association 9 12 weak_confidence_association 9 13 weak_confidence_association 9 14 weak_confidence_association 9 15 weak_confidence_association 10 11 neutral_association 10 12 neutral_association 10 13 neutral_association 10 14 neutral_association 10 15 neutral_association 	
+0 2 strong_confidence_association 1 2 moderate_confidence_association 	
+0 2 weak_confidence_association 0 3 negative_association 1 2 weak_confidence_association 1 3 negative_association 	
+0 1 neutral_association 	
+0 7 moderate_confidence_association 1 7 moderate_confidence_association 2 7 moderate_confidence_association 3 7 moderate_confidence_association 4 7 moderate_confidence_association 5 7 moderate_confidence_association 6 7 moderate_confidence_association 7 8 moderate_confidence_association 	
+0 1 strong_confidence_association 	
+0 1 neutral_association 	
+0 1 moderate_confidence_association 	
+0 1 neutral_association 0 2 neutral_association 0 3 neutral_association 	
+0 2 moderate_confidence_association 1 2 moderate_confidence_association 	
+0 1 strong_confidence_association 	
+0 2 weak_confidence_association 0 3 weak_confidence_association 1 2 weak_confidence_association 1 3 weak_confidence_association 0 4 weak_confidence_association 0 5 weak_confidence_association 1 4 weak_confidence_association 1 5 weak_confidence_association 	
+0 4 weak_confidence_association 1 4 weak_confidence_association 2 4 weak_confidence_association 3 4 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 3 weak_confidence_association 1 3 weak_confidence_association 2 3 weak_confidence_association 	
+0 2 weak_confidence_association 0 3 weak_confidence_association 1 2 weak_confidence_association 1 3 weak_confidence_association 	
+0 1 strong_confidence_association 	
+0 3 neutral_association 0 1 neutral_association 0 2 neutral_association 	
+0 1 weak_confidence_association 	
+0 1 weak_confidence_association 0 2 moderate_confidence_association 	
+0 2 strong_confidence_association 1 2 strong_confidence_association 	
+0 1 negative_association 	
+0 1 moderate_confidence_association 	
+0 2 weak_confidence_association 0 3 weak_confidence_association 0 4 weak_confidence_association 1 2 weak_confidence_association 1 3 weak_confidence_association 1 4 weak_confidence_association 	
+0 1 neutral_association 	
+0 3 strong_confidence_association 1 3 strong_confidence_association 2 3 strong_confidence_association 	
+0 1 strong_confidence_association 	
+0 1 strong_confidence_association 	
+0 2 neutral_association 1 2 neutral_association 	
+0 2 strong_confidence_association 0 3 strong_confidence_association 1 2 strong_confidence_association 1 3 strong_confidence_association 	
+0 2 moderate_confidence_association 0 1 moderate_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 moderate_confidence_association 	
+0 1 negative_association 	
+0 1 weak_confidence_association 	
+0 1 strong_confidence_association 	
+0 2 moderate_confidence_association 0 1 weak_confidence_association 	
+0 3 neutral_association 1 3 neutral_association 2 3 neutral_association 	
+0 2 weak_confidence_association 1 2 weak_confidence_association 	
+0 2 neutral_association 0 1 neutral_association 	
+0 9 strong_confidence_association 1 9 strong_confidence_association 2 9 strong_confidence_association 3 9 strong_confidence_association 4 9 strong_confidence_association 5 9 strong_confidence_association 6 9 strong_confidence_association 7 9 strong_confidence_association 8 9 strong_confidence_association 	
+0 3 strong_confidence_association 2 3 strong_confidence_association 1 3 moderate_confidence_association 	
+0 3 weak_confidence_association 1 3 weak_confidence_association 0 2 weak_confidence_association 1 2 weak_confidence_association 	
+0 2 neutral_association 0 3 neutral_association 1 2 neutral_association 1 3 neutral_association 	
+0 3 weak_confidence_association 1 3 weak_confidence_association 2 3 weak_confidence_association 	
+0 5 moderate_confidence_association 1 5 strong_confidence_association 2 5 strong_confidence_association 3 5 moderate_confidence_association 4 5 weak_confidence_association 	
+0 1 strong_confidence_association 	
+0 2 weak_confidence_association 1 2 weak_confidence_association 	
+0 2 weak_confidence_association 1 2 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 2 strong_confidence_association 1 2 strong_confidence_association 	
+0 1 weak_confidence_association 0 2 weak_confidence_association 	
+0 24 moderate_confidence_association 1 24 moderate_confidence_association 2 24 moderate_confidence_association 3 24 moderate_confidence_association 4 24 moderate_confidence_association 5 24 moderate_confidence_association 6 24 moderate_confidence_association 7 24 moderate_confidence_association 8 24 moderate_confidence_association 9 24 moderate_confidence_association 10 24 moderate_confidence_association 11 24 moderate_confidence_association 12 24 moderate_confidence_association 13 24 moderate_confidence_association 14 24 moderate_confidence_association 15 24 moderate_confidence_association 16 24 moderate_confidence_association 17 24 moderate_confidence_association 18 24 moderate_confidence_association 19 24 moderate_confidence_association 20 24 moderate_confidence_association 21 24 moderate_confidence_association 22 24 moderate_confidence_association 23 24 moderate_confidence_association 	
+0 2 moderate_confidence_association 1 2 moderate_confidence_association 	
+0 1 neutral_association 0 2 neutral_association 0 3 neutral_association 	
+0 1 strong_confidence_association 	
+0 1 strong_confidence_association 	
+0 1 neutral_association 	
+0 1 neutral_association 	
+0 2 weak_confidence_association 0 1 weak_confidence_association 	
+0 1 weak_confidence_association 0 2 weak_confidence_association 	
+0 1 neutral_association 	
+0 1 strong_confidence_association 	
+0 1 negative_association 	
+0 2 strong_confidence_association 0 3 strong_confidence_association 1 2 strong_confidence_association 1 3 strong_confidence_association 	
+0 1 weak_confidence_association 0 2 weak_confidence_association 	
+0 1 neutral_association 0 2 neutral_association 0 3 neutral_association 	
+0 2 strong_confidence_association 1 2 strong_confidence_association 	
+0 1 strong_confidence_association 0 2 strong_confidence_association 	
+0 4 neutral_association 0 5 neutral_association 0 6 neutral_association 1 4 neutral_association 1 5 neutral_association 1 6 neutral_association 2 4 neutral_association 2 5 neutral_association 2 6 neutral_association 3 4 neutral_association 3 5 neutral_association 3 6 neutral_association 	
+0 1 strong_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 strong_confidence_association 	
+0 4 neutral_association 0 5 neutral_association 0 6 neutral_association 1 4 neutral_association 1 5 neutral_association 1 6 neutral_association 2 4 neutral_association 2 5 neutral_association 2 6 neutral_association 3 4 neutral_association 3 5 neutral_association 3 6 neutral_association 	
+0 1 weak_confidence_association 	
+0 4 moderate_confidence_association 1 4 moderate_confidence_association 2 4 weak_confidence_association 3 4 weak_confidence_association 	
+1 3 moderate_confidence_association 0 2 weak_confidence_association 0 3 moderate_confidence_association 0 4 weak_confidence_association 1 2 weak_confidence_association 1 4 moderate_confidence_association 	
+0 1 neutral_association 	
+0 2 strong_confidence_association 0 1 strong_confidence_association 	
+0 2 weak_confidence_association 0 1 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 moderate_confidence_association 	
+0 3 weak_confidence_association 1 3 negative_association 2 3 negative_association 	
+0 1 moderate_confidence_association 	
+0 9 strong_confidence_association 1 9 strong_confidence_association 2 9 strong_confidence_association 3 9 strong_confidence_association 5 9 strong_confidence_association 6 9 strong_confidence_association 4 9 strong_confidence_association 7 9 strong_confidence_association 8 9 strong_confidence_association 	
+0 2 strong_confidence_association 1 2 strong_confidence_association 1 3 strong_confidence_association 0 3 strong_confidence_association 	
+0 2 moderate_confidence_association 1 2 moderate_confidence_association 	
+0 3 strong_confidence_association 1 3 negative_association 2 3 negative_association 	
+0 6 negative_association 1 6 negative_association 2 6 negative_association 3 6 negative_association 4 6 negative_association 5 6 negative_association 	
+0 4 strong_confidence_association 1 4 strong_confidence_association 2 4 strong_confidence_association 3 4 strong_confidence_association 	
+0 2 neutral_association 1 2 neutral_association 	
+0 1 strong_confidence_association 	
+0 1 weak_confidence_association 0 2 weak_confidence_association 	
+0 1 strong_confidence_association 	
+0 1 moderate_confidence_association 	
+0 1 weak_confidence_association 	
+0 2 weak_confidence_association 0 1 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 weak_confidence_association 0 2 moderate_confidence_association 	
+0 2 weak_confidence_association 1 2 weak_confidence_association 	
+0 1 moderate_confidence_association 	
+0 1 weak_confidence_association 0 2 weak_confidence_association 0 3 weak_confidence_association 	
+0 1 negative_association 0 2 strong_confidence_association 	
+0 2 moderate_confidence_association 1 2 negative_association 	
+0 2 weak_confidence_association 1 2 weak_confidence_association 	
+0 2 weak_confidence_association 1 2 weak_confidence_association 	
+0 1 moderate_confidence_association 0 2 weak_confidence_association 	
+0 2 moderate_confidence_association 1 2 moderate_confidence_association 	
+0 1 negative_association 	
+0 1 moderate_confidence_association 	
+0 1 neutral_association 0 2 neutral_association 	
+0 1 neutral_association 	
+0 1 weak_confidence_association 	
+0 2 moderate_confidence_association 0 1 strong_confidence_association 	
+0 2 weak_confidence_association 0 1 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 2 weak_confidence_association 1 2 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 3 neutral_association 1 3 neutral_association 2 3 neutral_association 	
+0 1 moderate_confidence_association 	
+0 1 neutral_association 	
+0 1 weak_confidence_association 	
+0 1 weak_confidence_association 0 2 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 strong_confidence_association 	
+0 4 moderate_confidence_association 1 4 moderate_confidence_association 2 4 moderate_confidence_association 3 4 moderate_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 negative_association 	
+0 9 weak_confidence_association 4 9 weak_confidence_association 5 9 weak_confidence_association 6 9 weak_confidence_association 7 9 weak_confidence_association 8 9 weak_confidence_association 1 9 weak_confidence_association 2 9 weak_confidence_association 3 9 weak_confidence_association 	
+0 4 strong_confidence_association 1 4 strong_confidence_association 2 4 strong_confidence_association 3 4 strong_confidence_association 	
+0 4 weak_confidence_association 1 4 weak_confidence_association 2 4 weak_confidence_association 3 4 weak_confidence_association 	
+0 3 weak_confidence_association 1 3 weak_confidence_association 2 3 weak_confidence_association 	
+0 2 strong_confidence_association 1 2 strong_confidence_association 	
+0 2 strong_confidence_association 1 2 strong_confidence_association 	
+0 3 moderate_confidence_association 0 1 neutral_association 0 2 neutral_association 	
+0 1 neutral_association 	
+0 1 weak_confidence_association 0 3 weak_confidence_association 0 4 weak_confidence_association 0 2 weak_confidence_association 	
+0 5 weak_confidence_association 1 5 weak_confidence_association 2 5 moderate_confidence_association 3 5 weak_confidence_association 4 5 moderate_confidence_association 	
+0 6 neutral_association 1 6 neutral_association 2 6 neutral_association 3 6 neutral_association 4 6 neutral_association 5 6 neutral_association 	
+0 1 strong_confidence_association 	
+0 3 weak_confidence_association 1 3 weak_confidence_association 2 3 weak_confidence_association 	
+0 1 strong_confidence_association 	
+0 2 negative_association 1 2 negative_association 	
+0 4 weak_confidence_association 1 4 weak_confidence_association 3 4 weak_confidence_association 2 4 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 4 neutral_association 1 4 neutral_association 2 4 neutral_association 3 4 neutral_association 	
+0 2 strong_confidence_association 1 2 strong_confidence_association 	
+0 1 moderate_confidence_association 	
+0 1 strong_confidence_association 	
+0 2 strong_confidence_association 1 2 strong_confidence_association 	
+0 5 weak_confidence_association 1 5 weak_confidence_association 2 5 weak_confidence_association 3 5 weak_confidence_association 4 5 weak_confidence_association 	
+0 3 strong_confidence_association 1 3 strong_confidence_association 2 3 strong_confidence_association 	
+0 2 neutral_association 1 2 neutral_association 	
+0 2 negative_association 1 2 negative_association 	
+0 7 strong_confidence_association 1 7 strong_confidence_association 2 7 neutral_association 3 7 negative_association 4 7 negative_association 5 7 neutral_association 6 7 neutral_association 	
+0 4 neutral_association 1 4 neutral_association 2 4 neutral_association 3 4 neutral_association 	
+0 1 weak_confidence_association 	
+0 4 weak_confidence_association 0 5 weak_confidence_association 1 4 neutral_association 1 5 weak_confidence_association 2 4 moderate_confidence_association 2 5 weak_confidence_association 3 4 negative_association 3 5 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 negative_association 0 2 negative_association 0 3 negative_association 0 4 negative_association 	
+0 1 strong_confidence_association 0 2 strong_confidence_association 	
+0 1 negative_association 	
+0 2 neutral_association 0 3 neutral_association 1 2 neutral_association 1 3 neutral_association 	
+0 1 weak_confidence_association 0 2 weak_confidence_association 	
+0 4 moderate_confidence_association 1 4 moderate_confidence_association 2 4 moderate_confidence_association 3 4 moderate_confidence_association 	
+0 1 weak_confidence_association 0 2 weak_confidence_association 0 3 weak_confidence_association 	
+0 3 weak_confidence_association 1 3 weak_confidence_association 2 3 moderate_confidence_association 	
+0 2 weak_confidence_association 1 2 weak_confidence_association 	
+0 8 weak_confidence_association 1 8 weak_confidence_association 2 8 weak_confidence_association 3 8 weak_confidence_association 4 8 weak_confidence_association 5 8 weak_confidence_association 6 8 weak_confidence_association 7 8 weak_confidence_association 	
+0 3 strong_confidence_association 1 3 strong_confidence_association 2 3 strong_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 strong_confidence_association 	
+0 9 strong_confidence_association 1 9 strong_confidence_association 2 9 strong_confidence_association 3 9 moderate_confidence_association 4 9 weak_confidence_association 5 9 weak_confidence_association 6 9 weak_confidence_association 7 9 moderate_confidence_association 8 9 weak_confidence_association 	
+0 6 weak_confidence_association 1 6 weak_confidence_association 2 6 weak_confidence_association 3 6 weak_confidence_association 4 6 weak_confidence_association 5 6 weak_confidence_association 0 7 weak_confidence_association 1 7 weak_confidence_association 2 7 weak_confidence_association 3 7 weak_confidence_association 4 7 weak_confidence_association 5 7 weak_confidence_association 	
+0 2 strong_confidence_association 1 2 strong_confidence_association 	
+0 3 strong_confidence_association 1 3 strong_confidence_association 2 3 strong_confidence_association 	
+0 1 strong_confidence_association 	
+0 2 negative_association 0 3 negative_association 1 2 negative_association 1 3 negative_association 	
+0 1 strong_confidence_association 0 2 strong_confidence_association 	
+0 2 strong_confidence_association 1 2 strong_confidence_association 	
+0 2 weak_confidence_association 1 2 weak_confidence_association 	
+0 2 negative_association 1 2 negative_association 	
+0 1 strong_confidence_association 0 2 strong_confidence_association 0 3 strong_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 weak_confidence_association 0 2 moderate_confidence_association 	
+0 1 weak_confidence_association 0 2 weak_confidence_association 	
+0 1 moderate_confidence_association 	
+1 2 negative_association 0 2 weak_confidence_association 	
+0 3 weak_confidence_association 0 2 weak_confidence_association 1 2 negative_association 1 3 negative_association 	
+0 1 weak_confidence_association 	
+0 5 strong_confidence_association 1 5 strong_confidence_association 2 5 strong_confidence_association 3 5 negative_association 4 5 negative_association 	
+0 2 moderate_confidence_association 0 3 negative_association 0 4 negative_association 0 5 negative_association 1 2 moderate_confidence_association 1 3 negative_association 1 4 negative_association 1 5 negative_association 	
+0 2 weak_confidence_association 0 3 moderate_confidence_association 1 2 weak_confidence_association 1 3 moderate_confidence_association 	
+0 2 strong_confidence_association 0 3 strong_confidence_association 1 2 strong_confidence_association 1 3 strong_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 strong_confidence_association 	
+0 1 negative_association 	
+0 1 negative_association 	
+0 2 strong_confidence_association 1 2 strong_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 moderate_confidence_association 	
+0 2 weak_confidence_association 1 2 weak_confidence_association 	
+0 1 strong_confidence_association 	
+0 1 strong_confidence_association 	
+0 2 strong_confidence_association 1 2 weak_confidence_association 	
+0 2 weak_confidence_association 1 2 weak_confidence_association 	
+0 2 strong_confidence_association 1 2 strong_confidence_association 	
+0 2 strong_confidence_association 1 2 strong_confidence_association 	
+0 2 negative_association 1 2 negative_association 	
+0 1 moderate_confidence_association 	
+0 2 neutral_association 1 2 neutral_association 	
+0 2 strong_confidence_association 1 2 strong_confidence_association 	
+0 1 negative_association 	
+0 1 weak_confidence_association 	
+0 1 strong_confidence_association 	
+0 1 weak_confidence_association 	
+0 2 neutral_association 1 2 neutral_association 	
+0 1 moderate_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 1 weak_confidence_association 	
+0 4 weak_confidence_association 1 4 weak_confidence_association 2 4 weak_confidence_association 3 4 weak_confidence_association 	

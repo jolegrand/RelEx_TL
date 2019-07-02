@@ -1,0 +1,356 @@
+SNP 65 69 Phenotype 116 120 
+SNP 39 43 Phenotype 84 88 
+SNP 12 16 Phenotype 31 35 
+SNP 127 131 Phenotype 82 86 
+SNP 43 47 SNP 51 55 Phenotype 69 73 Phenotype 83 87 
+SNP 68 72 Phenotype 83 87 
+SNP 34 38 Phenotype 21 25 
+SNP 78 82 Phenotype 118 122 Phenotype 125 129 
+SNP 26 30 Phenotype 62 66 
+SNP 33 37 Phenotype 72 76 
+SNP 84 88 SNP 113 117 SNP 136 140 SNP 159 163 SNP 187 191 SNP 213 217 SNP 241 245 SNP 268 272 SNP 294 298 Phenotype 47 52 
+SNP 64 68 SNP 72 76 Phenotype 159 163 
+SNP 35 39 Phenotype 70 74 Phenotype 141 145 Phenotype 230 234 
+SNP 64 68 SNP 126 130 SNP 161 165 Phenotype 35 39 
+SNP 46 50 Phenotype 90 94 Phenotype 158 162 
+SNP 56 60 SNP 84 88 SNP 130 134 Phenotype 137 141 
+SNP 88 92 Phenotype 45 49 
+SNP 173 177 SNP 187 191 SNP 258 262 Phenotype 143 147 
+SNP 25 29 Phenotype 98 102 
+SNP 22 26 SNP 32 36 SNP 42 46 SNP 52 56 SNP 58 62 Phenotype 81 85 
+SNP 50 54 SNP 64 68 Phenotype 121 125 
+SNP 51 55 Phenotype 193 197 Phenotype 200 204 
+SNP 72 76 SNP 78 82 SNP 84 88 SNP 90 94 Phenotype 140 144 
+SNP 67 71 Phenotype 76 80 
+SNP 38 42 Phenotype 83 87 
+SNP 32 36 Phenotype 81 85 Phenotype 127 131 
+SNP 33 37 Phenotype 62 66 
+SNP 30 34 SNP 66 70 Phenotype 89 93 Phenotype 97 101 
+SNP 30 34 Phenotype 82 86 Phenotype 98 102 
+SNP 17 21 Phenotype 67 71 
+SNP 10 14 Phenotype 36 40 Phenotype 86 90 
+SNP 49 53 Phenotype 57 61 
+SNP 36 40 Phenotype 72 76 
+SNP 54 58 Phenotype 91 95 
+SNP 18 22 Phenotype 38 42 
+SNP 0 4 Phenotype 17 21 
+SNP 94 98 Phenotype 43 47 
+SNP 94 98 SNP 102 106 SNP 159 163 SNP 167 171 Phenotype 49 53 
+SNP 142 146 SNP 150 154 Phenotype 158 162 Phenotype 198 202 
+SNP 8 12 Phenotype 44 48 Phenotype 101 105 
+SNP 3 7 Phenotype 44 48 Phenotype 78 82 
+SNP 12 16 Phenotype 47 51 
+SNP 0 4 SNP 8 12 Phenotype 68 72 
+SNP 52 56 Phenotype 35 39 Phenotype 113 117 
+SNP 114 118 SNP 148 152 Phenotype 84 88 Phenotype 156 160 
+SNP 26 30 Phenotype 56 60 
+SNP 66 70 Phenotype 112 116 
+SNP 91 95 Phenotype 99 103 
+SNP 102 106 SNP 136 140 Phenotype 72 76 Phenotype 144 148 
+SNP 42 46 SNP 73 77 Phenotype 127 131 
+SNP 66 70 SNP 121 125 SNP 167 171 Phenotype 28 32 
+SNP 88 92 Phenotype 110 114 Phenotype 125 129 Phenotype 143 147 Phenotype 165 169 
+SNP 35 39 SNP 61 65 Phenotype 91 95 Phenotype 99 103 
+SNP 8 12 SNP 72 76 Phenotype 56 60 Phenotype 104 108 
+SNP 16 20 Phenotype 28 32 Phenotype 36 40 
+SNP 41 45 Phenotype 58 62 Phenotype 65 69 
+SNP 3 7 Phenotype 64 68 Phenotype 72 76 Phenotype 79 83 
+SNP 73 77 Phenotype 142 146 Phenotype 150 154 
+SNP 117 121 SNP 123 127 Phenotype 52 56 SNP 137 141 
+SNP 8 12 Phenotype 47 51 Phenotype 118 122 
+SNP 12 16 Phenotype 34 38 
+SNP 36 40 Phenotype 68 72 Phenotype 83 87 Phenotype 101 105 
+SNP 19 23 SNP 27 31 Phenotype 85 89 Phenotype 119 123 
+SNP 21 25 Phenotype 107 111 Phenotype 116 120 
+SNP 45 49 Phenotype 88 92 Phenotype 144 148 Phenotype 157 161 
+SNP 35 39 SNP 41 45 SNP 50 54 Phenotype 93 97 
+SNP 35 39 SNP 41 45 SNP 50 54 Phenotype 93 97 
+SNP 39 43 Phenotype 90 94 
+SNP 61 65 Phenotype 131 135 Phenotype 141 145 
+SNP 78 82 SNP 84 88 SNP 91 95 SNP 97 101 SNP 114 118 Phenotype 31 35 
+SNP 94 98 SNP 102 106 SNP 161 165 Phenotype 111 115 
+SNP 17 21 Phenotype 91 95 
+SNP 68 72 Phenotype 181 185 
+SNP 46 50 Phenotype 8 12 
+SNP 0 4 SNP 70 74 Phenotype 54 58 
+SNP 0 4 SNP 70 74 Phenotype 54 58 
+SNP 89 93 SNP 181 185 Phenotype 105 109 
+SNP 12 16 SNP 71 75 Phenotype 41 45 
+SNP 82 86 Phenotype 112 116 Phenotype 118 122 Phenotype 125 129 
+SNP 101 105 Phenotype 73 77 
+SNP 134 138 Phenotype 164 168 
+SNP 84 88 SNP 90 94 SNP 96 100 SNP 102 106 SNP 108 112 SNP 114 118 Phenotype 150 154 
+SNP 44 48 Phenotype 83 87 
+SNP 49 53 Phenotype 88 92 
+SNP 56 60 SNP 91 95 Phenotype 126 130 
+SNP 12 16 SNP 174 178 Phenotype 183 187 
+SNP 43 47 Phenotype 59 63 
+SNP 231 235 SNP 259 263 SNP 305 309 Phenotype 57 61 Phenotype 128 132 
+SNP 122 126 Phenotype 159 163 
+SNP 16 20 Phenotype 110 114 
+SNP 81 85 Phenotype 95 99 
+SNP 6 10 Phenotype 57 61 Phenotype 83 87 
+SNP 52 56 Phenotype 110 114 
+SNP 113 117 SNP 121 125 Phenotype 88 92 Phenotype 165 169 
+SNP 17 21 SNP 25 29 Phenotype 69 73 Phenotype 101 105 
+SNP 72 76 SNP 78 82 SNP 86 90 Phenotype 103 107 Phenotype 192 196 
+SNP 50 54 SNP 63 67 SNP 69 73 SNP 85 89 SNP 110 114 SNP 136 140 Phenotype 159 163 Phenotype 167 171 
+SNP 47 51 Phenotype 109 113 
+SNP 0 4 SNP 8 12 Phenotype 82 86 Phenotype 119 123 
+SNP 8 12 SNP 16 20 Phenotype 47 51 
+SNP 96 100 Phenotype 139 143 
+SNP 107 111 SNP 121 125 SNP 177 181 Phenotype 145 149 Phenotype 152 156 Phenotype 200 204 
+SNP 15 19 Phenotype 109 113 
+SNP 16 20 Phenotype 39 43 
+SNP 60 64 Phenotype 96 100 
+SNP 27 31 SNP 104 108 Phenotype 150 154 
+SNP 57 61 Phenotype 89 93 
+SNP 185 189 SNP 191 195 SNP 199 203 Phenotype 11 15 Phenotype 64 68 
+SNP 93 97 SNP 99 103 SNP 105 109 SNP 113 117 Phenotype 67 71 
+SNP 38 42 Phenotype 103 107 
+SNP 38 42 Phenotype 103 107 
+SNP 7 11 Phenotype 50 54 
+SNP 4 8 Phenotype 50 54 
+SNP 11 15 Phenotype 40 44 
+SNP 53 57 Phenotype 95 99 
+SNP 41 45 SNP 75 79 Phenotype 132 136 Phenotype 277 281 Phenotype 284 288 
+SNP 39 43 Phenotype 55 59 
+SNP 12 16 Phenotype 70 74 
+SNP 46 50 SNP 58 62 Phenotype 183 187 
+SNP 126 130 SNP 133 137 Phenotype 140 144 
+SNP 25 29 SNP 31 35 SNP 79 83 Phenotype 171 175 
+SNP 30 34 Phenotype 51 55 Phenotype 57 61 Phenotype 65 69 
+SNP 41 45 Phenotype 2 6 
+SNP 39 43 Phenotype 56 60 Phenotype 65 69 
+SNP 0 4 Phenotype 19 23 Phenotype 51 55 
+SNP 44 48 SNP 86 90 Phenotype 52 56 
+SNP 71 75 Phenotype 45 49 
+SNP 62 66 SNP 70 74 SNP 102 106 SNP 126 130 SNP 132 136 SNP 141 145 SNP 177 181 SNP 200 204 SNP 265 269 SNP 291 296 SNP 334 339 Phenotype 93 98 Phenotype 111 116 Phenotype 186 191 Phenotype 274 279 Phenotype 301 306 
+SNP 40 44 SNP 48 52 Phenotype 57 61 
+SNP 50 54 SNP 64 68 Phenotype 83 87 Phenotype 110 114 
+SNP 8 12 Phenotype 81 85 
+SNP 168 172 SNP 176 180 SNP 195 199 SNP 212 216 SNP 235 239 SNP 243 247 SNP 262 266 Phenotype 89 93 SNP 279 283 
+SNP 26 30 Phenotype 75 79 
+SNP 39 43 Phenotype 61 65 
+SNP 33 37 Phenotype 72 76 
+SNP 70 74 Phenotype 121 125 Phenotype 136 140 Phenotype 144 148 
+SNP 53 57 SNP 61 65 Phenotype 148 152 
+SNP 12 16 Phenotype 57 61 
+SNP 42 46 SNP 124 128 Phenotype 49 53 Phenotype 57 61 Phenotype 153 157 Phenotype 161 165 
+SNP 37 41 SNP 54 58 SNP 74 78 SNP 89 93 Phenotype 144 148 
+SNP 41 45 Phenotype 131 135 
+SNP 10 14 SNP 23 27 SNP 43 47 Phenotype 75 79 
+SNP 8 12 SNP 16 20 Phenotype 43 47 Phenotype 62 66 
+SNP 31 35 Phenotype 66 70 
+SNP 104 108 Phenotype 42 46 Phenotype 60 64 Phenotype 68 72 
+SNP 53 57 Phenotype 63 67 
+SNP 80 84 Phenotype 177 181 Phenotype 194 198 
+SNP 29 33 SNP 35 39 Phenotype 133 137 
+SNP 20 24 Phenotype 125 129 
+SNP 0 4 Phenotype 50 54 
+SNP 58 62 SNP 70 74 Phenotype 111 115 Phenotype 125 129 Phenotype 133 137 
+SNP 27 31 Phenotype 83 87 
+SNP 200 204 SNP 206 210 SNP 214 218 Phenotype 79 83 
+SNP 58 62 Phenotype 82 86 
+SNP 44 48 Phenotype 139 143 
+SNP 45 49 SNP 53 57 Phenotype 61 65 
+SNP 17 21 SNP 23 27 Phenotype 145 149 Phenotype 262 266 
+SNP 34 38 Phenotype 63 67 Phenotype 91 95 
+SNP 66 70 Phenotype 111 115 
+SNP 80 84 Phenotype 152 156 
+SNP 4 8 Phenotype 37 41 
+SNP 126 130 Phenotype 64 68 
+SNP 59 63 Phenotype 124 128 
+SNP 19 23 Phenotype 89 93 Phenotype 180 184 
+SNP 69 73 SNP 75 79 SNP 84 88 Phenotype 105 109 
+SNP 0 4 SNP 8 12 Phenotype 41 45 
+SNP 52 56 Phenotype 80 84 Phenotype 123 127 
+SNP 17 21 SNP 35 39 SNP 53 57 SNP 71 75 SNP 90 94 SNP 104 108 SNP 119 123 SNP 133 137 SNP 149 153 Phenotype 214 219 
+SNP 27 31 SNP 127 131 SNP 170 174 Phenotype 65 69 
+SNP 45 49 SNP 53 57 Phenotype 167 171 Phenotype 180 184 
+SNP 47 51 SNP 64 68 Phenotype 130 134 Phenotype 136 140 
+SNP 57 61 SNP 87 91 SNP 104 108 Phenotype 145 149 
+SNP 79 83 SNP 93 97 SNP 113 117 SNP 158 162 SNP 173 177 Phenotype 44 48 
+SNP 13 17 Phenotype 243 247 
+SNP 48 52 SNP 56 60 Phenotype 121 125 
+SNP 135 139 SNP 174 178 Phenotype 202 206 
+SNP 54 58 Phenotype 93 97 
+SNP 71 75 SNP 83 87 Phenotype 138 142 
+SNP 84 88 Phenotype 79 83 Phenotype 176 180 
+SNP 174 178 SNP 180 184 SNP 186 190 SNP 192 196 SNP 198 202 SNP 204 208 SNP 217 221 SNP 230 234 SNP 236 240 SNP 242 247 SNP 249 254 SNP 256 261 SNP 263 268 SNP 270 275 SNP 277 282 SNP 292 297 SNP 299 304 SNP 312 317 SNP 319 324 SNP 332 337 SNP 339 344 SNP 346 351 SNP 353 358 SNP 360 365 Phenotype 393 398 
+SNP 85 89 SNP 91 95 Phenotype 53 57 
+SNP 32 36 Phenotype 87 91 Phenotype 93 97 Phenotype 108 112 
+SNP 46 50 Phenotype 103 107 
+SNP 46 50 Phenotype 103 107 
+SNP 79 83 Phenotype 11 15 
+SNP 17 21 Phenotype 219 223 
+SNP 52 56 Phenotype 97 101 Phenotype 159 163 
+SNP 3 7 Phenotype 70 74 Phenotype 131 135 
+SNP 39 43 Phenotype 78 82 
+SNP 31 35 Phenotype 48 52 
+SNP 12 16 Phenotype 55 59 
+SNP 127 131 SNP 227 231 Phenotype 255 259 Phenotype 320 324 
+SNP 13 17 Phenotype 20 24 Phenotype 64 68 
+SNP 77 81 Phenotype 141 145 Phenotype 150 154 Phenotype 158 162 
+SNP 17 21 SNP 38 42 Phenotype 64 68 
+SNP 3 7 Phenotype 36 40 Phenotype 70 74 
+SNP 25 29 SNP 31 35 SNP 37 41 SNP 46 50 Phenotype 71 75 Phenotype 84 88 Phenotype 104 108 
+SNP 10 14 Phenotype 49 53 
+SNP 22 26 Phenotype 61 65 
+SNP 39 43 Phenotype 163 167 
+SNP 25 29 SNP 31 35 SNP 37 41 SNP 46 50 Phenotype 71 75 Phenotype 84 88 Phenotype 104 108 
+SNP 94 98 Phenotype 43 47 
+SNP 90 94 SNP 98 102 SNP 155 159 SNP 163 167 Phenotype 49 53 
+SNP 131 135 SNP 139 143 Phenotype 79 83 Phenotype 147 151 Phenotype 187 191 
+SNP 56 60 Phenotype 66 70 
+SNP 78 82 Phenotype 118 122 Phenotype 125 129 
+SNP 16 20 Phenotype 60 64 Phenotype 81 85 
+SNP 6 10 Phenotype 37 41 
+SNP 102 106 Phenotype 140 144 
+SNP 21 25 SNP 27 31 SNP 35 39 Phenotype 81 85 
+SNP 31 35 Phenotype 47 51 
+SNP 17 21 SNP 31 35 SNP 45 49 SNP 63 67 SNP 82 86 SNP 96 100 SNP 111 115 SNP 125 129 SNP 141 145 Phenotype 206 211 
+SNP 64 68 SNP 97 101 Phenotype 72 76 Phenotype 147 151 
+SNP 184 188 SNP 190 194 Phenotype 112 116 
+SNP 38 42 SNP 129 133 SNP 137 141 Phenotype 93 97 
+SNP 77 81 SNP 83 87 SNP 89 93 SNP 95 99 SNP 101 105 SNP 110 114 Phenotype 122 126 
+SNP 66 70 SNP 72 76 SNP 78 82 SNP 84 88 Phenotype 244 248 
+SNP 52 56 SNP 73 77 Phenotype 99 103 
+SNP 65 69 Phenotype 81 85 
+SNP 45 49 Phenotype 24 28 Phenotype 59 63 
+SNP 23 27 Phenotype 73 77 
+SNP 23 27 Phenotype 68 72 
+SNP 39 43 Phenotype 60 64 
+SNP 14 18 Phenotype 59 63 Phenotype 66 70 
+SNP 18 22 Phenotype 62 66 
+SNP 13 17 Phenotype 36 40 
+SNP 24 28 Phenotype 45 49 Phenotype 173 177 
+SNP 81 85 SNP 157 161 Phenotype 52 56 
+SNP 31 35 Phenotype 94 98 
+SNP 51 55 Phenotype 82 86 Phenotype 126 130 Phenotype 133 137 
+SNP 3 7 Phenotype 48 52 Phenotype 168 172 
+SNP 3 7 SNP 72 76 Phenotype 55 59 
+SNP 23 27 SNP 31 35 Phenotype 64 68 
+SNP 23 27 SNP 31 35 Phenotype 64 68 
+SNP 17 21 Phenotype 65 69 Phenotype 100 104 
+SNP 47 51 SNP 55 59 Phenotype 155 159 
+SNP 93 97 Phenotype 201 205 
+SNP 29 33 Phenotype 51 55 
+SNP 197 201 Phenotype 28 32 Phenotype 138 142 
+SNP 103 107 Phenotype 72 76 
+SNP 100 104 Phenotype 127 131 
+SNP 138 142 Phenotype 71 75 Phenotype 156 160 
+SNP 82 86 Phenotype 130 134 Phenotype 138 142 
+SNP 39 43 Phenotype 77 81 
+SNP 40 44 SNP 89 93 Phenotype 136 140 
+SNP 50 54 Phenotype 109 113 
+SNP 99 103 SNP 114 118 SNP 191 195 Phenotype 36 40 
+SNP 49 53 Phenotype 87 91 
+SNP 81 85 Phenotype 129 133 
+SNP 42 46 Phenotype 139 143 
+SNP 56 60 Phenotype 126 130 Phenotype 169 173 
+SNP 12 16 Phenotype 57 61 
+SNP 39 43 Phenotype 88 92 
+SNP 18 22 Phenotype 94 98 
+SNP 105 109 Phenotype 119 123 
+SNP 47 51 SNP 104 108 SNP 110 114 SNP 116 120 Phenotype 23 27 
+SNP 9 13 Phenotype 66 70 
+SNP 21 25 Phenotype 29 33 
+SNP 12 16 Phenotype 60 64 
+SNP 14 18 Phenotype 124 128 
+SNP 19 23 Phenotype 70 74 
+SNP 91 95 SNP 104 108 SNP 117 121 SNP 129 133 SNP 144 148 SNP 150 154 SNP 162 166 SNP 176 180 SNP 198 202 Phenotype 72 77 
+SNP 54 58 SNP 86 90 SNP 157 161 SNP 190 194 Phenotype 0 4 
+SNP 46 50 SNP 52 56 SNP 58 62 SNP 79 83 Phenotype 116 120 
+SNP 55 59 SNP 63 67 SNP 95 99 Phenotype 119 123 
+SNP 50 54 SNP 58 62 Phenotype 91 95 
+SNP 66 70 SNP 110 114 Phenotype 197 201 
+SNP 66 70 Phenotype 25 29 Phenotype 57 61 Phenotype 105 109 
+SNP 72 76 Phenotype 81 85 
+SNP 47 51 Phenotype 20 24 Phenotype 88 92 Phenotype 148 152 Phenotype 219 223 
+SNP 57 61 SNP 96 100 SNP 135 139 SNP 174 178 SNP 230 234 Phenotype 300 304 
+SNP 57 61 SNP 70 74 SNP 82 86 SNP 94 98 SNP 108 112 SNP 123 127 Phenotype 172 176 
+SNP 77 81 Phenotype 44 48 
+SNP 37 41 SNP 96 100 SNP 102 106 Phenotype 157 161 
+SNP 41 45 Phenotype 123 127 
+SNP 159 163 SNP 176 180 Phenotype 195 199 
+SNP 145 149 SNP 231 235 SNP 317 321 SNP 344 348 Phenotype 43 47 
+SNP 44 48 Phenotype 126 130 
+SNP 49 53 SNP 74 78 SNP 80 84 SNP 99 103 Phenotype 110 114 
+SNP 54 58 SNP 62 66 Phenotype 46 50 
+SNP 15 19 Phenotype 112 116 
+SNP 88 92 Phenotype 8 12 
+SNP 119 123 SNP 125 129 Phenotype 287 291 
+SNP 91 95 SNP 97 101 SNP 103 107 SNP 109 113 SNP 125 129 Phenotype 85 89 
+SNP 10 14 SNP 87 91 SNP 136 140 Phenotype 232 236 
+SNP 46 50 SNP 58 62 Phenotype 183 187 
+SNP 134 138 SNP 141 145 Phenotype 148 152 
+SNP 66 70 SNP 81 85 SNP 104 108 SNP 115 119 SNP 129 133 SNP 142 146 SNP 180 184 Phenotype 94 98 
+SNP 146 150 SNP 167 171 SNP 189 193 SNP 213 217 Phenotype 78 82 
+SNP 63 67 Phenotype 44 48 
+SNP 49 53 SNP 57 61 SNP 96 100 SNP 103 107 Phenotype 87 91 Phenotype 170 174 
+SNP 27 31 Phenotype 55 59 
+SNP 23 27 Phenotype 32 36 Phenotype 46 50 Phenotype 60 64 Phenotype 75 79 
+SNP 30 34 Phenotype 51 55 Phenotype 60 64 
+SNP 33 37 Phenotype 42 46 
+SNP 60 64 SNP 68 72 Phenotype 96 100 Phenotype 109 113 
+SNP 101 105 Phenotype 10 14 Phenotype 58 62 
+SNP 15 19 SNP 21 25 SNP 27 31 SNP 35 39 Phenotype 81 85 
+SNP 2 6 Phenotype 45 49 Phenotype 73 77 Phenotype 90 94 
+SNP 36 40 SNP 63 67 SNP 105 109 Phenotype 172 176 
+SNP 39 43 SNP 47 51 Phenotype 116 120 
+SNP 68 72 SNP 80 84 SNP 86 90 SNP 97 101 SNP 112 116 SNP 120 124 SNP 136 140 SNP 154 158 Phenotype 42 46 
+SNP 98 102 SNP 110 114 SNP 123 127 Phenotype 69 73 
+SNP 9 13 Phenotype 58 62 
+SNP 71 75 Phenotype 106 110 
+SNP 65 69 SNP 73 77 SNP 124 128 SNP 191 195 SNP 228 232 SNP 237 241 SNP 249 253 SNP 294 298 SNP 343 347 Phenotype 42 47 
+SNP 23 27 SNP 31 35 SNP 45 49 SNP 78 82 SNP 84 88 SNP 92 96 Phenotype 121 125 Phenotype 175 179 
+SNP 30 34 SNP 38 42 Phenotype 70 74 
+SNP 25 29 SNP 31 35 SNP 39 43 Phenotype 68 72 
+SNP 29 33 Phenotype 77 81 
+SNP 107 111 SNP 115 119 Phenotype 61 65 Phenotype 68 72 
+SNP 6 10 Phenotype 60 64 Phenotype 68 72 
+SNP 3 7 SNP 11 15 Phenotype 62 66 
+SNP 105 109 SNP 113 117 Phenotype 122 126 
+SNP 24 28 SNP 30 34 Phenotype 49 53 
+SNP 48 52 Phenotype 128 132 Phenotype 138 142 Phenotype 146 150 
+SNP 118 122 Phenotype 126 130 
+SNP 53 57 Phenotype 34 38 Phenotype 78 82 
+SNP 65 69 Phenotype 90 94 Phenotype 150 154 
+SNP 114 118 Phenotype 57 61 
+SNP 84 88 SNP 122 126 Phenotype 0 4 
+SNP 86 90 SNP 128 132 Phenotype 29 33 Phenotype 48 52 
+SNP 20 24 Phenotype 58 62 
+SNP 17 21 SNP 23 27 SNP 32 36 SNP 191 195 SNP 199 203 Phenotype 70 74 
+SNP 69 73 SNP 77 81 Phenotype 109 113 Phenotype 161 165 Phenotype 167 171 Phenotype 173 177 
+SNP 11 15 SNP 19 23 Phenotype 47 51 Phenotype 113 117 
+SNP 17 21 SNP 25 29 Phenotype 64 68 Phenotype 71 75 
+SNP 29 33 Phenotype 83 87 
+SNP 25 29 Phenotype 57 61 
+SNP 60 64 Phenotype 41 45 
+SNP 28 32 Phenotype 36 40 
+SNP 79 83 Phenotype 87 91 
+SNP 30 34 SNP 38 42 Phenotype 80 84 
+SNP 49 53 Phenotype 76 80 
+SNP 49 53 Phenotype 88 92 
+SNP 28 32 SNP 36 40 Phenotype 88 92 
+SNP 22 26 Phenotype 50 54 
+SNP 80 84 Phenotype 127 131 
+SNP 127 131 SNP 132 136 Phenotype 83 87 
+SNP 49 53 SNP 57 61 Phenotype 146 150 
+SNP 15 19 SNP 23 27 Phenotype 69 73 
+SNP 63 67 SNP 147 151 Phenotype 237 241 
+SNP 25 29 SNP 33 37 Phenotype 85 89 
+SNP 3 7 Phenotype 67 71 
+SNP 26 30 SNP 34 38 Phenotype 50 54 
+SNP 77 81 SNP 102 106 Phenotype 111 115 
+SNP 6 10 Phenotype 51 55 
+SNP 24 28 Phenotype 116 120 
+SNP 12 16 Phenotype 56 60 
+SNP 12 16 Phenotype 50 54 
+SNP 31 35 SNP 39 43 Phenotype 64 68 
+SNP 76 80 Phenotype 67 71 
+SNP 8 12 Phenotype 50 54 
+SNP 0 4 Phenotype 56 60 
+SNP 0 4 Phenotype 26 30 
+SNP 44 48 SNP 50 54 SNP 56 60 SNP 65 69 Phenotype 96 100 

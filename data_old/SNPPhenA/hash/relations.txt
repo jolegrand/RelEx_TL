@@ -1,0 +1,6 @@
+null
+weak_confidence_association
+neutral_association
+strong_confidence_association
+moderate_confidence_association
+negative_association

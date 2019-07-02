@@ -1,0 +1,4 @@
+PADDING
+O
+SNP
+Phenotype
