@@ -1,0 +1,14 @@
+T0	drug 32 45	dexamethasone
+T1	drug 50 65	retinyl acetate
+T2	group 86 101	glucocorticoids
+T3	group 106 115	retinoids
+T4	drug 223 230	insulin
+T5	drug_n 235 238	EGF
+R1	effect Arg1:T0 Arg2:T4
+R2	effect Arg1:T0 Arg2:T5
+R3	effect Arg1:T1 Arg2:T4
+R4	effect Arg1:T1 Arg2:T5
+R5	effect Arg1:T2 Arg2:T4
+R6	effect Arg1:T2 Arg2:T5
+R7	effect Arg1:T3 Arg2:T4
+R8	effect Arg1:T3 Arg2:T5

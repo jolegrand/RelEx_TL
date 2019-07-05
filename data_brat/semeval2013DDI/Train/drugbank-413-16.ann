@@ -1,0 +1,7 @@
+T0	drug 0 10	Ampicillin
+T1	drug 11 22	Amoxicillin
+T2	drug 109 119	ampicillin
+T3	drug 123 134	amoxicillin
+T4	drug 153 164	allopurinol
+R1	effect Arg1:T2 Arg2:T4
+R2	effect Arg1:T3 Arg2:T4

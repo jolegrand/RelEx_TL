@@ -1,0 +1,5 @@
+T0	drug 0 10	Sildenafil
+T1	group 48 68	long-acting nitrates
+T2	group 92 113	short-acting nitrates
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

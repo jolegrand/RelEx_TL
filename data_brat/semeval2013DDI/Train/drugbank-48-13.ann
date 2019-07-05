@@ -1,0 +1,6 @@
+T0	group 11 19	antacids
+T1	group 53 64	H2 blockers
+T2	group 68 90	proton pump inhibitors
+T3	brand 113 120	SPRYCEL
+R1	advise Arg1:T1 Arg2:T3
+R2	advise Arg1:T2 Arg2:T3

@@ -1,0 +1,3 @@
+T0	drug 116 126	leucovorin
+T1	drug 131 143	fluorouracil
+R1	effect Arg1:T0 Arg2:T1

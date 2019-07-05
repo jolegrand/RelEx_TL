@@ -1,0 +1,4 @@
+T0	group 17 36	antidiabetic agents
+T1	brand 47 54	VELCADE
+T2	group 160 183	antidiabetic medication
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,3 @@
+T0	drug 30 40	ketoprofen
+T1	drug 45 55	probenecid
+R1	advise Arg1:T0 Arg2:T1

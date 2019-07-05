@@ -1,0 +1,8 @@
+T0	group 0 16	Anticholinergics
+T1	group 55 80	anticholinergic compounds
+T2	group 90 110	belladonna alkaloids
+T3	drug 115 126	dicyclomine
+T4	drug 186 195	cisapride
+R1	effect Arg1:T1 Arg2:T4
+R2	effect Arg1:T2 Arg2:T4
+R3	effect Arg1:T3 Arg2:T4

@@ -1,0 +1,4 @@
+T0	drug 22 32	valdecoxib
+T1	drug 94 110	dextromethorphan
+T2	drug 158 168	valdecoxib
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,18 @@
+T0	drug 74 83	midazolam
+T1	group 228 246	azole antimycotics
+T2	group 248 267	protease inhibitors
+T3	group 269 296	calcium channel antagonists
+T4	group 302 323	macrolide antibiotics
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4
+T0	drug 74 83	midazolam
+T1	group 228 246	azole antimycotics
+T2	group 248 267	protease inhibitors
+T3	group 269 296	calcium channel antagonists
+T4	group 302 323	macrolide antibiotics
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4

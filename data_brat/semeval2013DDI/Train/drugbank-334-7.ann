@@ -1,0 +1,5 @@
+T0	group 21 27	NSAIDs
+T1	group 72 86	ACE inhibitors
+T2	drug 98 108	lisinopril
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

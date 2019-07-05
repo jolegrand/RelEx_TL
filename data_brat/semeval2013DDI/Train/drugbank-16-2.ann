@@ -1,0 +1,3 @@
+T0	drug 6 17	hydroxyurea
+T1	group 76 97	uricosuric medication
+R1	effect Arg1:T0 Arg2:T1

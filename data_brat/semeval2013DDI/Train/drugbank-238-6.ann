@@ -1,0 +1,17 @@
+T0	group 41 66	tricyclic antidepressants
+T1	drug 139 154	methylphenidate
+T2	drug 191 201	cimetidine
+T3	drug 203 213	fluoxetine
+T4	group 297 309	barbiturates
+T5	drug 311 320	phenytoin
+T6	drug 366 369	CMI
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4
+R5	mechanism Arg1:T0 Arg2:T5
+R6	mechanism Arg1:T1 Arg2:T6
+R7	mechanism Arg1:T2 Arg2:T6
+R8	mechanism Arg1:T3 Arg2:T6
+R9	mechanism Arg1:T4 Arg2:T6
+R10	mechanism Arg1:T5 Arg2:T6

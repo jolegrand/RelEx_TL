@@ -1,0 +1,8 @@
+T0	group 25 46	quinolone antibiotics
+T1	group 84 92	antacids
+T2	drug 104 113	magnesium
+T3	drug 115 122	calcium
+T4	drug 127 135	aluminum
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T0 Arg2:T3
+R3	mechanism Arg1:T0 Arg2:T4

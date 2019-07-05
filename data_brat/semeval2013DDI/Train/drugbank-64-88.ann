@@ -1,0 +1,7 @@
+T0	group 5 19	anticoagulants
+T1	group 62 81	hypoglycemic agents
+T2	drug 87 98	tolbutamide
+T3	drug 103 117	chlorpropamide
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3

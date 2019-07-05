@@ -1,0 +1,3 @@
+T0	group 47 60	anticoagulant
+T1	group 143 166	adrenocortical steroids
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,6 @@
+T0	group 0 25	Skeletal muscle relaxants
+T1	drug 27 41	amphotericin B
+T2	group 99 124	skeletal muscle relaxants
+T3	drug 132 144	tubocurarine
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3

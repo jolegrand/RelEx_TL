@@ -1,0 +1,5 @@
+T0	drug 0 10	Furosemide
+T1	drug 79 91	tubocurarine
+T2	drug 125 140	succinylcholine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

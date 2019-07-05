@@ -1,0 +1,3 @@
+T0	drug 70 78	dopamine
+T1	drug 148 159	propranolol
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,3 @@
+T0	group 0 8	Estrogen
+T1	brand 54 62	ARIMIDEX
+R1	advise Arg1:T0 Arg2:T1

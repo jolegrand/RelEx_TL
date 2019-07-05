@@ -1,0 +1,5 @@
+T0	drug 21 28	digoxin
+T1	drug 52 59	digoxin
+T2	brand 108 114	FLOLAN
+T3	drug 173 180	digoxin
+R1	mechanism Arg1:T0 Arg2:T2

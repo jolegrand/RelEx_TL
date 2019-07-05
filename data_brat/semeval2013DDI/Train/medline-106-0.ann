@@ -1,0 +1,3 @@
+T0	drug 25 33	warfarin
+T1	group 57 66	sedatives
+R1	int Arg1:T0 Arg2:T1

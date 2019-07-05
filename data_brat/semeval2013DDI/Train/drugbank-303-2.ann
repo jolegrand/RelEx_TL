@@ -1,0 +1,3 @@
+T0	drug 103 113	cephalexin
+T1	drug 118 127	metformin
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,4 @@
+T0	drug 0 8	Caffeine
+T1	drug 69 77	caffeine
+T2	drug 100 108	enoxacin
+R1	effect Arg1:T1 Arg2:T2

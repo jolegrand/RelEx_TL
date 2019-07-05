@@ -1,0 +1,7 @@
+T0	drug 0 10	Amiodarone
+T1	drug 14 23	Verapamil
+T2	drug 86 96	amiodarone
+T3	drug 100 109	verapamil
+T4	group 169 202	HMG-CoA reductase inhibitor class
+R1	effect Arg1:T2 Arg2:T4
+R2	effect Arg1:T3 Arg2:T4

@@ -1,0 +1,17 @@
+T0	drug 19 31	Flupenthixol
+T1	group 67 95	Monoamine oxidase inhibitors
+T2	group 97 101	MAOI
+T3	group 104 108	MAOI
+T4	drug 136 148	flupenthixol
+T5	drug_n 168 177	Arecoline
+T6	drug 194 201	Ethanol
+T7	drug 203 215	Flupenthixol
+T8	drug 220 227	Ethanol
+T9	group 260 285	Tricyclic antidepressants
+T10	drug 287 299	Flupenthixol
+T11	group 324 349	Tricyclic antidepressants
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2
+R3	effect Arg1:T3 Arg2:T4
+R4	effect Arg1:T7 Arg2:T8
+R5	effect Arg1:T10 Arg2:T11

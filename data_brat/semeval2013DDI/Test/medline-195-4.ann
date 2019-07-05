@@ -1,0 +1,10 @@
+T0	drug_n 21 29	piperine
+T1	drug 112 121	ibuprofen
+T2	drug 140 151	acetic acid
+T3	drug 210 219	ibuprofen
+R1	effect Arg1:T0 Arg2:T1
+T0	drug_n 21 29	piperine
+T1	drug 112 121	ibuprofen
+T2	drug 140 151	acetic acid
+T3	drug 210 219	ibuprofen
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,6 @@
+T0	brand 29 36	HEXALEN
+T1	group 41 83	antidepressants of the MAO inhibitor class
+T2	drug 125 135	Cimetidine
+T3	drug 191 202	altretamine
+R1	effect Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T2 Arg2:T3

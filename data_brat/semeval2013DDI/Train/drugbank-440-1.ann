@@ -1,0 +1,9 @@
+T0	drug 20 27	calcium
+T1	drug 67 75	aluminum
+T2	drug 77 86	magnesium
+T3	drug 88 92	iron
+T4	drug 137 148	Ibandronate
+R1	mechanism Arg1:T0 Arg2:T4
+R2	mechanism Arg1:T1 Arg2:T4
+R3	mechanism Arg1:T2 Arg2:T4
+R4	mechanism Arg1:T3 Arg2:T4

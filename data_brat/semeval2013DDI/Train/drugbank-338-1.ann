@@ -1,0 +1,17 @@
+T0	group 18 33	benzodiazepines
+T1	group 56 71	anticonvulsants
+T2	group 73 87	antihistamines
+T3	drug 89 96	alcohol
+T4	group 98 110	barbiturates
+T5	group 112 140	monoamine oxidase inhibitors
+T6	group 142 151	narcotics
+T7	group 153 167	phenothiazines
+T8	group 169 193	psychotropic medications
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5
+R6	effect Arg1:T0 Arg2:T6
+R7	effect Arg1:T0 Arg2:T7
+R8	effect Arg1:T0 Arg2:T8

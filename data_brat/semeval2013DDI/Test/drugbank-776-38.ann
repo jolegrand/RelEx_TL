@@ -1,0 +1,16 @@
+T0	drug 0 11	Fluconazole
+T1	drug 40 57	ethinyl estradiol
+T2	drug 63 77	levonorgestrel
+T3	group 94 108	contraceptives
+T4	drug 146 163	ethinyl estradiol
+T5	drug 168 182	levonorgestrel
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+T0	drug 0 11	Fluconazole
+T1	drug 40 57	ethinyl estradiol
+T2	drug 63 77	levonorgestrel
+T3	group 94 108	contraceptives
+T4	drug 146 163	ethinyl estradiol
+T5	drug 168 182	levonorgestrel
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

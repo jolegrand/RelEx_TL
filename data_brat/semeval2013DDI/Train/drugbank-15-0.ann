@@ -1,0 +1,9 @@
+T0	drug 35 47	Fondaparinux
+T1	group 77 91	anticoagulants
+T2	drug 93 101	warfarin
+T3	group 104 123	platelet inhibitors
+T4	drug 125 145	acetylsalicylic acid
+T5	group 148 154	NSAIDs
+T6	drug 156 165	piroxicam
+T7	drug 172 179	digoxin
+T8	drug 250 269	fondaparinux sodium

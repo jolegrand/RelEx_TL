@@ -1,0 +1,8 @@
+T0	drug 26 42	sulfamethoxazole
+T1	group 110 123	anticoagulant
+T2	drug 124 132	warfarin
+R1	effect Arg1:T0 Arg2:T2
+T0	drug 26 42	sulfamethoxazole
+T1	group 110 123	anticoagulant
+T2	drug 124 132	warfarin
+R1	effect Arg1:T0 Arg2:T2

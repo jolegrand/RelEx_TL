@@ -1,0 +1,7 @@
+T0	drug 9 20	deferasirox
+T1	drug 46 54	aluminum
+T2	drug 64 68	iron
+T3	brand 70 76	Exjade
+T4	drug 102 110	aluminum
+T5	group 122 142	antacid preparations
+R1	advise Arg1:T3 Arg2:T4

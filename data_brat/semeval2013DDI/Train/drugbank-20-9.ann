@@ -1,0 +1,4 @@
+T0	drug 6 13	lithium
+T1	brand 55 61	INSPRA
+T2	drug 97 104	lithium
+R1	advise Arg1:T1 Arg2:T2

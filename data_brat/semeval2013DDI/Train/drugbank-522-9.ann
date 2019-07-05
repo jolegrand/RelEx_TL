@@ -1,0 +1,4 @@
+T0	drug 39 51	erythromycin
+T1	drug 56 67	terfenadine
+T2	drug 88 101	dirithromycin
+R1	int Arg1:T0 Arg2:T1

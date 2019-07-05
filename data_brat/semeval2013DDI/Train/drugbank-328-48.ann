@@ -1,0 +1,5 @@
+T0	drug 19 27	diazepam
+T1	drug 89 99	valdecoxib
+T2	drug 150 160	valdecoxib
+T3	drug 233 241	diazepam
+R1	mechanism Arg1:T0 Arg2:T1

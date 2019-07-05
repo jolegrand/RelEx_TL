@@ -1,0 +1,6 @@
+T0	drug 37 46	reserpine
+T1	group 92 112	beta-blocking agents
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 37 46	reserpine
+T1	group 92 112	beta-blocking agents
+R1	effect Arg1:T0 Arg2:T1

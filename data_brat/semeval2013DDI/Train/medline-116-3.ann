@@ -1,0 +1,4 @@
+T0	drug 34 42	rifampin
+T1	drug 47 55	warfarin
+T2	drug 119 127	warfarin
+R1	mechanism Arg1:T0 Arg2:T1

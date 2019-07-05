@@ -1,0 +1,4 @@
+T0	drug 18 31	dexamethasone
+T1	drug 70 80	Aprepitant
+T2	drug 134 147	dexamethasone
+R1	mechanism Arg1:T0 Arg2:T1

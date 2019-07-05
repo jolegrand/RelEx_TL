@@ -1,0 +1,3 @@
+T0	drug 101 111	furosemide
+T1	drug 116 136	acetylsalicylic acid
+R1	effect Arg1:T0 Arg2:T1

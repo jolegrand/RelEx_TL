@@ -1,0 +1,4 @@
+T0	drug 21 33	ketoconazole
+T1	drug 75 85	cinacalcet
+T2	brand 128 136	Sensipar
+R1	mechanism Arg1:T0 Arg2:T1

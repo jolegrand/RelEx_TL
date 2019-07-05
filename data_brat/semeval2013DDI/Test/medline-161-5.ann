@@ -1,0 +1,10 @@
+T0	drug_n 18 62	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+T1	drug_n 78 122	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+T2	drug_n 200 244	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+T3	drug_n 245 293	3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine
+R1	effect Arg1:T2 Arg2:T3
+T0	drug_n 18 62	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+T1	drug_n 78 122	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+T2	drug_n 200 244	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+T3	drug_n 245 293	3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine
+R1	effect Arg1:T2 Arg2:T3

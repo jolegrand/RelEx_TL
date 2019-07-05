@@ -1,0 +1,6 @@
+T0	drug 30 37	lithium
+T1	brand 103 110	FELDENE
+R1	advise Arg1:T0 Arg2:T1
+T0	drug 30 37	lithium
+T1	brand 103 110	FELDENE
+R1	advise Arg1:T0 Arg2:T1

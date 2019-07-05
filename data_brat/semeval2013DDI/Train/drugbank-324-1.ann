@@ -1,0 +1,6 @@
+T0	drug 17 24	Ethanol
+T1	brand 26 32	Sonata
+T2	drug 80 87	ethanol
+T3	drug 152 159	ethanol
+T4	drug 326 333	ethanol
+R1	effect Arg1:T1 Arg2:T2

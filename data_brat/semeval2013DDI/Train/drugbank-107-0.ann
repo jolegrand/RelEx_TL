@@ -1,0 +1,5 @@
+T0	drug 55 64	diuretics
+T1	drug 238 247	enalapril
+T2	drug 251 262	enalaprilat
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

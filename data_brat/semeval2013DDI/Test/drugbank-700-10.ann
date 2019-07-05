@@ -1,0 +1,6 @@
+T0	drug 48 63	levonorgesterol
+T1	drug 114 135	mycophenolate mofetil
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 48 63	levonorgesterol
+T1	drug 114 135	mycophenolate mofetil
+R1	mechanism Arg1:T0 Arg2:T1

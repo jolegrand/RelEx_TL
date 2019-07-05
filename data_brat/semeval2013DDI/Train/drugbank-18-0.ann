@@ -1,0 +1,8 @@
+T0	group 13 28	benzodiazepines
+T1	drug 40 49	lorazepam
+T2	group 125 137	barbiturates
+T3	drug 141 148	alcohol
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T0 Arg2:T3
+R3	effect Arg1:T1 Arg2:T2
+R4	effect Arg1:T1 Arg2:T3

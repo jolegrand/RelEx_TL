@@ -1,0 +1,5 @@
+T0	drug 0 10	Aprepitant
+T1	drug 54 67	S(-) warfarin
+T2	drug 72 83	tolbutamide
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

@@ -1,0 +1,5 @@
+T0	drug 0 14	Metoclopramide
+T1	brand 41 48	MONUROL
+T2	drug 50 64	metoclopramide
+T3	drug 172 182	fosfomycin
+R1	mechanism Arg1:T1 Arg2:T2

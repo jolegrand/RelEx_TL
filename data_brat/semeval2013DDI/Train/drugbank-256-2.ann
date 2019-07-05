@@ -1,0 +1,3 @@
+T0	drug 41 52	clindamycin
+T1	drug 57 69	erythromycin
+R1	effect Arg1:T0 Arg2:T1

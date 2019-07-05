@@ -1,0 +1,20 @@
+T0	group 14 27	tetracyclines
+T1	group 43 51	antacids
+T2	drug 63 71	aluminum
+T3	drug 73 80	calcium
+T4	drug 84 93	magnesium
+T5	drug 99 103	iron
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T0 Arg2:T3
+R3	mechanism Arg1:T0 Arg2:T4
+R4	mechanism Arg1:T0 Arg2:T5
+T0	group 14 27	tetracyclines
+T1	group 43 51	antacids
+T2	drug 63 71	aluminum
+T3	drug 73 80	calcium
+T4	drug 84 93	magnesium
+T5	drug 99 103	iron
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T0 Arg2:T3
+R3	mechanism Arg1:T0 Arg2:T4
+R4	mechanism Arg1:T0 Arg2:T5

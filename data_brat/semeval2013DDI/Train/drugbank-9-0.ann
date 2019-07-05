@@ -1,0 +1,11 @@
+T0	drug 0 10	Azlocillin
+T1	drug 57 65	amikacin
+T2	drug 67 80	ciprofloxacin
+T3	drug 82 92	gentamicin
+T4	drug 94 104	netilmicin
+T5	drug 109 119	tobramycin
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4
+R5	advise Arg1:T0 Arg2:T5

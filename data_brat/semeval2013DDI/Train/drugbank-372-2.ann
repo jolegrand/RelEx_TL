@@ -1,0 +1,5 @@
+T0	drug 0 17	Aminoglutethimide
+T1	group 43 51	coumarin
+T2	drug 56 64	warfarin
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

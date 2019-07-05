@@ -1,0 +1,6 @@
+T0	drug 0 10	Furosemide
+T1	drug 78 87	ibuprofen
+T2	drug 125 135	furosemide
+T3	group 140 149	thiazides
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3

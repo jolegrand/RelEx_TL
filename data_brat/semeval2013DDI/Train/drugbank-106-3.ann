@@ -1,0 +1,4 @@
+T0	drug 20 29	phenytoin
+T1	brand 41 46	SULAR
+T2	drug 89 100	nisoldipine
+R1	mechanism Arg1:T0 Arg2:T1

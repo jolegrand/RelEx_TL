@@ -1,0 +1,10 @@
+T0	drug 17 24	Heparin
+T1	group 33 42	Digitalis
+T2	group 44 57	tetracyclines
+T3	drug 59 67	nicotine
+T4	group 72 86	antihistamines
+T5	drug 140 154	heparin sodium
+R1	effect Arg1:T1 Arg2:T5
+R2	effect Arg1:T2 Arg2:T5
+R3	effect Arg1:T3 Arg2:T5
+R4	effect Arg1:T4 Arg2:T5

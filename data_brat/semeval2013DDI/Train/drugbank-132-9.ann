@@ -1,0 +1,4 @@
+T0	group 0 8	Antacids
+T1	group 40 48	antacids
+T2	drug 77 87	diflunisal
+R1	mechanism Arg1:T1 Arg2:T2

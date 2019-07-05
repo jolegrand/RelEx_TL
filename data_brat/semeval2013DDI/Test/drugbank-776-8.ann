@@ -1,0 +1,6 @@
+T0	brand 61 69	DIFLUCAN
+T1	group 74 102	coumarin-type anticoagulants
+R1	advise Arg1:T0 Arg2:T1
+T0	brand 61 69	DIFLUCAN
+T1	group 74 102	coumarin-type anticoagulants
+R1	advise Arg1:T0 Arg2:T1

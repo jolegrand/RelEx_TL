@@ -1,0 +1,8 @@
+T0	group 5 24	hypoglycemic agents
+T1	drug 25 36	Oxandrolone
+T2	group 72 91	hypoglycemic agents
+R1	mechanism Arg1:T1 Arg2:T2
+T0	group 5 24	hypoglycemic agents
+T1	drug 25 36	Oxandrolone
+T2	group 72 91	hypoglycemic agents
+R1	mechanism Arg1:T1 Arg2:T2

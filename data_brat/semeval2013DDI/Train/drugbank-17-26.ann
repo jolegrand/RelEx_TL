@@ -1,0 +1,4 @@
+T0	drug 16 34	hydroflumethiazide
+T1	group 39 76	nonsteroidal anti-inflammatory agents
+T2	group 182 190	diuretic
+R1	advise Arg1:T0 Arg2:T1

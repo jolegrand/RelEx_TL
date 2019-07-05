@@ -1,0 +1,3 @@
+T0	drug 26 36	amiodarone
+T1	group 51 60	digitalis
+R1	advise Arg1:T0 Arg2:T1

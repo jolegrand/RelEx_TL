@@ -1,0 +1,24 @@
+T0	group 15 49	Central Nervous System Depressants
+T1	drug 77 85	morphine
+T2	group 127 142	CNS depressants
+T3	drug 151 158	alcohol
+T4	group 160 169	sedatives
+T5	group 171 186	antihistaminics
+T6	group 191 209	psychotropic drugs
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T1 Arg2:T4
+R4	effect Arg1:T1 Arg2:T5
+R5	effect Arg1:T1 Arg2:T6
+T0	group 15 49	Central Nervous System Depressants
+T1	drug 77 85	morphine
+T2	group 127 142	CNS depressants
+T3	drug 151 158	alcohol
+T4	group 160 169	sedatives
+T5	group 171 186	antihistaminics
+T6	group 191 209	psychotropic drugs
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T1 Arg2:T4
+R4	effect Arg1:T1 Arg2:T5
+R5	effect Arg1:T1 Arg2:T6

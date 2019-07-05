@@ -1,0 +1,3 @@
+T0	group 22 38	anticholinergics
+T1	drug 44 55	hydrocodone
+R1	effect Arg1:T0 Arg2:T1

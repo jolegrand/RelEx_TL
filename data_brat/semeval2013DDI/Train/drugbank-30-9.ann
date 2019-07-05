@@ -1,0 +1,5 @@
+T0	group 14 37	antihypertensive agents
+T1	drug 70 78	losartan
+T2	group 101 137	non-steroidal anti-inflammatory drug
+T3	drug 138 150	indomethacin
+R1	effect Arg1:T1 Arg2:T3

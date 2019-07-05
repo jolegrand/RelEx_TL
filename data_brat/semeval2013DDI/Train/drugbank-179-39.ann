@@ -1,0 +1,5 @@
+T0	drug 2 12	Methyldopa
+T1	brand 20 27	Aldomet
+T2	drug 36 46	methyldopa
+T3	drug 52 65	sulfapyridine
+R1	effect Arg1:T2 Arg2:T3

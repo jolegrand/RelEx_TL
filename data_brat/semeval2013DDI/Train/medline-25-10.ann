@@ -1,0 +1,3 @@
+T0	group 34 55	macrolide antibiotics
+T1	group 66 129	hydroxymethylglutaryl coenzyme A (HMG-CoA) reductase inhibitors
+R1	effect Arg1:T0 Arg2:T1

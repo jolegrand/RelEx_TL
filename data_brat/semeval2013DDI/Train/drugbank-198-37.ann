@@ -1,0 +1,4 @@
+T0	drug 32 42	Vardenafil
+T1	drug 59 68	indinavir
+T2	drug 90 99	indinavir
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,3 @@
+T0	drug 11 25	chloroprocaine
+T1	group 73 89	sulfonamide drug
+R1	advise Arg1:T0 Arg2:T1

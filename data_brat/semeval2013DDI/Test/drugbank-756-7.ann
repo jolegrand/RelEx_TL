@@ -1,0 +1,14 @@
+T0	drug 0 8	Caffeine
+T1	drug 35 44	ephedrine
+T2	drug 45 56	amphetamine
+T3	drug 101 116	levomepromazine
+R1	effect Arg1:T0 Arg2:T3
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T2 Arg2:T3
+T0	drug 0 8	Caffeine
+T1	drug 35 44	ephedrine
+T2	drug 45 56	amphetamine
+T3	drug 101 116	levomepromazine
+R1	effect Arg1:T0 Arg2:T3
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T2 Arg2:T3

@@ -1,0 +1,18 @@
+T0	brand 35 43	DIPRIVAN
+T1	group 158 167	narcotics
+T2	drug 173 181	morphine
+T3	drug 183 193	meperidine
+T4	drug 199 207	fentanyl
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+T0	brand 35 43	DIPRIVAN
+T1	group 158 167	narcotics
+T2	drug 173 181	morphine
+T3	drug 183 193	meperidine
+T4	drug 199 207	fentanyl
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4

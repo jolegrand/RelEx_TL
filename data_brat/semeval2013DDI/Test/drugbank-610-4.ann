@@ -1,0 +1,8 @@
+T0	drug 49 58	methadone
+T1	brand 118 124	ZIAGEN
+T2	drug 182 191	methadone
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 49 58	methadone
+T1	brand 118 124	ZIAGEN
+T2	drug 182 191	methadone
+R1	mechanism Arg1:T0 Arg2:T1

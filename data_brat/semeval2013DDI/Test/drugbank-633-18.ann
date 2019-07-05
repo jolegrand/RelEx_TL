@@ -1,0 +1,20 @@
+T0	brand 91 98	Mexitil
+T1	drug 103 115	Theophylline
+T2	brand 146 153	Mexitil
+T3	brand 200 207	Mexitil
+T4	brand 215 222	Mexitil
+T5	drug 227 239	theophylline
+T6	drug 269 281	theophylline
+T7	brand 338 345	Mexitil
+R1	mechanism Arg1:T1 Arg2:T3
+R2	advise Arg1:T4 Arg2:T5
+T0	brand 91 98	Mexitil
+T1	drug 103 115	Theophylline
+T2	brand 146 153	Mexitil
+T3	brand 200 207	Mexitil
+T4	brand 215 222	Mexitil
+T5	drug 227 239	theophylline
+T6	drug 269 281	theophylline
+T7	brand 338 345	Mexitil
+R1	mechanism Arg1:T1 Arg2:T3
+R2	advise Arg1:T4 Arg2:T5

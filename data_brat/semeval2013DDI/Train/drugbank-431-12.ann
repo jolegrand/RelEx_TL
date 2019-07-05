@@ -1,0 +1,9 @@
+T0	drug 45 57	lansoprazole
+T1	drug 171 183	ketoconazole
+T2	drug 185 195	ampicillin
+T3	drug 204 208	iron
+T4	drug 216 223	digoxin
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4

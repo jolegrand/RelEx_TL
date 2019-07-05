@@ -1,0 +1,3 @@
+T0	drug 38 47	isoniazid
+T1	drug 170 183	acetaminophen
+R1	mechanism Arg1:T0 Arg2:T1

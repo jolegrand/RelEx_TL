@@ -1,0 +1,13 @@
+T0	group 0 11	Anesthetics
+T1	group 12 21	Sedatives
+T2	group 22 31	Hypnotics
+T3	group 32 39	Opioids
+T4	brand 62 70	PRECEDEX
+T5	group 76 87	anesthetics
+T6	group 89 98	sedatives
+T7	group 100 109	hypnotics
+T8	group 115 122	opioids
+R1	effect Arg1:T4 Arg2:T5
+R2	effect Arg1:T4 Arg2:T6
+R3	effect Arg1:T4 Arg2:T7
+R4	effect Arg1:T4 Arg2:T8

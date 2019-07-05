@@ -1,0 +1,4 @@
+T0	drug 17 25	ketamine
+T1	drug 76 85	halothane
+T2	drug 96 104	ketamine
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,3 @@
+T0	drug 79 87	warfarin
+T1	drug 102 111	flutamide
+R1	effect Arg1:T0 Arg2:T1

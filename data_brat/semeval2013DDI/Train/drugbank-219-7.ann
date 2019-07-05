@@ -1,0 +1,11 @@
+T0	brand 36 42	Lodine
+T1	group 55 61	NSAIDs
+T2	drug 192 204	cyclosporine
+T3	drug 206 213	digoxin
+T4	drug 215 227	methotrexate
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T0 Arg2:T3
+R3	mechanism Arg1:T0 Arg2:T4
+R4	mechanism Arg1:T1 Arg2:T2
+R5	mechanism Arg1:T1 Arg2:T3
+R6	mechanism Arg1:T1 Arg2:T4

@@ -1,0 +1,3 @@
+T0	drug 0 15	Chlorprothixene
+T1	drug 69 76	lithium
+R1	mechanism Arg1:T0 Arg2:T1

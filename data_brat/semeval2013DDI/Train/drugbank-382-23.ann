@@ -1,0 +1,9 @@
+T0	drug 60 69	midazolam
+T1	group 79 94	benzodiazepines
+T2	drug 119 129	alprazolam
+T3	drug 131 140	triazolam
+T4	drug 202 212	Aprepitant
+R1	advise Arg1:T0 Arg2:T4
+R2	advise Arg1:T1 Arg2:T4
+R3	advise Arg1:T2 Arg2:T4
+R4	advise Arg1:T3 Arg2:T4

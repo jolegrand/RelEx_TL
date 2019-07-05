@@ -1,0 +1,4 @@
+T0	drug 56 69	ciprofloxacin
+T1	drug 127 140	ciprofloxacin
+T2	brand 229 234	VIDEX
+R1	mechanism Arg1:T1 Arg2:T2

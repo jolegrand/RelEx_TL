@@ -1,0 +1,5 @@
+T0	brand 0 6	DIAMOX
+T1	drug 16 25	phenytoin
+T2	drug 68 77	phenytoin
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

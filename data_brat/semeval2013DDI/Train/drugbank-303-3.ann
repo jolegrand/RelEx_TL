@@ -1,0 +1,4 @@
+T0	drug 63 72	metformin
+T1	drug 121 131	cephalexin
+T2	drug 136 145	metformin
+R1	advise Arg1:T1 Arg2:T2

@@ -1,0 +1,14 @@
+T0	group 4 19	benzodiazepines
+T1	drug 31 41	alprazolam
+T2	group 115 139	psychotropic medications
+T3	group 141 156	anticonvulsants
+T4	group 158 173	antihistaminics
+T5	drug 175 182	ethanol
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T0 Arg2:T3
+R3	effect Arg1:T0 Arg2:T4
+R4	effect Arg1:T0 Arg2:T5
+R5	effect Arg1:T1 Arg2:T2
+R6	effect Arg1:T1 Arg2:T3
+R7	effect Arg1:T1 Arg2:T4
+R8	effect Arg1:T1 Arg2:T5

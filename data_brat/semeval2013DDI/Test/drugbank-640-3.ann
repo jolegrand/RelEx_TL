@@ -1,0 +1,22 @@
+T0	group 7 34	potassium-sparing diuretics
+T1	drug 36 50	spironolactone
+T2	drug 52 63	triamterene
+T3	drug 65 74	amiloride
+T4	drug 79 88	potassium
+T5	group 120 134	ACE inhibitors
+R1	effect Arg1:T0 Arg2:T5
+R2	effect Arg1:T1 Arg2:T5
+R3	effect Arg1:T2 Arg2:T5
+R4	effect Arg1:T3 Arg2:T5
+R5	effect Arg1:T4 Arg2:T5
+T0	group 7 34	potassium-sparing diuretics
+T1	drug 36 50	spironolactone
+T2	drug 52 63	triamterene
+T3	drug 65 74	amiloride
+T4	drug 79 88	potassium
+T5	group 120 134	ACE inhibitors
+R1	effect Arg1:T0 Arg2:T5
+R2	effect Arg1:T1 Arg2:T5
+R3	effect Arg1:T2 Arg2:T5
+R4	effect Arg1:T3 Arg2:T5
+R5	effect Arg1:T4 Arg2:T5

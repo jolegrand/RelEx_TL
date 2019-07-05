@@ -1,0 +1,6 @@
+T0	drug 43 55	lansoprazole
+T1	drug 66 76	omeprazole
+T2	drug 130 140	sucralfate
+T3	group 167 189	proton pump inhibitors
+T4	drug 307 317	sucralfate
+R1	mechanism Arg1:T3 Arg2:T4

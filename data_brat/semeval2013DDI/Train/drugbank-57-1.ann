@@ -1,0 +1,4 @@
+T0	group 13 27	aminoglycoside
+T1	group 34 44	penicillin
+T2	group 119 133	aminoglycoside
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,26 @@
+T0	group 31 46	anticholinergic
+T1	brand 102 110	AKINETON
+T2	group 212 231	narcotic analgesics
+T3	drug 240 250	meperidine
+T4	group 256 270	phenothiazines
+T5	group 281 295	antipsychotics
+T6	group 297 322	tricyclic antidepressants
+T7	group 332 347	antiarrhythmics
+T8	drug 360 369	quinidine
+T9	group 381 395	antihistamines
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T0 Arg2:T3
+R3	effect Arg1:T0 Arg2:T4
+R4	effect Arg1:T0 Arg2:T5
+R5	effect Arg1:T0 Arg2:T6
+R6	effect Arg1:T0 Arg2:T7
+R7	effect Arg1:T0 Arg2:T8
+R8	effect Arg1:T0 Arg2:T9
+R9	effect Arg1:T1 Arg2:T2
+R10	effect Arg1:T1 Arg2:T3
+R11	effect Arg1:T1 Arg2:T4
+R12	effect Arg1:T1 Arg2:T5
+R13	effect Arg1:T1 Arg2:T6
+R14	effect Arg1:T1 Arg2:T7
+R15	effect Arg1:T1 Arg2:T8
+R16	effect Arg1:T1 Arg2:T9

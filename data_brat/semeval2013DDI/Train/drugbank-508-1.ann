@@ -1,0 +1,11 @@
+T0	drug 40 47	heparin
+T1	group 52 73	vitamin K antagonists
+T2	drug 119 139	acetylsalicylic acid
+T3	drug 141 153	dipyridamole
+T4	drug 158 167	Abciximab
+T5	brand 246 254	Activase
+R1	effect Arg1:T0 Arg2:T5
+R2	effect Arg1:T1 Arg2:T5
+R3	int Arg1:T2 Arg2:T5
+R4	effect Arg1:T3 Arg2:T5
+R5	effect Arg1:T4 Arg2:T5

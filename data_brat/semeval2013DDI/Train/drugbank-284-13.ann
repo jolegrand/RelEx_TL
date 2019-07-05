@@ -1,0 +1,3 @@
+T0	group 0 13	Beta-blockers
+T1	group 56 69	beta-agonists
+R1	effect Arg1:T0 Arg2:T1

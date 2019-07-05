@@ -1,0 +1,6 @@
+T0	group 0 16	Vasoconstrictors
+T1	brand 18 27	D.H.E. 45
+T2	drug 30 56	dihydroergotamine mesylate
+T3	group 97 124	peripheral vasoconstrictors
+R1	effect Arg1:T1 Arg2:T3
+R2	effect Arg1:T2 Arg2:T3

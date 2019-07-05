@@ -1,0 +1,3 @@
+T0	drug 30 40	probenecid
+T1	drug 79 82	PAH
+R1	effect Arg1:T0 Arg2:T1

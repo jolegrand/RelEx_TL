@@ -1,0 +1,9 @@
+T0	drug 31 34	EPA
+T1	brand 51 58	aspirin
+T2	group 69 106	non-steroidal anti-inflammatory drugs
+T3	drug 153 159	ginkgo
+T4	drug 161 174	Ginkgo biloba
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2
+R3	int Arg1:T0 Arg2:T3
+R4	int Arg1:T0 Arg2:T4

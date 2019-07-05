@@ -1,0 +1,3 @@
+T0	drug 35 43	rifampin
+T1	drug 94 105	caspofungin
+R1	mechanism Arg1:T0 Arg2:T1

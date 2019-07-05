@@ -1,0 +1,5 @@
+T0	drug 0 10	Probenecid
+T1	drug 12 22	Probenecid
+T2	drug 53 63	ketoprofen
+T3	drug 100 110	ketoprofen
+R1	mechanism Arg1:T1 Arg2:T2

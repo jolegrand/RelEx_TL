@@ -1,0 +1,6 @@
+T0	group 0 16	Cytotoxic Agents
+T1	drug 54 70	cyclophosphamide
+T2	group 81 97	cytotoxic agents
+T3	drug 192 203	allopurinol
+R1	effect Arg1:T1 Arg2:T3
+R2	effect Arg1:T2 Arg2:T3

@@ -1,0 +1,12 @@
+T0	drug 45 54	dasatinib
+T1	drug 60 70	paclitaxel
+T2	drug 171 180	dasatinib
+T3	drug 183 193	paclitaxel
+T4	drug 197 207	paclitaxel
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 45 54	dasatinib
+T1	drug 60 70	paclitaxel
+T2	drug 171 180	dasatinib
+T3	drug 183 193	paclitaxel
+T4	drug 197 207	paclitaxel
+R1	effect Arg1:T0 Arg2:T1

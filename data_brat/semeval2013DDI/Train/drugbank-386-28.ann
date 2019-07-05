@@ -1,0 +1,3 @@
+T0	group 86 111	tricyclic antidepressants
+T1	drug 117 127	fluoxetine
+R1	mechanism Arg1:T0 Arg2:T1

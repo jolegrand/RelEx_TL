@@ -1,0 +1,3 @@
+T0	drug 75 87	indomethacin
+T1	drug 130 139	captopril
+R1	effect Arg1:T0 Arg2:T1

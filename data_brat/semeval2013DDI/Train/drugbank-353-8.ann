@@ -1,0 +1,4 @@
+T0	drug 0 12	Methotrexate
+T1	drug 94 106	methotrexate
+T2	drug 111 121	etretinate
+R1	effect Arg1:T1 Arg2:T2

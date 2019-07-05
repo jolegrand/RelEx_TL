@@ -1,0 +1,6 @@
+T0	group 22 32	quinolones
+T1	drug 78 86	warfarin
+T2	group 196 219	quinolone antimicrobial
+T3	drug 241 249	warfarin
+R1	effect Arg1:T0 Arg2:T1
+R2	advise Arg1:T2 Arg2:T3

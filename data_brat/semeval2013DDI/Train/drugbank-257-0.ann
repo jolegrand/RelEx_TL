@@ -1,0 +1,25 @@
+T0	brand 54 67	Levo-Dromoran
+T1	group 77 111	central nervous system depressants
+T2	drug 117 124	alcohol
+T3	group 126 135	sedatives
+T4	group 137 146	hypnotics
+T5	group 154 161	opioids
+T6	group 171 182	anesthetics
+T7	group 184 196	barbiturates
+T8	group 198 223	tricyclic antidepressants
+T9	group 225 239	phenothiazines
+T10	group 241 254	tranquilizers
+T11	group 256 281	skeletal muscle relaxants
+T12	group 286 300	antihistamines
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5
+R6	effect Arg1:T0 Arg2:T6
+R7	effect Arg1:T0 Arg2:T7
+R8	effect Arg1:T0 Arg2:T8
+R9	effect Arg1:T0 Arg2:T9
+R10	effect Arg1:T0 Arg2:T10
+R11	effect Arg1:T0 Arg2:T11
+R12	effect Arg1:T0 Arg2:T12

@@ -1,0 +1,6 @@
+T0	drug 0 7	Calcium
+T1	drug 35 47	nonheme iron
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 0 7	Calcium
+T1	drug 35 47	nonheme iron
+R1	mechanism Arg1:T0 Arg2:T1

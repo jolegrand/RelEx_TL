@@ -1,0 +1,13 @@
+T0	group 0 8	Antacids
+T1	drug 10 16	kaolin
+T2	drug 25 38	sulfasalazine
+T3	drug 40 48	neomycin
+T4	drug 50 64	cholestyramine
+T5	drug 96 110	metoclopramide
+T6	drug 141 148	digoxin
+R1	mechanism Arg1:T0 Arg2:T6
+R2	mechanism Arg1:T1 Arg2:T6
+R3	mechanism Arg1:T2 Arg2:T6
+R4	mechanism Arg1:T3 Arg2:T6
+R5	mechanism Arg1:T4 Arg2:T6
+R6	mechanism Arg1:T5 Arg2:T6

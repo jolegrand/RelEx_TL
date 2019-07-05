@@ -1,0 +1,6 @@
+T0	drug 8 15	lithium
+T1	drug 56 68	escitalopram
+T2	brand 103 110	LEXAPRO
+T3	drug 115 122	lithium
+R1	effect Arg1:T0 Arg2:T1
+R2	advise Arg1:T2 Arg2:T3

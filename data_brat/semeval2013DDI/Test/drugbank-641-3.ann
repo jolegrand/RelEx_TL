@@ -1,0 +1,10 @@
+T0	drug 9 18	ibuprofen
+T1	brand 57 63	ALIMTA
+T2	drug 182 191	ibuprofen
+T3	brand 210 216	ALIMTA
+R1	advise Arg1:T2 Arg2:T3
+T0	drug 9 18	ibuprofen
+T1	brand 57 63	ALIMTA
+T2	drug 182 191	ibuprofen
+T3	brand 210 216	ALIMTA
+R1	advise Arg1:T2 Arg2:T3

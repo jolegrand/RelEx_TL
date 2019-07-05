@@ -1,0 +1,22 @@
+T0	drug 0 8	Warfarin
+T1	drug 29 39	citalopram
+T2	drug 41 51	fluoxetine
+T3	drug 53 63	paroxetine
+T4	drug 65 78	amitriptyline
+T5	drug 83 94	mirtazapine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5
+T0	drug 0 8	Warfarin
+T1	drug 29 39	citalopram
+T2	drug 41 51	fluoxetine
+T3	drug 53 63	paroxetine
+T4	drug 65 78	amitriptyline
+T5	drug 83 94	mirtazapine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5

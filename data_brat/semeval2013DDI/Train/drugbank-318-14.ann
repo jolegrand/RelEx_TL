@@ -1,0 +1,4 @@
+T0	drug_n 0 22	Leukocyte transfusions
+T1	drug 101 115	amphotericin B
+T2	drug_n 120 142	leukocyte transfusions
+R1	effect Arg1:T1 Arg2:T2

@@ -1,0 +1,10 @@
+T0	brand 152 159	TRENTAL
+T1	group 177 191	anticoagulants
+T2	group 195 226	platelet aggregation inhibitors
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+T0	brand 152 159	TRENTAL
+T1	group 177 191	anticoagulants
+T2	group 195 226	platelet aggregation inhibitors
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

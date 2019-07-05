@@ -1,0 +1,5 @@
+T0	group 105 118	beta-blockers
+T1	group 122 131	digitalis
+T2	brand 151 157	Tiazac
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

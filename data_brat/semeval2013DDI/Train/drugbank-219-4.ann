@@ -1,0 +1,5 @@
+T0	brand 0 7	Aspirin
+T1	brand 14 20	Lodine
+T2	brand 42 49	aspirin
+T3	drug 114 122	etodolac
+R1	mechanism Arg1:T1 Arg2:T2

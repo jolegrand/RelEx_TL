@@ -1,0 +1,4 @@
+T0	brand 44 52	Lotensin
+T1	group 98 106	diuretic
+T2	brand 175 183	Lotensin
+R1	advise Arg1:T1 Arg2:T2

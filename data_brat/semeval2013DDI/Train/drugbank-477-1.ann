@@ -1,0 +1,3 @@
+T0	brand 0 6	DIDREX
+T1	group 51 65	CNS stimulants
+R1	advise Arg1:T0 Arg2:T1

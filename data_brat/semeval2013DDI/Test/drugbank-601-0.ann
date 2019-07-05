@@ -1,0 +1,30 @@
+T0	group 0 12	Barbiturates
+T1	group 52 66	contraceptives
+T2	group 76 87	antibiotics
+T3	group 89 98	quinidine
+T4	drug 100 112	theophylline
+T5	group 114 129	corticosteroids
+T6	group 131 145	anticoagulants
+T7	group 151 164	beta blockers
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2
+R3	int Arg1:T0 Arg2:T3
+R4	int Arg1:T0 Arg2:T4
+R5	int Arg1:T0 Arg2:T5
+R6	int Arg1:T0 Arg2:T6
+R7	int Arg1:T0 Arg2:T7
+T0	group 0 12	Barbiturates
+T1	group 52 66	contraceptives
+T2	group 76 87	antibiotics
+T3	group 89 98	quinidine
+T4	drug 100 112	theophylline
+T5	group 114 129	corticosteroids
+T6	group 131 145	anticoagulants
+T7	group 151 164	beta blockers
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2
+R3	int Arg1:T0 Arg2:T3
+R4	int Arg1:T0 Arg2:T4
+R5	int Arg1:T0 Arg2:T5
+R6	int Arg1:T0 Arg2:T6
+R7	int Arg1:T0 Arg2:T7

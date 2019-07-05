@@ -1,0 +1,7 @@
+T0	group 64 97	histamine H2-receptor antagonists
+T1	drug 106 116	ranitidine
+T2	drug 120 130	cimetidine
+T3	brand 168 174	IRESSA
+R1	mechanism Arg1:T0 Arg2:T3
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T2 Arg2:T3

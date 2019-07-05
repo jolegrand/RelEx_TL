@@ -1,0 +1,7 @@
+T0	group 18 42	xanthine bronchodilators
+T1	drug 50 62	theophylline
+T2	drug 65 74	ephedrine
+T3	group 86 117	sympathomimetic bronchodilators
+R1	effect Arg1:T0 Arg2:T3
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T2 Arg2:T3

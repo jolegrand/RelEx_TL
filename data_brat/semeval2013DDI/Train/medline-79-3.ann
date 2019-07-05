@@ -1,0 +1,3 @@
+T0	drug 48 57	indinavir
+T1	drug 74 84	didanosine
+R1	mechanism Arg1:T0 Arg2:T1

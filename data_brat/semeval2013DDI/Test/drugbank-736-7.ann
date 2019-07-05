@@ -1,0 +1,6 @@
+T0	group 0 9	Thiazides
+T1	group 55 77	antihypertensive drugs
+R1	effect Arg1:T0 Arg2:T1
+T0	group 0 9	Thiazides
+T1	group 55 77	antihypertensive drugs
+R1	effect Arg1:T0 Arg2:T1

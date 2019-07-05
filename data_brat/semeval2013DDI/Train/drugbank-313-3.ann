@@ -1,0 +1,9 @@
+T0	group 0 13	Beta-blockers
+T1	drug 15 24	clonidine
+T2	drug 26 33	lithium
+T3	drug 45 52	alcohol
+T4	drug 122 129	insulin
+R1	effect Arg1:T0 Arg2:T4
+R2	effect Arg1:T1 Arg2:T4
+R3	effect Arg1:T2 Arg2:T4
+R4	effect Arg1:T3 Arg2:T4

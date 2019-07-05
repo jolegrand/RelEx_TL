@@ -1,0 +1,17 @@
+T0	group 27 40	sulfonylureas
+T1	group 87 124	nonsteroidal anti-inflammatory agents
+T2	group 172 183	salicylates
+T3	group 185 197	sulfonamides
+T4	drug 199 214	chloramphenicol
+T5	drug 216 226	probenecid
+T6	group 228 237	coumarins
+T7	group 239 267	monoamine oxidase inhibitors
+T8	group 273 304	beta adrenergic blocking agents
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5
+R6	effect Arg1:T0 Arg2:T6
+R7	effect Arg1:T0 Arg2:T7
+R8	effect Arg1:T0 Arg2:T8

@@ -1,0 +1,11 @@
+T0	drug 76 85	milrinone
+T1	drug 87 96	enoximone
+T2	drug 98 106	amrinone
+T3	drug_n 108 117	olprinone
+T4	drug 122 132	cilostazol
+T5	drug 155 165	anagrelide
+R1	effect Arg1:T0 Arg2:T5
+R2	effect Arg1:T1 Arg2:T5
+R3	effect Arg1:T2 Arg2:T5
+R4	effect Arg1:T3 Arg2:T5
+R5	effect Arg1:T4 Arg2:T5

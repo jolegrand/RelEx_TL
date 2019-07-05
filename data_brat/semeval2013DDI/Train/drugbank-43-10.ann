@@ -1,0 +1,4 @@
+T0	drug 11 24	ciprofloxacin
+T1	drug 90 103	ciprofloxacin
+T2	drug 108 118	didanosine
+R1	mechanism Arg1:T1 Arg2:T2

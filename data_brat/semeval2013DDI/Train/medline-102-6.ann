@@ -1,0 +1,6 @@
+T0	drug 42 51	estradiol
+T1	drug 80 93	noradrenaline
+T2	drug 121 133	progesterone
+T3	drug 139 151	progesterone
+T4	drug 159 168	estradiol
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,5 @@
+T0	drug 0 11	Mineral oil
+T1	group 46 66	fat-soluble vitamins
+T2	group 78 100	vitamin D preparations
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

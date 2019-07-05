@@ -1,0 +1,14 @@
+T0	brand 40 46	SYMLIN
+T1	group 150 172	anticholinergic agents
+T2	drug 181 189	atropine
+T3	group 258 286	alpha glucosidase inhibitors
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+T0	brand 40 46	SYMLIN
+T1	group 150 172	anticholinergic agents
+T2	drug 181 189	atropine
+T3	group 258 286	alpha glucosidase inhibitors
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3

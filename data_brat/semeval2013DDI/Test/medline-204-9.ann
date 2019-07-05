@@ -1,0 +1,6 @@
+T0	drug_n 70 83	methylglyoxal
+T1	drug 88 100	piperacillin
+R1	effect Arg1:T0 Arg2:T1
+T0	drug_n 70 83	methylglyoxal
+T1	drug 88 100	piperacillin
+R1	effect Arg1:T0 Arg2:T1

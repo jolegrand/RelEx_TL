@@ -1,0 +1,5 @@
+T0	brand 9 16	INDOCIN
+T1	drug 81 88	lithium
+T2	drug 112 119	lithium
+T3	drug 199 206	lithium
+R1	mechanism Arg1:T0 Arg2:T1

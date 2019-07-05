@@ -1,0 +1,3 @@
+T0	group 32 46	contraceptives
+T1	drug 72 82	Aprepitant
+R1	effect Arg1:T0 Arg2:T1

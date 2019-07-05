@@ -1,0 +1,3 @@
+T0	drug 31 39	naloxone
+T1	drug 145 153	morphine
+R1	effect Arg1:T0 Arg2:T1

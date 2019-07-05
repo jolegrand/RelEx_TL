@@ -1,0 +1,38 @@
+T0	drug 23 35	ketoconazole
+T1	group 84 101	azole antifungals
+T2	drug 107 119	itraconazole
+T3	drug 121 131	miconazole
+T4	group 136 157	macrolide antibiotics
+T5	drug 163 175	erythromycin
+T6	drug 177 191	clarithromycin
+T7	drug 196 208	cyclosporine
+T8	drug 212 223	vinblastine
+T9	brand 249 258	DETROL LA
+R1	advise Arg1:T0 Arg2:T9
+R2	advise Arg1:T1 Arg2:T9
+R3	advise Arg1:T2 Arg2:T9
+R4	advise Arg1:T3 Arg2:T9
+R5	advise Arg1:T4 Arg2:T9
+R6	advise Arg1:T5 Arg2:T9
+R7	advise Arg1:T6 Arg2:T9
+R8	advise Arg1:T7 Arg2:T9
+R9	advise Arg1:T8 Arg2:T9
+T0	drug 23 35	ketoconazole
+T1	group 84 101	azole antifungals
+T2	drug 107 119	itraconazole
+T3	drug 121 131	miconazole
+T4	group 136 157	macrolide antibiotics
+T5	drug 163 175	erythromycin
+T6	drug 177 191	clarithromycin
+T7	drug 196 208	cyclosporine
+T8	drug 212 223	vinblastine
+T9	brand 249 258	DETROL LA
+R1	advise Arg1:T0 Arg2:T9
+R2	advise Arg1:T1 Arg2:T9
+R3	advise Arg1:T2 Arg2:T9
+R4	advise Arg1:T3 Arg2:T9
+R5	advise Arg1:T4 Arg2:T9
+R6	advise Arg1:T5 Arg2:T9
+R7	advise Arg1:T6 Arg2:T9
+R8	advise Arg1:T7 Arg2:T9
+R9	advise Arg1:T8 Arg2:T9

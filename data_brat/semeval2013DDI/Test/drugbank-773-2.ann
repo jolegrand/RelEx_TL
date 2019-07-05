@@ -1,0 +1,22 @@
+T0	group 0 14	Anticoagulants
+T1	drug 24 31	heparin
+T2	group 36 57	vitamin K antagonists
+T3	drug 107 127	acetylsalicylic acid
+T4	drug 129 141	dipyridamole
+T5	brand 248 254	TNKase
+R1	effect Arg1:T0 Arg2:T5
+R2	effect Arg1:T1 Arg2:T5
+R3	effect Arg1:T2 Arg2:T5
+R4	effect Arg1:T3 Arg2:T5
+R5	effect Arg1:T4 Arg2:T5
+T0	group 0 14	Anticoagulants
+T1	drug 24 31	heparin
+T2	group 36 57	vitamin K antagonists
+T3	drug 107 127	acetylsalicylic acid
+T4	drug 129 141	dipyridamole
+T5	brand 248 254	TNKase
+R1	effect Arg1:T0 Arg2:T5
+R2	effect Arg1:T1 Arg2:T5
+R3	effect Arg1:T2 Arg2:T5
+R4	effect Arg1:T3 Arg2:T5
+R5	effect Arg1:T4 Arg2:T5

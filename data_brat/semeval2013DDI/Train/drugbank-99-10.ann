@@ -1,0 +1,3 @@
+T0	group 62 66	TCAs
+T1	group 83 88	SSRIs
+R1	advise Arg1:T0 Arg2:T1

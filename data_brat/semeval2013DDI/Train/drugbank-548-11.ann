@@ -1,0 +1,4 @@
+T0	drug 126 138	thioridazine
+T1	drug 140 150	Duloxetine
+T2	drug 155 167	thioridazine
+R1	advise Arg1:T1 Arg2:T2

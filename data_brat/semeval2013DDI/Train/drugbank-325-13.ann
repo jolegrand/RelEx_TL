@@ -1,0 +1,3 @@
+T0	drug 18 27	phenytoin
+T1	drug 50 62	dopamine HCl
+R1	effect Arg1:T0 Arg2:T1

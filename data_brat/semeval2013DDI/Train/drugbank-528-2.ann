@@ -1,0 +1,4 @@
+T0	drug 0 10	Gentamicin
+T1	drug 13 23	Methionine
+T2	drug 68 78	gentamicin
+R1	effect Arg1:T1 Arg2:T2

@@ -1,0 +1,6 @@
+T0	group 0 11	Salicylates
+T1	group 56 74	antidiabetic drugs
+R1	effect Arg1:T0 Arg2:T1
+T0	group 0 11	Salicylates
+T1	group 56 74	antidiabetic drugs
+R1	effect Arg1:T0 Arg2:T1

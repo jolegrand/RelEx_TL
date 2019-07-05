@@ -1,0 +1,10 @@
+T0	drug 51 60	stavudine
+T1	drug 109 120	doxorubicin
+T2	drug 125 134	ribavirin
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+T0	drug 51 60	stavudine
+T1	drug 109 120	doxorubicin
+T2	drug 125 134	ribavirin
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

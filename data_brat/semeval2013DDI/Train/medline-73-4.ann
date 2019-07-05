@@ -1,0 +1,4 @@
+T0	drug 0 15	Methamphetamine
+T1	drug_n 22 26	MPTP
+T2	drug 107 116	pargyline
+R1	effect Arg1:T0 Arg2:T2

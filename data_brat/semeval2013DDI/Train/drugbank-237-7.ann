@@ -1,0 +1,9 @@
+T0	group 0 11	Antifungals
+T1	drug 56 67	fluconazole
+T2	drug 69 81	itraconazole
+T3	drug 92 104	ketoconazole
+T4	drug 140 149	cisapride
+T5	drug 193 202	cisapride
+R1	mechanism Arg1:T1 Arg2:T4
+R2	mechanism Arg1:T2 Arg2:T4
+R3	mechanism Arg1:T3 Arg2:T4

@@ -1,0 +1,6 @@
+T0	group 24 44	Antiretroviral Drugs
+T1	drug 82 93	delavirdine
+T2	drug 104 113	indinavir
+T3	brand 188 193	VIDEX
+R1	mechanism Arg1:T1 Arg2:T3
+R2	mechanism Arg1:T2 Arg2:T3

@@ -1,0 +1,5 @@
+T0	brand 0 7	Aspirin
+T1	brand 48 55	aspirin
+T2	brand 61 66	VIOXX
+T3	brand 159 164	VIOXX
+R1	effect Arg1:T1 Arg2:T2

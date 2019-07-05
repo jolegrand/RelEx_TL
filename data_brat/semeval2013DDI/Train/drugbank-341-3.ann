@@ -1,0 +1,3 @@
+T0	brand 50 56	ENBREL
+T1	drug 62 70	anakinra
+R1	effect Arg1:T0 Arg2:T1

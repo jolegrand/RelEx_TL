@@ -1,0 +1,4 @@
+T0	drug 50 63	Carbamazepine
+T1	drug 94 107	carbamazepine
+T2	drug 112 119	lithium
+R1	effect Arg1:T1 Arg2:T2

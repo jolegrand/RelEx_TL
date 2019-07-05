@@ -1,0 +1,7 @@
+T0	drug 2 12	Lofexidine
+T1	drug 55 62	alcohol
+T2	group 64 76	barbiturates
+T3	group 87 96	sedatives
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

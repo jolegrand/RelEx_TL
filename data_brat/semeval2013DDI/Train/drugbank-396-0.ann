@@ -1,0 +1,12 @@
+T0	group 25 44	narcotic analgesics
+T1	group 46 60	antipsychotics
+T2	group 62 80	antianxiety agents
+T3	group 91 106	CNS depressants
+T4	drug 118 125	alcohol
+T5	drug 146 157	hydrocodone
+T6	drug 162 175	acetaminophen
+R1	effect Arg1:T0 Arg2:T5
+R2	effect Arg1:T1 Arg2:T5
+R3	effect Arg1:T2 Arg2:T5
+R4	effect Arg1:T3 Arg2:T5
+R5	effect Arg1:T4 Arg2:T5

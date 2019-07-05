@@ -1,0 +1,7 @@
+T0	group 30 49	Antiepileptic Drugs
+T1	brand 67 75	Felbatol
+T2	group 80 99	antiepileptic drugs
+T3	group 101 105	AEDs
+T4	group 157 161	AEDs
+R1	mechanism Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T3

@@ -1,0 +1,29 @@
+T0	brand 98 105	NUROMAX
+T1	group 122 133	antibiotics
+T2	group 142 157	aminoglycosides
+T3	group 159 172	tetracyclines
+T4	group 174 184	bacitracin
+T5	group 186 196	polymyxins
+T6	drug 198 208	lincomycin
+T7	drug 210 221	clindamycin
+T8	drug 223 231	colistin
+T9	drug 237 258	sodium colistimethate
+T10	drug 261 270	magnesium
+T11	drug 278 285	lithium
+T12	group 293 304	anesthetics
+T13	drug 306 318	procainamide
+T14	drug 324 333	quinidine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5
+R6	effect Arg1:T0 Arg2:T6
+R7	effect Arg1:T0 Arg2:T7
+R8	effect Arg1:T0 Arg2:T8
+R9	effect Arg1:T0 Arg2:T9
+R10	effect Arg1:T0 Arg2:T10
+R11	effect Arg1:T0 Arg2:T11
+R12	effect Arg1:T0 Arg2:T12
+R13	effect Arg1:T0 Arg2:T13
+R14	effect Arg1:T0 Arg2:T14

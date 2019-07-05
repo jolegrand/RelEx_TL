@@ -1,0 +1,13 @@
+T0	brand 72 82	ALPHAGAN P
+T1	group 143 158	CNS depressants
+T2	drug 160 167	alcohol
+T3	group 169 181	barbiturates
+T4	group 183 190	opiates
+T5	group 192 201	sedatives
+T6	group 206 217	anesthetics
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4
+R5	advise Arg1:T0 Arg2:T5
+R6	advise Arg1:T0 Arg2:T6

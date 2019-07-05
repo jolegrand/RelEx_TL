@@ -1,0 +1,6 @@
+T0	brand 18 28	Metopirone
+T1	drug 47 56	phenytoin
+R1	mechanism Arg1:T0 Arg2:T1
+T0	brand 18 28	Metopirone
+T1	drug 47 56	phenytoin
+R1	mechanism Arg1:T0 Arg2:T1

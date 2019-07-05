@@ -1,0 +1,3 @@
+T0	brand 34 39	VIOXX
+T1	drug 168 180	methotrexate
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,8 @@
+T0	drug 0 10	Cimetidine
+T1	drug 12 22	Ranitidine
+T2	drug 70 80	cimetidine
+T3	drug 84 94	ranitidine
+T4	drug 110 122	flurbiprofen
+T5	drug 257 269	flurbiprofen
+T6	drug 284 294	cimetidine
+R1	mechanism Arg1:T5 Arg2:T6

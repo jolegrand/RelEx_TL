@@ -1,0 +1,12 @@
+T0	group 0 24	Beta adrenergic agonists
+T1	group 92 120	monoamine oxidase inhibitors
+T2	group 124 149	tricyclic antidepressants
+T3	group 171 195	beta adrenergic agonists
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+T0	group 0 24	Beta adrenergic agonists
+T1	group 92 120	monoamine oxidase inhibitors
+T2	group 124 149	tricyclic antidepressants
+T3	group 171 195	beta adrenergic agonists
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

@@ -1,0 +1,5 @@
+T0	group 0 15	Antidepressants
+T1	drug 45 55	nefazodone
+T2	drug 83 92	cisapride
+T3	drug 136 145	cisapride
+R1	mechanism Arg1:T1 Arg2:T2

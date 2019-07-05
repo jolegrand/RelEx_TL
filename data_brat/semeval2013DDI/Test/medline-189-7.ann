@@ -1,0 +1,6 @@
+T0	drug_n 0 3	ABT
+T1	drug_n 30 41	precocene I
+R1	effect Arg1:T0 Arg2:T1
+T0	drug_n 0 3	ABT
+T1	drug_n 30 41	precocene I
+R1	effect Arg1:T0 Arg2:T1

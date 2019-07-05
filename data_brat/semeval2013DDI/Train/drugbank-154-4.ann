@@ -1,0 +1,3 @@
+T0	drug 5 18	phenobarbital
+T1	brand 81 87	Nalfon
+R1	advise Arg1:T0 Arg2:T1

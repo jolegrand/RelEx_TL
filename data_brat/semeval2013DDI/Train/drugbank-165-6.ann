@@ -1,0 +1,5 @@
+T0	drug 37 49	itraconazole
+T1	drug 54 66	ketoconazole
+T2	drug 88 98	astemizole
+T3	drug 104 116	itraconazole
+R1	advise Arg1:T2 Arg2:T3

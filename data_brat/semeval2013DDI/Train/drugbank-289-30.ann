@@ -1,0 +1,6 @@
+T0	drug 0 8	Warfarin
+T1	drug 31 39	bosentan
+T2	drug 109 119	S-warfarin
+T3	drug 145 155	R-warfarin
+R1	mechanism Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T3

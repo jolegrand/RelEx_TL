@@ -1,0 +1,24 @@
+T0	drug 66 79	phenylephrine
+T1	drug 81 96	pseudoephedrine
+T2	drug 98 107	ephedrine
+T3	drug 109 128	phenylpropanolamine
+T4	drug 132 149	dihydroergotamine
+T5	brand 200 210	ProAmatine
+T6	brand 254 264	ProAmatine
+R1	effect Arg1:T0 Arg2:T5
+R2	effect Arg1:T1 Arg2:T5
+R3	effect Arg1:T2 Arg2:T5
+R4	effect Arg1:T3 Arg2:T5
+R5	effect Arg1:T4 Arg2:T5
+T0	drug 66 79	phenylephrine
+T1	drug 81 96	pseudoephedrine
+T2	drug 98 107	ephedrine
+T3	drug 109 128	phenylpropanolamine
+T4	drug 132 149	dihydroergotamine
+T5	brand 200 210	ProAmatine
+T6	brand 254 264	ProAmatine
+R1	effect Arg1:T0 Arg2:T5
+R2	effect Arg1:T1 Arg2:T5
+R3	effect Arg1:T2 Arg2:T5
+R4	effect Arg1:T3 Arg2:T5
+R5	effect Arg1:T4 Arg2:T5

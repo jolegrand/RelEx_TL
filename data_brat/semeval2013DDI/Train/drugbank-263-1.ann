@@ -1,0 +1,3 @@
+T0	drug 0 11	Zalcitabine
+T1	drug 83 86	ZDV
+R1	effect Arg1:T0 Arg2:T1

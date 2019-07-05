@@ -1,0 +1,6 @@
+T0	drug 54 72	methylprednisolone
+T1	drug 77 88	cyclosporin
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 54 72	methylprednisolone
+T1	drug 77 88	cyclosporin
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,5 @@
+T0	drug 0 10	Benazepril
+T1	group 23 37	ACE inhibitors
+T2	group 79 103	beta-adrenergic blockers
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

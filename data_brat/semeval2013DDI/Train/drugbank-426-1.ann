@@ -1,0 +1,9 @@
+T0	drug 67 77	ergotamine
+T1	group 92 114	ergot-type medications
+T2	drug 121 138	dihydroergotamine
+T3	drug 142 154	methysergide
+T4	brand 160 165	FROVA
+R1	advise Arg1:T0 Arg2:T4
+R2	advise Arg1:T1 Arg2:T4
+R3	advise Arg1:T2 Arg2:T4
+R4	advise Arg1:T3 Arg2:T4

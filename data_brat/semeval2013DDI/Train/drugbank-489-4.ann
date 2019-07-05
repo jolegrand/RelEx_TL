@@ -1,0 +1,6 @@
+T0	group 66 79	beta-blockers
+T1	drug 84 93	clonidine
+T2	group 112 124	beta-blocker
+T3	drug 206 215	clonidine
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T2 Arg2:T3

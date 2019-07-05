@@ -1,0 +1,3 @@
+T0	drug 26 38	Itraconazole
+T1	group 76 84	coumarin
+R1	effect Arg1:T0 Arg2:T1

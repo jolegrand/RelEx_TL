@@ -1,0 +1,3 @@
+T0	drug 0 14	Clarithromycin
+T1	drug 55 65	nevirapine
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,3 @@
+T0	brand 47 56	ETOPOPHOS
+T1	drug 124 148	levamisole hydrochloride
+R1	advise Arg1:T0 Arg2:T1

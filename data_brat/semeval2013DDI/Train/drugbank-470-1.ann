@@ -1,0 +1,9 @@
+T0	brand 24 32	TRISENOX
+T1	group 121 136	antiarrhythmics
+T2	drug 140 152	thioridazine
+T3	group 200 209	diuretics
+T4	drug 213 227	amphotericin B
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4

@@ -1,0 +1,8 @@
+T0	group 16 30	sulphonylureas
+T1	drug 35 42	insulin
+T2	brand 62 69	Bezalip
+T3	brand 73 87	Bezalip retard
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T0 Arg2:T3
+R3	effect Arg1:T1 Arg2:T2
+R4	effect Arg1:T1 Arg2:T3

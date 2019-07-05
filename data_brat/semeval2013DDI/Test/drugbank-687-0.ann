@@ -1,0 +1,6 @@
+T0	drug 18 31	valproic acid
+T1	drug 60 72	temozolomide
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 18 31	valproic acid
+T1	drug 60 72	temozolomide
+R1	mechanism Arg1:T0 Arg2:T1

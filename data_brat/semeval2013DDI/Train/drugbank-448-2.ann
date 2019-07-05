@@ -1,0 +1,3 @@
+T0	group 5 26	sympathomimetic drugs
+T1	group 59 87	monoamine oxidase inhibitors
+R1	effect Arg1:T0 Arg2:T1

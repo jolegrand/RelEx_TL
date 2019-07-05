@@ -1,0 +1,7 @@
+T0	drug 0 6	Iodine
+T1	drug 10 16	iodine
+T2	drug 51 62	Carbimazole
+T3	drug 71 77	iodine
+T4	drug 116 127	Carbimazole
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T3 Arg2:T4

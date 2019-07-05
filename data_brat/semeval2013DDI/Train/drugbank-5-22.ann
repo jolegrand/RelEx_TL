@@ -1,0 +1,9 @@
+T0	brand 65 75	WELLBUTRIN
+T1	group 94 108	antipsychotics
+T2	group 116 131	antidepressants
+T3	drug 133 145	theophylline
+T4	group 156 164	steroids
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4

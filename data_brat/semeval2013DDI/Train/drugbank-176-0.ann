@@ -1,0 +1,4 @@
+T0	group 0 9	Diuretics
+T1	group 23 32	diuretics
+T2	drug 190 207	fosinopril sodium
+R1	effect Arg1:T1 Arg2:T2

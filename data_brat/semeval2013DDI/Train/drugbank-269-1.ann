@@ -1,0 +1,11 @@
+T0	drug 21 32	debrisoquin
+T1	drug 50 60	carvedilol
+T2	drug 103 112	quinidine
+T3	drug 114 124	fluoxetine
+T4	drug 126 136	paroxetine
+T5	drug 142 153	propafenone
+T6	drug 263 273	carvedilol
+R1	effect Arg1:T2 Arg2:T6
+R2	effect Arg1:T3 Arg2:T6
+R3	effect Arg1:T4 Arg2:T6
+R4	effect Arg1:T5 Arg2:T6

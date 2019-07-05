@@ -1,0 +1,5 @@
+T0	group 0 17	Uricosuric Agents
+T1	drug 42 52	oxipurinol
+T2	group 82 99	uricosuric agents
+T3	drug 185 195	oxipurinol
+R1	mechanism Arg1:T2 Arg2:T3

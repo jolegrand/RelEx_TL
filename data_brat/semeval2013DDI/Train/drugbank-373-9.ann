@@ -1,0 +1,4 @@
+T0	group 0 23	Coumarin Anticoagulants
+T1	group 103 126	coumarin anticoagulants
+T2	drug 135 145	nifedipine
+R1	effect Arg1:T1 Arg2:T2

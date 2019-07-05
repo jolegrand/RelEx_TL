@@ -1,0 +1,8 @@
+T0	group 0 28	Monoamine Oxidase Inhibitors
+T1	group 33 58	Tricyclic Antidepressants
+T2	brand 60 67	FORADIL
+T3	group 143 171	monoamine oxidase inhibitors
+T4	group 175 200	tricyclic antidepressants
+T5	drug 223 233	formoterol
+R1	advise Arg1:T2 Arg2:T3
+R2	advise Arg1:T2 Arg2:T4

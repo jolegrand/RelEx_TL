@@ -1,0 +1,6 @@
+T0	drug 32 42	Aprepitant
+T1	drug 64 68;77 85	R(+) warfarin
+T2	drug 72 85	S(-) warfarin
+T3	drug 135 147	S(-)warfarin
+T4	drug 335 345	Aprepitant
+R1	mechanism Arg1:T3 Arg2:T4

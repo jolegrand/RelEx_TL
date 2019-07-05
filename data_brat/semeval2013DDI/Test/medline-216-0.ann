@@ -1,0 +1,8 @@
+T0	drug 17 27	S-ketamine
+T1	drug 45 57	itraconazole
+T2	drug 83 94	ticlopidine
+R1	effect Arg1:T0 Arg2:T2
+T0	drug 17 27	S-ketamine
+T1	drug 45 57	itraconazole
+T2	drug 83 94	ticlopidine
+R1	effect Arg1:T0 Arg2:T2

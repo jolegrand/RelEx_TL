@@ -1,0 +1,3 @@
+T0	drug 12 25	norethindrone
+T1	drug 73 83	gabapentin
+R1	mechanism Arg1:T0 Arg2:T1

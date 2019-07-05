@@ -1,0 +1,11 @@
+T0	group 0 21	Macrolide Antibiotics
+T1	drug 29 41	erythromycin
+T2	drug 46 60	troleandomycin
+T3	group 77 97	ergot alkaloid class
+T4	brand 108 117	D.H.E. 45
+T5	drug 120 146	dihydroergotamine mesylate
+T6	group 209 220	antibiotics
+T7	group 228 243	macrolide class
+R1	mechanism Arg1:T3 Arg2:T7
+R2	mechanism Arg1:T4 Arg2:T7
+R3	mechanism Arg1:T5 Arg2:T7

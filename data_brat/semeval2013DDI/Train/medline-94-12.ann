@@ -1,0 +1,5 @@
+T0	drug 22 29	cocaine
+T1	drug 34 45	desipramine
+T2	drug 108 122	norepinephrine
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

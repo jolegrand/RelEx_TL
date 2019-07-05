@@ -1,0 +1,109 @@
+T0	group 40 53	anticoagulant
+T1	drug 115 122	alcohol
+T2	drug 124 135	allopurinol
+T3	drug 136 155	aminosalicylic acid
+T4	drug 156 166	amiodarone
+T5	group 167 184	anabolic steroids
+T6	group 185 196	antibiotics
+T7	drug 197 207	bromelains
+T8	drug 208 223	chloral hydrate
+T9	drug 225 239	chlorpropamide
+T10	drug 240 252	chymotrypsin
+T11	drug 253 263	cimetidine
+T12	drug 264 274	cinchophen
+T13	drug 275 285	clofibrate
+T14	drug 286 293	dextran
+T15	drug 294 309	dextrothyroxine
+T16	drug 310 319	diazoxide
+T17	drug 341 351	diflunisal
+T18	drug 352 362	disulfiram
+T19	drug 394 409	ethacrynic acid
+T20	drug 410 420	fenoprofen
+T21	drug 421 429	glucagon
+T22	drug 448 457	ibuprofen
+T23	drug 458 470	indomethacin
+T24	group 471 494	influenza virus vaccine
+T25	group 506 517	anesthetics
+T26	drug 518 532	mefenamic acid
+T27	drug 533 543	methyldopa
+T28	drug 544 559	methylphenidate
+T29	drug 560 573	metronidazole
+T30	drug 574 584	miconazole
+T31	group 585 613	monoamine oxidase inhibitors
+T32	drug 614 628	nalidixic acid
+T33	drug 629 637	naproxen
+T34	drug 638 651	oxolinic acid
+T35	drug 652 667	oxyphenbutazone
+T36	drug 668 682	pentoxifylline
+T37	drug 683 697	phenylbutazone
+T38	drug_n 698 710	phenyramidol
+T39	drug 711 720	phenytoin
+T40	group 743 762	prolonged narcotics
+T41	group 763 774	pyrazolones
+T42	drug 775 784	quinidine
+T43	drug 785 792	quinine
+T44	drug 793 803	ranitidine
+T45	group 805 816	salicylates
+T46	drug 817 831	sulfinpyrazone
+T47	group 832 844	sulfonamides
+T48	drug 858 866	sulindac
+T49	group 867 880	thyroid drugs
+T50	drug 881 892	tolbutamide
+T51	drug 893 909	triclofos sodium
+T52	drug 910 922	trimethoprim
+T53	drug 923 939	sulfamethoxazole
+T54	drug 983 998	warfarin sodium
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5
+R6	effect Arg1:T0 Arg2:T6
+R7	effect Arg1:T0 Arg2:T7
+R8	effect Arg1:T0 Arg2:T8
+R9	effect Arg1:T0 Arg2:T9
+R10	effect Arg1:T0 Arg2:T10
+R11	effect Arg1:T0 Arg2:T11
+R12	effect Arg1:T0 Arg2:T12
+R13	effect Arg1:T0 Arg2:T13
+R14	effect Arg1:T0 Arg2:T14
+R15	effect Arg1:T0 Arg2:T15
+R16	effect Arg1:T0 Arg2:T16
+R17	effect Arg1:T0 Arg2:T17
+R18	effect Arg1:T0 Arg2:T18
+R19	effect Arg1:T0 Arg2:T19
+R20	effect Arg1:T0 Arg2:T20
+R21	effect Arg1:T0 Arg2:T21
+R22	effect Arg1:T0 Arg2:T22
+R23	effect Arg1:T0 Arg2:T23
+R24	effect Arg1:T0 Arg2:T24
+R25	effect Arg1:T0 Arg2:T25
+R26	effect Arg1:T0 Arg2:T26
+R27	effect Arg1:T0 Arg2:T27
+R28	effect Arg1:T0 Arg2:T28
+R29	effect Arg1:T0 Arg2:T29
+R30	effect Arg1:T0 Arg2:T30
+R31	effect Arg1:T0 Arg2:T31
+R32	effect Arg1:T0 Arg2:T32
+R33	effect Arg1:T0 Arg2:T33
+R34	effect Arg1:T0 Arg2:T34
+R35	effect Arg1:T0 Arg2:T35
+R36	effect Arg1:T0 Arg2:T36
+R37	effect Arg1:T0 Arg2:T37
+R38	effect Arg1:T0 Arg2:T38
+R39	effect Arg1:T0 Arg2:T39
+R40	effect Arg1:T0 Arg2:T40
+R41	effect Arg1:T0 Arg2:T41
+R42	effect Arg1:T0 Arg2:T42
+R43	effect Arg1:T0 Arg2:T43
+R44	effect Arg1:T0 Arg2:T44
+R45	effect Arg1:T0 Arg2:T45
+R46	effect Arg1:T0 Arg2:T46
+R47	effect Arg1:T0 Arg2:T47
+R48	effect Arg1:T0 Arg2:T48
+R49	effect Arg1:T0 Arg2:T49
+R50	effect Arg1:T0 Arg2:T50
+R51	effect Arg1:T0 Arg2:T51
+R52	effect Arg1:T0 Arg2:T52
+R53	effect Arg1:T0 Arg2:T53
+R54	effect Arg1:T0 Arg2:T54

@@ -1,0 +1,3 @@
+T0	group 0 31	Beta-adrenergic blocking agents
+T1	group 55 71	sympathomimetics
+R1	int Arg1:T0 Arg2:T1

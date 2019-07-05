@@ -1,0 +1,7 @@
+T0	group 0 25	Urinary acidifying agents
+T1	drug 27 44	ammonium chloride
+T2	drug 46 67	sodium acid phosphate
+T3	drug 132 143	amphetamine
+R1	mechanism Arg1:T0 Arg2:T3
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T2 Arg2:T3

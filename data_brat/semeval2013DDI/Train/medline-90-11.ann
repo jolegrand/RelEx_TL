@@ -1,0 +1,3 @@
+T0	drug 32 42	gentamycin
+T1	drug 85 95	atracurium
+R1	effect Arg1:T0 Arg2:T1

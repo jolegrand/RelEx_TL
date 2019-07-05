@@ -1,0 +1,6 @@
+T0	drug 0 12	Methotrexate
+T1	drug 14 23	Ibuprofen
+T2	group 42 78	nonsteroidal anti-inflammatory drugs
+T3	drug 122 134	methotrexate
+R1	mechanism Arg1:T1 Arg2:T3
+R2	mechanism Arg1:T2 Arg2:T3

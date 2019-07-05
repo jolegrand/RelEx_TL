@@ -1,0 +1,3 @@
+T0	drug 21 33	atorvastatin
+T1	drug 70 79	aliskiren
+R1	mechanism Arg1:T0 Arg2:T1

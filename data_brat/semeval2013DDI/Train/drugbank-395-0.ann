@@ -1,0 +1,6 @@
+T0	drug 0 7	Bismuth
+T1	drug 9 30	Bismuth subsalicylate
+T2	drug 57 65	enoxacin
+T3	drug 90 98	enoxacin
+T4	drug 125 133	enoxacin
+R1	mechanism Arg1:T1 Arg2:T2

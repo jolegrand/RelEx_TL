@@ -1,0 +1,20 @@
+T0	group 0 15	Anticonvulsants
+T1	drug 17 30	carbamazepine
+T2	drug 32 41	felbamate
+T3	drug 43 56	phenobarbital
+T4	drug 58 67	phenytoin
+T5	drug 69 79	topiramate
+T6	drug 109 126	ethinyl estradiol
+T7	group 139 149	progestins
+R1	mechanism Arg1:T0 Arg2:T6
+R2	mechanism Arg1:T0 Arg2:T7
+R3	mechanism Arg1:T1 Arg2:T6
+R4	mechanism Arg1:T1 Arg2:T7
+R5	mechanism Arg1:T2 Arg2:T6
+R6	mechanism Arg1:T2 Arg2:T7
+R7	mechanism Arg1:T3 Arg2:T6
+R8	mechanism Arg1:T3 Arg2:T7
+R9	mechanism Arg1:T4 Arg2:T6
+R10	mechanism Arg1:T4 Arg2:T7
+R11	mechanism Arg1:T5 Arg2:T6
+R12	mechanism Arg1:T5 Arg2:T7

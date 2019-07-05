@@ -1,0 +1,8 @@
+T0	drug 2 30	Perhexiline hydrogen maleate
+T1	group 34 48	MAO-inhibitors
+T2	brand 117 124	Bezalip
+T3	brand 128 142	Bezalip retard
+R1	advise Arg1:T0 Arg2:T2
+R2	advise Arg1:T0 Arg2:T3
+R3	advise Arg1:T1 Arg2:T2
+R4	advise Arg1:T1 Arg2:T3

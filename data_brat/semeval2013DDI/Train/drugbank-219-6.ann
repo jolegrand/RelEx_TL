@@ -1,0 +1,4 @@
+T0	group 23 29	NSAIDs
+T1	brand 61 67	Lodine
+T2	brand 72 79	aspirin
+R1	advise Arg1:T1 Arg2:T2

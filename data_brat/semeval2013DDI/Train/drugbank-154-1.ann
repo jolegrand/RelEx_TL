@@ -1,0 +1,4 @@
+T0	drug 46 56	fenoprofen
+T1	brand 61 68	aspirin
+T2	drug 128 138	fenoprofen
+R1	mechanism Arg1:T0 Arg2:T1

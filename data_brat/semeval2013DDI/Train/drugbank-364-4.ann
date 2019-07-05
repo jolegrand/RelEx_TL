@@ -1,0 +1,3 @@
+T0	drug 30 39	alosetron
+T1	drug 44 55	fluvoxamine
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,3 @@
+T0	drug 70 84	amphotericin B
+T1	group 86 107	Antineoplastic agents
+R1	effect Arg1:T0 Arg2:T1

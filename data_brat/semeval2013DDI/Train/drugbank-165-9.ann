@@ -1,0 +1,3 @@
+T0	drug 27 39	itraconazole
+T1	drug 133 142	cisapride
+R1	mechanism Arg1:T0 Arg2:T1

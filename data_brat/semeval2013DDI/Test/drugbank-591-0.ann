@@ -1,0 +1,8 @@
+T0	drug 0 11	Ropivacaine
+T1	group 74 85	anesthetics
+T2	group 120 148	amide-type local anesthetics
+R1	advise Arg1:T0 Arg2:T1
+T0	drug 0 11	Ropivacaine
+T1	group 74 85	anesthetics
+T2	group 120 148	amide-type local anesthetics
+R1	advise Arg1:T0 Arg2:T1

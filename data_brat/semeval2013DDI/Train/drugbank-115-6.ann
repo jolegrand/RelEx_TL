@@ -1,0 +1,4 @@
+T0	drug 58 66	rifampin
+T1	brand 96 103	Gleevec
+T2	brand 115 122	Gleevec
+R1	mechanism Arg1:T0 Arg2:T1

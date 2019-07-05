@@ -1,0 +1,5 @@
+T0	drug 0 8	Rifampin
+T1	drug 30 38	rifampin
+T2	brand 43 51	VIRACEPT
+T3	drug 83 93	nelfinavir
+R1	mechanism Arg1:T1 Arg2:T2

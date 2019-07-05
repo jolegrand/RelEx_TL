@@ -1,0 +1,4 @@
+T0	drug 64 76	methotrexate
+T1	brand 82 88	ELSPAR
+T2	brand 121 127	ELSPAR
+R1	advise Arg1:T0 Arg2:T1

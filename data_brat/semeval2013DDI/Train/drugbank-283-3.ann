@@ -1,0 +1,4 @@
+T0	group 0 28	HMG-CoA reductase inhibitors
+T1	brand 50 56	TRICOR
+T2	group 61 89	HMG-CoA reductase inhibitors
+R1	advise Arg1:T1 Arg2:T2

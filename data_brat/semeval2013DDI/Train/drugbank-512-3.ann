@@ -1,0 +1,6 @@
+T0	drug 0 13	Amitriptyline
+T1	drug 60 70	cinacalcet
+T2	drug 82 95	amitriptyline
+T3	drug 106 119	amitriptyline
+T4	drug_n 133 146	nortriptyline
+R1	mechanism Arg1:T1 Arg2:T2

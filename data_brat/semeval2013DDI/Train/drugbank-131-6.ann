@@ -1,0 +1,3 @@
+T0	drug 20 32	propoxyphene
+T1	drug 79 89	alprazolam
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,9 @@
+T0	drug 0 9	Cisapride
+T1	group 102 117	antiarrhythmics
+T2	drug 156 165	quinidine
+T3	drug 170 182	procainamide
+T4	drug 207 214	sotalol
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4

@@ -1,0 +1,7 @@
+T0	drug 33 56	clorazepate dipotassium
+T1	drug 90 102	hexobarbital
+T2	drug 112 125	ethyl alcohol
+T3	drug 163 177	chlorpromazine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

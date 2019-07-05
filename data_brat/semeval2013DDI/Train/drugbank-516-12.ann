@@ -1,0 +1,4 @@
+T0	drug 0 10	Cimetidine
+T1	drug 12 22	Cimetidine
+T2	group 88 98	quinolones
+R1	mechanism Arg1:T1 Arg2:T2

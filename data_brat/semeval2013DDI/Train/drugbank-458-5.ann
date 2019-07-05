@@ -1,0 +1,5 @@
+T0	drug 40 52	ketoconazole
+T1	drug 80 90	astemizole
+T2	drug 131 141	astemizole
+T3	drug_n 168 187	desmethylastemizole
+R1	effect Arg1:T0 Arg2:T1

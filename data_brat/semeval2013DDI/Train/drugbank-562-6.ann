@@ -1,0 +1,5 @@
+T0	group 0 8	Antacids
+T1	drug 12 22	sucralfate
+T2	group 75 85	quinolones
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T2

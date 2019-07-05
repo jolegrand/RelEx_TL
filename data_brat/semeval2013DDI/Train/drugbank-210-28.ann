@@ -1,0 +1,4 @@
+T0	drug 23 35	theophylline
+T1	brand 97 102	VIOXX
+T2	drug 149 161	theophylline
+R1	advise Arg1:T1 Arg2:T2

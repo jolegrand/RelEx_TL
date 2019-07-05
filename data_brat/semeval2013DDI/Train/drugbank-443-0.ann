@@ -1,0 +1,8 @@
+T0	group 0 17	Uricosuric Agents
+T1	brand 19 26	Aspirin
+T2	drug 55 65	probenecid
+T3	drug 67 81	sulfinpyrazone
+T4	drug 87 101	phenylbutazone
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T1 Arg2:T4

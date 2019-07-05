@@ -1,0 +1,6 @@
+T0	brand 21 28	MYOBLOC
+T1	group 33 48	aminoglycosides
+T2	group 116 137	curare-like compounds
+T3	drug 198 203	toxin
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

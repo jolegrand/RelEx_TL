@@ -1,0 +1,7 @@
+T0	drug 68 79	triamterene
+T1	drug 81 90	metformin
+T2	drug 95 104	amiloride
+T3	drug 165 175	dofetilide
+R1	advise Arg1:T0 Arg2:T3
+R2	advise Arg1:T1 Arg2:T3
+R3	advise Arg1:T2 Arg2:T3

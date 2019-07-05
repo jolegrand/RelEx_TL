@@ -1,0 +1,15 @@
+T0	group 48 64	anti-depressants
+T1	group 65 83	anti-anxiety drugs
+T2	group 128 141	beta-blockers
+T3	drug 149 160	propranolol
+T4	drug 163 175	sparfloxacin
+T5	drug 177 190	grepafloxacin
+T6	drug 192 204	guanethidine
+T7	drug 206 215	guanadrel
+T8	drug 217 228	metrizamide
+T9	drug 230 241	cabergoline
+T10	drug 243 250	lithium
+T11	group 252 260	narcotic
+T12	drug 284 291	codeine
+T13	group 338 352	antihistamines
+T14	drug 360 375	diphenhydramine

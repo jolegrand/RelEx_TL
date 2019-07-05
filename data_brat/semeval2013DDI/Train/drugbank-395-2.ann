@@ -1,0 +1,4 @@
+T0	drug 0 8	Caffeine
+T1	drug 10 18	Enoxacin
+T2	group 108 123	methylxanthines
+R1	mechanism Arg1:T1 Arg2:T2

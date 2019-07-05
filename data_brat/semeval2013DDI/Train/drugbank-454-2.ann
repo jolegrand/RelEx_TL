@@ -1,0 +1,3 @@
+T0	drug 2 12	Lofexidine
+T1	group 40 62	anti-hypertensive drug
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,5 @@
+T0	drug 0 8	Warfarin
+T1	drug 15 34	fluvoxamine maleate
+T2	drug 83 91	warfarin
+T3	drug 107 115	warfarin
+R1	mechanism Arg1:T1 Arg2:T2

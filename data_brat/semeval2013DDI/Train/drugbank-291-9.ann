@@ -1,0 +1,10 @@
+T0	brand 7 14	Bezalip
+T1	brand 18 32	Bezalip retard
+T2	group 59 80	anion-exchange resins
+T3	drug 87 102	cholestryramine
+T4	brand 209 216	Bezalip
+T5	brand 220 234	Bezalip retard
+R1	advise Arg1:T0 Arg2:T2
+R2	advise Arg1:T0 Arg2:T3
+R3	advise Arg1:T1 Arg2:T2
+R4	advise Arg1:T1 Arg2:T3

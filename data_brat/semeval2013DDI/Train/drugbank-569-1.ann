@@ -1,0 +1,7 @@
+T0	brand 73 81	Angiomax
+T1	drug 87 94	heparin
+T2	drug 96 104	warfarin
+T3	group 106 119	thrombolytics
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

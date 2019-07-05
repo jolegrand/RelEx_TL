@@ -1,0 +1,3 @@
+T0	brand 0 10	Chirocaine
+T1	group 75 86	anesthetics
+R1	advise Arg1:T0 Arg2:T1

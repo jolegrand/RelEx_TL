@@ -1,0 +1,16 @@
+T0	group 0 8	Antacids
+T1	brand 41 49	Myfortic
+T2	drug 133 142	magnesium
+T3	drug 143 151	aluminum
+T4	group 163 171	antacids
+T5	brand 271 279	Myfortic
+R1	mechanism Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T3
+T0	group 0 8	Antacids
+T1	brand 41 49	Myfortic
+T2	drug 133 142	magnesium
+T3	drug 143 151	aluminum
+T4	group 163 171	antacids
+T5	brand 271 279	Myfortic
+R1	mechanism Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T3

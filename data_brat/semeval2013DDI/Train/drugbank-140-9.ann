@@ -1,0 +1,5 @@
+T0	drug 0 12	Erythromycin
+T1	drug 63 75	atorvastatin
+T2	drug 129 141	atorvastatin
+T3	drug 146 158	erythromycin
+R1	mechanism Arg1:T2 Arg2:T3

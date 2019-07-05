@@ -1,0 +1,6 @@
+T0	drug 0 8	Naproxen
+T1	drug 44 54	diflunisal
+T2	drug 59 67	naproxen
+T3	drug 127 135	naproxen
+T4	drug 190 198	naproxen
+R1	mechanism Arg1:T1 Arg2:T2

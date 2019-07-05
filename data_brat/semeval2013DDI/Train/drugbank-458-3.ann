@@ -1,0 +1,5 @@
+T0	brand 63 70	NIZORAL
+T1	drug 149 161	Ketoconazole
+T2	drug 196 207	terfenadine
+T3	drug 259 270	terfenadine
+R1	mechanism Arg1:T1 Arg2:T2

@@ -1,0 +1,4 @@
+T0	brand 5 12	INDOCIN
+T1	drug 44 54	probenecid
+T2	drug 77 89	indomethacin
+R1	mechanism Arg1:T0 Arg2:T1

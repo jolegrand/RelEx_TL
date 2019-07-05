@@ -1,0 +1,14 @@
+T0	brand 30 37	FACTIVE
+T1	drug 42 59	calcium carbonate
+T2	drug 61 71	cimetidine
+T3	drug 73 83	omeprazole
+T4	group 91 99	estrogen
+T5	drug 100 112	progesterone
+T6	group 118 131	contraceptive
+T7	drug 182 194	gemifloxacin
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4
+R5	mechanism Arg1:T0 Arg2:T5
+R6	mechanism Arg1:T0 Arg2:T6

@@ -1,0 +1,3 @@
+T0	drug 56 68	dopamine HCl
+T1	group 87 119	alpha-adrenergic blocking agents
+R1	effect Arg1:T0 Arg2:T1

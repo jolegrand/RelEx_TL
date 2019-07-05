@@ -1,0 +1,12 @@
+T0	drug 0 11	Thalidomide
+T1	group 66 78	barbiturates
+T2	drug 80 87	alcohol
+T3	drug 89 103	chlorpromazine
+T4	drug 109 118	reserpine
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 0 11	Thalidomide
+T1	group 66 78	barbiturates
+T2	drug 80 87	alcohol
+T3	drug 89 103	chlorpromazine
+T4	drug 109 118	reserpine
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,14 @@
+T0	drug 35 43	fentanyl
+T1	drug 49 58	ritonavir
+T2	drug 98 110	ketoconazole
+T3	drug 112 124	itraconazole
+T4	drug 126 140	troleandomycin
+T5	drug 142 156	clarithromycin
+T6	drug 158 168	nelfinavir
+T7	drug 214 222	fentanyl
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4
+R5	mechanism Arg1:T0 Arg2:T5
+R6	mechanism Arg1:T0 Arg2:T6

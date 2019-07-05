@@ -1,0 +1,8 @@
+T0	group 0 14	Anticoagulants
+T1	group 15 32	Anabolic steroids
+T2	group 66 80	anticoagulants
+R1	effect Arg1:T1 Arg2:T2
+T0	group 0 14	Anticoagulants
+T1	group 15 32	Anabolic steroids
+T2	group 66 80	anticoagulants
+R1	effect Arg1:T1 Arg2:T2

@@ -1,0 +1,32 @@
+T0	group 51 64	hypoglycemics
+T1	group 66 94	Coumarin-type anticoagulants
+T2	drug 96 105	Phenytoin
+T3	drug 107 119	Cyclosporine
+T4	drug 121 129	Rifampin
+T5	drug 131 143	Theophylline
+T6	drug 145 156	Terfenadine
+T7	drug 158 167	Cisapride
+T8	drug 169 179	Astemizole
+T9	drug 181 190	Rifabutin
+T10	drug 192 202	Tacrolimus
+T11	group 204 232	Short-acting benzodiazepines
+T12	group 240 253	hypoglycemics
+T13	brand 325 333	DIFLUCAN
+T14	group 344 363	hypoglycemic agents
+R1	effect Arg1:T13 Arg2:T14
+T0	group 51 64	hypoglycemics
+T1	group 66 94	Coumarin-type anticoagulants
+T2	drug 96 105	Phenytoin
+T3	drug 107 119	Cyclosporine
+T4	drug 121 129	Rifampin
+T5	drug 131 143	Theophylline
+T6	drug 145 156	Terfenadine
+T7	drug 158 167	Cisapride
+T8	drug 169 179	Astemizole
+T9	drug 181 190	Rifabutin
+T10	drug 192 202	Tacrolimus
+T11	group 204 232	Short-acting benzodiazepines
+T12	group 240 253	hypoglycemics
+T13	brand 325 333	DIFLUCAN
+T14	group 344 363	hypoglycemic agents
+R1	effect Arg1:T13 Arg2:T14

@@ -1,0 +1,7 @@
+T0	group 0 28	Non-selective MAO inhibitors
+T1	drug 39 62	tranylcypromine sulfate
+T2	drug 64 82	phenelzine sulfate
+T3	drug 88 97	pargyline
+T4	drug 122 132	L-tyrosine
+T5	group 151 165	MAO inhibitors
+R1	effect Arg1:T4 Arg2:T5

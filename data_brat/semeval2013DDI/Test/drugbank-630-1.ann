@@ -1,0 +1,12 @@
+T0	brand 52 59	aspirin
+T1	drug 64 77	methazolamide
+T2	brand 195 202	aspirin
+T3	group 207 236	carbonic anhydrase inhibitors
+R1	advise Arg1:T0 Arg2:T1
+R2	effect Arg1:T2 Arg2:T3
+T0	brand 52 59	aspirin
+T1	drug 64 77	methazolamide
+T2	brand 195 202	aspirin
+T3	group 207 236	carbonic anhydrase inhibitors
+R1	advise Arg1:T0 Arg2:T1
+R2	effect Arg1:T2 Arg2:T3

@@ -1,0 +1,6 @@
+T0	drug 0 10	Probenecid
+T1	drug 12 22	Probenecid
+T2	drug 66 79	ciprofloxacin
+T3	drug 121 134	ciprofloxacin
+R1	mechanism Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T3

@@ -1,0 +1,4 @@
+T0	drug 0 10	Leucovorin
+T1	drug 33 47	5-fluorouracil
+T2	drug 97 107	leucovorin
+R1	mechanism Arg1:T1 Arg2:T2

@@ -1,0 +1,24 @@
+T0	group 36 57	macrolide antibiotics
+T1	group 59 82	azole antifungal agents
+T2	group 84 103	protease inhibitors
+T3	group 105 134	serotonin reuptake inhibitors
+T4	drug 136 146	amiodarone
+T5	group 148 160	cannabinoids
+T6	drug 162 171	diltiazem
+T7	drug 191 201	nefazadone
+T8	drug 203 214	norfloxacin
+T9	drug 216 223	quinine
+T10	drug 225 236	zafirlukast
+T11	brand 279 286	TIKOSYN
+T12	drug 320 330	dofetilide
+R1	advise Arg1:T0 Arg2:T11
+R2	advise Arg1:T1 Arg2:T11
+R3	advise Arg1:T2 Arg2:T11
+R4	advise Arg1:T3 Arg2:T11
+R5	advise Arg1:T4 Arg2:T11
+R6	advise Arg1:T5 Arg2:T11
+R7	advise Arg1:T6 Arg2:T11
+R8	advise Arg1:T7 Arg2:T11
+R9	advise Arg1:T8 Arg2:T11
+R10	advise Arg1:T9 Arg2:T11
+R11	advise Arg1:T10 Arg2:T11

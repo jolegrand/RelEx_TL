@@ -1,0 +1,8 @@
+T0	drug 75 85	amlodipine
+T1	drug 86 95	valsartan
+T2	group 192 214	antihypertensive drugs
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 75 85	amlodipine
+T1	drug 86 95	valsartan
+T2	group 192 214	antihypertensive drugs
+R1	effect Arg1:T0 Arg2:T1

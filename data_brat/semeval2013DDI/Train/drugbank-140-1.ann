@@ -1,0 +1,5 @@
+T0	group 0 7	Antacid
+T1	drug 14 26	atorvastatin
+T2	brand 31 40	Maalox TC
+T3	drug 98 110	atorvastatin
+R1	mechanism Arg1:T1 Arg2:T2

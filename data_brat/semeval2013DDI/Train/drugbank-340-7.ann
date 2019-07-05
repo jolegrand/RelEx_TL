@@ -1,0 +1,5 @@
+T0	brand 61 69	VIRACEPT
+T1	group 70 94	Antimycobacterial agents
+T2	drug 96 105	rifabutin
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

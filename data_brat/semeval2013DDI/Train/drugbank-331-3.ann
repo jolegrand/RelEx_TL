@@ -1,0 +1,7 @@
+T0	drug 2 9	Lithium
+T1	drug 11 18	Lithium
+T2	group 54 63	diuretics
+T3	drug 73 83	bumetanide
+T4	drug 148 155	lithium
+R1	advise Arg1:T1 Arg2:T2
+R2	advise Arg1:T1 Arg2:T3

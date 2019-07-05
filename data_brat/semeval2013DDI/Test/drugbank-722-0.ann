@@ -1,0 +1,16 @@
+T0	brand 51 61	PURINETHOL
+T1	drug 63 77	mercaptopurine
+T2	brand 83 90	TABLOID
+T3	drug 97 108	Thioguanine
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T0 Arg2:T3
+R3	effect Arg1:T1 Arg2:T2
+R4	effect Arg1:T1 Arg2:T3
+T0	brand 51 61	PURINETHOL
+T1	drug 63 77	mercaptopurine
+T2	brand 83 90	TABLOID
+T3	drug 97 108	Thioguanine
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T0 Arg2:T3
+R3	effect Arg1:T1 Arg2:T2
+R4	effect Arg1:T1 Arg2:T3

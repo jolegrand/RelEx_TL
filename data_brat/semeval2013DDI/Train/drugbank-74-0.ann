@@ -1,0 +1,5 @@
+T0	brand 0 9	FLUOTHANE
+T1	group 33 65	non-depolarising muscle relaxant
+T2	group 102 117	aminoglycosides
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

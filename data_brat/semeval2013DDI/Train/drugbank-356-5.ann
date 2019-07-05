@@ -1,0 +1,4 @@
+T0	brand 16 23	MIDAMOR
+T1	group 28 66	non-steroidal anti-inflammatory agents
+T2	group 172 180	diuretic
+R1	advise Arg1:T0 Arg2:T1

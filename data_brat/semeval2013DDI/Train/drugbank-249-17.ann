@@ -1,0 +1,4 @@
+T0	drug 0 13	Phenobarbital
+T1	drug 82 95	phenobarbital
+T2	drug 134 144	diclofenac
+R1	effect Arg1:T1 Arg2:T2

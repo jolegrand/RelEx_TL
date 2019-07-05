@@ -1,0 +1,12 @@
+T0	drug 18 29	butorphanol
+T1	group 35 69	central nervous system depressants
+T2	drug 77 84	alcohol
+T3	group 86 98	barbiturates
+T4	group 100 113	tranquilizers
+T5	group 119 133	antihistamines
+T6	group 159 192	central nervous system depressant
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5

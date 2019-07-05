@@ -1,0 +1,6 @@
+T0	drug 38 53	succinylcholine
+T1	brand 102 110	MIVACRON
+R1	advise Arg1:T0 Arg2:T1
+T0	drug 38 53	succinylcholine
+T1	brand 102 110	MIVACRON
+R1	advise Arg1:T0 Arg2:T1

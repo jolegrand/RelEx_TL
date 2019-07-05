@@ -1,0 +1,8 @@
+T0	drug 74 83	Clozapine
+T1	group 88 103	benzodiazepines
+T2	group 113 126	psychotropics
+T3	drug 152 161	clozapine
+T4	group 196 210	benzodiazepine
+T5	group 224 241	psychotropic drug
+R1	advise Arg1:T3 Arg2:T4
+R2	advise Arg1:T3 Arg2:T5

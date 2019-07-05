@@ -1,0 +1,3 @@
+T0	group 60 73	MAO inhibitor
+T1	drug 107 122	dexfenfluramine
+R1	advise Arg1:T0 Arg2:T1

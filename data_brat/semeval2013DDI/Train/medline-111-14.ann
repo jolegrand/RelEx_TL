@@ -1,0 +1,9 @@
+T0	drug 15 28	acetaminophen
+T1	drug 34 46	theophylline
+T2	drug 48 61	phenobarbital
+T3	drug 67 80	acetaminophen
+T4	drug 86 99	valproic acid
+T5	drug 105 118	phenobarbital
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T2 Arg2:T3
+R3	effect Arg1:T4 Arg2:T5

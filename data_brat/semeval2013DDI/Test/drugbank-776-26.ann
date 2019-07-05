@@ -1,0 +1,8 @@
+T0	drug 42 53	fluconazole
+T1	drug 76 85	cisapride
+T2	drug 143 152	cisapride
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 42 53	fluconazole
+T1	drug 76 85	cisapride
+T2	drug 143 152	cisapride
+R1	mechanism Arg1:T0 Arg2:T1

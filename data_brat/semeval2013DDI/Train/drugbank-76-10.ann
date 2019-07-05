@@ -1,0 +1,4 @@
+T0	drug 56 67	fluvoxamine
+T1	drug 154 165	fluvoxamine
+T2	drug 171 181	alprazolam
+R1	int Arg1:T1 Arg2:T2

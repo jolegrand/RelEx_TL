@@ -1,0 +1,3 @@
+T0	drug 67 77	ergotamine
+T1	group 127 138	antibiotics
+R1	effect Arg1:T0 Arg2:T1

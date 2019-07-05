@@ -1,0 +1,34 @@
+T0	drug 228 245	aminoglutethimide
+T1	drug 247 268	p-aminosalicylic acid
+T2	drug 270 280	amiodarone
+T3	group 282 291	androgens
+T4	drug 339 350	thiocyanate
+T5	drug 352 363	perchlorate
+T6	drug 365 378	pertechnetate
+T7	group 381 398	antithyroid drugs
+T8	group 400 428	b-adrenergic blocking agents
+T9	drug 430 443	carbamazepine
+T10	drug 445 460	chloral hydrate
+T11	drug 462 470	diazepam
+T12	drug 472 480	dopamine
+T13	group 485 502	dopamine agonists
+T14	drug 504 515	ethionamide
+T15	group 517 532	glucocorticoids
+T16	drug 534 541	heparin
+T17	drug 568 575	insulin
+T18	group 611 638	iodine-containing compounds
+T19	drug 640 648	levodopa
+T20	drug 650 660	lovastatin
+T21	drug 662 669	lithium
+T22	drug 671 687	6-mercaptopurine
+T23	drug 689 703	metoclopramide
+T24	drug 705 713	mitotane
+T25	drug 715 728	nitroprusside
+T26	drug 730 743	phenobarbital
+T27	drug 745 754	phenytoin
+T28	drug 756 766	resorcinol
+T29	drug 768 776	rifampin
+T30	group 778 798	somatostatin analogs
+T31	group 800 812	sulfonamides
+T32	group 814 827	sulfonylureas
+T33	group 829 847	thiazide diuretics

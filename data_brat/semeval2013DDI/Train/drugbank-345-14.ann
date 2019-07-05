@@ -1,0 +1,7 @@
+T0	group 43 65	digitalis preparations
+T1	drug 120 144	colestipol hydrochloride
+T2	drug 168 175	digoxin
+T3	drug 180 189	digitoxin
+R1	effect Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T1 Arg2:T2
+R3	mechanism Arg1:T1 Arg2:T3

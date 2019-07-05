@@ -1,0 +1,10 @@
+T0	brand 36 43	SPIRIVA
+T1	group 55 70	anticholinergic
+T2	drug 97 108	ipratropium
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+T0	brand 36 43	SPIRIVA
+T1	group 55 70	anticholinergic
+T2	drug 97 108	ipratropium
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

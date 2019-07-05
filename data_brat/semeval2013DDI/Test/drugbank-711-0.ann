@@ -1,0 +1,8 @@
+T0	group 8 21	tetracyclines
+T1	group 98 111	anticoagulant
+T2	group 161 174	anticoagulant
+R1	advise Arg1:T0 Arg2:T1
+T0	group 8 21	tetracyclines
+T1	group 98 111	anticoagulant
+T2	group 161 174	anticoagulant
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,3 @@
+T0	drug 34 46	griseofulvin
+T1	group 96 110	contraceptives
+R1	effect Arg1:T0 Arg2:T1

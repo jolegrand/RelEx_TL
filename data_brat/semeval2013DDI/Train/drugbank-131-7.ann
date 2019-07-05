@@ -1,0 +1,3 @@
+T0	group 25 39	contraceptives
+T1	drug 86 96	alprazolam
+R1	mechanism Arg1:T0 Arg2:T1

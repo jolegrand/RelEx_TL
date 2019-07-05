@@ -1,0 +1,7 @@
+T0	group 65 71	NSAIDs
+T1	group 134 140	NSAIDs
+T2	drug 152 162	diclofenac
+T3	drug 168 176	warfarin
+T4	group 253 266	anticoagulant
+R1	advise Arg1:T1 Arg2:T3
+R2	advise Arg1:T2 Arg2:T3

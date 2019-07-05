@@ -1,0 +1,4 @@
+T0	drug 18 42	colestipol hydrochloride
+T1	drug 75 86	propranolol
+T2	drug 134 145	propranolol
+R1	mechanism Arg1:T0 Arg2:T1

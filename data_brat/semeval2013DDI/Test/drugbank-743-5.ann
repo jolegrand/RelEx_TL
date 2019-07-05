@@ -1,0 +1,12 @@
+T0	drug 0 12	Itraconazole
+T1	drug 54 65	terfenadine
+T2	drug 118 129	terfenadine
+T3	drug 134 146	itraconazole
+T4	drug 169 181	itraconazole
+R1	mechanism Arg1:T2 Arg2:T3
+T0	drug 0 12	Itraconazole
+T1	drug 54 65	terfenadine
+T2	drug 118 129	terfenadine
+T3	drug 134 146	itraconazole
+T4	drug 169 181	itraconazole
+R1	mechanism Arg1:T2 Arg2:T3

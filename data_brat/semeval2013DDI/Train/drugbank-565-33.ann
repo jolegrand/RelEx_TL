@@ -1,0 +1,5 @@
+T0	drug 20 29	diltiazem
+T1	drug 51 60	midazolam
+T2	drug 65 74	triazolam
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

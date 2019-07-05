@@ -1,0 +1,8 @@
+T0	drug 62 74	ketoconazole
+T1	drug 79 91	itraconazole
+T2	drug 102 111	gefitinib
+T3	drug 136 145	gefitinib
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T0 Arg2:T3
+R3	mechanism Arg1:T1 Arg2:T2
+R4	mechanism Arg1:T1 Arg2:T3

@@ -1,0 +1,3 @@
+T0	drug 5 15	cimetidine
+T1	drug 62 72	gabapentin
+R1	mechanism Arg1:T0 Arg2:T1

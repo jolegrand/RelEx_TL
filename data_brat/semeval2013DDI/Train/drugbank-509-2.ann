@@ -1,0 +1,3 @@
+T0	drug 35 47	aripiprazole
+T1	group 99 122	antihypertensive agents
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,7 @@
+T0	drug 0 12	Cyclosporine
+T1	drug 14 24	tacrolimus
+T2	drug 29 36	digoxin
+T3	drug 93 105	Itraconazole
+R1	advise Arg1:T0 Arg2:T3
+R2	advise Arg1:T1 Arg2:T3
+R3	advise Arg1:T2 Arg2:T3

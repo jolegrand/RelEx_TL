@@ -1,0 +1,5 @@
+T0	group 0 24	Bile acid binding resins
+T1	drug 72 81	phosphate
+T2	drug 98 112	hydrocortisone
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

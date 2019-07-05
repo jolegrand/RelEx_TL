@@ -1,0 +1,5 @@
+T0	drug 0 12	Ketoconazole
+T1	drug 34 46	ketoconazole
+T2	brand 52 60	VIRACEPT
+T3	drug 91 101	nelfinavir
+R1	mechanism Arg1:T1 Arg2:T2

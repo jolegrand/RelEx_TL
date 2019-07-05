@@ -1,0 +1,6 @@
+T0	group 42 49	thyroid
+T1	group 138 147	estrogens
+T2	group 151 159	estrogen
+T3	group 176 190	contraceptives
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T3

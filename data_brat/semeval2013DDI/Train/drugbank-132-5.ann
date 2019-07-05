@@ -1,0 +1,5 @@
+T0	drug 0 19	Hydrochlorothiazide
+T1	drug 73 83	diflunisal
+T2	drug 88 107	hydrochlorothiazide
+T3	drug 161 180	hydrochlorothiazide
+R1	mechanism Arg1:T1 Arg2:T2

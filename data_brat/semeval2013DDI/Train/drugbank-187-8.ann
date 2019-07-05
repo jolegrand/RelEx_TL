@@ -1,0 +1,4 @@
+T0	drug 0 12	Ketoconazole
+T1	drug 39 51	Ketoconazole
+T2	drug 56 65	Isoniazid
+R1	int Arg1:T1 Arg2:T2

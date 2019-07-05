@@ -1,0 +1,4 @@
+T0	drug 0 12	Methotrexate
+T1	drug 40 50	diflunisal
+T2	drug 86 98	methotrexate
+R1	advise Arg1:T1 Arg2:T2

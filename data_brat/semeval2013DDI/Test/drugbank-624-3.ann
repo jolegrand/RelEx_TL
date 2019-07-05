@@ -1,0 +1,18 @@
+T0	brand 0 4	TOBI
+T1	drug 51 66	ethacrynic acid
+T2	drug 68 78	furosemide
+T3	drug 80 84	urea
+T4	drug 89 97	mannitol
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4
+T0	brand 0 4	TOBI
+T1	drug 51 66	ethacrynic acid
+T2	drug 68 78	furosemide
+T3	drug 80 84	urea
+T4	drug 89 97	mannitol
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4

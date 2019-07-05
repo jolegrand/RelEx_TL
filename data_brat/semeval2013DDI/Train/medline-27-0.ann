@@ -1,0 +1,11 @@
+T0	drug_n 117 127	picrotoxin
+T1	drug 174 182	diazepam
+T2	drug_n 184 194	phenazepam
+T3	drug_n 196 204	phenibut
+T4	drug_n 209 215	amizyl
+T5	drug 242 254	phentolamine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5

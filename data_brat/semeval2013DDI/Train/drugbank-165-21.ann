@@ -1,0 +1,3 @@
+T0	drug 36 45	phenytoin
+T1	drug 106 118	Itraconazole
+R1	advise Arg1:T0 Arg2:T1

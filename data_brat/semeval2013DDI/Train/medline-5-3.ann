@@ -1,0 +1,3 @@
+T0	drug_n 60 71	trichlorfon
+T1	drug_n 267 276	coumaphos
+R1	effect Arg1:T0 Arg2:T1

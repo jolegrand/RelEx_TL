@@ -1,0 +1,27 @@
+T0	drug 78 88	alfentanil
+T1	drug 90 100	astemizole
+T2	drug 102 113	terfenadine
+T3	drug 115 124	cisapride
+T4	drug 126 138	cyclosporine
+T5	drug 140 148	fentanyl
+T6	drug 150 158	pimozide
+T7	drug 160 169	quinidine
+T8	drug 171 180	sirolimus
+T9	drug 182 192	tacrolimus
+T10	group 197 212	ergot alkaloids
+T11	drug 214 224	ergotamine
+T12	drug 226 243	dihydroergotamine
+T13	brand 303 310	SPRYCEL
+R1	advise Arg1:T0 Arg2:T13
+R2	advise Arg1:T1 Arg2:T13
+R3	advise Arg1:T2 Arg2:T13
+R4	advise Arg1:T3 Arg2:T13
+R5	advise Arg1:T4 Arg2:T13
+R6	advise Arg1:T5 Arg2:T13
+R7	advise Arg1:T6 Arg2:T13
+R8	advise Arg1:T7 Arg2:T13
+R9	advise Arg1:T8 Arg2:T13
+R10	advise Arg1:T9 Arg2:T13
+R11	advise Arg1:T10 Arg2:T13
+R12	advise Arg1:T11 Arg2:T13
+R13	advise Arg1:T12 Arg2:T13

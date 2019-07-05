@@ -1,0 +1,4 @@
+T0	drug 0 17	Lithium carbonate
+T1	group 46 58	amphetamines
+T2	drug 79 96	lithium carbonate
+R1	effect Arg1:T1 Arg2:T2

@@ -1,0 +1,3 @@
+T0	drug 28 40	escitalopram
+T1	group 59 86	non-selective MAO inhibitor
+R1	advise Arg1:T0 Arg2:T1

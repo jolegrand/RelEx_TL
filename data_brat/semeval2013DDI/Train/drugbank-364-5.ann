@@ -1,0 +1,5 @@
+T0	drug 30 39	alosetron
+T1	group 82 103	quinolone antibiotics
+T2	drug 108 118	cimetidine
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

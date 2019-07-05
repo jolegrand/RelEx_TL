@@ -1,0 +1,13 @@
+T0	group 85 100	benzodiazepines
+T1	drug 142 152	nefazodone
+T2	drug 154 165	fluvoxamine
+T3	drug 167 177	cimetidine
+T4	drug 179 188	diltiazem
+T5	drug 190 200	isoniazide
+T6	group 211 232	macrolide antibiotics
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4
+R5	mechanism Arg1:T0 Arg2:T5
+R6	mechanism Arg1:T0 Arg2:T6

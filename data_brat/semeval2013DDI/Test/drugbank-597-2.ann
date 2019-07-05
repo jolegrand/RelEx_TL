@@ -1,0 +1,8 @@
+T0	brand 0 7	Aspirin
+T1	brand 39 46	aspirin
+T2	drug 134 143	meloxicam
+R1	mechanism Arg1:T1 Arg2:T2
+T0	brand 0 7	Aspirin
+T1	brand 39 46	aspirin
+T2	drug 134 143	meloxicam
+R1	mechanism Arg1:T1 Arg2:T2

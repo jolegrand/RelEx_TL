@@ -1,0 +1,5 @@
+T0	group 27 49	antihypertensive drugs
+T1	drug 59 68	diazoxide
+T2	drug 99 110	hydralazine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

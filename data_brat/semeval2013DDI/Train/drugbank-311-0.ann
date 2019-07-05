@@ -1,0 +1,3 @@
+T0	group 9 27	rauwolfia alkaloid
+T1	group 77 91	MAO inhibitors
+R1	effect Arg1:T0 Arg2:T1

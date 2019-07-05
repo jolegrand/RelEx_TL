@@ -1,0 +1,3 @@
+T0	drug 48 58	Vardenafil
+T1	drug 114 123	indinavir
+R1	advise Arg1:T0 Arg2:T1

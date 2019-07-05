@@ -1,0 +1,5 @@
+T0	drug 0 12	Promethazine
+T1	drug 51 59	zaleplon
+T2	drug 64 76	promethazine
+T3	drug 169 177	zaleplon
+R1	mechanism Arg1:T1 Arg2:T2

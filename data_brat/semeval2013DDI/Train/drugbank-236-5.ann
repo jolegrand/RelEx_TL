@@ -1,0 +1,5 @@
+T0	drug 29 42	acetazolamide
+T1	group 49 58	thiazides
+T2	drug 121 132	amphetamine
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T2

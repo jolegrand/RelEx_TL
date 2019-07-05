@@ -1,0 +1,11 @@
+T0	group 121 160	selective serotonin reuptake inhibitors
+T1	group 162 167	SSRIs
+T2	brand 210 217	Imitrex
+T3	drug 219 240	sumatriptan succinate
+T4	drug 246 263	dihydroergotamine
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T0 Arg2:T3
+R3	effect Arg1:T0 Arg2:T4
+R4	effect Arg1:T1 Arg2:T2
+R5	effect Arg1:T1 Arg2:T3
+R6	effect Arg1:T1 Arg2:T4

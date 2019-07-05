@@ -1,0 +1,3 @@
+T0	drug 59 77	sodium bicarbonate
+T1	drug 108 120	amphetamines
+R1	mechanism Arg1:T0 Arg2:T1

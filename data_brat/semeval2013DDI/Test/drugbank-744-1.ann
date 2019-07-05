@@ -1,0 +1,8 @@
+T0	group 33 40	opioids
+T1	drug 67 78	pegvisomant
+T2	group 172 179	opioids
+R1	mechanism Arg1:T0 Arg2:T1
+T0	group 33 40	opioids
+T1	drug 67 78	pegvisomant
+T2	group 172 179	opioids
+R1	mechanism Arg1:T0 Arg2:T1

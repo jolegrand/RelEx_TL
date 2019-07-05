@@ -1,0 +1,8 @@
+T0	group 0 17	Adrenergic Agents
+T1	brand 45 50	ZYVOX
+T2	group 134 156	sympathomimetic agents
+T3	group 158 169	vasopressor
+T4	group 173 192	dopaminergic agents
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T1 Arg2:T4

@@ -1,0 +1,7 @@
+T0	drug 0 9	Auranofin
+T1	group 82 97	gold medication
+T2	brand 109 117	Solganal
+T3	brand 122 133	Myochrysine
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3

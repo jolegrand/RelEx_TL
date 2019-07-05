@@ -1,0 +1,4 @@
+T0	drug 6 18	theophylline
+T1	drug 48 61	grepafloxacin
+T2	drug 102 114	theophylline
+R1	mechanism Arg1:T1 Arg2:T2

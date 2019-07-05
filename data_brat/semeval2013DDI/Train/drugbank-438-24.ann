@@ -1,0 +1,3 @@
+T0	drug 0 11	Hydrocodone
+T1	drug 22 32	gabapentin
+R1	mechanism Arg1:T0 Arg2:T1

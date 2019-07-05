@@ -1,0 +1,6 @@
+T0	drug 23 46	buspirone hydrochloride
+T1	group 78 92	MAO inhibitors
+T2	drug 146 159	buspirone HCl
+T3	group 176 194	psychotropic drugs
+T4	drug 241 254	buspirone HCl
+R1	advise Arg1:T0 Arg2:T1

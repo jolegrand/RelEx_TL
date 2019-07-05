@@ -1,0 +1,14 @@
+T0	group 14 34	antipsychotic agents
+T1	brand 60 66	HALDOL
+T2	group 98 113	CNS depressants
+T3	group 122 133	anesthetics
+T4	group 135 142	opiates
+T5	drug 148 155	alcohol
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T0 Arg2:T3
+R3	effect Arg1:T0 Arg2:T4
+R4	effect Arg1:T0 Arg2:T5
+R5	effect Arg1:T1 Arg2:T2
+R6	effect Arg1:T1 Arg2:T3
+R7	effect Arg1:T1 Arg2:T4
+R8	effect Arg1:T1 Arg2:T5

@@ -1,0 +1,7 @@
+T0	drug 13 21	rifampin
+T1	drug 23 32	phenytoin
+T2	drug 34 47	phenobarbital
+T3	drug 123 133	bexarotene
+R1	mechanism Arg1:T0 Arg2:T3
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T2 Arg2:T3

@@ -1,0 +1,4 @@
+T0	drug 43 54	terfenadine
+T1	drug 74 85	terfenadine
+T2	drug 91 104	dirithromycin
+R1	effect Arg1:T1 Arg2:T2

@@ -1,0 +1,13 @@
+T0	drug 57 69	ketoconazole
+T1	drug 71 84	intraconazole
+T2	drug 86 95	ritonavir
+T3	drug 97 106	indinavir
+T4	drug 108 118	saquinavir
+T5	drug 120 132	erythromycin
+T6	drug 171 181	budesonide
+R1	advise Arg1:T0 Arg2:T6
+R2	advise Arg1:T1 Arg2:T6
+R3	advise Arg1:T2 Arg2:T6
+R4	advise Arg1:T3 Arg2:T6
+R5	advise Arg1:T4 Arg2:T6
+R6	advise Arg1:T5 Arg2:T6

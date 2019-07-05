@@ -1,0 +1,6 @@
+T0	group 22 44	proton pump inhibitors
+T1	drug 49 57	warfarin
+R1	advise Arg1:T0 Arg2:T1
+T0	group 22 44	proton pump inhibitors
+T1	drug 49 57	warfarin
+R1	advise Arg1:T0 Arg2:T1

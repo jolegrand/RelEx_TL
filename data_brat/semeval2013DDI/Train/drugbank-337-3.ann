@@ -1,0 +1,5 @@
+T0	group 37 65	HMG-CoA reductase inhibitors
+T1	drug 70 78	Fentanyl
+T2	group 175 203	HMG-CoA reductase inhibitors
+T3	drug 226 234	Fentanyl
+R1	advise Arg1:T2 Arg2:T3

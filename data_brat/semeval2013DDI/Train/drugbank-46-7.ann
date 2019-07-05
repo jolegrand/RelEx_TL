@@ -1,0 +1,10 @@
+T0	drug 2 16	Cholestyramine
+T1	drug 21 31	colestipol
+T2	group 32 38	resins
+T3	drug 40 54	Cholestytamine
+T4	drug 59 69	colestipol
+T5	group 70 76	resins
+T6	group 107 125	thiazide diuretics
+T7	group 139 147	diuretic
+R1	mechanism Arg1:T3 Arg2:T6
+R2	mechanism Arg1:T4 Arg2:T6

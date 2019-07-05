@@ -1,0 +1,4 @@
+T0	drug 0 12	Itraconazole
+T1	drug 60 72	Itraconazole
+T2	drug 77 86	isoniazid
+R1	advise Arg1:T1 Arg2:T2

@@ -1,0 +1,3 @@
+T0	drug_n 15 21	DCG-IV
+T1	drug_n 68 71	PCP
+R1	effect Arg1:T0 Arg2:T1

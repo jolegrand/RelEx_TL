@@ -1,0 +1,4 @@
+T0	group 32 46	MAO inhibitors
+T1	brand 51 64	Levo-Dromoran
+T2	group 119 133	MAO inhibitors
+R1	advise Arg1:T1 Arg2:T2

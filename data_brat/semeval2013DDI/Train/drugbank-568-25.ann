@@ -1,0 +1,6 @@
+T0	drug 0 12	Ketoconazole
+T1	drug 50 60	citalopram
+T2	drug 73 85	ketoconazole
+T3	drug 125 137	ketoconazole
+T4	drug 225 235	citalopram
+R1	mechanism Arg1:T1 Arg2:T2

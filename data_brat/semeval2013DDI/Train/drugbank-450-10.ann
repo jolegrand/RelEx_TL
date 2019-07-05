@@ -1,0 +1,3 @@
+T0	drug 19 26	digoxin
+T1	group 31 47	sympathomimetics
+R1	effect Arg1:T0 Arg2:T1

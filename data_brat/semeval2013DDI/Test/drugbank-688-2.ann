@@ -1,0 +1,6 @@
+T0	drug 35 44	indinavir
+T1	drug 92 109	megestrol acetate
+R1	advise Arg1:T0 Arg2:T1
+T0	drug 35 44	indinavir
+T1	drug 92 109	megestrol acetate
+R1	advise Arg1:T0 Arg2:T1

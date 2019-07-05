@@ -1,0 +1,5 @@
+T0	group 6 26	TNFa-blocking agents
+T1	brand 38 46	REMICADE
+T2	drug 73 81	anakinra
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

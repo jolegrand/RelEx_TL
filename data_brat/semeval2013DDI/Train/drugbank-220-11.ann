@@ -1,0 +1,12 @@
+T0	group 22 36	anticonvulsant
+T1	drug 42 55	valproic acid
+T2	drug 57 70	carbamazepine
+T3	drug 72 85	phenobarbital
+T4	drug 89 98	phenytoin
+T5	drug 124 134	Mefloquine
+T6	group 199 213	anticonvulsant
+R1	effect Arg1:T0 Arg2:T5
+R2	effect Arg1:T1 Arg2:T5
+R3	effect Arg1:T2 Arg2:T5
+R4	effect Arg1:T3 Arg2:T5
+R5	effect Arg1:T4 Arg2:T5

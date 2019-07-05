@@ -1,0 +1,6 @@
+T0	drug 23 32	Albuterol
+T1	brand 35 44	STRATTERA
+T2	drug 160 169	albuterol
+T3	group 180 194	beta2 agonists
+T4	drug 218 227	albuterol
+R1	advise Arg1:T1 Arg2:T2

@@ -1,0 +1,4 @@
+T0	drug 44 54	nifedipine
+T1	drug 60 67	digoxin
+T2	drug 78 85	digoxin
+R1	mechanism Arg1:T1 Arg2:T2

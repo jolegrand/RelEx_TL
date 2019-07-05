@@ -1,0 +1,3 @@
+T0	brand 22 28	Nalfon
+T1	group 64 78	loop diuretics
+R1	effect Arg1:T0 Arg2:T1

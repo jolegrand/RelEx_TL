@@ -1,0 +1,6 @@
+T0	drug 0 11	Tolbutamide
+T1	drug 13 23	Aprepitant
+T2	drug 107 118	tolbutamide
+T3	drug 212 223	tolbutamide
+T4	drug 308 318	Aprepitant
+R1	mechanism Arg1:T3 Arg2:T4

@@ -1,0 +1,3 @@
+T0	drug 28 35	heparin
+T1	drug 77 93	antithrombin III
+R1	effect Arg1:T0 Arg2:T1

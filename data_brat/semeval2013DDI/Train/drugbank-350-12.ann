@@ -1,0 +1,12 @@
+T0	drug 146 155	efavirenz
+T1	drug 157 167	nevirapine
+T2	drug 169 178	phenytoin
+T3	drug 180 193	dexamethasone
+T4	drug 198 211	carbamazepine
+T5	brand 218 226	CANCIDAS
+T6	drug 277 288	caspofungin
+R1	mechanism Arg1:T0 Arg2:T5
+R2	mechanism Arg1:T1 Arg2:T5
+R3	mechanism Arg1:T2 Arg2:T5
+R4	mechanism Arg1:T3 Arg2:T5
+R5	mechanism Arg1:T4 Arg2:T5

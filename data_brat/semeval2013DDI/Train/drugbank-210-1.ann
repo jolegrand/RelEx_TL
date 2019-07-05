@@ -1,0 +1,5 @@
+T0	brand 81 86	VIOXX
+T1	group 96 109	ACE inhibitor
+T2	drug 110 120	benazepril
+T3	group 242 255	ACE inhibitor
+R1	effect Arg1:T0 Arg2:T2

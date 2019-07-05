@@ -1,0 +1,4 @@
+T0	drug 0 10	Boric acid
+T1	drug 33 44	idoxuridine
+T2	drug 137 148	idoxuridine
+R1	mechanism Arg1:T0 Arg2:T1

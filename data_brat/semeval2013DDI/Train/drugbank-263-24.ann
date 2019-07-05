@@ -1,0 +1,4 @@
+T0	drug 0 14	Metoclopramide
+T1	drug 75 86	zalcitabine
+T2	drug 91 105	metoclopramide
+R1	mechanism Arg1:T1 Arg2:T2

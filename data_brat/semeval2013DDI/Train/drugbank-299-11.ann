@@ -1,0 +1,9 @@
+T0	drug 33 44	almotriptan
+T1	drug 87 99	itraconazole
+T2	drug 101 110	ritonavir
+T3	drug 116 128	erythromycin
+T4	drug 175 186	almotriptan
+T5	drug 208 219	almotriptan
+R1	advise Arg1:T1 Arg2:T5
+R2	advise Arg1:T2 Arg2:T5
+R3	advise Arg1:T3 Arg2:T5

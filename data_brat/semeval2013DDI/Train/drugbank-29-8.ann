@@ -1,0 +1,4 @@
+T0	drug 20 32	esomeprazole
+T1	drug 43 51	diazepam
+T2	drug 117 125	diazepam
+R1	mechanism Arg1:T0 Arg2:T1

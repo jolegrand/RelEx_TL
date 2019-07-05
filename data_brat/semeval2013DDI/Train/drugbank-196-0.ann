@@ -1,0 +1,3 @@
+T0	brand 15 22	PEGASYS
+T1	drug 135 147	theophylline
+R1	mechanism Arg1:T0 Arg2:T1

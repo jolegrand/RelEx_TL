@@ -1,0 +1,20 @@
+T0	drug 11 20	Lorazepam
+T1	group 54 69	benzodiazepines
+T2	drug 144 157	ethyl alcohol
+T3	group 159 173	phenothiazines
+T4	group 175 187	barbiturates
+T5	group 189 203	MAO inhibitors
+T6	group 215 230	antidepressants
+T7	drug 236 247	scopolamine
+T8	drug 286 295	lorazepam
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T0 Arg2:T3
+R3	effect Arg1:T0 Arg2:T4
+R4	effect Arg1:T0 Arg2:T5
+R5	effect Arg1:T0 Arg2:T6
+R6	effect Arg1:T1 Arg2:T2
+R7	effect Arg1:T1 Arg2:T3
+R8	effect Arg1:T1 Arg2:T4
+R9	effect Arg1:T1 Arg2:T5
+R10	effect Arg1:T1 Arg2:T6
+R11	effect Arg1:T7 Arg2:T8

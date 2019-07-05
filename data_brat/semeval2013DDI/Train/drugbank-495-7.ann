@@ -1,0 +1,7 @@
+T0	drug 125 134	clonidine
+T1	group 213 222	digitalis
+T2	group 224 248	calcium channel blockers
+T3	group 254 267	beta-blockers
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3

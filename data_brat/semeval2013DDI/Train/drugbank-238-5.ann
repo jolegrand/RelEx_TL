@@ -1,0 +1,3 @@
+T0	drug 28 31	CMI
+T1	drug 103 114	haloperidol
+R1	mechanism Arg1:T0 Arg2:T1

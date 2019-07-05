@@ -1,0 +1,3 @@
+T0	drug 35 47	ketoconazole
+T1	drug 192 202	budesonide
+R1	mechanism Arg1:T0 Arg2:T1

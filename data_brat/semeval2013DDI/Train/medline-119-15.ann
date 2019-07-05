@@ -1,0 +1,3 @@
+T0	drug 0 14	Cholestyramine
+T1	drug 103 114	fluvastatin
+R1	mechanism Arg1:T0 Arg2:T1

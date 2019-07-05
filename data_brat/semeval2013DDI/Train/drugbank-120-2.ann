@@ -1,0 +1,5 @@
+T0	drug 0 11	apomorphine
+T1	drug 33 43	diphenidol
+T2	group 61 67	emetic
+T3	drug 80 91	apomorphine
+R1	effect Arg1:T1 Arg2:T3

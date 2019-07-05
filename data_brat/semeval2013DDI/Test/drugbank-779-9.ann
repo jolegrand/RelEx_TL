@@ -1,0 +1,10 @@
+T0	drug 20 30	methyldopa
+T1	drug 36 51	ferrous sulfate
+T2	drug 55 72	ferrous gluconate
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+T0	drug 20 30	methyldopa
+T1	drug 36 51	ferrous sulfate
+T2	drug 55 72	ferrous gluconate
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

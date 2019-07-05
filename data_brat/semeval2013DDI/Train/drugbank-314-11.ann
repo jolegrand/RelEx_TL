@@ -1,0 +1,4 @@
+T0	drug 0 12	Cyclosporine
+T1	drug 41 53	cyclosporine
+T2	group 58 73	corticosteroids
+R1	effect Arg1:T1 Arg2:T2

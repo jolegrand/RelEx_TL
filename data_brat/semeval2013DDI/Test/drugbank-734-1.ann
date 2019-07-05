@@ -1,0 +1,6 @@
+T0	drug 28 40	guanethidine
+T1	group 88 102	phenothiazines
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 28 40	guanethidine
+T1	group 88 102	phenothiazines
+R1	effect Arg1:T0 Arg2:T1

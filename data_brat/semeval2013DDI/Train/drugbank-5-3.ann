@@ -1,0 +1,5 @@
+T0	brand 63 73	WELLBUTRIN
+T1	drug 124 136	orphenadrine
+T2	drug 141 157	cyclophosphamide
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2

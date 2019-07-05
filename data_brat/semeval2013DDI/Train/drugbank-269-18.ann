@@ -1,0 +1,7 @@
+T0	drug 0 7	Insulin
+T1	group 16 29	Hypoglycemics
+T2	group 31 64	Agents with b-blocking properties
+T3	drug 112 119	insulin
+T4	group 129 142	hypoglycemics
+R1	effect Arg1:T2 Arg2:T3
+R2	effect Arg1:T2 Arg2:T4

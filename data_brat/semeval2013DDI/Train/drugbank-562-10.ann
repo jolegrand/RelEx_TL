@@ -1,0 +1,5 @@
+T0	group 55 84	quinolone class antimicrobial
+T1	group 93 128	nonsteroidal anti-inflammatory drug
+T2	drug 129 137	fenbufen
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

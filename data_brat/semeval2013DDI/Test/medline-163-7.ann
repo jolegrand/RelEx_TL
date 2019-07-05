@@ -1,0 +1,6 @@
+T0	drug 19 30	minocycline
+T1	drug 35 45	fosfomycin
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 19 30	minocycline
+T1	drug 35 45	fosfomycin
+R1	effect Arg1:T0 Arg2:T1

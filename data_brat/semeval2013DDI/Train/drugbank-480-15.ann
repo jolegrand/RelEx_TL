@@ -1,0 +1,8 @@
+T0	drug 0 9	Phenytoin
+T1	drug 11 19	nicotine
+T2	drug 25 33	rifampin
+T3	drug 47 56	Clozapine
+T4	drug 139 148	Clozapine
+R1	mechanism Arg1:T0 Arg2:T3
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T2 Arg2:T3

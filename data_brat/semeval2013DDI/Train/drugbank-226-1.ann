@@ -1,0 +1,5 @@
+T0	drug 0 7	Digoxin
+T1	drug 12 21	verapamil
+T2	brand 100 109	Adenocard
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

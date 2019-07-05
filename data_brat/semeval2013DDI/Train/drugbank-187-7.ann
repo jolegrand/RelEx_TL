@@ -1,0 +1,9 @@
+T0	drug 0 13	Carbamazepine
+T1	drug 15 24	Isoniazid
+T2	drug 60 73	carbamazepine
+T3	drug 104 117	Carbamazepine
+T4	drug 186 195	isoniazid
+T5	drug 219 232	carbamazepine
+T6	group 312 326	anticonvulsant
+R1	mechanism Arg1:T1 Arg2:T2
+R2	advise Arg1:T3 Arg2:T4

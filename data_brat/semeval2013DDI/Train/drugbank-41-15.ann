@@ -1,0 +1,4 @@
+T0	brand 29 34	ARAVA
+T1	brand 148 153	ARAVA
+T2	drug 158 166	rifampin
+R1	advise Arg1:T1 Arg2:T2

@@ -1,0 +1,58 @@
+T0	group 69 90	anticholinergic drugs
+T1	drug 92 102	amantadine
+T2	group 104 136	antiarrhythmic agents of class I
+T3	drug 144 153	quinidine
+T4	group 156 170	antihistamines
+T5	group 172 192	antipsychotic agents
+T6	group 200 214	phenothiazines
+T7	group 217 232	benzodiazepines
+T8	group 234 248	MAO inhibitors
+T9	group 250 269	narcotic analgesics
+T10	drug 277 287	meperidine
+T11	group 290 298	nitrates
+T12	group 303 311	nitrites
+T13	group 313 335	sympathomimetic agents
+T14	group 337 362	tricyclic antidepressants
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5
+R6	effect Arg1:T0 Arg2:T6
+R7	effect Arg1:T0 Arg2:T7
+R8	effect Arg1:T0 Arg2:T8
+R9	effect Arg1:T0 Arg2:T9
+R10	effect Arg1:T0 Arg2:T10
+R11	effect Arg1:T0 Arg2:T11
+R12	effect Arg1:T0 Arg2:T12
+R13	effect Arg1:T0 Arg2:T13
+R14	effect Arg1:T0 Arg2:T14
+T0	group 69 90	anticholinergic drugs
+T1	drug 92 102	amantadine
+T2	group 104 136	antiarrhythmic agents of class I
+T3	drug 144 153	quinidine
+T4	group 156 170	antihistamines
+T5	group 172 192	antipsychotic agents
+T6	group 200 214	phenothiazines
+T7	group 217 232	benzodiazepines
+T8	group 234 248	MAO inhibitors
+T9	group 250 269	narcotic analgesics
+T10	drug 277 287	meperidine
+T11	group 290 298	nitrates
+T12	group 303 311	nitrites
+T13	group 313 335	sympathomimetic agents
+T14	group 337 362	tricyclic antidepressants
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5
+R6	effect Arg1:T0 Arg2:T6
+R7	effect Arg1:T0 Arg2:T7
+R8	effect Arg1:T0 Arg2:T8
+R9	effect Arg1:T0 Arg2:T9
+R10	effect Arg1:T0 Arg2:T10
+R11	effect Arg1:T0 Arg2:T11
+R12	effect Arg1:T0 Arg2:T12
+R13	effect Arg1:T0 Arg2:T13
+R14	effect Arg1:T0 Arg2:T14

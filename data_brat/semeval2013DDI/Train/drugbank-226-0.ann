@@ -1,0 +1,6 @@
+T0	brand 12 21	Adenocard
+T1	drug 23 32	adenosine
+T2	drug 121 130	quinidine
+T3	group 132 163	beta-adrenergic blocking agents
+T4	group 165 196	calcium channel blocking agents
+T5	group 202 242	angiotensin converting enzyme inhibitors

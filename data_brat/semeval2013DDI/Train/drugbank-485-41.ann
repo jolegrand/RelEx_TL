@@ -1,0 +1,10 @@
+T0	group 0 25	Tricyclic antidepressants
+T1	drug 27 40	amitriptyline
+T2	drug 42 52	imipramine
+T3	drug 54 67	nortriptyline
+T4	group 101 136	combination hormonal contraceptives
+T5	group 166 180	antidepressant
+R1	mechanism Arg1:T0 Arg2:T4
+R2	mechanism Arg1:T1 Arg2:T4
+R3	mechanism Arg1:T2 Arg2:T4
+R4	mechanism Arg1:T3 Arg2:T4

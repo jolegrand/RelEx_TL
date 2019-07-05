@@ -1,0 +1,6 @@
+T0	drug 30 38	naproxen
+T1	brand 43 50	aspirin
+T2	drug 78 86	naproxen
+T3	brand 164 171	aspirin
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T2 Arg2:T3

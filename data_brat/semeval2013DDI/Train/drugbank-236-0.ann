@@ -1,0 +1,12 @@
+T0	group 0 17	Acidifying agents
+T1	group 19 53	Gastrointestinal acidifying agents
+T2	drug 55 67	guanethidine
+T3	drug 69 78	reserpine
+T4	drug 80 97	glutamic acid HCl
+T5	drug 99 112	ascorbic acid
+T6	group 154 166	amphetamines
+R1	mechanism Arg1:T1 Arg2:T6
+R2	mechanism Arg1:T2 Arg2:T6
+R3	mechanism Arg1:T3 Arg2:T6
+R4	mechanism Arg1:T4 Arg2:T6
+R5	mechanism Arg1:T5 Arg2:T6

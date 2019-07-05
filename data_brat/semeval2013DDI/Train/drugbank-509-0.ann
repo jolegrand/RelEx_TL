@@ -1,0 +1,6 @@
+T0	drug 56 68	aripiprazole
+T1	brand 98 105	ABILIFY
+T2	group 141 163	centrally acting drugs
+T3	drug 168 175	alcohol
+R1	advise Arg1:T1 Arg2:T2
+R2	advise Arg1:T1 Arg2:T3

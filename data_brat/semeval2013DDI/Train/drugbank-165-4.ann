@@ -1,0 +1,6 @@
+T0	group 13 29	azole antifungal
+T1	drug 31 43	ketoconazole
+T2	drug 72 82	astemizole
+T3	drug 131 141	astemizole
+T4	drug_n 168 188	desmethylastermizole
+R1	mechanism Arg1:T1 Arg2:T2

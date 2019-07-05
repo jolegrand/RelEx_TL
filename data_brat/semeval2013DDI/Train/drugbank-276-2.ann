@@ -1,0 +1,7 @@
+T0	group 0 16	Uricosuric drugs
+T1	drug 26 36	probenecid
+T2	drug 41 55	sulfinpyrazone
+T3	drug 96 110	nitrofurantoin
+R1	mechanism Arg1:T0 Arg2:T3
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T2 Arg2:T3

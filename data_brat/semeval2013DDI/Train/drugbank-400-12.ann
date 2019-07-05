@@ -1,0 +1,4 @@
+T0	group 11 17	NSAIDs
+T1	drug 22 29	lithium
+T2	drug 112 119	lithium
+R1	advise Arg1:T0 Arg2:T1

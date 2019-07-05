@@ -1,0 +1,5 @@
+T0	group 43 76	beta-adrenoceptor blocking agents
+T1	group 80 116	non-steroidal antiinflammatory drugs
+T2	brand 127 134	INDOCIN
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

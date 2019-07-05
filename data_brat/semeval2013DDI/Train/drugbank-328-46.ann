@@ -1,0 +1,5 @@
+T0	drug 29 42	norethindrone
+T1	drug 47 64	ethinyl estradiol
+T2	group 123 136	contraceptive
+T3	drug 154 164	valdecoxib
+R1	advise Arg1:T2 Arg2:T3

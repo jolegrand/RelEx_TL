@@ -1,0 +1,4 @@
+T0	drug 21 31	Didanosine
+T1	brand 53 60	COPEGUS
+T2	drug 65 75	didanosine
+R1	advise Arg1:T1 Arg2:T2

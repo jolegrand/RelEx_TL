@@ -1,0 +1,8 @@
+T0	drug 84 93	clozapine
+T1	drug 129 138	clozapine
+T2	drug 154 164	paroxetine
+T3	drug 166 176	fluoxetine
+T4	drug 182 192	sertraline
+R1	mechanism Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T1 Arg2:T4

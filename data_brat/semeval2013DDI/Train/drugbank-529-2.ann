@@ -1,0 +1,6 @@
+T0	group 0 14	Anticoagulants
+T1	drug 16 28	Flurbiprofen
+T2	group 40 76	nonsteroidal anti-inflammatory drugs
+T3	group 145 160	anti-coagulants
+R1	effect Arg1:T1 Arg2:T3
+R2	effect Arg1:T2 Arg2:T3

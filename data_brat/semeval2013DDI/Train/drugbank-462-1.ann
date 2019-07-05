@@ -1,0 +1,4 @@
+T0	drug 0 10	Vecuronium
+T1	drug 51 63	piperacillin
+T2	drug 137 147	vecuronium
+R1	effect Arg1:T1 Arg2:T2

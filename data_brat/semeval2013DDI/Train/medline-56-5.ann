@@ -1,0 +1,4 @@
+T0	drug 5 12	ouabain
+T1	drug 58 70	phentolamine
+T2	drug_n 119 122	PTX
+R1	effect Arg1:T0 Arg2:T1

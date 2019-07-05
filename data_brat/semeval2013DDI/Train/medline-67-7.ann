@@ -1,0 +1,7 @@
+T0	drug 0 9	Midazolam
+T1	drug 92 100	morphine
+T2	drug 102 111	metamizol
+T3	drug 146 158	indomethacin
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

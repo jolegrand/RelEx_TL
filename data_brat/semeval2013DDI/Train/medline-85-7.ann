@@ -1,0 +1,3 @@
+T0	drug_n 0 12	Misonidazole
+T1	drug 53 57	CCNU
+R1	effect Arg1:T0 Arg2:T1

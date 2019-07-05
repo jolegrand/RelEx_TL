@@ -1,0 +1,10 @@
+T0	group 36 46	quinolones
+T1	drug 72 76	iron
+T2	group 78 91	multivitamins
+T3	drug 103 107	zinc
+T4	brand 112 117	Videx
+T5	drug 119 129	didanosine
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T3
+R3	mechanism Arg1:T0 Arg2:T4
+R4	mechanism Arg1:T0 Arg2:T5

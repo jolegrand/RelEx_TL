@@ -1,0 +1,3 @@
+T0	drug 39 54	succinylcholine
+T1	brand 73 82	BREVIBLOC
+R1	effect Arg1:T0 Arg2:T1

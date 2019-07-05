@@ -1,0 +1,3 @@
+T0	drug 96 108	methotrexate
+T1	drug 150 161	L-glutamine
+R1	effect Arg1:T0 Arg2:T1

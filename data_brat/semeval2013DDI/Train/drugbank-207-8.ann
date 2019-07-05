@@ -1,0 +1,5 @@
+T0	brand 36 42	IRESSA
+T1	drug 47 58	vinorelbine
+T2	brand 103 109	IRESSA
+T3	drug 151 162	vinorelbine
+R1	effect Arg1:T2 Arg2:T3

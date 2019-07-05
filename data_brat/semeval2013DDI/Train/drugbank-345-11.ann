@@ -1,0 +1,11 @@
+T0	drug 18 30	tetracycline
+T1	drug 32 42	furosemide
+T2	drug 44 56	penicillin G
+T3	drug 58 77	hydrochlorothiazide
+T4	drug 83 94	gemfibrozil
+T5	drug 154 178	colestipol hydrochloride
+R1	mechanism Arg1:T0 Arg2:T5
+R2	mechanism Arg1:T1 Arg2:T5
+R3	mechanism Arg1:T2 Arg2:T5
+R4	mechanism Arg1:T3 Arg2:T5
+R5	mechanism Arg1:T4 Arg2:T5

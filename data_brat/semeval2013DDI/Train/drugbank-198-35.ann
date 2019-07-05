@@ -1,0 +1,3 @@
+T0	drug 21 31	Vardenafil
+T1	group 66 79	alpha-blocker
+R1	advise Arg1:T0 Arg2:T1

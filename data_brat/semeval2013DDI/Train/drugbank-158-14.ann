@@ -1,0 +1,4 @@
+T0	drug 0 11	Haloperidol
+T1	drug 13 24	Haloperidol
+T2	group 101 113	amphetamines
+R1	effect Arg1:T1 Arg2:T2

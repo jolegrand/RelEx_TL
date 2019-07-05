@@ -1,0 +1,24 @@
+T0	drug 30 41	terfenadine
+T1	drug 47 61	clarithromycin
+T2	drug 63 75	erythromycin
+T3	drug 80 94	troleandomycin
+T4	drug 202 213	terfenadine
+T5	group 225 246	macrolide antibiotics
+T6	drug 258 270	azithromycin
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T4 Arg2:T5
+R5	advise Arg1:T4 Arg2:T6
+T0	drug 30 41	terfenadine
+T1	drug 47 61	clarithromycin
+T2	drug 63 75	erythromycin
+T3	drug 80 94	troleandomycin
+T4	drug 202 213	terfenadine
+T5	group 225 246	macrolide antibiotics
+T6	drug 258 270	azithromycin
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T4 Arg2:T5
+R5	advise Arg1:T4 Arg2:T6

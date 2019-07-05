@@ -1,0 +1,5 @@
+T0	drug 0 4	Iron
+T1	drug 45 54	carbidopa
+T2	drug 59 67	levodopa
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

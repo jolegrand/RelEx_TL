@@ -1,0 +1,7 @@
+T0	brand 0 7	Gleevec
+T1	group 92 107	benzodiazepines
+T2	group 109 149	dihydropyridine calcium channel blockers
+T3	group 159 187	HMG-CoA reductase inhibitors
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3

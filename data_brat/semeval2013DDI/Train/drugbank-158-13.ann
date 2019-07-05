@@ -1,0 +1,4 @@
+T0	drug 0 12	Ethosuximide
+T1	group 14 26	Amphetamines
+T2	drug 62 74	ethosuximide
+R1	mechanism Arg1:T1 Arg2:T2

@@ -1,0 +1,3 @@
+T0	group 48 72	hypoglycemic medications
+T1	group 107 124	thiazide diuretic
+R1	advise Arg1:T0 Arg2:T1

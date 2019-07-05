@@ -1,0 +1,5 @@
+T0	group 37 49	barbiturates
+T1	group 57 66	narcotics
+T2	drug 94 102	ketamine
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

@@ -1,0 +1,9 @@
+T0	drug 0 18	Phospholine Iodide
+T1	group 37 62	cholinesterase inhibitors
+T2	drug 71 86	succinylcholine
+T3	drug_n 90 105;120 131	organophosphate insecticide
+T4	drug_n 110 131	carbamate insecticide
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4

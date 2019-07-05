@@ -1,0 +1,3 @@
+T0	group 60 73	contraceptive
+T1	drug 93 105	atorvastatin
+R1	advise Arg1:T0 Arg2:T1

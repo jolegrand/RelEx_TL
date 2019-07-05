@@ -1,0 +1,3 @@
+T0	drug 15 24	felbamate
+T1	drug 71 80	valproate
+R1	mechanism Arg1:T0 Arg2:T1

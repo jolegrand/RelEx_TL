@@ -1,0 +1,5 @@
+T0	drug 0 8	Rifampin
+T1	brand 31 36	VIOXX
+T2	drug 42 50	rifampin
+T3	drug 145 154	rofecoxib
+R1	mechanism Arg1:T1 Arg2:T2

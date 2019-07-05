@@ -1,0 +1,3 @@
+T0	drug 147 155	atropine
+T1	drug 160 171	pralidoxime
+R1	advise Arg1:T0 Arg2:T1

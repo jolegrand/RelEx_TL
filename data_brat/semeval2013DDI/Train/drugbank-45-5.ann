@@ -1,0 +1,5 @@
+T0	group 45 56	antibiotics
+T1	group 58 68	antivirals
+T2	group 70 85	corticosteroids
+T3	drug 87 91	6-MP
+T4	drug 92 95	AZA

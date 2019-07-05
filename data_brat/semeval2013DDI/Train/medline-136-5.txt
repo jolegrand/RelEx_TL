@@ -1,0 +1,1 @@
+For the identification of &quot;limit values&quot;, it has generally been suggested in the literature that the possible effects deriving from multiple exposure be considered as additive. 

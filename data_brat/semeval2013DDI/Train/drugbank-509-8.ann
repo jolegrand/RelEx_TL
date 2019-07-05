@@ -1,0 +1,9 @@
+T0	drug 26 38	ketoconazole
+T1	drug 55 64	quinidine
+T2	drug 66 76	fluoxetine
+T3	drug 81 91	paroxetine
+T4	drug 105 117	aripiprazole
+R1	mechanism Arg1:T0 Arg2:T4
+R2	mechanism Arg1:T1 Arg2:T4
+R3	mechanism Arg1:T2 Arg2:T4
+R4	mechanism Arg1:T3 Arg2:T4

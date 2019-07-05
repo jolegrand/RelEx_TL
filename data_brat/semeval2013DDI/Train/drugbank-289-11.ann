@@ -1,0 +1,3 @@
+T0	drug 13 21	bosentan
+T1	drug 92 106	cyclosporine A
+R1	mechanism Arg1:T0 Arg2:T1

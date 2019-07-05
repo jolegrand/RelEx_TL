@@ -1,0 +1,3 @@
+T0	group 12 39	warfarin-type anticoagulant
+T1	drug 116 128	griseofulvin
+R1	advise Arg1:T0 Arg2:T1

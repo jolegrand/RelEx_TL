@@ -1,0 +1,7 @@
+T0	drug 0 8	Morphine
+T1	drug 77 85	morphine
+T2	brand 137 146	Neurontin
+T3	drug 169 179	gabapentin
+T4	drug 213 223	gabapentin
+T5	drug 245 253	morphine
+R1	mechanism Arg1:T1 Arg2:T2

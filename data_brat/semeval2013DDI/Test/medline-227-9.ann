@@ -1,0 +1,10 @@
+T0	drug 49 64	dexmedetomidine
+T1	drug 70 79	ephedrine
+T2	drug 183 198	dexmedetomidine
+T3	group 205 214	analgesic
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 49 64	dexmedetomidine
+T1	drug 70 79	ephedrine
+T2	drug 183 198	dexmedetomidine
+T3	group 205 214	analgesic
+R1	effect Arg1:T0 Arg2:T1

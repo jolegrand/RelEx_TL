@@ -1,0 +1,18 @@
+T0	group 107 122	benzodiazepines
+T1	drug 148 158	alprazolam
+T2	drug 200 210	alprazolam
+T3	group 220 235	benzodiazepines
+T4	drug 289 299	alprazolam
+T5	group 342 357	benzodiazepines
+T6	drug 369 379	alprazolam
+T7	drug 421 431	alprazolam
+T8	drug 451 460	diltiazem
+T9	drug 462 471	isoniazid
+T10	group 473 494	macrolide antibiotics
+T11	drug 503 515	erythromycin
+T12	drug 520 534	clarithromycin
+R1	int Arg1:T7 Arg2:T8
+R2	int Arg1:T7 Arg2:T9
+R3	int Arg1:T7 Arg2:T10
+R4	int Arg1:T7 Arg2:T11
+R5	int Arg1:T7 Arg2:T12

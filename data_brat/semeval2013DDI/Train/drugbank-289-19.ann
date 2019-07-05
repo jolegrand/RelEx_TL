@@ -1,0 +1,3 @@
+T0	drug 21 29	bosentan
+T1	drug 69 78	glyburide
+R1	mechanism Arg1:T0 Arg2:T1

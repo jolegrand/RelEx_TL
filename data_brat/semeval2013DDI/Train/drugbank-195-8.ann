@@ -1,0 +1,5 @@
+T0	drug 21 32	anastrozole
+T1	drug 37 46	tamoxifen
+T2	drug 74 85	anastrozole
+T3	drug 141 152	anastrozole
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,10 @@
+T0	group 43 63	fat-soluble vitamins
+T1	drug 73 87	cholestyramine
+T2	brand 126 133	Zemplar
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T1 Arg2:T2
+T0	group 43 63	fat-soluble vitamins
+T1	drug 73 87	cholestyramine
+T2	brand 126 133	Zemplar
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T1 Arg2:T2

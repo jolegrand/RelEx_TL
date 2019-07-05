@@ -1,0 +1,7 @@
+T0	group 0 9	Vitamin A
+T1	group 19 28	retinoids
+T2	group 60 69	vitamin A
+T3	group 88 97	retinoids
+T4	drug 103 112	acitretin
+R1	advise Arg1:T2 Arg2:T4
+R2	advise Arg1:T3 Arg2:T4

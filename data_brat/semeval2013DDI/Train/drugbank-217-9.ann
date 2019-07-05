@@ -1,0 +1,4 @@
+T0	drug 32 43	norfloxacin
+T1	drug 103 113	probenecid
+T2	drug 118 129	norfloxacin
+R1	mechanism Arg1:T1 Arg2:T2

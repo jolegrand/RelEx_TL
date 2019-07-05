@@ -1,0 +1,6 @@
+T0	brand 52 59	REMERON
+T1	drug 111 119	diazepam
+R1	effect Arg1:T0 Arg2:T1
+T0	brand 52 59	REMERON
+T1	drug 111 119	diazepam
+R1	effect Arg1:T0 Arg2:T1

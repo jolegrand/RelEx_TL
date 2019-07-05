@@ -1,0 +1,8 @@
+T0	drug 17 29	Guanethidine
+T1	drug 40 49	minoxidil
+T2	drug 146 158	guanethidine
+R1	effect Arg1:T1 Arg2:T2
+T0	drug 17 29	Guanethidine
+T1	drug 40 49	minoxidil
+T2	drug 146 158	guanethidine
+R1	effect Arg1:T1 Arg2:T2

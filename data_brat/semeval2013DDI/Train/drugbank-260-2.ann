@@ -1,0 +1,4 @@
+T0	drug 0 10	Zidovudine
+T1	drug 98 108	probenecid
+T2	brand 123 130	VISTIDE
+R1	advise Arg1:T0 Arg2:T1

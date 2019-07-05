@@ -1,0 +1,4 @@
+T0	drug 47 55	imatinib
+T1	brand 61 68	Gleevec
+T2	drug 92 104	ketoconazole
+R1	mechanism Arg1:T1 Arg2:T2

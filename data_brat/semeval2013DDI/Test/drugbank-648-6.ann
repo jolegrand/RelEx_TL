@@ -1,0 +1,26 @@
+T0	brand 28 34	EVISTA
+T1	drug 100 110	clofibrate
+T2	drug 112 124	indomethacin
+T3	drug 126 134	naproxen
+T4	drug 136 145	ibuprofen
+T5	drug 147 155	diazepam
+T6	drug 161 170	diazoxide
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4
+R5	advise Arg1:T0 Arg2:T5
+R6	advise Arg1:T0 Arg2:T6
+T0	brand 28 34	EVISTA
+T1	drug 100 110	clofibrate
+T2	drug 112 124	indomethacin
+T3	drug 126 134	naproxen
+T4	drug 136 145	ibuprofen
+T5	drug 147 155	diazepam
+T6	drug 161 170	diazoxide
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4
+R5	advise Arg1:T0 Arg2:T5
+R6	advise Arg1:T0 Arg2:T6

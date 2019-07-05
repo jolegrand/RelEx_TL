@@ -1,0 +1,8 @@
+T0	group 16 52	nonsteroidal anti-inflammatory drugs
+T1	group 54 60	NSAIDs
+T2	drug 107 117	furosemide
+T3	group 122 136	ACE inhibitors
+R1	int Arg1:T0 Arg2:T2
+R2	int Arg1:T0 Arg2:T3
+R3	int Arg1:T1 Arg2:T2
+R4	int Arg1:T1 Arg2:T3

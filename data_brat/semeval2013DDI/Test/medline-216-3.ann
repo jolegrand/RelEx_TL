@@ -1,0 +1,10 @@
+T0	drug 0 11	Ticlopidine
+T1	drug 134 142	ketamine
+T2	drug 164 176	itraconazole
+T3	drug 220 230	S-ketamine
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 0 11	Ticlopidine
+T1	drug 134 142	ketamine
+T2	drug 164 176	itraconazole
+T3	drug 220 230	S-ketamine
+R1	mechanism Arg1:T0 Arg2:T1

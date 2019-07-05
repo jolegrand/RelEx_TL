@@ -1,0 +1,4 @@
+T0	drug 0 12	Ketoconazole
+T1	brand 91 98	TIKOSYN
+T2	drug 151 161	dofetilide
+R1	mechanism Arg1:T0 Arg2:T1

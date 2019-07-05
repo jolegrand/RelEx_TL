@@ -1,0 +1,4 @@
+T0	drug 0 13	Phenobarbital
+T1	group 15 27	Amphetamines
+T2	drug 63 76	phenobarbital
+R1	mechanism Arg1:T1 Arg2:T2

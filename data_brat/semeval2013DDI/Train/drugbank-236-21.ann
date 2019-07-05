@@ -1,0 +1,5 @@
+T0	drug 0 11	Methenamine
+T1	group 42 54	amphetamines
+T2	group 97 114	acidifying agents
+T3	drug 123 134	methenamine
+R1	mechanism Arg1:T1 Arg2:T2

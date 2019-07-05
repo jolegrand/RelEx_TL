@@ -1,0 +1,11 @@
+T0	brand 36 42	Keppra
+T1	group 54 58	AEDs
+T2	drug 60 73	carbamazepine
+T3	drug 75 85	gabapentin
+T4	drug 87 98	lamotrigine
+T5	drug 100 113	phenobarbital
+T6	drug 115 124	phenytoin
+T7	drug 126 135	primidone
+T8	drug 140 149	valproate
+T9	drug 212 225	levetiracetam
+T10	group 236 240	AEDs

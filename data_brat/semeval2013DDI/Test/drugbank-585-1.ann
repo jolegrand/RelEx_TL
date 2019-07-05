@@ -1,0 +1,6 @@
+T0	group 0 16	Anticholinergics
+T1	group 43 62	antiglaucoma agents
+R1	effect Arg1:T0 Arg2:T1
+T0	group 0 16	Anticholinergics
+T1	group 43 62	antiglaucoma agents
+R1	effect Arg1:T0 Arg2:T1

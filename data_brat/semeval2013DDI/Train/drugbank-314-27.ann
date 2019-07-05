@@ -1,0 +1,4 @@
+T0	drug 0 9	Phenytoin
+T1	drug 100 109	phenytoin
+T2	drug 122 135	dexamethasone
+R1	mechanism Arg1:T1 Arg2:T2

@@ -1,0 +1,4 @@
+T0	drug 18 26	rifampin
+T1	brand 64 70	ZEBETA
+T2	brand 122 128	ZEBETA
+R1	mechanism Arg1:T0 Arg2:T1

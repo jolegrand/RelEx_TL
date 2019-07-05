@@ -1,0 +1,3 @@
+T0	brand 48 56	PEGANONE
+T1	group 79 102	coumarin anticoagulants
+R1	advise Arg1:T0 Arg2:T1

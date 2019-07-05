@@ -1,0 +1,3 @@
+T0	group 55 67	beta-blocker
+T1	drug 144 153	reserpine
+R1	advise Arg1:T0 Arg2:T1

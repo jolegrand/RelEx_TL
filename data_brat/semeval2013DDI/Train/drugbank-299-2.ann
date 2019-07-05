@@ -1,0 +1,4 @@
+T0	group 0 28	Monoamine Oxidase Inhibitors
+T1	drug 50 61	moclobemide
+T2	drug 92 103	almotriptan
+R1	mechanism Arg1:T1 Arg2:T2

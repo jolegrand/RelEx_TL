@@ -1,0 +1,4 @@
+T0	drug 32 42	doxylamine
+T1	drug 74 84	doxylamine
+T2	group 108 128	CNS depressant drugs
+R1	effect Arg1:T1 Arg2:T2

@@ -1,0 +1,3 @@
+T0	group 211 229	immuno-suppressant
+T1	drug 254 265	bezafibrate
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,5 @@
+T0	group 0 47	Non-nucleoside reverse transcriptase inhibitors
+T1	group 49 55	NNRTIs
+T2	drug 58 68	Nevirapine
+T3	group 99 134	combination hormonal contraceptives
+R1	mechanism Arg1:T2 Arg2:T3

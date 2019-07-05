@@ -1,0 +1,5 @@
+T0	drug 56 67	doxorubicin
+T1	drug_n 95 108	doxorubicinol
+T2	drug 132 142	paclitaxel
+T3	drug 147 158	doxorubicin
+R1	mechanism Arg1:T2 Arg2:T3

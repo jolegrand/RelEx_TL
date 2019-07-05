@@ -1,0 +1,8 @@
+T0	brand 18 25	Mexitil
+T1	drug 33 45	theophylline
+T2	drug 75 87	theophylline
+R1	mechanism Arg1:T0 Arg2:T1
+T0	brand 18 25	Mexitil
+T1	drug 33 45	theophylline
+T2	drug 75 87	theophylline
+R1	mechanism Arg1:T0 Arg2:T1

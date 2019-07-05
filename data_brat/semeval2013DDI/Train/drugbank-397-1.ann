@@ -1,0 +1,5 @@
+T0	drug 11 23	theophylline
+T1	drug 55 67	theophylline
+T2	drug 88 100	theophylline
+T3	drug 162 174	erythromycin
+R1	advise Arg1:T2 Arg2:T3

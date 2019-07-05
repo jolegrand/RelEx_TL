@@ -1,0 +1,10 @@
+T0	group 40 54	ACE inhibitors
+T1	group 61 75	anticoagulants
+T2	group 77 101	calcium channel blockers
+T3	group 103 116	beta blockers
+T4	group 118 136	cardiac glycosides
+T5	group 240 248	nitrates
+T6	group 250 264	sulphonylureas
+T7	group 266 280	loop diuretics
+T8	group 282 309	potassium sparing diuretics
+T9	group 311 329	thiazide diuretics

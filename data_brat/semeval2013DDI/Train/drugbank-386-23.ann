@@ -1,0 +1,16 @@
+T0	drug 3 28	desipramine hydrochloride
+T1	group 58 77	psychotropic agents
+T2	group 86 99	tranquilizers
+T3	group 103 111	sedative
+T4	group 112 121	hypnotics
+T5	drug 234 245	desipramine
+T6	group 250 265	benzodiazepines
+T7	drug 273 289	chlordiazepoxide
+T8	drug 293 301	diazepam
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T5 Arg2:T6
+R6	effect Arg1:T5 Arg2:T7
+R7	effect Arg1:T5 Arg2:T8

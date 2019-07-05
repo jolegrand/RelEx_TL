@@ -1,0 +1,5 @@
+T0	group 11 30	antiplatelet agents
+T1	group 34 48	anticoagulants
+T2	brand 100 106	FLOLAN
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

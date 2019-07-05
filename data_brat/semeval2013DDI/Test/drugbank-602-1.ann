@@ -1,0 +1,6 @@
+T0	brand 27 34	NEXAVAR
+T1	drug 76 87	doxorubicin
+R1	mechanism Arg1:T0 Arg2:T1
+T0	brand 27 34	NEXAVAR
+T1	drug 76 87	doxorubicin
+R1	mechanism Arg1:T0 Arg2:T1

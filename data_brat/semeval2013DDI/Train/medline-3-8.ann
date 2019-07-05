@@ -1,0 +1,5 @@
+T0	drug 0 8	Rifampin
+T1	drug 48 58	amprenavir
+T2	drug 71 81	amprenavir
+T3	drug 99 107	rifampin
+R1	mechanism Arg1:T0 Arg2:T1

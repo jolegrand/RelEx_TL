@@ -1,0 +1,4 @@
+T0	drug 0 8	Ketamine
+T1	drug 115 135	levothyroxine sodium
+T2	drug 140 148	ketamine
+R1	effect Arg1:T1 Arg2:T2

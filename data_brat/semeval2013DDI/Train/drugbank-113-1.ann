@@ -1,0 +1,4 @@
+T0	drug 16 36	meclofenamate sodium
+T1	drug 69 77	warfarin
+T2	drug 93 101	warfarin
+R1	advise Arg1:T0 Arg2:T1

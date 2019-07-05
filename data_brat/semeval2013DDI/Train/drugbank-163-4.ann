@@ -1,0 +1,5 @@
+T0	drug 12 24	Progesterone
+T1	drug 51 63	progesterone
+T2	group 111 119	estrogen
+T3	brand 173 181	Accutane
+R1	effect Arg1:T1 Arg2:T3

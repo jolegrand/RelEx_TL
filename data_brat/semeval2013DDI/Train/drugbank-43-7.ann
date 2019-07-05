@@ -1,0 +1,4 @@
+T0	drug 47 58	ganciclovir
+T1	brand 77 82	VIDEX
+T2	drug 117 128	ganciclovir
+R1	mechanism Arg1:T1 Arg2:T2

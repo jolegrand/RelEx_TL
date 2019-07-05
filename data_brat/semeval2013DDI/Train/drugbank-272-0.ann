@@ -1,0 +1,4 @@
+T0	drug 18 40	bromocriptine mesylate
+T1	drug 116 123	alcohol
+T2	drug 159 181	bromocriptine mesylate
+R1	effect Arg1:T1 Arg2:T2

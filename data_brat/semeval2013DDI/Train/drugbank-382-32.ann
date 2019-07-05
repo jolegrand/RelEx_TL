@@ -1,0 +1,3 @@
+T0	drug 42 51	diltiazem
+T1	drug 107 117	aprepitant
+R1	advise Arg1:T0 Arg2:T1

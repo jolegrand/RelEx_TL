@@ -1,0 +1,8 @@
+T0	drug 87 97	vigabatrin
+T1	drug 103 112	phenytoin
+T2	drug 131 140	phenytoin
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 87 97	vigabatrin
+T1	drug 103 112	phenytoin
+T2	drug 131 140	phenytoin
+R1	mechanism Arg1:T0 Arg2:T1

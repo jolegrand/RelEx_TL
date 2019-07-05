@@ -1,0 +1,5 @@
+T0	drug 0 13	Physostigmine
+T1	drug 62 69	alcohol
+T2	drug 123 130	alcohol
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

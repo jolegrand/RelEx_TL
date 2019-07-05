@@ -1,0 +1,22 @@
+T0	group 0 14	Phenothiazines
+T1	group 43 58	CNS depressants
+T2	group 66 78	barbiturates
+T3	group 80 91	anesthetics
+T4	group 93 100	opiates
+T5	drug 102 109	alcohol
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5
+T0	group 0 14	Phenothiazines
+T1	group 43 58	CNS depressants
+T2	group 66 78	barbiturates
+T3	group 80 91	anesthetics
+T4	group 93 100	opiates
+T5	drug 102 109	alcohol
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5

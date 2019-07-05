@@ -1,0 +1,3 @@
+T0	drug 9 24	retinyl acetate
+T1	drug 105 112	insulin
+R1	effect Arg1:T0 Arg2:T1

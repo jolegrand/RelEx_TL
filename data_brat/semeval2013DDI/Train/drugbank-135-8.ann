@@ -1,0 +1,4 @@
+T0	drug 0 13	Carbamazepine
+T1	drug 65 78	carbamazepine
+T2	drug 176 185	lapatinib
+R1	mechanism Arg1:T1 Arg2:T2

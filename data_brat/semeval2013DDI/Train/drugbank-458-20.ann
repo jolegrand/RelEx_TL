@@ -1,0 +1,3 @@
+T0	group 31 46	imidazole drugs
+T1	group 51 65	coumarin drugs
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,5 @@
+T0	brand 0 7	Aspirin
+T1	drug 51 61	diflunisal
+T2	drug 105 115	diflunisal
+T3	brand 120 127	aspirin
+R1	mechanism Arg1:T2 Arg2:T3

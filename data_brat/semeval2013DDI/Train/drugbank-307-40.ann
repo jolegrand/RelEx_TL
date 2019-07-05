@@ -1,0 +1,6 @@
+T0	group 9 23	contraceptives
+T1	brand 45 54	Trileptal
+T2	group 68 81	contraceptive
+T3	drug 168 184	ethinylestradiol
+T4	drug 194 208	levonorgestrel
+R1	mechanism Arg1:T1 Arg2:T2

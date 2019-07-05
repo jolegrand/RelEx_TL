@@ -1,0 +1,4 @@
+T0	drug 16 35	Hydrochlorothiazide
+T1	group 40 78	non-steroidal anti-inflammatory agents
+T2	group 184 192	diuretic
+R1	advise Arg1:T0 Arg2:T1

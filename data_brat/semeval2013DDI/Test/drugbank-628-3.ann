@@ -1,0 +1,14 @@
+T0	brand 58 66	DIPRIVAN
+T1	group 229 245	analgesic agents
+T2	drug 251 264	nitrous oxide
+T3	group 268 275	opioids
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+T0	brand 58 66	DIPRIVAN
+T1	group 229 245	analgesic agents
+T2	drug 251 264	nitrous oxide
+T3	group 268 275	opioids
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3

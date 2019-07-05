@@ -1,0 +1,3 @@
+T0	group 54 66	neuroleptics
+T1	group 91 108	dopamine agonists
+R1	advise Arg1:T0 Arg2:T1

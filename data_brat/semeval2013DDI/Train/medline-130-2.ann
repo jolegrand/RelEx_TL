@@ -1,0 +1,3 @@
+T0	drug 0 18	Sodium thiosulfate
+T1	drug 47 56	cisplatin
+R1	effect Arg1:T0 Arg2:T1

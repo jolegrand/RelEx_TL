@@ -1,0 +1,5 @@
+T0	group 0 8	Antacids
+T1	drug 44 59	pseudoephedrine
+T2	drug 67 73	kaolin
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T1 Arg2:T2

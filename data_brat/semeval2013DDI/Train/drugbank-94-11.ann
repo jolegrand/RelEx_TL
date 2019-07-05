@@ -1,0 +1,91 @@
+T0	brand 96 105	EQUETROTM
+T1	drug 157 170	Acetaminophen
+T2	drug 172 182	alprazolam
+T3	drug 184 197	amitriptyline
+T4	drug 199 208	bupropion
+T5	drug 210 219	buspirone
+T6	drug 221 231	citalopram
+T7	drug 233 241	clobazam
+T8	drug 243 253	clonazepam
+T9	drug 255 264	clozapine
+T10	drug 266 277	cyclosporin
+T11	drug 279 290	delavirdine
+T12	drug 292 303	desipramine
+T13	drug 305 313	diazepam
+T14	drug 315 324	dicumarol
+T15	drug 326 337	doxycycline
+T16	drug 339 351	ethosuximide
+T17	drug 353 362	felbamate
+T18	drug 364 374	felodipine
+T19	group 376 391	glucocorticoids
+T20	drug 393 404	haloperidol
+T21	drug 406 418	itraconazole
+T22	drug 420 431	lamotrigine
+T23	drug 433 446	levothyroxine
+T24	drug 448 457	lorazepam
+T25	drug 459 468	methadone
+T26	drug 470 479	midazolam
+T27	drug 481 492	mirtazapine
+T28	drug 494 507	nortriptyline
+T29	drug 509 519	olanzapine
+T30	group 526 540	contraceptives
+T31	drug 545 558	oxcarbazepine
+T32	drug 560 569	Phenytoin
+T33	drug 574 586	praziquantel
+T34	group 588 607	protease inhibitors
+T35	drug 609 619	quetiapine
+T36	drug 621 632	risperidone
+T37	drug 634 646	theophylline
+T38	drug 648 658	topiramate
+T39	drug 660 669	tiagabine
+T40	drug 671 679	tramadol
+T41	drug 681 690	triazolam
+T42	drug 692 701	valproate
+T43	drug 703 711	warfarin
+T44	drug 717 728	ziprasidone
+T45	drug 734 744	zonisamide
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4
+R5	mechanism Arg1:T0 Arg2:T5
+R6	mechanism Arg1:T0 Arg2:T6
+R7	mechanism Arg1:T0 Arg2:T7
+R8	mechanism Arg1:T0 Arg2:T8
+R9	mechanism Arg1:T0 Arg2:T9
+R10	mechanism Arg1:T0 Arg2:T10
+R11	mechanism Arg1:T0 Arg2:T11
+R12	mechanism Arg1:T0 Arg2:T12
+R13	mechanism Arg1:T0 Arg2:T13
+R14	mechanism Arg1:T0 Arg2:T14
+R15	mechanism Arg1:T0 Arg2:T15
+R16	mechanism Arg1:T0 Arg2:T16
+R17	mechanism Arg1:T0 Arg2:T17
+R18	mechanism Arg1:T0 Arg2:T18
+R19	mechanism Arg1:T0 Arg2:T19
+R20	mechanism Arg1:T0 Arg2:T20
+R21	mechanism Arg1:T0 Arg2:T21
+R22	mechanism Arg1:T0 Arg2:T22
+R23	mechanism Arg1:T0 Arg2:T23
+R24	mechanism Arg1:T0 Arg2:T24
+R25	mechanism Arg1:T0 Arg2:T25
+R26	mechanism Arg1:T0 Arg2:T26
+R27	mechanism Arg1:T0 Arg2:T27
+R28	mechanism Arg1:T0 Arg2:T28
+R29	mechanism Arg1:T0 Arg2:T29
+R30	mechanism Arg1:T0 Arg2:T30
+R31	mechanism Arg1:T0 Arg2:T31
+R32	mechanism Arg1:T0 Arg2:T32
+R33	mechanism Arg1:T0 Arg2:T33
+R34	mechanism Arg1:T0 Arg2:T34
+R35	mechanism Arg1:T0 Arg2:T35
+R36	mechanism Arg1:T0 Arg2:T36
+R37	mechanism Arg1:T0 Arg2:T37
+R38	mechanism Arg1:T0 Arg2:T38
+R39	mechanism Arg1:T0 Arg2:T39
+R40	mechanism Arg1:T0 Arg2:T40
+R41	mechanism Arg1:T0 Arg2:T41
+R42	mechanism Arg1:T0 Arg2:T42
+R43	mechanism Arg1:T0 Arg2:T43
+R44	mechanism Arg1:T0 Arg2:T44
+R45	mechanism Arg1:T0 Arg2:T45

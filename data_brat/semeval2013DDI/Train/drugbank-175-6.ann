@@ -1,0 +1,5 @@
+T0	drug 11 24	nitroglycerin
+T1	group 34 42	nitrates
+T2	drug 174 183	captopril
+R1	advise Arg1:T0 Arg2:T2
+R2	advise Arg1:T1 Arg2:T2

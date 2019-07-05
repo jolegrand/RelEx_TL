@@ -1,0 +1,6 @@
+T0	drug 0 12	Erythromycin
+T1	group 84 98	antihistamines
+T2	drug 99 110	terfenadine
+T3	drug 115 125	astemizole
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T0 Arg2:T3

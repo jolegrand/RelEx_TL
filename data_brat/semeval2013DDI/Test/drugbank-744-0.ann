@@ -1,0 +1,10 @@
+T0	drug 63 70	insulin
+T1	group 83 95	hypoglycemic
+T2	brand 196 204	SOMAVERT
+R1	advise Arg1:T0 Arg2:T2
+R2	advise Arg1:T1 Arg2:T2
+T0	drug 63 70	insulin
+T1	group 83 95	hypoglycemic
+T2	brand 196 204	SOMAVERT
+R1	advise Arg1:T0 Arg2:T2
+R2	advise Arg1:T1 Arg2:T2

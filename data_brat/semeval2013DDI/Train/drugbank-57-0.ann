@@ -1,0 +1,7 @@
+T0	group 22 36	aminoglycoside
+T1	group 58 69	antibiotics
+T2	group 71 82	penicillins
+T3	group 86 100	cephalosporins
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

@@ -1,0 +1,8 @@
+T0	group 66 77	anesthetics
+T1	group 85 96	anesthetics
+T2	drug 102 111	lidocaine
+T3	drug 113 121	procaine
+T4	group 123 136	beta-blockers
+T5	drug 138 152	metaclopramide
+T6	drug 154 171	lithium carbonate
+T7	drug 177 188	terbutaline

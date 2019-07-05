@@ -1,0 +1,10 @@
+T0	drug 112 125	phenobarbital
+T1	drug 129 137	rifampin
+T2	drug 164 175	montelukast
+R1	advise Arg1:T0 Arg2:T2
+R2	advise Arg1:T1 Arg2:T2
+T0	drug 112 125	phenobarbital
+T1	drug 129 137	rifampin
+T2	drug 164 175	montelukast
+R1	advise Arg1:T0 Arg2:T2
+R2	advise Arg1:T1 Arg2:T2

@@ -1,0 +1,6 @@
+T0	drug 0 13	Carbamazepine
+T1	drug 35 48	carbamazepine
+T2	drug 93 105	aripiprazole
+T3	drug 188 200	aripiprazole
+T4	drug_n 228 248	dehydro-aripiprazole
+R1	mechanism Arg1:T1 Arg2:T2

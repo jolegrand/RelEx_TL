@@ -1,0 +1,3 @@
+T0	drug 5 13	warfarin
+T1	drug 38 48	nevirapine
+R1	advise Arg1:T0 Arg2:T1

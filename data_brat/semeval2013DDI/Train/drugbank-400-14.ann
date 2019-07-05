@@ -1,0 +1,9 @@
+T0	group 0 8	Antacids
+T1	group 56 63	antacid
+T2	drug 87 106	magnesium hydroxide
+T3	drug 122 136	mefenamic acid
+T4	drug 167 181	mefenamic acid
+T5	drug 271 282	fluconazole
+T6	drug 284 294	lovastatin
+T7	drug 299 311	trimethoprim
+R1	mechanism Arg1:T2 Arg2:T3

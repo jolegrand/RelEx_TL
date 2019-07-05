@@ -1,0 +1,22 @@
+T0	drug 41 55	metoclopramide
+T1	drug 70 77	alcohol
+T2	group 79 88	sedatives
+T3	group 90 99	hypnotics
+T4	group 101 110	narcotics
+T5	group 115 128	tranquilizers
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5
+T0	drug 41 55	metoclopramide
+T1	drug 70 77	alcohol
+T2	group 79 88	sedatives
+T3	group 90 99	hypnotics
+T4	group 101 110	narcotics
+T5	group 115 128	tranquilizers
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5

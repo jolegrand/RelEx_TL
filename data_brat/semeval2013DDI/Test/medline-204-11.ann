@@ -1,0 +1,10 @@
+T0	drug_n 30 43	methylglyoxal
+T1	drug 62 75	carbenicillin
+T2	drug 80 88	amikacin
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+T0	drug_n 30 43	methylglyoxal
+T1	drug 62 75	carbenicillin
+T2	drug 80 88	amikacin
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

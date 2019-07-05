@@ -1,0 +1,3 @@
+T0	drug 35 44	rifabutin
+T1	brand 106 114	VIRACEPT
+R1	advise Arg1:T0 Arg2:T1

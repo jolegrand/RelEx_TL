@@ -1,0 +1,8 @@
+T0	drug 0 10	Probenecid
+T1	drug 14 24	Cimetidine
+T2	drug 56 66	probenecid
+T3	drug 70 80	cimetidine
+T4	drug 110 121	zalcitabine
+T5	drug 179 190	zalcitabine
+R1	mechanism Arg1:T2 Arg2:T4
+R2	mechanism Arg1:T3 Arg2:T4

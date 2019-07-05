@@ -1,0 +1,4 @@
+T0	drug 30 37	lithium
+T1	drug 63 73	ketoprofen
+T2	drug 97 104	lithium
+R1	advise Arg1:T1 Arg2:T2

@@ -1,0 +1,3 @@
+T0	drug 15 26	pentamidine
+T1	drug 95 100	HIVID
+R1	advise Arg1:T0 Arg2:T1

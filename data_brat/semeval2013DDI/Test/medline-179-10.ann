@@ -1,0 +1,12 @@
+T0	drug 0 9	Sunitinib
+T1	drug 166 175	docetaxel
+T2	drug 188 197	sunitinib
+T3	drug 213 222	sunitinib
+T4	drug 235 244	docetaxel
+R1	effect Arg1:T1 Arg2:T2
+T0	drug 0 9	Sunitinib
+T1	drug 166 175	docetaxel
+T2	drug 188 197	sunitinib
+T3	drug 213 222	sunitinib
+T4	drug 235 244	docetaxel
+R1	effect Arg1:T1 Arg2:T2

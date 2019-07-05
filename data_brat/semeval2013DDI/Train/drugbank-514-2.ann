@@ -1,0 +1,13 @@
+T0	drug_n 22 28	heroin
+T1	group 81 115	central nervous system depressants
+T2	drug 127 134	alcohol
+T3	group 136 151	benzodiazepines
+T4	drug 160 168	diazepam
+T5	brand 170 176	Valium
+T6	drug 204 213	methadone
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5
+R6	effect Arg1:T0 Arg2:T6

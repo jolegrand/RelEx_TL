@@ -1,0 +1,4 @@
+T0	drug 6 19	acetaminophen
+T1	drug 105 115	diflunisal
+T2	drug 120 133	acetaminophen
+R1	advise Arg1:T1 Arg2:T2

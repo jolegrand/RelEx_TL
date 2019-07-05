@@ -1,0 +1,4 @@
+T0	drug 0 29	Nonsteroidal Antiinflammatory
+T1	drug 38 45	Aspirin
+T2	drug 103 133	nonsteroidal anti-inflammatory
+R1	advise Arg1:T1 Arg2:T2

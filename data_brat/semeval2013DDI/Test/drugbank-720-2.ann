@@ -1,0 +1,6 @@
+T0	group 0 16	MAO-A inhibitors
+T1	drug 24 35	sumatriptan
+R1	mechanism Arg1:T0 Arg2:T1
+T0	group 0 16	MAO-A inhibitors
+T1	drug 24 35	sumatriptan
+R1	mechanism Arg1:T0 Arg2:T1

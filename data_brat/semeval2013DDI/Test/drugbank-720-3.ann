@@ -1,0 +1,32 @@
+T0	drug 22 43	sumatriptan succinate
+T1	group 74 90	MAO-A inhibitors
+T2	group 112 151	Selective serotonin reuptake inhibitors
+T3	group 153 158	SSRIs
+T4	drug 167 177	fluoxetine
+T5	drug 179 190	fluvoxamine
+T6	drug 192 202	paroxetine
+T7	drug 204 214	sertraline
+T8	drug 322 333	sumatriptan
+R1	advise Arg1:T0 Arg2:T1
+R2	effect Arg1:T2 Arg2:T8
+R3	effect Arg1:T3 Arg2:T8
+R4	effect Arg1:T4 Arg2:T8
+R5	effect Arg1:T5 Arg2:T8
+R6	effect Arg1:T6 Arg2:T8
+R7	effect Arg1:T7 Arg2:T8
+T0	drug 22 43	sumatriptan succinate
+T1	group 74 90	MAO-A inhibitors
+T2	group 112 151	Selective serotonin reuptake inhibitors
+T3	group 153 158	SSRIs
+T4	drug 167 177	fluoxetine
+T5	drug 179 190	fluvoxamine
+T6	drug 192 202	paroxetine
+T7	drug 204 214	sertraline
+T8	drug 322 333	sumatriptan
+R1	advise Arg1:T0 Arg2:T1
+R2	effect Arg1:T2 Arg2:T8
+R3	effect Arg1:T3 Arg2:T8
+R4	effect Arg1:T4 Arg2:T8
+R5	effect Arg1:T5 Arg2:T8
+R6	effect Arg1:T6 Arg2:T8
+R7	effect Arg1:T7 Arg2:T8

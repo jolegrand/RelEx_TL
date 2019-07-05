@@ -1,0 +1,10 @@
+T0	brand 0 10	Metopirone
+T1	drug 43 56	acetaminophen
+T2	drug 87 100	acetaminophen
+R1	mechanism Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+T0	brand 0 10	Metopirone
+T1	drug 43 56	acetaminophen
+T2	drug 87 100	acetaminophen
+R1	mechanism Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

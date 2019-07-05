@@ -1,0 +1,6 @@
+T0	drug 0 6	Imexon
+T1	drug 11 22	dacarbazine
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 0 6	Imexon
+T1	drug 11 22	dacarbazine
+R1	effect Arg1:T0 Arg2:T1

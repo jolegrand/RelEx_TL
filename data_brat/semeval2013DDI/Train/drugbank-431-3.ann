@@ -1,0 +1,4 @@
+T0	drug 5 17	lansoprazole
+T1	drug 54 66	theophylline
+T2	drug 127 139	theophylline
+R1	mechanism Arg1:T0 Arg2:T1

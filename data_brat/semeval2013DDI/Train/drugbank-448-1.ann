@@ -1,0 +1,9 @@
+T0	group 19 33	antihistamines
+T1	drug 39 46	alcohol
+T2	group 48 73	tricyclic antidepressants
+T3	group 75 87	barbiturates
+T4	group 98 132	central nervous system depressants
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4

@@ -1,0 +1,14 @@
+T0	drug 85 94	tamoxifen
+T1	group 125 145	SSRI antidepressants
+T2	drug 154 164	paroxetine
+T3	drug 169 179	fluoxetine
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+T0	drug 85 94	tamoxifen
+T1	group 125 145	SSRI antidepressants
+T2	drug 154 164	paroxetine
+T3	drug 169 179	fluoxetine
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3

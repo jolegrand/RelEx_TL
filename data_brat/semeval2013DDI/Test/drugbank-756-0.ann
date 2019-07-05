@@ -1,0 +1,10 @@
+T0	group 38 45	opioids
+T1	drug 95 110	levomepromazine
+T2	group 165 172	opioids
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T1 Arg2:T2
+T0	group 38 45	opioids
+T1	drug 95 110	levomepromazine
+T2	group 165 172	opioids
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T1 Arg2:T2

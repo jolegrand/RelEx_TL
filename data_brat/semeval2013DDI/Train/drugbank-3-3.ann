@@ -1,0 +1,4 @@
+T0	group 65 75	salicylate
+T1	drug 105 114	ketorolac
+T2	drug 215 224	ketorolac
+R1	mechanism Arg1:T0 Arg2:T1

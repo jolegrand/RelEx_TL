@@ -1,0 +1,6 @@
+T0	drug 74 82	warfarin
+T1	brand 87 93	FLOMAX
+R1	advise Arg1:T0 Arg2:T1
+T0	drug 74 82	warfarin
+T1	brand 87 93	FLOMAX
+R1	advise Arg1:T0 Arg2:T1

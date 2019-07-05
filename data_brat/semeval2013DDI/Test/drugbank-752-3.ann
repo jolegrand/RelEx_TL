@@ -1,0 +1,10 @@
+T0	drug 64 73	ritonavir
+T1	drug 78 88	nelfinavir
+T2	drug 198 207	midazolam
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T2
+T0	drug 64 73	ritonavir
+T1	drug 78 88	nelfinavir
+T2	drug 198 207	midazolam
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T2

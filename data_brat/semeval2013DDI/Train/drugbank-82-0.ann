@@ -1,0 +1,4 @@
+T0	drug 31 43	indomethacin
+T1	drug 67 77	diflunisal
+T2	drug 157 169	indomethacin
+R1	mechanism Arg1:T1 Arg2:T2

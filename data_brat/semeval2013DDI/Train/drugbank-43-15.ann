@@ -1,0 +1,5 @@
+T0	drug 27 38	delavirdine
+T1	drug 42 51	indinavir
+T2	brand 96 101	VIDEX
+R1	advise Arg1:T0 Arg2:T2
+R2	advise Arg1:T1 Arg2:T2

@@ -1,0 +1,7 @@
+T0	drug 0 9	Valproate
+T1	drug 27 36	tiagabine
+T2	drug 56 65	valproate
+T3	drug 95 104	tiagabine
+T4	drug 127 136	valproate
+T5	drug 161 170	tiagabine
+R1	mechanism Arg1:T4 Arg2:T5

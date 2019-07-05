@@ -1,0 +1,14 @@
+T0	drug 0 14	Sulfamethizole
+T1	group 43 55	barbiturates
+T2	drug 57 68	tolbutamide
+T3	group 74 85	uricosurics
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+T0	drug 0 14	Sulfamethizole
+T1	group 43 55	barbiturates
+T2	drug 57 68	tolbutamide
+T3	group 74 85	uricosurics
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

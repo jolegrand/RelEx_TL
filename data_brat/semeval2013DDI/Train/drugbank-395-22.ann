@@ -1,0 +1,4 @@
+T0	drug 0 12	Theophylline
+T1	drug 68 80	theophylline
+T2	drug 85 93	enoxacin
+R1	effect Arg1:T1 Arg2:T2

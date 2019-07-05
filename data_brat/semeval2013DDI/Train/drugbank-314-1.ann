@@ -1,0 +1,6 @@
+T0	drug 0 14	Amphotericin B
+T1	group 62 77	corticosteroids
+T2	drug 148 162	amphotericin B
+T3	group 164 173	diuretics
+R1	advise Arg1:T1 Arg2:T2
+R2	advise Arg1:T1 Arg2:T3

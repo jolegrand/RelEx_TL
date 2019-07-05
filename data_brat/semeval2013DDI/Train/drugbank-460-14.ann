@@ -1,0 +1,17 @@
+T0	group 25 62	nonsteroidal anti-inflammatory agents
+T1	group 64 70	NSAIDs
+T2	group 73 84	salicylates
+T3	group 86 114	monoamine oxidase inhibitors
+T4	group 120 165	non-selective beta-adrenergic-blocking agents
+T5	brand 208 215	Starlix
+T6	group 231 249	antidiabetic drugs
+R1	effect Arg1:T0 Arg2:T5
+R2	effect Arg1:T0 Arg2:T6
+R3	effect Arg1:T1 Arg2:T5
+R4	effect Arg1:T1 Arg2:T6
+R5	effect Arg1:T2 Arg2:T5
+R6	effect Arg1:T2 Arg2:T6
+R7	effect Arg1:T3 Arg2:T5
+R8	effect Arg1:T3 Arg2:T6
+R9	effect Arg1:T4 Arg2:T5
+R10	effect Arg1:T4 Arg2:T6

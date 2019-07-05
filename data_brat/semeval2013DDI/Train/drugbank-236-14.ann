@@ -1,0 +1,4 @@
+T0	group 0 14	Antihistamines
+T1	group 16 28	Amphetamines
+T2	group 67 81	antihistamines
+R1	effect Arg1:T1 Arg2:T2

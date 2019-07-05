@@ -1,0 +1,4 @@
+T0	brand 16 23	EDECRIN
+T1	group 28 68	non- steroidal anti- inflammatory agents
+T2	group 174 182	diuretic
+R1	effect Arg1:T0 Arg2:T1

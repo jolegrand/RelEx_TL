@@ -1,0 +1,5 @@
+T0	brand 0 9	Atromid-S
+T1	drug 44 53	phenytoin
+T2	drug 57 68	tolbutamide
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

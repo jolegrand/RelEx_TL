@@ -1,0 +1,3 @@
+T0	drug 64 76	erythromycin
+T1	group 86 100	anticoagulants
+R1	effect Arg1:T0 Arg2:T1

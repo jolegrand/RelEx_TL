@@ -1,0 +1,5 @@
+T0	drug 0 8	Rifampin
+T1	drug 39 49	Aprepitant
+T2	drug 112 120	rifampin
+T3	drug 158 168	aprepitant
+R1	mechanism Arg1:T1 Arg2:T2

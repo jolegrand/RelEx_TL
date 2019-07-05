@@ -1,0 +1,9 @@
+T0	group 0 15	Corticosteroids
+T1	drug 17 30	Dexamethasone
+T2	drug 32 42	Aprepitant
+T3	drug 82 95	dexamethasone
+T4	drug 141 151	Aprepitant
+T5	drug 181 194	dexamethasone
+T6	drug 267 280	dexamethasone
+R1	mechanism Arg1:T2 Arg2:T3
+R2	mechanism Arg1:T4 Arg2:T5

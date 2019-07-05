@@ -1,0 +1,3 @@
+T0	brand 31 39	FOSCAVIR
+T1	drug 56 67	pentamidine
+R1	int Arg1:T0 Arg2:T1

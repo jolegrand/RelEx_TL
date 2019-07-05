@@ -1,0 +1,3 @@
+T0	drug 18 28	lamivudine
+T1	drug 49 60	zalcitabine
+R1	advise Arg1:T0 Arg2:T1

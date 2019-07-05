@@ -1,0 +1,33 @@
+T0	group 122 146	calcium channel blockers
+T1	drug 148 155	dapsone
+T2	drug 157 169	disopyramide
+T3	drug 171 178	quinine
+T4	drug 180 190	amiodarone
+T5	drug 192 201	quinidine
+T6	drug 203 211	warfarin
+T7	drug 213 223	tacrolimus
+T8	drug 225 237	cyclosporine
+T9	group 239 256	ergot derivatives
+T10	drug 258 266	pimozide
+T11	drug 268 281	carbamazepine
+T12	drug 283 291	fentanyl
+T13	drug 293 303	alfentanyl
+T14	drug 305 315	alprazolam
+T15	drug 321 330	triazolam
+T16	drug 397 407	saquinavir
+R1	mechanism Arg1:T0 Arg2:T16
+R2	mechanism Arg1:T1 Arg2:T16
+R3	mechanism Arg1:T2 Arg2:T16
+R4	mechanism Arg1:T3 Arg2:T16
+R5	mechanism Arg1:T4 Arg2:T16
+R6	mechanism Arg1:T5 Arg2:T16
+R7	mechanism Arg1:T6 Arg2:T16
+R8	mechanism Arg1:T7 Arg2:T16
+R9	mechanism Arg1:T8 Arg2:T16
+R10	mechanism Arg1:T9 Arg2:T16
+R11	mechanism Arg1:T10 Arg2:T16
+R12	mechanism Arg1:T11 Arg2:T16
+R13	mechanism Arg1:T12 Arg2:T16
+R14	mechanism Arg1:T13 Arg2:T16
+R15	mechanism Arg1:T14 Arg2:T16
+R16	mechanism Arg1:T15 Arg2:T16

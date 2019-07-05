@@ -1,0 +1,7 @@
+T0	brand 45 50	TAXOL
+T1	drug 71 80	cisplatin
+T2	brand 169 174	TAXOL
+T3	drug 191 200	cisplatin
+T4	brand 239 244	TAXOL
+T5	drug 252 261	cisplatin
+R1	effect Arg1:T2 Arg2:T3

@@ -1,0 +1,14 @@
+T0	group 0 10	Macrolides
+T1	drug 60 72	erythromycin
+T2	drug 77 91	clarithromycin
+T3	drug 115 126	terfenadine
+T4	drug 185 197	ketoconazole
+R1	mechanism Arg1:T1 Arg2:T3
+R2	mechanism Arg1:T2 Arg2:T3
+T0	group 0 10	Macrolides
+T1	drug 60 72	erythromycin
+T2	drug 77 91	clarithromycin
+T3	drug 115 126	terfenadine
+T4	drug 185 197	ketoconazole
+R1	mechanism Arg1:T1 Arg2:T3
+R2	mechanism Arg1:T2 Arg2:T3

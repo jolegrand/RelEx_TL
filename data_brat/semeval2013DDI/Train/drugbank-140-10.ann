@@ -1,0 +1,8 @@
+T0	group 5 19	Contraceptives
+T1	drug 41 53	atorvastatin
+T2	group 66 79	contraceptive
+T3	drug 105 118	norethindrone
+T4	drug 123 140	ethinyl estradiol
+R1	mechanism Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T1 Arg2:T4

@@ -1,0 +1,8 @@
+T0	drug 0 9	Phenytoin
+T1	brand 11 19	DIFLUCAN
+T2	drug 59 68	phenytoin
+R1	mechanism Arg1:T1 Arg2:T2
+T0	drug 0 9	Phenytoin
+T1	brand 11 19	DIFLUCAN
+T2	drug 59 68	phenytoin
+R1	mechanism Arg1:T1 Arg2:T2

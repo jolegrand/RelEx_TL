@@ -1,0 +1,10 @@
+T0	drug 0 12	Paliperidone
+T1	drug 42 50	levodopa
+T2	group 61 78	dopamine agonists
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+T0	drug 0 12	Paliperidone
+T1	drug 42 50	levodopa
+T2	group 61 78	dopamine agonists
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

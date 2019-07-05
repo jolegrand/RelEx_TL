@@ -1,0 +1,3 @@
+T0	drug 29 38	Captopril
+T1	group 69 92	antihypertensive agents
+R1	effect Arg1:T0 Arg2:T1

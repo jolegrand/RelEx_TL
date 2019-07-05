@@ -1,0 +1,22 @@
+T0	drug 41 53	trimetrexate
+T1	drug 133 145	erythromycin
+T2	drug 147 155	rifampin
+T3	drug 157 166	rifabutin
+T4	drug 168 180	ketoconazole
+T5	drug 186 197	fluconazole
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5
+T0	drug 41 53	trimetrexate
+T1	drug 133 145	erythromycin
+T2	drug 147 155	rifampin
+T3	drug 157 166	rifabutin
+T4	drug 168 180	ketoconazole
+T5	drug 186 197	fluconazole
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5

@@ -1,0 +1,7 @@
+T0	drug 35 47	ketoconazole
+T1	group 49 70	macrolide antibiotics
+T2	drug 79 91	erythromycin
+T3	group 160 175	corticosteroids
+R1	mechanism Arg1:T0 Arg2:T3
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T2 Arg2:T3

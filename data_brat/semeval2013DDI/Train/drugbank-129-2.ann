@@ -1,0 +1,4 @@
+T0	drug 29 44	oxyphenbutazone
+T1	group 49 58	androgens
+T2	drug 98 113	oxyphenbutazone
+R1	mechanism Arg1:T0 Arg2:T1

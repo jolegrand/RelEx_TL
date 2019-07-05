@@ -1,0 +1,5 @@
+T0	drug 19 28	lopinavir
+T1	drug 29 38	ritonavir
+T2	drug 109 119	nevirapine
+R1	advise Arg1:T0 Arg2:T2
+R2	advise Arg1:T1 Arg2:T2

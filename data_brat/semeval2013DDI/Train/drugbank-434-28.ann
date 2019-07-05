@@ -1,0 +1,7 @@
+T0	drug 0 13	Phenobarbital
+T1	drug 35 44	felbamate
+T2	drug 50 63	phenobarbital
+T3	drug 86 99	phenobarbital
+T4	drug 173 186	phenobarbital
+T5	drug 219 232	phenobarbital
+R1	mechanism Arg1:T1 Arg2:T2

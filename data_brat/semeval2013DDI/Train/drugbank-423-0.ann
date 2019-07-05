@@ -1,0 +1,27 @@
+T0	group 35 63	monoamine oxidase inhibitors
+T1	group 65 70	MAOIs
+T2	drug 79 103	selegiline hydrochloride
+T3	group 125 146	serotoninergic agents
+T4	drug 154 164	fluoxetine
+T5	drug 166 177	fluvoxamine
+T6	drug 179 189	paroxetine
+T7	drug 191 201	sertraline
+T8	drug 203 214	venlafaxine
+R1	effect Arg1:T0 Arg2:T3
+R2	effect Arg1:T0 Arg2:T4
+R3	effect Arg1:T0 Arg2:T5
+R4	effect Arg1:T0 Arg2:T6
+R5	effect Arg1:T0 Arg2:T7
+R6	effect Arg1:T0 Arg2:T8
+R7	effect Arg1:T1 Arg2:T3
+R8	effect Arg1:T1 Arg2:T4
+R9	effect Arg1:T1 Arg2:T5
+R10	effect Arg1:T1 Arg2:T6
+R11	effect Arg1:T1 Arg2:T7
+R12	effect Arg1:T1 Arg2:T8
+R13	effect Arg1:T2 Arg2:T3
+R14	effect Arg1:T2 Arg2:T4
+R15	effect Arg1:T2 Arg2:T5
+R16	effect Arg1:T2 Arg2:T6
+R17	effect Arg1:T2 Arg2:T7
+R18	effect Arg1:T2 Arg2:T8

@@ -1,0 +1,16 @@
+T0	drug 5 14	phenytoin
+T1	drug 56 64	rifampin
+T2	drug 69 82	phenobarbital
+T3	brand 117 124	Mexitil
+T4	brand 137 144	Mexitil
+R1	mechanism Arg1:T0 Arg2:T3
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T2 Arg2:T3
+T0	drug 5 14	phenytoin
+T1	drug 56 64	rifampin
+T2	drug 69 82	phenobarbital
+T3	brand 117 124	Mexitil
+T4	brand 137 144	Mexitil
+R1	mechanism Arg1:T0 Arg2:T3
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T2 Arg2:T3

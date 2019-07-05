@@ -1,0 +1,5 @@
+T0	drug 66 79	sulfasalazine
+T1	brand 90 96	ENBREL
+T2	brand 216 222	ENBREL
+T3	drug 229 242	sulfasalazine
+R1	effect Arg1:T0 Arg2:T1

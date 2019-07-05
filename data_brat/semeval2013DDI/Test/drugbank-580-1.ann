@@ -1,0 +1,6 @@
+T0	drug 9 21	ketoconazole
+T1	drug 96 114	mometasone furoate
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 9 21	ketoconazole
+T1	drug 96 114	mometasone furoate
+R1	mechanism Arg1:T0 Arg2:T1

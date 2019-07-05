@@ -1,0 +1,5 @@
+T0	drug 0 12	Ketoconazole
+T1	drug 35 43	bosentan
+T2	drug 62 74	ketoconazole
+T3	drug 142 150	bosentan
+R1	mechanism Arg1:T1 Arg2:T2

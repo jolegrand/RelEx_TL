@@ -1,0 +1,7 @@
+T0	drug 0 9	Clidinium
+T1	group 37 51	phenothiazines
+T2	drug 53 61	levodopa
+T3	drug 67 79	ketoconazole
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

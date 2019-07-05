@@ -1,0 +1,3 @@
+T0	group 24 31	antacid
+T1	drug 36 48	lomefloxacin
+R1	mechanism Arg1:T0 Arg2:T1

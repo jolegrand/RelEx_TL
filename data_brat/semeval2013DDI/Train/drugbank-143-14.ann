@@ -1,0 +1,4 @@
+T0	group 0 24	Histamine H2 antagonists
+T1	drug 26 36	Cimetidine
+T2	drug 76 86	amiodarone
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,10 @@
+T0	drug 0 8	Caffeine
+T1	drug 9 20	Theobromine
+T2	drug 21 34	Grepafloxacin
+T3	group 47 57	quinolones
+T4	drug 89 97	caffeine
+T5	drug 102 113	theobromine
+R1	mechanism Arg1:T2 Arg2:T4
+R2	mechanism Arg1:T2 Arg2:T5
+R3	mechanism Arg1:T3 Arg2:T4
+R4	mechanism Arg1:T3 Arg2:T5

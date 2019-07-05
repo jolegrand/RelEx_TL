@@ -1,0 +1,7 @@
+T0	drug 7 25	methylprednisolone
+T1	drug 84 102	methylprednisolone
+T2	drug 172 182	Aprepitant
+T3	drug 207 225	methylprednisolone
+T4	drug 277 287	Aprepitant
+R1	advise Arg1:T0 Arg2:T2
+R2	advise Arg1:T1 Arg2:T2

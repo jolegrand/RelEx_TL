@@ -1,0 +1,3 @@
+T0	group 3 10	antacid
+T1	brand 125 132	SPRYCEL
+R1	advise Arg1:T0 Arg2:T1

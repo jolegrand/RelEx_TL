@@ -1,0 +1,3 @@
+T0	drug 42 53	triamterene
+T1	brand 83 90	INDOCIN
+R1	effect Arg1:T0 Arg2:T1

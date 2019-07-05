@@ -1,0 +1,5 @@
+T0	group 0 11	Antibiotics
+T1	drug 13 23	ampicillin
+T2	drug 25 37	tetracycline
+T3	group 173 184	antibiotics
+T4	group 213 231	synthetic steroids

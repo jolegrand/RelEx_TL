@@ -1,0 +1,3 @@
+T0	drug 0 11	Propranolol
+T1	brand 26 34	aspirins
+R1	effect Arg1:T0 Arg2:T1

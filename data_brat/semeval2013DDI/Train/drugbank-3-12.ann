@@ -1,0 +1,5 @@
+T0	brand 14 21	TORADOL
+T1	drug 32 39	lithium
+T2	drug 85 92	lithium
+T3	brand 114 121	TORADOL
+R1	mechanism Arg1:T2 Arg2:T3

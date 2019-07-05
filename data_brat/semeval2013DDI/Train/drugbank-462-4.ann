@@ -1,0 +1,3 @@
+T0	group 112 145	non-depolarizing muscle relaxants
+T1	drug 184 196	piperacillin
+R1	effect Arg1:T0 Arg2:T1

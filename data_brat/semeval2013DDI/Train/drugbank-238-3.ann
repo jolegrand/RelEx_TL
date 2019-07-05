@@ -1,0 +1,5 @@
+T0	brand 69 78	Anafranil
+T1	group 100 115	anticholinergic
+T2	group 119 140	sympathomimetic drugs
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

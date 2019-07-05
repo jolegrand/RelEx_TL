@@ -1,0 +1,4 @@
+T0	brand 9 18	STADOL NS
+T1	drug 57 68	sumatriptan
+T2	drug 93 104	butorphanol
+R1	mechanism Arg1:T0 Arg2:T1

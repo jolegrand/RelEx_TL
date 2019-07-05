@@ -1,0 +1,7 @@
+T0	drug 0 7	Lithium
+T1	drug 38 45	lithium
+T2	drug 130 137	lithium
+T3	group 143 157	ACE inhibitors
+T4	group 173 208	angiotensin II receptor antagonists
+R1	mechanism Arg1:T2 Arg2:T3
+R2	mechanism Arg1:T2 Arg2:T4

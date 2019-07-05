@@ -1,0 +1,6 @@
+T0	drug 0 10	Alprazolam
+T1	drug 17 36	fluvoxamine maleate
+T2	drug 53 63	alprazolam
+T3	drug 194 204	alprazolam
+T4	drug 250 260	alprazolam
+R1	mechanism Arg1:T1 Arg2:T2

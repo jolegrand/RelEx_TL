@@ -1,0 +1,7 @@
+T0	drug 13 23	diclofenac
+T1	drug 61 68	digoxin
+T2	drug 73 85	methotrexate
+T3	drug 99 111	cyclosporine
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

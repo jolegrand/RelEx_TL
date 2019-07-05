@@ -1,0 +1,4 @@
+T0	drug 71 83	Itraconazole
+T1	drug 88 97	phenytoin
+T2	drug 126 135	phenytoin
+R1	mechanism Arg1:T0 Arg2:T1

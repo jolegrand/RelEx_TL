@@ -1,0 +1,3 @@
+T0	drug 51 61	gabapentin
+T1	brand 93 99	Maalox
+R1	mechanism Arg1:T0 Arg2:T1

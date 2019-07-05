@@ -1,0 +1,1 @@
+The roles of p27(Kip1), Bcl-2, and Cdk1 in apoptosis induced by dasatinib and paclitaxel were assessed using a terminal deoxynucleotidyl transferase-mediated dUTP nick-end labeling (TUNEL) assay, siRNA knockdown of gene expression, transfection with Bcl-2 and Cdk1 expression vectors, and flow cytometry. 

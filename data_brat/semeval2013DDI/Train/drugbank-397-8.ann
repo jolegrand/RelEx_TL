@@ -1,0 +1,27 @@
+T0	drug 43 55	erythromycin
+T1	drug 61 74	carbamazepine
+T2	drug 76 88	cyclosporine
+T3	drug 90 100	tacrolimus
+T4	drug 102 114	hexobarbital
+T5	drug 116 125	phenytoin
+T6	drug 127 137	alfentanil
+T7	drug 139 148	cisapride
+T8	drug 150 162	disopyramide
+T9	drug 164 174	lovastatin
+T10	drug 176 189	bromocriptine
+T11	drug 191 200	valproate
+T12	drug 202 213	terfenadine
+T13	drug 219 229	astemizole
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2
+R3	int Arg1:T0 Arg2:T3
+R4	int Arg1:T0 Arg2:T4
+R5	int Arg1:T0 Arg2:T5
+R6	int Arg1:T0 Arg2:T6
+R7	int Arg1:T0 Arg2:T7
+R8	int Arg1:T0 Arg2:T8
+R9	int Arg1:T0 Arg2:T9
+R10	int Arg1:T0 Arg2:T10
+R11	int Arg1:T0 Arg2:T11
+R12	int Arg1:T0 Arg2:T12
+R13	int Arg1:T0 Arg2:T13

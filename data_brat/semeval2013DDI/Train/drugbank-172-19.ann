@@ -1,0 +1,6 @@
+T0	drug 0 7	Lithium
+T1	drug 69 76	lithium
+T2	drug 141 148	lithium
+T3	brand 165 173	CELEBREX
+T4	drug 219 226	lithium
+R1	mechanism Arg1:T2 Arg2:T3

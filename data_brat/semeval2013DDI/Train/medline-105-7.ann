@@ -1,0 +1,6 @@
+T0	drug 0 12	Azithromycin
+T1	drug 62 72	zidovudine
+T2	drug 114 124	zidovudine
+T3	drug 196 206	zidovudine
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T0 Arg2:T3

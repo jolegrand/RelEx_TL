@@ -1,0 +1,52 @@
+T0	drug 178 188	cimetidine
+T1	drug 190 200	ranitidine
+T2	drug 202 211	diltiazem
+T3	drug 213 224	triamterene
+T4	drug 226 235	verapamil
+T5	drug 237 246	quinidine
+T6	drug 252 259	quinine
+T7	drug 293 304	pramipexole
+T8	group 379 393	cephalosporins
+T9	group 395 406	penicillins
+T10	drug 408 420	indomethacin
+T11	drug 422 441	hydrochlorothiazide
+T12	drug 447 461	chlorpropamide
+T13	drug 521 532	pramipexole
+R1	mechanism Arg1:T0 Arg2:T7
+R2	mechanism Arg1:T1 Arg2:T7
+R3	mechanism Arg1:T2 Arg2:T7
+R4	mechanism Arg1:T3 Arg2:T7
+R5	mechanism Arg1:T4 Arg2:T7
+R6	mechanism Arg1:T5 Arg2:T7
+R7	mechanism Arg1:T6 Arg2:T7
+R8	mechanism Arg1:T8 Arg2:T13
+R9	mechanism Arg1:T9 Arg2:T13
+R10	mechanism Arg1:T10 Arg2:T13
+R11	mechanism Arg1:T11 Arg2:T13
+R12	mechanism Arg1:T12 Arg2:T13
+T0	drug 178 188	cimetidine
+T1	drug 190 200	ranitidine
+T2	drug 202 211	diltiazem
+T3	drug 213 224	triamterene
+T4	drug 226 235	verapamil
+T5	drug 237 246	quinidine
+T6	drug 252 259	quinine
+T7	drug 293 304	pramipexole
+T8	group 379 393	cephalosporins
+T9	group 395 406	penicillins
+T10	drug 408 420	indomethacin
+T11	drug 422 441	hydrochlorothiazide
+T12	drug 447 461	chlorpropamide
+T13	drug 521 532	pramipexole
+R1	mechanism Arg1:T0 Arg2:T7
+R2	mechanism Arg1:T1 Arg2:T7
+R3	mechanism Arg1:T2 Arg2:T7
+R4	mechanism Arg1:T3 Arg2:T7
+R5	mechanism Arg1:T4 Arg2:T7
+R6	mechanism Arg1:T5 Arg2:T7
+R7	mechanism Arg1:T6 Arg2:T7
+R8	mechanism Arg1:T8 Arg2:T13
+R9	mechanism Arg1:T9 Arg2:T13
+R10	mechanism Arg1:T10 Arg2:T13
+R11	mechanism Arg1:T11 Arg2:T13
+R12	mechanism Arg1:T12 Arg2:T13

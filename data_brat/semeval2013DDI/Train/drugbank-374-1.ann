@@ -1,0 +1,7 @@
+T0	drug 0 9	Auranofin
+T1	drug 43 56	penicillamine
+T2	brand 58 63	Depen
+T3	brand 65 74	Cuprimine
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3

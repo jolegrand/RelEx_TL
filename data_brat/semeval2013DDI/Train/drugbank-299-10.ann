@@ -1,0 +1,4 @@
+T0	drug 20 31	almotriptan
+T1	drug 64 76	ketoconazole
+T2	drug 235 246	almotriptan
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,7 @@
+T0	group 0 12	Barbiturates
+T1	drug 14 23	phenytoin
+T2	drug 28 36	rifampin
+T3	drug 70 93	fludrocortisone acetate
+R1	mechanism Arg1:T0 Arg2:T3
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T2 Arg2:T3

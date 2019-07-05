@@ -1,0 +1,8 @@
+T0	group 29 39	salicylate
+T1	group 77 87	salicylate
+T2	group 102 116	corticosteroid
+R1	effect Arg1:T1 Arg2:T2
+T0	group 29 39	salicylate
+T1	group 77 87	salicylate
+T2	group 102 116	corticosteroid
+R1	effect Arg1:T1 Arg2:T2

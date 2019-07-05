@@ -1,0 +1,10 @@
+T0	drug 29 41	propoxyphene
+T1	group 73 88	CNS depressants
+T2	drug 100 107	alcohol
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+T0	drug 29 41	propoxyphene
+T1	group 73 88	CNS depressants
+T2	drug 100 107	alcohol
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

@@ -1,0 +1,10 @@
+T0	drug 18 28	paclitaxel
+T1	brand 49 58	HERCEPTIN
+T2	brand 94 103	HERCEPTIN
+T3	brand 173 182	HERCEPTIN
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 18 28	paclitaxel
+T1	brand 49 58	HERCEPTIN
+T2	brand 94 103	HERCEPTIN
+T3	brand 173 182	HERCEPTIN
+R1	mechanism Arg1:T0 Arg2:T1

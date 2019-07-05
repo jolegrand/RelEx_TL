@@ -1,0 +1,5 @@
+T0	group 13 27	ACE inhibitors
+T1	group 48 57	diuretics
+T2	group 88 101	ACE inhibitor
+T3	group 141 149	diuretic
+R1	advise Arg1:T2 Arg2:T3

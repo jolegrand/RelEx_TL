@@ -1,0 +1,8 @@
+T0	group 6 23	Antihypertensives
+T1	brand 30 36	MYKROX
+T2	group 65 87	antihypertensive drugs
+R1	advise Arg1:T1 Arg2:T2
+T0	group 6 23	Antihypertensives
+T1	brand 30 36	MYKROX
+T2	group 65 87	antihypertensive drugs
+R1	advise Arg1:T1 Arg2:T2

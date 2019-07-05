@@ -1,0 +1,6 @@
+T0	drug 0 16	Sulfamethoxazole
+T1	drug 55 64	phenytoin
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 0 16	Sulfamethoxazole
+T1	drug 55 64	phenytoin
+R1	mechanism Arg1:T0 Arg2:T1

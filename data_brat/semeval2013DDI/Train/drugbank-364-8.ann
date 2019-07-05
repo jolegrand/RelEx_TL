@@ -1,0 +1,3 @@
+T0	drug 0 12	Ketoconazole
+T1	drug 28 37	alosetron
+R1	mechanism Arg1:T0 Arg2:T1

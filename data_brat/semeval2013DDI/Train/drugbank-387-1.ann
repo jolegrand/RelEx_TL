@@ -1,0 +1,5 @@
+T0	group 0 14	Antihistamines
+T1	drug 71 78	heparin
+T2	drug 82 90	warfarin
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

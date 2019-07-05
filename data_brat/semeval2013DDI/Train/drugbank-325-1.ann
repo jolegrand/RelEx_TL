@@ -1,0 +1,4 @@
+T0	group 36 50	MAO inhibitors
+T1	drug 108 120	dopamine HCl
+T2	drug 153 165	dopamine HCl
+R1	advise Arg1:T0 Arg2:T1

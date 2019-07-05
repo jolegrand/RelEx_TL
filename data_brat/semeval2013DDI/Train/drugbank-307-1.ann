@@ -1,0 +1,4 @@
+T0	group 21 24	AED
+T1	drug 99 112	oxcarbazepine
+T2	drug_n 117 120	MHD
+R1	mechanism Arg1:T0 Arg2:T1

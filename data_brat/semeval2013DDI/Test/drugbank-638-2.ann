@@ -1,0 +1,42 @@
+T0	brand 44 51	Ritalin
+T1	group 82 105	coumarin anticoagulants
+T2	group 107 122	anticonvulsants
+T3	drug 124 137	phenobarbital
+T4	drug 139 156	diphenylhydantoin
+T5	drug 158 167	primidone
+T6	drug 170 184	phenylbutazone
+T7	group 190 205	tricyclic drugs
+T8	drug 207 217	imipramine
+T9	drug 219 231	clomipramine
+T10	drug 233 244	desipramine
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4
+R5	mechanism Arg1:T0 Arg2:T5
+R6	mechanism Arg1:T0 Arg2:T6
+R7	mechanism Arg1:T0 Arg2:T7
+R8	mechanism Arg1:T0 Arg2:T8
+R9	mechanism Arg1:T0 Arg2:T9
+R10	mechanism Arg1:T0 Arg2:T10
+T0	brand 44 51	Ritalin
+T1	group 82 105	coumarin anticoagulants
+T2	group 107 122	anticonvulsants
+T3	drug 124 137	phenobarbital
+T4	drug 139 156	diphenylhydantoin
+T5	drug 158 167	primidone
+T6	drug 170 184	phenylbutazone
+T7	group 190 205	tricyclic drugs
+T8	drug 207 217	imipramine
+T9	drug 219 231	clomipramine
+T10	drug 233 244	desipramine
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4
+R5	mechanism Arg1:T0 Arg2:T5
+R6	mechanism Arg1:T0 Arg2:T6
+R7	mechanism Arg1:T0 Arg2:T7
+R8	mechanism Arg1:T0 Arg2:T8
+R9	mechanism Arg1:T0 Arg2:T9
+R10	mechanism Arg1:T0 Arg2:T10

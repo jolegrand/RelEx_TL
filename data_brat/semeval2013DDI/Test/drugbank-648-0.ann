@@ -1,0 +1,12 @@
+T0	drug 0 14	Cholestyramine
+T1	drug 16 30	Cholestyramine
+T2	drug 101 111	raloxifene
+T3	brand 150 156	EVISTA
+R1	mechanism Arg1:T1 Arg2:T2
+R2	advise Arg1:T1 Arg2:T3
+T0	drug 0 14	Cholestyramine
+T1	drug 16 30	Cholestyramine
+T2	drug 101 111	raloxifene
+T3	brand 150 156	EVISTA
+R1	mechanism Arg1:T1 Arg2:T2
+R2	advise Arg1:T1 Arg2:T3

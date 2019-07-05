@@ -1,0 +1,4 @@
+T0	drug 5 15	duloxetine
+T1	drug 101 112	desipramine
+T2	drug 145 156	desipramine
+R1	mechanism Arg1:T0 Arg2:T1

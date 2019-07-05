@@ -1,0 +1,5 @@
+T0	drug 0 9	Quinidine
+T1	drug 94 103	quinidine
+T2	drug 108 118	nifedipine
+T3	drug 153 162	quinidine
+R1	mechanism Arg1:T1 Arg2:T2

@@ -1,0 +1,14 @@
+T0	drug 0 12	Amphotericin
+T1	drug 14 23	Foscarnet
+T2	group 29 44	Aminoglycosides
+T3	drug 60 72	amphotericin
+T4	drug 74 83	foscarnet
+T5	group 89 104	aminoglycosides
+T6	drug 172 177	HIVID
+T7	drug 247 258	zalcitabine
+R1	effect Arg1:T3 Arg2:T6
+R2	mechanism Arg1:T3 Arg2:T7
+R3	effect Arg1:T4 Arg2:T6
+R4	mechanism Arg1:T4 Arg2:T7
+R5	effect Arg1:T5 Arg2:T6
+R6	mechanism Arg1:T5 Arg2:T7

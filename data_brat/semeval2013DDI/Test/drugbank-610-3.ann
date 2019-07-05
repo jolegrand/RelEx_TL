@@ -1,0 +1,10 @@
+T0	drug 0 7	Ethanol
+T1	drug 37 45	abacavir
+T2	drug 104 113	methadone
+T3	drug 188 196	abacavir
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 0 7	Ethanol
+T1	drug 37 45	abacavir
+T2	drug 104 113	methadone
+T3	drug 188 196	abacavir
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,3 @@
+T0	drug 29 37	warfarin
+T1	drug 42 50	rifampin
+R1	int Arg1:T0 Arg2:T1

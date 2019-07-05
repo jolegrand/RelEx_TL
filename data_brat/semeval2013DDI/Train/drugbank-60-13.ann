@@ -1,0 +1,5 @@
+T0	group 51 96	nondepolarizing neuromuscular blocking agents
+T1	drug 156 165	phenytoin
+T2	drug 169 182	carbamazepine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

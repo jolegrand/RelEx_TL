@@ -1,0 +1,8 @@
+T0	drug 0 8	Warfarin
+T1	brand 118 123	MOBIC
+T2	drug 154 162	warfarin
+R1	advise Arg1:T1 Arg2:T2
+T0	drug 0 8	Warfarin
+T1	brand 118 123	MOBIC
+T2	drug 154 162	warfarin
+R1	advise Arg1:T1 Arg2:T2

@@ -1,0 +1,8 @@
+T0	drug 0 10	Nifedipine
+T1	brand 101 109	MYCAMINE
+T2	drug 124 134	nifedipine
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 0 10	Nifedipine
+T1	brand 101 109	MYCAMINE
+T2	drug 124 134	nifedipine
+R1	mechanism Arg1:T0 Arg2:T1

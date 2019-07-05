@@ -1,0 +1,8 @@
+T0	brand 3 10	ZEMURON
+T1	drug 58 73	succinylcholine
+T2	drug 118 133	succinylcholine
+R1	advise Arg1:T0 Arg2:T1
+T0	brand 3 10	ZEMURON
+T1	drug 58 73	succinylcholine
+T2	drug 118 133	succinylcholine
+R1	advise Arg1:T0 Arg2:T1

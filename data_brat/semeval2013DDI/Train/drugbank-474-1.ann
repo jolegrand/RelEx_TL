@@ -1,0 +1,7 @@
+T0	group 42 56	anticoagulants
+T1	group 58 77	platelet inhibitors
+T2	drug 88 108	acetylsalicylic acid
+T3	group 124 130	NSAIDs
+T4	drug 142 164	ketorolac tromethamine
+T5	drug 167 179	dipyridamole
+T6	drug 184 198	sulfinpyrazone

@@ -1,0 +1,9 @@
+T0	drug 24 32	iloprost
+T1	group 60 74	anticoagulants
+T2	group 76 85	diuretics
+T3	group 87 105	cardiac glycosides
+T4	group 107 131	calcium channel blockers
+T5	group 133 143	analgesics
+T6	group 145 157	antipyretics
+T7	group 159 190	nonsteroidal antiinflammatories
+T8	group 192 207	corticosteroids

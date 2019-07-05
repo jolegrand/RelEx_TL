@@ -1,0 +1,9 @@
+T0	drug 44 57	levothyroxine
+T1	drug 60 66	iodine
+T2	group 88 96	antacids
+T3	group 98 112	H2-antagonists
+T4	drug 120 130	famotidine
+T5	drug 132 142	ranitidine
+T6	group 149 171	proton pump inhibitors
+T7	drug 179 191	lansoprazole
+T8	drug 193 203	omeprazole

@@ -1,0 +1,4 @@
+T0	drug_n 13 28	hydrodolasetron
+T1	drug 57 76	dolasetron mesylate
+T2	drug 127 135	atenolol
+R1	mechanism Arg1:T1 Arg2:T2

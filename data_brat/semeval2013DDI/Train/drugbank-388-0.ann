@@ -1,0 +1,5 @@
+T0	group 0 29	Catecholamine-depleting drugs
+T1	drug 39 48	reserpine
+T2	group 94 114	beta-blocking agents
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

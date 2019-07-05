@@ -1,0 +1,3 @@
+T0	group 0 22	Anticholinergic agents
+T1	drug 122 129	digoxin
+R1	mechanism Arg1:T0 Arg2:T1

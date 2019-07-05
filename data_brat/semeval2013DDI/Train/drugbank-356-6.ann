@@ -1,0 +1,5 @@
+T0	drug 6 18	indomethacin
+T1	group 23 50	potassium-sparing diuretics
+T2	brand 62 69	MIDAMOR
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

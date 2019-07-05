@@ -1,0 +1,12 @@
+T0	drug 0 10	Furosemide
+T1	group 86 92	NSAIDs
+T2	drug 130 140	furosemide
+T3	group 145 163	thiazide diuretics
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3
+T0	drug 0 10	Furosemide
+T1	group 86 92	NSAIDs
+T2	drug 130 140	furosemide
+T3	group 145 163	thiazide diuretics
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3

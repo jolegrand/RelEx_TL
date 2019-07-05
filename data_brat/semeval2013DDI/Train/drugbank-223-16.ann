@@ -1,0 +1,7 @@
+T0	drug 42 51	quinidine
+T1	group 53 92	selective serotonin reuptake inhibitors
+T2	group 94 99	SSRIs
+T3	drug 143 150	doxepin
+R1	mechanism Arg1:T0 Arg2:T3
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T2 Arg2:T3

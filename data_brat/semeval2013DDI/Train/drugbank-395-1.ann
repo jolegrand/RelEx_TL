@@ -1,0 +1,3 @@
+T0	drug 36 44	enoxacin
+T1	drug 49 70	bismuth subsalicylate
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,31 @@
+T0	drug 0 10	Butalbital
+T1	drug 12 25	acetaminophen
+T2	drug 30 38	caffeine
+T3	group 73 91	narcotic analgesic
+T4	drug 94 101	alcohol
+T5	group 111 122	anesthetics
+T6	group 124 137	tranquilizers
+T7	drug 146 162	chlordiazepoxide
+T8	group 164 182	sedative-hypnotics
+T9	group 193 208	CNS depressants
+R1	effect Arg1:T0 Arg2:T3
+R2	effect Arg1:T0 Arg2:T4
+R3	effect Arg1:T0 Arg2:T5
+R4	effect Arg1:T0 Arg2:T6
+R5	effect Arg1:T0 Arg2:T7
+R6	effect Arg1:T0 Arg2:T8
+R7	effect Arg1:T0 Arg2:T9
+R8	effect Arg1:T1 Arg2:T3
+R9	effect Arg1:T1 Arg2:T4
+R10	effect Arg1:T1 Arg2:T5
+R11	effect Arg1:T1 Arg2:T6
+R12	effect Arg1:T1 Arg2:T7
+R13	effect Arg1:T1 Arg2:T8
+R14	effect Arg1:T1 Arg2:T9
+R15	effect Arg1:T2 Arg2:T3
+R16	effect Arg1:T2 Arg2:T4
+R17	effect Arg1:T2 Arg2:T5
+R18	effect Arg1:T2 Arg2:T6
+R19	effect Arg1:T2 Arg2:T7
+R20	effect Arg1:T2 Arg2:T8
+R21	effect Arg1:T2 Arg2:T9

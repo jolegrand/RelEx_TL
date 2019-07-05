@@ -1,0 +1,5 @@
+T0	drug 58 67	reserpine
+T1	drug 71 83	guanethidine
+T2	brand 167 173	ZEBETA
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

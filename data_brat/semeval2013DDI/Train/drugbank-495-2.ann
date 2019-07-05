@@ -1,0 +1,10 @@
+T0	drug 0 13	Amitriptyline
+T1	drug 34 43	clonidine
+T2	drug 117 126	Clonidine
+T3	drug 171 178	alcohol
+T4	group 180 192	barbiturates
+T5	group 202 216	sedating drugs
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T2 Arg2:T3
+R3	effect Arg1:T2 Arg2:T4
+R4	effect Arg1:T2 Arg2:T5

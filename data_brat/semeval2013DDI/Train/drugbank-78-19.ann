@@ -1,0 +1,5 @@
+T0	group 0 36	Nonsteroidal Anti-inflammatory Drugs
+T1	group 38 44	NSAIDs
+T2	group 83 118	nonsteroidal anti inflammatory drug
+T3	group 126 135	quinolone
+R1	effect Arg1:T2 Arg2:T3

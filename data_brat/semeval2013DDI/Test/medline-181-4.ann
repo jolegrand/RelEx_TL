@@ -1,0 +1,6 @@
+T0	drug 85 98	levothyroxine
+T1	drug 148 158	simeticone
+R1	int Arg1:T0 Arg2:T1
+T0	drug 85 98	levothyroxine
+T1	drug 148 158	simeticone
+R1	int Arg1:T0 Arg2:T1

@@ -1,0 +1,8 @@
+T0	drug 61 70	enalapril
+T1	drug 75 84	enalapril
+T2	group 104 127	antihypertensive agents
+T3	group 160 169	diuretics
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T0 Arg2:T3
+R3	effect Arg1:T1 Arg2:T2
+R4	effect Arg1:T1 Arg2:T3

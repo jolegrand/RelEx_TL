@@ -1,0 +1,32 @@
+T0	brand 101 109	Sanctura
+T1	brand 135 143	Sanctura
+T2	drug 266 273	digoxin
+T3	drug 275 287	procainamide
+T4	drug 289 300	pancuronium
+T5	drug 302 310	morphine
+T6	drug 312 322	vancomycin
+T7	drug 324 333	metformin
+T8	drug 338 347	tenofovir
+R1	mechanism Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T1 Arg2:T4
+R4	mechanism Arg1:T1 Arg2:T5
+R5	mechanism Arg1:T1 Arg2:T6
+R6	mechanism Arg1:T1 Arg2:T7
+R7	mechanism Arg1:T1 Arg2:T8
+T0	brand 101 109	Sanctura
+T1	brand 135 143	Sanctura
+T2	drug 266 273	digoxin
+T3	drug 275 287	procainamide
+T4	drug 289 300	pancuronium
+T5	drug 302 310	morphine
+T6	drug 312 322	vancomycin
+T7	drug 324 333	metformin
+T8	drug 338 347	tenofovir
+R1	mechanism Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T1 Arg2:T4
+R4	mechanism Arg1:T1 Arg2:T5
+R5	mechanism Arg1:T1 Arg2:T6
+R6	mechanism Arg1:T1 Arg2:T7
+R7	mechanism Arg1:T1 Arg2:T8

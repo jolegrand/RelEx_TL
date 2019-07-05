@@ -1,0 +1,8 @@
+T0	group 2 39	Non-steroidal Anti-inflammatory Drugs
+T1	group 83 120	non-steroidal anti-inflammatory agent
+T2	group 191 195;228 237	loop diuretics
+T3	group 197 214;228 237	potassium-sparing diuretics
+T4	drug 219 237	thiazide diuretics
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T1 Arg2:T4

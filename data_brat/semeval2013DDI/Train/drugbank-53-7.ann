@@ -1,0 +1,31 @@
+T0	drug 32 44	azithromycin
+T1	drug 92 104	atorvastatin
+T2	drug 106 119	carbamazepine
+T3	drug 121 131	cetirizine
+T4	drug 133 143	didanosine
+T5	drug 145 154	efavirenz
+T6	drug 156 167	fluconazole
+T7	drug 169 178	indinavir
+T8	drug 180 189	midazolam
+T9	drug 191 200	rifabutin
+T10	drug 202 212	sildenafil
+T11	drug 214 226	theophylline
+T12	drug 251 260	triazolam
+T13	drug 262 274	trimethoprim
+T14	drug 275 291	sulfamethoxazole
+T15	drug 295 305	zidovudine
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4
+R5	mechanism Arg1:T0 Arg2:T5
+R6	mechanism Arg1:T0 Arg2:T6
+R7	mechanism Arg1:T0 Arg2:T7
+R8	mechanism Arg1:T0 Arg2:T8
+R9	mechanism Arg1:T0 Arg2:T9
+R10	mechanism Arg1:T0 Arg2:T10
+R11	mechanism Arg1:T0 Arg2:T11
+R12	mechanism Arg1:T0 Arg2:T12
+R13	mechanism Arg1:T0 Arg2:T13
+R14	mechanism Arg1:T0 Arg2:T14
+R15	mechanism Arg1:T0 Arg2:T15

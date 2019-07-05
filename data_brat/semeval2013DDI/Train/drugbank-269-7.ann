@@ -1,0 +1,4 @@
+T0	drug 0 12	Cyclosporine
+T1	drug 46 58	cyclosporine
+T2	drug 112 122	carvedilol
+R1	mechanism Arg1:T1 Arg2:T2

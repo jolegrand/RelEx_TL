@@ -1,0 +1,8 @@
+T0	group 0 20	Digitalis Glycosides
+T1	group 22 30	Diuretic
+T2	group 101 110	digitalis
+R1	effect Arg1:T1 Arg2:T2
+T0	group 0 20	Digitalis Glycosides
+T1	group 22 30	Diuretic
+T2	group 101 110	digitalis
+R1	effect Arg1:T1 Arg2:T2

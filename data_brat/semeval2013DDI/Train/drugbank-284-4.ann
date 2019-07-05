@@ -1,0 +1,8 @@
+T0	group 78 109	non-potassium sparing diuretics
+T1	group 119 123;136 145	loop diuretics
+T2	group 127 145	thiazide diuretics
+T3	group 174 187	beta-agonists
+T4	group 233 245	beta-agonist
+R1	effect Arg1:T0 Arg2:T3
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T2 Arg2:T3

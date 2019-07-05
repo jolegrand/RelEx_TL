@@ -1,0 +1,6 @@
+T0	group 7 19	neuroleptics
+T1	drug 45 53	morphine
+R1	effect Arg1:T0 Arg2:T1
+T0	group 7 19	neuroleptics
+T1	drug 45 53	morphine
+R1	effect Arg1:T0 Arg2:T1

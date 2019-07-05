@@ -1,0 +1,3 @@
+T0	group 53 72	major tranquilizers
+T1	drug 103 114	desipramine
+R1	effect Arg1:T0 Arg2:T1

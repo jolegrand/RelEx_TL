@@ -1,0 +1,4 @@
+T0	drug 0 11	Doxorubicin
+T1	drug 13 24	Doxorubicin
+T2	drug 46 57	zalcitabine
+R1	effect Arg1:T1 Arg2:T2

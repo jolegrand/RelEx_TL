@@ -1,0 +1,6 @@
+T0	drug 0 13	Thiabendazole
+T1	drug 52 64	theophylline
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 0 13	Thiabendazole
+T1	drug 52 64	theophylline
+R1	mechanism Arg1:T0 Arg2:T1

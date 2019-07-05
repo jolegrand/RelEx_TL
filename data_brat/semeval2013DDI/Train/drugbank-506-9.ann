@@ -1,0 +1,5 @@
+T0	drug 44 53	verapamil
+T1	drug 58 80	disopyramide phosphate
+T2	drug 95 107	disopyramide
+T3	drug 176 185	verapamil
+R1	advise Arg1:T2 Arg2:T3

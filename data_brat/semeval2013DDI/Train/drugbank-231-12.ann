@@ -1,0 +1,3 @@
+T0	drug 14 24	furosemide
+T1	drug 29 39	sucralfate
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,3 @@
+T0	drug 12 20	rifampin
+T1	brand 45 53	CANCIDAS
+R1	advise Arg1:T0 Arg2:T1

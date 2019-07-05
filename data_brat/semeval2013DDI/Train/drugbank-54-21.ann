@@ -1,0 +1,6 @@
+T0	group 0 11	Vasopressor
+T1	drug 14 23	Thyroxine
+T2	drug 82 93	epinephrine
+T3	drug 98 112	norepinephrine
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3

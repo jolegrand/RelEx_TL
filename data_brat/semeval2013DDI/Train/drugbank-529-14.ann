@@ -1,0 +1,6 @@
+T0	group 0 9	Diuretics
+T1	drug 56 68	flurbiprofen
+T2	group 80 116	nonsteroidal anti-inflammatory drugs
+T3	drug 152 162	furosemide
+R1	effect Arg1:T1 Arg2:T3
+R2	effect Arg1:T2 Arg2:T3

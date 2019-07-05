@@ -1,0 +1,3 @@
+T0	group 5 15	quinolones
+T1	drug 73 81	caffeine
+R1	mechanism Arg1:T0 Arg2:T1

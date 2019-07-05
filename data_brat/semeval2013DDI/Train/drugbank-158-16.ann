@@ -1,0 +1,4 @@
+T0	drug 0 10	Meperidine
+T1	group 12 24	Amphetamines
+T2	drug 60 70	meperidine
+R1	effect Arg1:T1 Arg2:T2

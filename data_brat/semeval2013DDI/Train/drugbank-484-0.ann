@@ -1,0 +1,89 @@
+T0	drug 0 12	Etonogestrel
+T1	drug 58 71	acetaminophen
+T2	brand 73 80	Tylenol
+T3	group 83 94	antibiotics
+T4	drug 103 113	ampicillin
+T5	drug 118 130	tetracycline
+T6	group 132 147	anticonvulsants
+T7	brand 149 157	Dilantin
+T8	drug 159 172	Phenobarbital
+T9	brand 174 182	Tegretol
+T10	brand 184 193	Trileptal
+T11	brand 195 202	Topamax
+T12	brand 204 212	Felbatol
+T13	group 215 226	antifungals
+T14	brand 228 236	Gris-PEG
+T15	brand 238 245	Nizoral
+T16	brand 247 255	Sporanox
+T17	drug 258 270	atorvastatin
+T18	brand 272 279	Lipitor
+T19	drug 282 292	clofibrate
+T20	brand 294 303	Atromid-S
+T21	drug 306 318	cyclosporine
+T22	brand 320 326	Neoral
+T23	brand 328 338	Sandimmune
+T24	group 365 384	protease inhibitors
+T25	brand 386 395	Agenerase
+T26	brand 397 405	Crixivan
+T27	brand 407 416	Fortovase
+T28	brand 418 426	Invirase
+T29	brand 428 435	Kaletra
+T30	brand 437 443	Norvir
+T31	brand 445 453	Viracept
+T32	drug 456 464	morphine
+T33	brand 466 476	Astramorph
+T34	brand 478 484	Kadian
+T35	brand 486 495	MS Contin
+T36	drug 498 512	phenylbutazone
+T37	drug 514 526	prednisolone
+T38	brand 528 535	Prelone
+T39	brand 538 545	rifadin
+T40	drug 547 555	rifampin
+T41	drug 574 583	temazepam
+T42	drug 585 597	theophylline
+T43	brand 599 607	Theo-Dur
+T44	drug 614 623	vitamin C
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2
+R3	int Arg1:T0 Arg2:T3
+R4	int Arg1:T0 Arg2:T4
+R5	int Arg1:T0 Arg2:T5
+R6	int Arg1:T0 Arg2:T6
+R7	int Arg1:T0 Arg2:T7
+R8	int Arg1:T0 Arg2:T8
+R9	int Arg1:T0 Arg2:T9
+R10	int Arg1:T0 Arg2:T10
+R11	int Arg1:T0 Arg2:T11
+R12	int Arg1:T0 Arg2:T12
+R13	int Arg1:T0 Arg2:T13
+R14	int Arg1:T0 Arg2:T14
+R15	int Arg1:T0 Arg2:T15
+R16	int Arg1:T0 Arg2:T16
+R17	int Arg1:T0 Arg2:T17
+R18	int Arg1:T0 Arg2:T18
+R19	int Arg1:T0 Arg2:T19
+R20	int Arg1:T0 Arg2:T20
+R21	int Arg1:T0 Arg2:T21
+R22	int Arg1:T0 Arg2:T22
+R23	int Arg1:T0 Arg2:T23
+R24	int Arg1:T0 Arg2:T24
+R25	int Arg1:T0 Arg2:T25
+R26	int Arg1:T0 Arg2:T26
+R27	int Arg1:T0 Arg2:T27
+R28	int Arg1:T0 Arg2:T28
+R29	int Arg1:T0 Arg2:T29
+R30	int Arg1:T0 Arg2:T30
+R31	int Arg1:T0 Arg2:T31
+R32	int Arg1:T0 Arg2:T32
+R33	int Arg1:T0 Arg2:T33
+R34	int Arg1:T0 Arg2:T34
+R35	int Arg1:T0 Arg2:T35
+R36	int Arg1:T0 Arg2:T36
+R37	int Arg1:T0 Arg2:T37
+R38	int Arg1:T0 Arg2:T38
+R39	int Arg1:T0 Arg2:T39
+R40	int Arg1:T0 Arg2:T40
+R41	int Arg1:T0 Arg2:T41
+R42	int Arg1:T0 Arg2:T42
+R43	int Arg1:T0 Arg2:T43
+R44	int Arg1:T0 Arg2:T44

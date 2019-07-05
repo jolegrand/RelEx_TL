@@ -1,0 +1,8 @@
+T0	brand 15 22	aspirin
+T1	group 24 30	NSAIDs
+T2	group 36 51	bisphosphonates
+T3	brand 159 166	aspirin
+T4	group 170 176	NSAIDs
+T5	drug 182 193	Ibandronate
+R1	advise Arg1:T3 Arg2:T5
+R2	advise Arg1:T4 Arg2:T5

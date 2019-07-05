@@ -1,0 +1,15 @@
+T0	group 0 8	Antacids
+T1	group 67 74	antacid
+T2	drug 76 94	aluminum hydroxide
+T3	drug 96 115	magnesium hydroxide
+T4	drug 121 132	simethicone
+T5	drug 139 149	fosinopril
+T6	drug_n 196 208	fosinoprilat
+T7	drug 226 236	fosinopril
+T8	group 273 281	antacids
+T9	drug 307 317	fosinopril
+R1	mechanism Arg1:T1 Arg2:T5
+R2	mechanism Arg1:T2 Arg2:T5
+R3	mechanism Arg1:T3 Arg2:T5
+R4	mechanism Arg1:T4 Arg2:T5
+R5	mechanism Arg1:T8 Arg2:T9

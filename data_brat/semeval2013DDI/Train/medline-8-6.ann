@@ -1,0 +1,8 @@
+T0	drug 19 28	ofloxacin
+T1	drug_n 30 38	KRM-1648
+T2	drug 143 153	rifampicin
+T3	drug 158 167	rifabutin
+T4	drug 173 182	ofloxacin
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T2 Arg2:T4
+R3	effect Arg1:T3 Arg2:T4

@@ -1,0 +1,3 @@
+T0	group 40 65	tricyclic antidepressants
+T1	brand 119 126	Cerebyx
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,5 @@
+T0	group 0 12	Barbiturates
+T1	drug 17 29	glutethimide
+T2	group 79 93	coumarin drugs
+R1	advise Arg1:T0 Arg2:T2
+R2	advise Arg1:T1 Arg2:T2

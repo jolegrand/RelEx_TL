@@ -1,0 +1,6 @@
+T0	drug 87 97	miconazole
+T1	group 102 111	imidazole
+T2	group 122 141	hypoglycemic agents
+T3	drug 229 241	ketoconazole
+T4	group 254 263	imidazole
+R1	effect Arg1:T0 Arg2:T2

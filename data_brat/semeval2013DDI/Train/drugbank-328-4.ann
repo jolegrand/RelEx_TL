@@ -1,0 +1,5 @@
+T0	brand 0 7	Aspirin
+T1	brand 39 46	aspirin
+T2	drug 52 62	valdecoxib
+T3	drug 142 152	valdecoxib
+R1	effect Arg1:T1 Arg2:T2

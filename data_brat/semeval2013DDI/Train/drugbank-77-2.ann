@@ -1,0 +1,11 @@
+T0	group 38 51	decongestants
+T1	group 62 73	anesthetics
+T2	group 92 113	sympathomimetic amine
+T3	drug 121 132	epinephrine
+T4	drug 134 148	norepinephrine
+T5	group 183 208	tricyclic antidepressants
+R1	advise Arg1:T0 Arg2:T5
+R2	advise Arg1:T1 Arg2:T5
+R3	advise Arg1:T2 Arg2:T5
+R4	advise Arg1:T3 Arg2:T5
+R5	advise Arg1:T4 Arg2:T5

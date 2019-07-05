@@ -1,0 +1,9 @@
+T0	drug 64 86	bromocriptine mesylate
+T1	group 88 102	phenothiazines
+T2	drug 104 115	haloperidol
+T3	drug 117 131	metoclopramide
+T4	drug 133 141	pimozide
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4

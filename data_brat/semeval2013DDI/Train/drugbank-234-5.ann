@@ -1,0 +1,3 @@
+T0	brand 0 9	ROMAZICON
+T1	group 40 55	benzodiazepines
+R1	effect Arg1:T0 Arg2:T1

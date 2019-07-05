@@ -1,0 +1,5 @@
+T0	drug 30 38	anakinra
+T1	group 50 69	TNF-blocking agents
+T2	brand 81 87	HUMIRA
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

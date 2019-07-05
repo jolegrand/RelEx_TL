@@ -1,0 +1,3 @@
+T0	drug 0 15	Dexfenfluramine
+T1	group 54 75	serotoninergic agents
+R1	advise Arg1:T0 Arg2:T1

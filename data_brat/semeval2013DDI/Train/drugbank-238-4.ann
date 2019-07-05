@@ -1,0 +1,9 @@
+T0	group 8 33	tricyclic antidepressants
+T1	drug 91 103	guanethidine
+T2	drug 105 114	clonidine
+T3	drug 178 181	CMI
+T4	group 228 253	tricyclic antidepressants
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4

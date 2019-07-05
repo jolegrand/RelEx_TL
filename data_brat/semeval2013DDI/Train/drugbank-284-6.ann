@@ -1,0 +1,11 @@
+T0	brand 0 7	BROVANA
+T1	group 23 37	beta2-agonists
+T2	group 114 142	monoamine oxidase inhibitors
+T3	group 144 169	tricyclic antidepressants
+T4	group 236 255	adrenergic agonists
+R1	advise Arg1:T0 Arg2:T2
+R2	advise Arg1:T0 Arg2:T3
+R3	advise Arg1:T1 Arg2:T2
+R4	advise Arg1:T1 Arg2:T3
+R5	effect Arg1:T2 Arg2:T4
+R6	effect Arg1:T3 Arg2:T4

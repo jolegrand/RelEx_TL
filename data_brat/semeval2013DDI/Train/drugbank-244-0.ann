@@ -1,0 +1,9 @@
+T0	group 138 153	aminoglycosides
+T1	drug 161 171	gentamicin
+T2	drug 173 181	amikacin
+T3	drug 184 198	amphotericin B
+T4	drug 200 212	cyclosporine
+T5	group 214 245	non-steroidal anti-inflammatory
+T6	drug 259 268	ibuprofen
+T7	drug 271 281	tacrolimus
+T8	drug 283 293	vancomycin

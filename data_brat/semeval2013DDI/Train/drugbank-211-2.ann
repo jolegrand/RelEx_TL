@@ -1,0 +1,10 @@
+T0	group 0 26	Bacteriostatic Antibiotics
+T1	drug 28 43	Chloramphenicol
+T2	drug 45 58	erythromycins
+T3	group 60 72	sulfonamides
+T4	group 77 90	tetracyclines
+T5	group 137 148	penicillins
+R1	effect Arg1:T1 Arg2:T5
+R2	effect Arg1:T2 Arg2:T5
+R3	effect Arg1:T3 Arg2:T5
+R4	effect Arg1:T4 Arg2:T5

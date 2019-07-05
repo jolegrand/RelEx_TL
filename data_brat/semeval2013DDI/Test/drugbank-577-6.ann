@@ -1,0 +1,8 @@
+T0	group 0 12	Sulfonamides
+T1	drug 31 43	methotrexate
+T2	drug 100 112	methotrexate
+R1	mechanism Arg1:T0 Arg2:T1
+T0	group 0 12	Sulfonamides
+T1	drug 31 43	methotrexate
+T2	drug 100 112	methotrexate
+R1	mechanism Arg1:T0 Arg2:T1

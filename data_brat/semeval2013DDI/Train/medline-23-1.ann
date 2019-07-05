@@ -1,0 +1,12 @@
+T0	group 19 28	digitalis
+T1	drug 65 73	ketamine
+T2	brand 75 86	Innovar Vet
+T3	drug 91 104	pentobarbital
+T4	drug 120 127	ouabain
+T5	drug 213 220	ouabain
+T6	drug 227 235	ketamine
+T7	brand 239 246	Innovar
+T8	drug 257 270	pentobarbital
+R1	effect Arg1:T1 Arg2:T4
+R2	effect Arg1:T2 Arg2:T4
+R3	effect Arg1:T3 Arg2:T4

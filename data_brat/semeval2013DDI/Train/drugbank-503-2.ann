@@ -1,0 +1,7 @@
+T0	drug 3 18	chlorprothixene
+T1	group 47 54	opioids
+T2	group 60 66	opioid
+T3	drug 116 131	chlorprothixene
+T4	group 186 193	opioids
+R1	advise Arg1:T0 Arg2:T1
+R2	effect Arg1:T3 Arg2:T4

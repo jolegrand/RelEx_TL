@@ -1,0 +1,5 @@
+T0	drug 22 31	celecoxib
+T1	drug 90 101	fluconazole
+T2	drug 106 113	lithium
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2

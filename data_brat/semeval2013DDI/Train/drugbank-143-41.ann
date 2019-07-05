@@ -1,0 +1,10 @@
+T0	drug 0 17	Antihypertensives
+T1	drug 19 29	Amiodarone
+T2	drug 82 90	receptor
+T3	drug 114 125	propranolol
+T4	drug 129 135	CYP3A4
+T5	drug 150 165	calcium channel
+T6	drug 185 194	verapamil
+T7	drug 198 204	CYP3A4
+T8	drug 220 229	diltiazem
+T9	drug 233 239	CYP3A4

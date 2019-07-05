@@ -1,0 +1,3 @@
+T0	drug 16 27	Acamprosate
+T1	group 47 62	antidepressants
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,16 @@
+T0	drug 84 95	finasteride
+T1	drug 167 180	acetaminophen
+T2	drug 182 202	acetylsalicylic acid
+T3	group 216 226	analgesics
+T4	group 228 274	angiotensin-converting enzyme (ACE) inhibitors
+T5	group 276 291	anticonvulsants
+T6	group 293 308	benzodiazepines
+T7	group 310 323	beta blockers
+T8	group 325 349	calcium-channel blockers
+T9	group 359 367	nitrates
+T10	group 369 378	diuretics
+T11	group 380 394	H2 antagonists
+T12	group 396 424	HMG-CoA reductase inhibitors
+T13	group 426 461	prostaglandin synthetase inhibitors
+T14	group 483 489	NSAIDs
+T15	group 496 521	quinolone anti-infectives

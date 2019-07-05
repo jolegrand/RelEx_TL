@@ -1,0 +1,7 @@
+T0	drug 30 40	Mefloquine
+T1	drug 74 81	quinine
+T2	drug 83 92	quinidine
+T3	drug 97 108	chloroquine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

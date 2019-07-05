@@ -1,0 +1,4 @@
+T0	drug 42 54	ketoconazole
+T1	drug 89 99	loratadine
+T2	drug 136 146	loratadine
+R1	mechanism Arg1:T0 Arg2:T1

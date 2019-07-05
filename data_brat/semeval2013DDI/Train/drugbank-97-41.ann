@@ -1,0 +1,4 @@
+T0	drug 15 24	indinavir
+T1	drug 93 102	indinavir
+T2	drug 121 130	efavirenz
+R1	mechanism Arg1:T1 Arg2:T2

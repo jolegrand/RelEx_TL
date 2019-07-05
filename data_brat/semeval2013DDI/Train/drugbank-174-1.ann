@@ -1,0 +1,5 @@
+T0	drug 47 57	nabumetone
+T1	drug 63 71	warfarin
+T2	group 117 123	NSAIDs
+R1	advise Arg1:T0 Arg2:T1
+R2	int Arg1:T1 Arg2:T2

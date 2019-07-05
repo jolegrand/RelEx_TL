@@ -1,0 +1,24 @@
+T0	brand 37 45	MIVACRON
+T1	group 151 165	contraceptives
+T2	group 167 182	glucocorticoids
+T3	group 195 223	monoamine oxidase inhibitors
+T4	group 354 383	neuromuscular blocking agents
+T5	drug 443 452	phenytoin
+T6	drug 456 469	carbamazepine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T4 Arg2:T5
+R5	effect Arg1:T4 Arg2:T6
+T0	brand 37 45	MIVACRON
+T1	group 151 165	contraceptives
+T2	group 167 182	glucocorticoids
+T3	group 195 223	monoamine oxidase inhibitors
+T4	group 354 383	neuromuscular blocking agents
+T5	drug 443 452	phenytoin
+T6	drug 456 469	carbamazepine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T4 Arg2:T5
+R5	effect Arg1:T4 Arg2:T6

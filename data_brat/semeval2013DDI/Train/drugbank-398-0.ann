@@ -1,0 +1,7 @@
+T0	drug 11 18	codeine
+T1	drug 90 97	alcohol
+T2	group 99 113	antihistamines
+T3	group 115 128	psychotropics
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

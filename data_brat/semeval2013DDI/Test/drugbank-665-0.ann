@@ -1,0 +1,14 @@
+T0	group 29 55	bacteriostatic antibiotics
+T1	drug 63 75	erythromycin
+T2	drug 77 89	tetracycline
+T3	group 132 143	penicillins
+R1	effect Arg1:T0 Arg2:T3
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T2 Arg2:T3
+T0	group 29 55	bacteriostatic antibiotics
+T1	drug 63 75	erythromycin
+T2	drug 77 89	tetracycline
+T3	group 132 143	penicillins
+R1	effect Arg1:T0 Arg2:T3
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T2 Arg2:T3

@@ -1,0 +1,5 @@
+T0	group 115 133	psychotropic drugs
+T1	group 269 274	NSAID
+T2	brand 278 285	aspirin
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

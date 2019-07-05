@@ -1,0 +1,3 @@
+T0	group 13 38	anticholinesterase agents
+T1	group 95 109	corticosteroid
+R1	advise Arg1:T0 Arg2:T1

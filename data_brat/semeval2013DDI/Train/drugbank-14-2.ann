@@ -1,0 +1,3 @@
+T0	group 66 90	calcium channel blockers
+T1	group 103 111	nitrates
+R1	effect Arg1:T0 Arg2:T1

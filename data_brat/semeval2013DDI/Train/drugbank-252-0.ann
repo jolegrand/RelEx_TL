@@ -1,0 +1,4 @@
+T0	brand 9 16	BETAGAN
+T1	brand 117 124	BETAGAN
+T2	drug 129 140	epinephrine
+R1	effect Arg1:T1 Arg2:T2

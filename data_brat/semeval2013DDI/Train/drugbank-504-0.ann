@@ -1,0 +1,3 @@
+T0	drug 122 130	loxapine
+T1	drug 135 144	lorazepam
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,18 @@
+T0	group 59 74	imidazole drugs
+T1	drug 76 88	clotrimazole
+T2	drug 90 102	ketoconazole
+T3	drug 104 114	miconazole
+T4	drug 159 171	trimetrexate
+R1	mechanism Arg1:T0 Arg2:T4
+R2	mechanism Arg1:T1 Arg2:T4
+R3	mechanism Arg1:T2 Arg2:T4
+R4	mechanism Arg1:T3 Arg2:T4
+T0	group 59 74	imidazole drugs
+T1	drug 76 88	clotrimazole
+T2	drug 90 102	ketoconazole
+T3	drug 104 114	miconazole
+T4	drug 159 171	trimetrexate
+R1	mechanism Arg1:T0 Arg2:T4
+R2	mechanism Arg1:T1 Arg2:T4
+R3	mechanism Arg1:T2 Arg2:T4
+R4	mechanism Arg1:T3 Arg2:T4

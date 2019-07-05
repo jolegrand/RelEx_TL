@@ -1,0 +1,7 @@
+T0	drug 0 10	Cimetidine
+T1	drug 12 20	caffeine
+T2	drug 26 38	erythromycin
+T3	drug 69 78	Clozapine
+R1	mechanism Arg1:T0 Arg2:T3
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T2 Arg2:T3

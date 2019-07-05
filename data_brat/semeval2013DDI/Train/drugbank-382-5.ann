@@ -1,0 +1,3 @@
+T0	drug 20 30	Aprepitant
+T1	drug 115 124	phenytoin
+R1	mechanism Arg1:T0 Arg2:T1

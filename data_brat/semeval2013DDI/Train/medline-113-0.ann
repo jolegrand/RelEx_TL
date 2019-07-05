@@ -1,0 +1,3 @@
+T0	drug 30 39	temazepam
+T1	drug 65 72	ethanol
+R1	mechanism Arg1:T0 Arg2:T1

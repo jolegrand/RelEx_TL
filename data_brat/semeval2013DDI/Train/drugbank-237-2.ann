@@ -1,0 +1,9 @@
+T0	group 0 11	Antibiotics
+T1	drug 52 66	clarithromycin
+T2	drug 68 80	erythromycin
+T3	drug 86 100	troleandomycin
+T4	drug 136 145	cisapride
+T5	drug 189 198	cisapride
+R1	mechanism Arg1:T1 Arg2:T4
+R2	mechanism Arg1:T2 Arg2:T4
+R3	mechanism Arg1:T3 Arg2:T4

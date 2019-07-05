@@ -1,0 +1,3 @@
+T0	brand 25 32	INDOCIN
+T1	group 37 64	potassium-sparing diuretics
+R1	effect Arg1:T0 Arg2:T1

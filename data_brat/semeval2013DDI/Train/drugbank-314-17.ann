@@ -1,0 +1,5 @@
+T0	group 0 9	Estrogens
+T1	group 26 40	contraceptives
+T2	group 42 51	Estrogens
+T3	group 99 114	corticosteroids
+R1	mechanism Arg1:T2 Arg2:T3

@@ -1,0 +1,6 @@
+T0	brand 42 48	FLOMAX
+T1	group 103 135	alpha-adrenergic blocking agents
+R1	advise Arg1:T0 Arg2:T1
+T0	brand 42 48	FLOMAX
+T1	group 103 135	alpha-adrenergic blocking agents
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,5 @@
+T0	drug 0 11	Ganciclovir
+T1	brand 31 36	VIDEX
+T2	drug 78 89	ganciclovir
+T3	drug 159 169	didanosine
+R1	mechanism Arg1:T1 Arg2:T2

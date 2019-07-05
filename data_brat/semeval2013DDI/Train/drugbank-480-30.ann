@@ -1,0 +1,17 @@
+T0	drug 32 41	clozapine
+T1	group 107 122	antidepressants
+T2	group 124 138	phenothiazines
+T3	drug 140 153	carbamazepine
+T4	group 159 182	Type 1C antiarrhythmics
+T5	drug 190 201	propafenone
+T6	drug 203 213	flecainide
+T7	drug 218 227	encainide
+T8	drug 265 274	quinidine
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4
+R5	advise Arg1:T0 Arg2:T5
+R6	advise Arg1:T0 Arg2:T6
+R7	advise Arg1:T0 Arg2:T7
+R8	advise Arg1:T0 Arg2:T8

@@ -1,0 +1,1 @@
+- Cisapride, pimozide: Other drugs such as cisapride or pimozide, which are metabolised by hepatic CYP3A isozymes have been associated with QT interval prolongation and/or cardiac arrythmias (typically torsades de pointe) as a result of increase in their serum level subsequent to interaction with significant inhibitors of the isozyme, including some macrolide antibacterials. 

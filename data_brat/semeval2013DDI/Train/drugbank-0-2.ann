@@ -1,0 +1,4 @@
+T0	drug 21 31	naltrexone
+T1	drug 37 48	Acamprosate
+T2	drug 114 125	acamprosate
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,26 @@
+T0	group 67 85	antimycotic agents
+T1	drug 93 105	itraconazole
+T2	drug 110 120	miconazole
+T3	group 125 146	macrolide antibiotics
+T4	drug 154 166	erythromycin
+T5	drug 171 185	clarithromycin
+T6	drug 198 208	oxybutynin
+R1	mechanism Arg1:T0 Arg2:T6
+R2	mechanism Arg1:T1 Arg2:T6
+R3	mechanism Arg1:T2 Arg2:T6
+R4	mechanism Arg1:T3 Arg2:T6
+R5	mechanism Arg1:T4 Arg2:T6
+R6	mechanism Arg1:T5 Arg2:T6
+T0	group 67 85	antimycotic agents
+T1	drug 93 105	itraconazole
+T2	drug 110 120	miconazole
+T3	group 125 146	macrolide antibiotics
+T4	drug 154 166	erythromycin
+T5	drug 171 185	clarithromycin
+T6	drug 198 208	oxybutynin
+R1	mechanism Arg1:T0 Arg2:T6
+R2	mechanism Arg1:T1 Arg2:T6
+R3	mechanism Arg1:T2 Arg2:T6
+R4	mechanism Arg1:T3 Arg2:T6
+R5	mechanism Arg1:T4 Arg2:T6
+R6	mechanism Arg1:T5 Arg2:T6

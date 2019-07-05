@@ -1,0 +1,6 @@
+T0	brand 66 73	REMERON
+T1	drug 126 133	alcohol
+R1	effect Arg1:T0 Arg2:T1
+T0	brand 66 73	REMERON
+T1	drug 126 133	alcohol
+R1	effect Arg1:T0 Arg2:T1

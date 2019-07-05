@@ -1,0 +1,8 @@
+T0	brand 39 46	aspirin
+T1	brand 52 57	MOBIC
+T2	brand 150 155	MOBIC
+R1	effect Arg1:T0 Arg2:T1
+T0	brand 39 46	aspirin
+T1	brand 52 57	MOBIC
+T2	brand 150 155	MOBIC
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,10 @@
+T0	drug 0 10	Trilostane
+T1	drug 29 46	aminoglutethimide
+T2	drug 50 58	mitotane
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2
+T0	drug 0 10	Trilostane
+T1	drug 29 46	aminoglutethimide
+T2	drug 50 58	mitotane
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2

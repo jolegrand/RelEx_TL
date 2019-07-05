@@ -1,0 +1,5 @@
+T0	drug 0 10	Probenecid
+T1	drug 36 46	probenecid
+T2	brand 81 89	PIPRACIL
+T3	drug 114 126	piperacillin
+R1	mechanism Arg1:T1 Arg2:T2

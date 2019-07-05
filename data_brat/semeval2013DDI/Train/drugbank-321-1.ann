@@ -1,0 +1,5 @@
+T0	drug 0 12	Praziquantel
+T1	drug 32 44	praziquantel
+T2	drug 128 149	albendazole sulfoxide
+T3	drug 245 256	albendazole
+R1	mechanism Arg1:T1 Arg2:T2

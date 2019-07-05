@@ -1,0 +1,6 @@
+T0	drug 0 9	Indinavir
+T1	drug 31 40	indinavir
+T2	brand 46 54	VIRACEPT
+T3	drug 86 96	nelfinavir
+T4	drug 130 139	indinavir
+R1	mechanism Arg1:T1 Arg2:T2

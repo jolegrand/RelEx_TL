@@ -1,0 +1,5 @@
+T0	drug 0 10	Probenecid
+T1	group 26 35	b-lactams
+T2	drug 60 70	cephalexin
+T3	drug 87 97	probenecid
+R1	mechanism Arg1:T2 Arg2:T3

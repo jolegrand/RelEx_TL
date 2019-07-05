@@ -1,0 +1,3 @@
+T0	drug 20 29	diltiazem
+T1	drug 35 43	rifampin
+R1	advise Arg1:T0 Arg2:T1

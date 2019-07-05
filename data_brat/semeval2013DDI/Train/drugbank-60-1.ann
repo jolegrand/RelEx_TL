@@ -1,0 +1,3 @@
+T0	brand 45 51	NIMBEX
+T1	drug 115 130	succinylcholine
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,4 @@
+T0	group 0 25	Tricyclic antidepressants
+T1	drug 89 98	clonidine
+T2	brand 163 173	ALPHAGAN P
+R1	effect Arg1:T0 Arg2:T1

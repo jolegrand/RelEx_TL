@@ -1,0 +1,3 @@
+T0	group 12 34	sympathomimetic agents
+T1	drug 54 64	colchicine
+R1	effect Arg1:T0 Arg2:T1

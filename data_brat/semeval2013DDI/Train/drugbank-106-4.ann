@@ -1,0 +1,4 @@
+T0	brand 20 25	SULAR
+T1	drug 31 40	phenytoin
+T2	group 103 119	antihypertensive
+R1	advise Arg1:T0 Arg2:T1

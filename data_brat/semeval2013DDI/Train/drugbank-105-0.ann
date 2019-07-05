@@ -1,0 +1,11 @@
+T0	group 0 14	Anticoagulants
+T1	group 75 106	platelet aggregation inhibitors
+T2	group 115 151	nonsteroidal anti-inflammatory drugs
+T3	group 153 159	NSAIDs
+T4	brand 166 173	aspirin
+T5	drug 245 254	ardeparin
+R1	effect Arg1:T0 Arg2:T5
+R2	effect Arg1:T1 Arg2:T5
+R3	effect Arg1:T2 Arg2:T5
+R4	effect Arg1:T3 Arg2:T5
+R5	effect Arg1:T4 Arg2:T5

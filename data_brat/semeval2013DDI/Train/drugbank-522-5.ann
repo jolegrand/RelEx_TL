@@ -1,0 +1,5 @@
+T0	drug 25 36	terfenadine
+T1	drug 56 67	terfenadine
+T2	drug 93 104	terfenadine
+T3	drug 110 123	dirithromycin
+R1	mechanism Arg1:T2 Arg2:T3

@@ -1,0 +1,4 @@
+T0	drug 27 39	theophylline
+T1	group 101 111	quinolones
+T2	drug 116 128	theophylline
+R1	effect Arg1:T1 Arg2:T2

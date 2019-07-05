@@ -1,0 +1,3 @@
+T0	drug 58 69	thiosulfate
+T1	drug 136 145	cisplatin
+R1	mechanism Arg1:T0 Arg2:T1

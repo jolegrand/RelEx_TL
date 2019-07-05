@@ -1,0 +1,4 @@
+T0	drug 47 57	valdecoxib
+T1	drug 197 206	glyburide
+T2	drug 236 246	valdecoxib
+R1	advise Arg1:T1 Arg2:T2

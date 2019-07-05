@@ -1,0 +1,3 @@
+T0	drug 11 18	ethanol
+T1	brand 56 63	Antizol
+R1	mechanism Arg1:T0 Arg2:T1

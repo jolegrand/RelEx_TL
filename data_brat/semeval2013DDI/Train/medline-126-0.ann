@@ -1,0 +1,5 @@
+T0	drug 0 12	Cypermethrin
+T1	drug 77 86	vitamin E
+T2	drug 90 101	allopurinol
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

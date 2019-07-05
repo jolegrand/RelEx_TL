@@ -1,0 +1,3 @@
+T0	drug 11 22	eszopiclone
+T1	drug 69 81	ketoconazole
+R1	mechanism Arg1:T0 Arg2:T1

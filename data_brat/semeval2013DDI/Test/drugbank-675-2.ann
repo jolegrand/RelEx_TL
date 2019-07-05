@@ -1,0 +1,28 @@
+T0	group 63 84	macrolide antibiotics
+T1	drug 92 104	erythromycin
+T2	drug 106 120	troleandomycin
+T3	drug 122 136	clarithromycin
+T4	group 139 151;177 187	HIV protease inhibitors
+T5	group 155 187	reverse transcriptase inhibitors
+T6	drug 195 204	ritonavir
+T7	drug 206 215	indinavir
+T8	drug 217 227	nelfinavir
+T9	drug 229 240	delavirdine
+T10	group 245 262	azole antifungals
+T11	drug 270 282	ketoconazole
+T12	drug 284 296	itraconazole
+T13	drug 298 310	voriconazole
+T0	group 63 84	macrolide antibiotics
+T1	drug 92 104	erythromycin
+T2	drug 106 120	troleandomycin
+T3	drug 122 136	clarithromycin
+T4	group 139 151;177 187	HIV protease inhibitors
+T5	group 155 187	reverse transcriptase inhibitors
+T6	drug 195 204	ritonavir
+T7	drug 206 215	indinavir
+T8	drug 217 227	nelfinavir
+T9	drug 229 240	delavirdine
+T10	group 245 262	azole antifungals
+T11	drug 270 282	ketoconazole
+T12	drug 284 296	itraconazole
+T13	drug 298 310	voriconazole

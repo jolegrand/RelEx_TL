@@ -1,0 +1,6 @@
+T0	drug 0 12	Methotrexate
+T1	drug 44 56	methotrexate
+T2	group 66 72	NSAIDs
+T3	drug 118 130	methotrexate
+T4	drug 158 170	methotrexate
+R1	mechanism Arg1:T1 Arg2:T2

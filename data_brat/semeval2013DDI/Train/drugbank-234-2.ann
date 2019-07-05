@@ -1,0 +1,5 @@
+T0	brand 43 52	ROMAZICON
+T1	group 203 225	cyclic antidepressants
+T2	group 263 277	benzodiazepine
+T3	drug 288 298	flumazenil
+R1	effect Arg1:T0 Arg2:T1

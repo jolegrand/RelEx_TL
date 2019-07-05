@@ -1,0 +1,4 @@
+T0	drug_n 17 25	(-)-NANM
+T1	drug_n 35 43	(+)-NANM
+T2	drug 88 96	morphine
+R1	effect Arg1:T0 Arg2:T2

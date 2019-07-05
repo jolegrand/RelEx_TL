@@ -1,0 +1,5 @@
+T0	drug 0 13	Isocarboxazid
+T1	brand 72 80	Antabuse
+T2	drug 82 92	disulfiram
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

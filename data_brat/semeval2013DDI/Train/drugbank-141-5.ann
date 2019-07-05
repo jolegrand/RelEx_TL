@@ -1,0 +1,5 @@
+T0	drug 53 67	cholestyramine
+T1	drug 110 129	cerivastatin sodium
+T2	drug 210 222	cerivastatin
+T3	drug 304 323	cerivastatin sodium
+R1	mechanism Arg1:T0 Arg2:T1

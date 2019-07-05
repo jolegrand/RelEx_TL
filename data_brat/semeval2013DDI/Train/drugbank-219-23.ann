@@ -1,0 +1,7 @@
+T0	drug 88 96	warfarin
+T1	brand 101 107	Lodine
+T2	drug 110 118	etodolac
+T3	drug 179 187	warfarin
+T4	drug 238 246	warfarin
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

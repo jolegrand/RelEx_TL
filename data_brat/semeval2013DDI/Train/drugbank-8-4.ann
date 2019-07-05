@@ -1,0 +1,3 @@
+T0	drug 0 10	Cimetidine
+T1	brand 36 43	ALFENTA
+R1	mechanism Arg1:T0 Arg2:T1

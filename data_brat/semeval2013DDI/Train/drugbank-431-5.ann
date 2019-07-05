@@ -1,0 +1,3 @@
+T0	drug 75 87	theophylline
+T1	drug 100 112	lansoprazole
+R1	advise Arg1:T0 Arg2:T1

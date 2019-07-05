@@ -1,0 +1,4 @@
+T0	drug 60 71	haloperidol
+T1	drug 76 84	rifampin
+T2	drug 93 104	haloperidol
+R1	mechanism Arg1:T0 Arg2:T1

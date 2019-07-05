@@ -1,0 +1,6 @@
+T0	drug 0 9	Metformin
+T1	drug 60 70	cephalexin
+T2	drug 75 84	metformin
+T3	drug 93 102	metformin
+T4	drug 179 188	metformin
+R1	mechanism Arg1:T1 Arg2:T2

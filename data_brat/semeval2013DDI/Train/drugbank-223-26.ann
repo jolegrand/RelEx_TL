@@ -1,0 +1,4 @@
+T0	drug 0 7	Alcohol
+T1	drug 41 48	alcohol
+T2	brand 128 136	SINEQUAN
+R1	mechanism Arg1:T1 Arg2:T2

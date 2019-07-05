@@ -1,0 +1,4 @@
+T0	drug 20 31	terfenadine
+T1	drug 37 49	Itraconazole
+T2	drug 95 106	terfenadine
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,3 @@
+T0	drug 0 11	Fluconazole
+T1	drug 95 103	losartan
+R1	mechanism Arg1:T0 Arg2:T1

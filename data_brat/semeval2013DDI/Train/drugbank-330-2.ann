@@ -1,0 +1,9 @@
+T0	drug 5 13	neomycin
+T1	drug 58 70	penicillin V
+T2	drug 77 89	vitamin B-12
+T3	drug 91 103	methotrexate
+T4	drug 108 122	5-fluorouracil
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4

@@ -1,0 +1,3 @@
+T0	drug 47 55	Rifampin
+T1	drug 89 99	carvedilol
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,4 @@
+T0	drug 21 30	phenytoin
+T1	drug 82 91	felbamate
+T2	drug 115 124	phenytoin
+R1	advise Arg1:T1 Arg2:T2

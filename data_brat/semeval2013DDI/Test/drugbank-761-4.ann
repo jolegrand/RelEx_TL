@@ -1,0 +1,6 @@
+T0	brand 0 7	XENICAL
+T1	drug 34 51	vitamin E acetate
+R1	mechanism Arg1:T0 Arg2:T1
+T0	brand 0 7	XENICAL
+T1	drug 34 51	vitamin E acetate
+R1	mechanism Arg1:T0 Arg2:T1

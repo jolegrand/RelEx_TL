@@ -1,0 +1,4 @@
+T0	group 29 43	anticoagulants
+T1	drug 48 59	Fluvoxamine
+T2	group 123 136	anticoagulant
+R1	advise Arg1:T0 Arg2:T1

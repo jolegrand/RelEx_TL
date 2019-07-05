@@ -1,0 +1,4 @@
+T0	drug 0 17	Aminoglutethimide
+T1	drug 19 36	Aminoglutethimide
+T2	group 73 88	corticosteroids
+R1	effect Arg1:T1 Arg2:T2

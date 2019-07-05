@@ -1,0 +1,3 @@
+T0	drug 72 86	amphotericin B
+T1	drug 91 105	hydrocortisone
+R1	effect Arg1:T0 Arg2:T1

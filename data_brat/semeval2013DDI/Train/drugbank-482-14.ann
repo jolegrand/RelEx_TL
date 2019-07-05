@@ -1,0 +1,18 @@
+T0	group 63 76	blood thinner
+T1	brand 79 87	Coumadin
+T2	group 95 110	antidepressants
+T3	drug 111 121	metoprolol
+T4	group 122 136	antihistamines
+T5	drug 137 150	carbamazepine
+T6	brand 152 160	Tegretol
+T7	drug 162 172	cimetidine
+T8	brand 174 181	Tagamet
+T9	group 183 192	estrogens
+T10	drug 193 203	fluoxetine
+T11	brand 205 211	Prozac
+T12	brand 228 236	Sporanox
+T13	drug 238 250	ketoconazole
+T14	brand 252 259	Nizoral
+T15	drug 261 269	levodopa
+T16	drug 270 277	lithium
+T17	group 278 294	muscle relaxants

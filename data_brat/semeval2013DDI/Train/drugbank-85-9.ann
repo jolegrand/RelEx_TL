@@ -1,0 +1,8 @@
+T0	drug 0 8	Naproxen
+T1	group 19 25	NSAIDs
+T2	drug 68 79	propranolol
+T3	group 90 103	beta-blockers
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T0 Arg2:T3
+R3	effect Arg1:T1 Arg2:T2
+R4	effect Arg1:T1 Arg2:T3

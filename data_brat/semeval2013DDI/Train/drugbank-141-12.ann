@@ -1,0 +1,4 @@
+T0	drug 0 12	ERYTHROMYCIN
+T1	drug 61 73	cerivastatin
+T2	drug 176 188	erythromycin
+R1	mechanism Arg1:T1 Arg2:T2

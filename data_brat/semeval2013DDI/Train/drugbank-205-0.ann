@@ -1,0 +1,11 @@
+T0	brand 6 14	Zarontin
+T1	drug 16 28	ethosuximide
+T2	group 74 93	antiepileptic drugs
+T3	drug 168 180	ethosuximide
+T4	drug 193 202	phenytoin
+T5	drug 220 233	valproic acid
+T6	drug 282 294	ethosuximide
+R1	int Arg1:T0 Arg2:T2
+R2	int Arg1:T1 Arg2:T2
+R3	mechanism Arg1:T3 Arg2:T4
+R4	mechanism Arg1:T5 Arg2:T6

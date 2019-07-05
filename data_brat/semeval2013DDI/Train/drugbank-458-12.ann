@@ -1,0 +1,5 @@
+T0	brand 20 27	NIZORAL
+T1	drug 42 51	midazolam
+T2	drug 55 64	triazolam
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

@@ -1,0 +1,4 @@
+T0	brand 30 36	Sonata
+T1	drug 49 59	cimetidine
+T2	drug 122 130	zaleplon
+R1	mechanism Arg1:T0 Arg2:T1

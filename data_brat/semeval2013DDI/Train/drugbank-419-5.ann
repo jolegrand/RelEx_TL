@@ -1,0 +1,5 @@
+T0	group 21 47	broad-spectrum antibiotics
+T1	brand 49 61	AUGMENTIN XR
+T2	group 94 108	contraceptives
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

@@ -1,0 +1,10 @@
+T0	drug 0 14	norepinephrine
+T1	drug 19 29	dobutamine
+T2	drug 52 70	sodium bicarbonate
+R1	int Arg1:T0 Arg2:T2
+R2	int Arg1:T1 Arg2:T2
+T0	drug 0 14	norepinephrine
+T1	drug 19 29	dobutamine
+T2	drug 52 70	sodium bicarbonate
+R1	int Arg1:T0 Arg2:T2
+R2	int Arg1:T1 Arg2:T2

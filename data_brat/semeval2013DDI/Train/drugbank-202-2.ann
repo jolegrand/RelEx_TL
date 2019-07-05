@@ -1,0 +1,3 @@
+T0	group 71 96	tricyclic antidepressants
+T1	drug 169 179	cimetidine
+R1	mechanism Arg1:T0 Arg2:T1

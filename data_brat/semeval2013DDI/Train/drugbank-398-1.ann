@@ -1,0 +1,5 @@
+T0	drug 31 47	dextromethorphan
+T1	group 71 99	monoamine oxidase inhibitors
+T2	group 101 106	MAOIs
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

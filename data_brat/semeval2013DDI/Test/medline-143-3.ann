@@ -1,0 +1,8 @@
+T0	drug 19 29	omeprazole
+T1	drug 34 45	clopidogrel
+T2	drug 203 213	omeprazole
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 19 29	omeprazole
+T1	drug 34 45	clopidogrel
+T2	drug 203 213	omeprazole
+R1	mechanism Arg1:T0 Arg2:T1

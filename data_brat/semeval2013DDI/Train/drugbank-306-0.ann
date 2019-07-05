@@ -1,0 +1,11 @@
+T0	group 21 30	progestin
+T1	group 98 113	anticonvulsants
+T2	drug 114 123	phenytoin
+T3	drug 125 138	carbamazepine
+T4	group 144 156	barbiturates
+T5	group 166 187	antituberculosis drug
+T6	drug 188 196	rifampin
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T0 Arg2:T3
+R3	effect Arg1:T0 Arg2:T4
+R4	effect Arg1:T0 Arg2:T6

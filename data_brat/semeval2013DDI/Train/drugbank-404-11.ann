@@ -1,0 +1,4 @@
+T0	group 0 15	Corticosteroids
+T1	group 72 81	vitamin D
+T2	group 131 146	corticosteroids
+R1	effect Arg1:T1 Arg2:T2

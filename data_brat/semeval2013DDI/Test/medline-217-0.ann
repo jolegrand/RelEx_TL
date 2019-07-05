@@ -1,0 +1,6 @@
+T0	drug 15 24	celecoxib
+T1	group 40 57	anti-cancer drugs
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 15 24	celecoxib
+T1	group 40 57	anti-cancer drugs
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,4 @@
+T0	drug 0 7	Lithium
+T1	brand 98 104	BEXTRA
+T2	drug 127 134	lithium
+R1	advise Arg1:T1 Arg2:T2

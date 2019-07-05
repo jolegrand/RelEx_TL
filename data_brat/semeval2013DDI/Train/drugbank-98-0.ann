@@ -1,0 +1,9 @@
+T0	group 17 36	vitamin D analogues
+T1	drug 38 48	Vitamin D2
+T2	drug 50 60	Vitamin D3
+T3	drug 62 72	Calcitriol
+T4	drug 78 87	Calcidiol
+T5	drug 90 104	Cholestyramine
+T6	drug 106 120	Cholestyramine
+T7	group 174 194	fat soluble vitamins
+R1	mechanism Arg1:T6 Arg2:T7

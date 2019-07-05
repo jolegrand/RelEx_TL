@@ -1,0 +1,3 @@
+T0	drug 79 91	halofantrine
+T1	drug 147 157	Mefloquine
+R1	advise Arg1:T0 Arg2:T1

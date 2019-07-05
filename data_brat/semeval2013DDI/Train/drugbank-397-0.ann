@@ -1,0 +1,5 @@
+T0	drug 0 12	Erythromycin
+T1	drug 61 73	theophylline
+T2	drug 118 130	theophylline
+T3	drug 152 164	theophylline
+R1	effect Arg1:T0 Arg2:T1

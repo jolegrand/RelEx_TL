@@ -1,0 +1,3 @@
+T0	drug 0 16	Cyclophosphamide
+T1	drug 130 154	succinylcholine chloride
+R1	effect Arg1:T0 Arg2:T1

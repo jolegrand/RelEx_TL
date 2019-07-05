@@ -1,0 +1,5 @@
+T0	group 7 10	TCA
+T1	group 71 74	TCA
+T2	group 103 106	TCA
+T3	drug 131 141	Duloxetine
+R1	advise Arg1:T2 Arg2:T3

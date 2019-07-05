@@ -1,0 +1,4 @@
+T0	group 0 31	Beta-adrenergic Blocking Agents
+T1	drug 147 157	nifedipine
+T2	group 162 182	beta-blocking agents
+R1	effect Arg1:T1 Arg2:T2

@@ -1,0 +1,11 @@
+T0	brand 121 130	PROLEUKIN
+T1	group 135 156	antineoplastic agents
+T2	drug 172 183	dacarbazine
+T3	drug 185 197	cis-platinum
+T4	drug 199 208	tamoxifen
+T5	drug 213 228	interferon-alfa
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5

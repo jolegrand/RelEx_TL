@@ -1,0 +1,16 @@
+T0	drug 0 7	Digoxin
+T1	drug 74 81	digoxin
+T2	brand 122 127	ACEON
+T3	drug 157 164	digoxin
+T4	drug 196 207	perindopril
+T5	drug_n 208 221	perindoprilat
+R1	mechanism Arg1:T3 Arg2:T4
+R2	mechanism Arg1:T3 Arg2:T5
+T0	drug 0 7	Digoxin
+T1	drug 74 81	digoxin
+T2	brand 122 127	ACEON
+T3	drug 157 164	digoxin
+T4	drug 196 207	perindopril
+T5	drug_n 208 221	perindoprilat
+R1	mechanism Arg1:T3 Arg2:T4
+R2	mechanism Arg1:T3 Arg2:T5

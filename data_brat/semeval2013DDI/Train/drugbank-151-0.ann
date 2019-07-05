@@ -1,0 +1,7 @@
+T0	drug 0 10	Folic acid
+T1	drug 71 84	phenobarbital
+T2	drug 86 95	phenytoin
+T3	drug 100 109	primidone
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

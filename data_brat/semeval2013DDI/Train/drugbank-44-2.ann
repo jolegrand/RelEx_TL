@@ -1,0 +1,7 @@
+T0	group 0 9;36 44	Acellular vaccines
+T1	group 11 15;36 44	live vaccines
+T2	group 20 44	live-attenuated vaccines
+T3	brand 79 86	RAPTIVA
+R1	advise Arg1:T0 Arg2:T3
+R2	advise Arg1:T1 Arg2:T3
+R3	advise Arg1:T2 Arg2:T3

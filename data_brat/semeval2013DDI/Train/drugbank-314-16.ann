@@ -1,0 +1,5 @@
+T0	drug 0 9	Ephedrine
+T1	drug 11 20	Ephedrine
+T2	group 60 75	corticosteroids
+T3	group 178 192	corticosteroid
+R1	mechanism Arg1:T1 Arg2:T2

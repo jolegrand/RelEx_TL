@@ -1,0 +1,6 @@
+T0	group 0 25	Tricyclic Antidepressants
+T1	group 34 50	thyroid products
+T2	drug 56 66	imipramine
+T3	group 77 102	tricyclic antidepressants
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3

@@ -1,0 +1,4 @@
+T0	brand 24 31	aspirin
+T1	drug 68 78	fenoprofen
+T2	drug_n 161 184	hydroxylated fenoprofen
+R1	mechanism Arg1:T0 Arg2:T1

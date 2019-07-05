@@ -1,0 +1,4 @@
+T0	group 70 110	beta-adrenergic receptor blocking agents
+T1	group 112 123	Anesthetics
+T2	group 185 196	anesthetics
+R1	int Arg1:T0 Arg2:T1

@@ -1,0 +1,4 @@
+T0	drug 0 9	Potassium
+T1	group 26 53	Potassium-Sparing Diuretics
+T2	group 102 120	thiazide diuretics
+R1	effect Arg1:T1 Arg2:T2

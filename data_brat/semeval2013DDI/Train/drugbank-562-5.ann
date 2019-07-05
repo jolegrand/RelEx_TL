@@ -1,0 +1,4 @@
+T0	drug 53 62	cinoxacin
+T1	drug 97 106	cinoxacin
+T2	drug 135 143	caffeine
+R1	advise Arg1:T1 Arg2:T2

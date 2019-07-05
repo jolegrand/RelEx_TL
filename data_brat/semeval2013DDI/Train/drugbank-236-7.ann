@@ -1,0 +1,7 @@
+T0	group 0 15	Antidepressants
+T1	group 17 26	tricyclic
+T2	group 28 40	Amphetamines
+T3	group 69 78	tricyclic
+T4	group 82 104	sympathomimetic agents
+R1	effect Arg1:T2 Arg2:T3
+R2	effect Arg1:T2 Arg2:T4

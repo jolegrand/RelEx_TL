@@ -1,0 +1,33 @@
+T0	group 0 34	Central Nervous System Depressants
+T1	brand 59 68	DURAGESIC
+T2	drug 71 79	fentanyl
+T3	group 111 145	central nervous system depressants
+T4	group 182 189	opioids
+T5	group 191 200	sedatives
+T6	group 202 211	hypnotics
+T7	group 213 226	tranquilizers
+T8	group 234 249	benzodiazepines
+T9	group 260 271	anesthetics
+T10	group 273 287	phenothiazines
+T11	group 289 314	skeletal muscle relaxants
+T12	drug 320 327	alcohol
+R1	effect Arg1:T1 Arg2:T3
+R2	effect Arg1:T1 Arg2:T4
+R3	effect Arg1:T1 Arg2:T5
+R4	effect Arg1:T1 Arg2:T6
+R5	effect Arg1:T1 Arg2:T7
+R6	effect Arg1:T1 Arg2:T8
+R7	effect Arg1:T1 Arg2:T9
+R8	effect Arg1:T1 Arg2:T10
+R9	effect Arg1:T1 Arg2:T11
+R10	effect Arg1:T1 Arg2:T12
+R11	effect Arg1:T2 Arg2:T3
+R12	effect Arg1:T2 Arg2:T4
+R13	effect Arg1:T2 Arg2:T5
+R14	effect Arg1:T2 Arg2:T6
+R15	effect Arg1:T2 Arg2:T7
+R16	effect Arg1:T2 Arg2:T8
+R17	effect Arg1:T2 Arg2:T9
+R18	effect Arg1:T2 Arg2:T10
+R19	effect Arg1:T2 Arg2:T11
+R20	effect Arg1:T2 Arg2:T12

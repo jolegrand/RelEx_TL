@@ -1,0 +1,9 @@
+T0	drug 32 42	methyldopa
+T1	drug 44 56	mecamylamine
+T2	drug 58 67	reserpine
+T3	drug 73 91	veratrum alkaloids
+T4	group 110 126	sympathomimetics
+R1	effect Arg1:T0 Arg2:T4
+R2	effect Arg1:T1 Arg2:T4
+R3	effect Arg1:T2 Arg2:T4
+R4	effect Arg1:T3 Arg2:T4

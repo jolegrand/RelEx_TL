@@ -1,0 +1,33 @@
+T0	drug 32 41	bupropion
+T1	group 112 127	antidepressants
+T2	drug 135 148	nortriptyline
+T3	drug 150 160	imipramine
+T4	drug 162 173	desipramine
+T5	drug 175 185	paroxetine
+T6	drug 187 197	fluoxetine
+T7	drug 199 209	sertraline
+T8	group 212 226	antipsychotics
+T9	drug 234 245	haloperidol
+T10	drug 247 258	risperidone
+T11	drug 260 272	thioridazine
+T12	group 275 288	beta-blockers
+T13	drug 296 306	metoprolol
+T14	group 313 336	Type 1C antiarrhythmics
+T15	drug 344 355	propafenone
+T16	drug 357 367	flecainide
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4
+R5	advise Arg1:T0 Arg2:T5
+R6	advise Arg1:T0 Arg2:T6
+R7	advise Arg1:T0 Arg2:T7
+R8	advise Arg1:T0 Arg2:T8
+R9	advise Arg1:T0 Arg2:T9
+R10	advise Arg1:T0 Arg2:T10
+R11	advise Arg1:T0 Arg2:T11
+R12	advise Arg1:T0 Arg2:T12
+R13	advise Arg1:T0 Arg2:T13
+R14	advise Arg1:T0 Arg2:T14
+R15	advise Arg1:T0 Arg2:T15
+R16	advise Arg1:T0 Arg2:T16

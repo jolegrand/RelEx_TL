@@ -1,0 +1,5 @@
+T0	drug 0 7	Digoxin
+T1	drug 32 44	atorvastatin
+T2	drug 49 56	digoxin
+T3	drug 98 105	digoxin
+R1	mechanism Arg1:T1 Arg2:T2

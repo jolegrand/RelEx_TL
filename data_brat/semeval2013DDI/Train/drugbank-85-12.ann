@@ -1,0 +1,8 @@
+T0	drug 0 8	Naproxen
+T1	drug 10 25	naproxen sodium
+T2	group 36 42	NSAIDs
+T3	drug 97 109	methotrexate
+T4	drug 166 178	methotrexate
+R1	mechanism Arg1:T0 Arg2:T3
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T2 Arg2:T3

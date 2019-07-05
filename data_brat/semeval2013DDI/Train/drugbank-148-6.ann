@@ -1,0 +1,7 @@
+T0	drug 38 48	Argatroban
+T1	group 54 73	antiplatelet agents
+T2	group 75 88	thrombolytics
+T3	group 100 114	anticoagulants
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

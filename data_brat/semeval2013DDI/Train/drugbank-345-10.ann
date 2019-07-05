@@ -1,0 +1,3 @@
+T0	drug 46 60	chlorothiazide
+T1	drug 156 180	colestipol hydrochloride
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,3 @@
+T0	drug 0 14	Chlorthalidone
+T1	drug 68 80	tubocurarine
+R1	effect Arg1:T0 Arg2:T1

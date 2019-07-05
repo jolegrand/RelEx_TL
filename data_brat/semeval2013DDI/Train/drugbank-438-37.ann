@@ -1,0 +1,5 @@
+T0	group 0 7	Antacid
+T1	brand 9 15	Maalox
+T2	brand 19 25	Maalox
+T3	drug 57 67	gabapentin
+R1	mechanism Arg1:T2 Arg2:T3

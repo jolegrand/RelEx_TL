@@ -1,0 +1,6 @@
+T0	drug_n 41 49	piperine
+T1	drug 90 99	ibuprofen
+R1	effect Arg1:T0 Arg2:T1
+T0	drug_n 41 49	piperine
+T1	drug 90 99	ibuprofen
+R1	effect Arg1:T0 Arg2:T1

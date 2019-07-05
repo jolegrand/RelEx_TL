@@ -1,0 +1,5 @@
+T0	drug 9 22	dexamethasone
+T1	drug 93 103	Aprepitant
+T2	drug 129 142	dexamethasone
+T3	drug 194 204	Aprepitant
+R1	advise Arg1:T0 Arg2:T1

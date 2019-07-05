@@ -1,0 +1,10 @@
+T0	drug 65 75	methyldopa
+T1	drug 101 116	ferrous sulfate
+T2	drug 120 137	ferrous gluconate
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+T0	drug 65 75	methyldopa
+T1	drug 101 116	ferrous sulfate
+T2	drug 120 137	ferrous gluconate
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

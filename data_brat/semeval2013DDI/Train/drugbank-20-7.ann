@@ -1,0 +1,5 @@
+T0	brand 46 52	INSPRA
+T1	group 78 91	ACE inhibitor
+T2	drug 92 101	enalapril
+T3	drug 189 198	enalapril
+R1	effect Arg1:T0 Arg2:T2

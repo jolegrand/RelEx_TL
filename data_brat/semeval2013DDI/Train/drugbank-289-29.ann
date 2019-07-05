@@ -1,0 +1,4 @@
+T0	group 34 41	statins
+T1	brand 89 97	TRACLEER
+T2	group 130 136	statin
+R1	advise Arg1:T0 Arg2:T1

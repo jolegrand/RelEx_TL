@@ -1,0 +1,3 @@
+T0	drug 0 14	Chlorthalidone
+T1	group 60 82	antihypertensive drugs
+R1	effect Arg1:T0 Arg2:T1

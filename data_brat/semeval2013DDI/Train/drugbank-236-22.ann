@@ -1,0 +1,4 @@
+T0	drug 0 14	Norepinephrine
+T1	group 16 28	Amphetamines
+T2	drug 62 76	norepinephrine
+R1	effect Arg1:T1 Arg2:T2

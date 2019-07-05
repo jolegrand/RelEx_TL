@@ -1,0 +1,5 @@
+T0	drug 17 24	Ethanol
+T1	drug 105 116	eszopiclone
+T2	drug 121 128	ethanol
+T3	drug 163 170	ethanol
+R1	effect Arg1:T1 Arg2:T2

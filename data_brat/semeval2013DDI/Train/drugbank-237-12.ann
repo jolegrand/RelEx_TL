@@ -1,0 +1,7 @@
+T0	group 0 19	Protease Inhibitors
+T1	drug 49 58	indinavir
+T2	drug 63 72	ritonavir
+T3	drug 108 117	cisapride
+T4	drug 160 169	cisapride
+R1	mechanism Arg1:T1 Arg2:T3
+R2	mechanism Arg1:T2 Arg2:T3

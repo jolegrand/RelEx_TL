@@ -1,0 +1,9 @@
+T0	group 39 53	antihistamines
+T1	group 96 111	CNS depressants
+T2	group 122 134	barbiturates
+T3	group 136 149	tranquilizers
+T4	drug 155 162	alcohol
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4

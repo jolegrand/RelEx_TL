@@ -1,0 +1,5 @@
+T0	brand 15 22	ERGOMAR
+T1	drug 45 66	triacetyloleandomycin
+T2	drug 100 110	ergotamine
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T1 Arg2:T2

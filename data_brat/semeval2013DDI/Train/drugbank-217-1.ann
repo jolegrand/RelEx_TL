@@ -1,0 +1,4 @@
+T0	drug 27 39	theophylline
+T1	drug 101 112	norfloxacin
+T2	drug 117 129	theophylline
+R1	effect Arg1:T1 Arg2:T2

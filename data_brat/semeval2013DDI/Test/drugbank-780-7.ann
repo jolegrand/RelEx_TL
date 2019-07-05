@@ -1,0 +1,10 @@
+T0	group 0 12	Sulfonamides
+T1	drug 32 54	procaine hydrochloride
+T2	group 59 71	sulfonamides
+T3	group 133 144	sulfonamide
+R1	effect Arg1:T1 Arg2:T2
+T0	group 0 12	Sulfonamides
+T1	drug 32 54	procaine hydrochloride
+T2	group 59 71	sulfonamides
+T3	group 133 144	sulfonamide
+R1	effect Arg1:T1 Arg2:T2

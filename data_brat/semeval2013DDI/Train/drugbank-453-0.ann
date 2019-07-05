@@ -1,0 +1,4 @@
+T0	drug 0 20	Cytosine arabinoside
+T1	group 24 40	cytostatic agent
+T2	drug 101 112	flucytosine
+R1	effect Arg1:T0 Arg2:T2

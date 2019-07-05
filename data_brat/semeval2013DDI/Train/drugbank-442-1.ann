@@ -1,0 +1,4 @@
+T0	group 85 98	anticoagulant
+T1	brand 126 133	EULEXIN
+T2	drug 179 187	warfarin
+R1	advise Arg1:T1 Arg2:T2

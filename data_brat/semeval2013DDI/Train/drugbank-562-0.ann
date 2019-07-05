@@ -1,0 +1,3 @@
+T0	drug 26 38	theophylline
+T1	group 87 97	quinolones
+R1	mechanism Arg1:T0 Arg2:T1

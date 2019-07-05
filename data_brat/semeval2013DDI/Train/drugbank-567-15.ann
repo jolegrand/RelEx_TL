@@ -1,0 +1,3 @@
+T0	group 93 115	coumarin anticoagulant
+T1	drug 136 146	lovastatin
+R1	effect Arg1:T0 Arg2:T1

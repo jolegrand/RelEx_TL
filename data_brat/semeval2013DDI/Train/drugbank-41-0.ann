@@ -1,0 +1,7 @@
+T0	drug 0 14	Cholestyramine
+T1	drug 19 27	Charcoal
+T2	drug 46 60	cholestyramine
+T3	drug 64 82	activated charcoal
+T4	drug 208 219	leflunomide
+R1	mechanism Arg1:T2 Arg2:T4
+R2	mechanism Arg1:T3 Arg2:T4

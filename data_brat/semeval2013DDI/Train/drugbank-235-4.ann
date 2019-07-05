@@ -1,0 +1,14 @@
+T0	group 27 44	azole antifungals
+T1	drug 46 59	ciprofloxacin
+T2	drug 61 75	clarithromycin
+T3	drug 77 87	diclofenac
+T4	drug 89 100	doxycycline
+T5	drug 102 114	erythromycin
+T6	drug 116 124	imatinib
+T7	drug 126 135	isoniazid
+T8	drug 137 147	nefazodone
+T9	drug 149 160	nicardipine
+T10	drug 162 170	propofol
+T11	group 172 191	protease inhibitors
+T12	drug 193 202	quinidine
+T13	drug 208 217	verapamil

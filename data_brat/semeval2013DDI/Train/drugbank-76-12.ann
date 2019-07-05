@@ -1,0 +1,10 @@
+T0	group 47 62	Benzodiazepines
+T1	group 64 79	Benzodiazepines
+T2	drug 120 130	alprazolam
+T3	drug 132 141	midazolam
+T4	drug 143 152	triazolam
+T5	drug 251 262	fluvoxamine
+R1	mechanism Arg1:T1 Arg2:T5
+R2	mechanism Arg1:T2 Arg2:T5
+R3	mechanism Arg1:T3 Arg2:T5
+R4	mechanism Arg1:T4 Arg2:T5

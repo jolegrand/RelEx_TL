@@ -1,0 +1,4 @@
+T0	drug 6 21	calcium acetate
+T1	group 27 47	digitalis glycosides
+T2	drug 99 106	calcium
+R1	effect Arg1:T0 Arg2:T1

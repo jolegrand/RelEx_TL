@@ -1,0 +1,5 @@
+T0	drug 7 16	valproate
+T1	drug 56 65	isoniazid
+T2	drug 70 79	valproate
+T3	drug 139 148	valproate
+R1	advise Arg1:T1 Arg2:T2

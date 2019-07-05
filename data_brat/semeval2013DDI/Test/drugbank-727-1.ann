@@ -1,0 +1,6 @@
+T0	drug 18 28	zidovudine
+T1	brand 49 54	ZERIT
+R1	advise Arg1:T0 Arg2:T1
+T0	drug 18 28	zidovudine
+T1	brand 49 54	ZERIT
+R1	advise Arg1:T0 Arg2:T1

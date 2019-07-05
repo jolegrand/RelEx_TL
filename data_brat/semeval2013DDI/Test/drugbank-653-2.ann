@@ -1,0 +1,10 @@
+T0	drug 14 28	troleandomycin
+T1	drug 33 45	ketoconazole
+T2	group 76 91	corticosteroids
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T2
+T0	drug 14 28	troleandomycin
+T1	drug 33 45	ketoconazole
+T2	group 76 91	corticosteroids
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T2

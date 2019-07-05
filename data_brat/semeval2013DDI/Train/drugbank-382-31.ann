@@ -1,0 +1,15 @@
+T0	drug 44 54	Aprepitant
+T1	drug 92 104	ketoconazole
+T2	drug 106 118	itraconazole
+T3	drug 120 130	nefazodone
+T4	drug 132 146	troleandomycin
+T5	drug 148 162	clarithromycin
+T6	drug 164 173	ritonavir
+T7	drug 175 185	nelfinavir
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4
+R5	advise Arg1:T0 Arg2:T5
+R6	advise Arg1:T0 Arg2:T6
+R7	advise Arg1:T0 Arg2:T7

@@ -1,0 +1,7 @@
+T0	group 0 14	ACE Inhibitors
+T1	group 19 54	Angiotensin II Receptor Antagonists
+T2	brand 138 144	INSPRA
+T3	group 161 175	ACE inhibitors
+T4	group 180 215	angiotensin II receptor antagonists
+R1	effect Arg1:T2 Arg2:T3
+R2	effect Arg1:T2 Arg2:T4

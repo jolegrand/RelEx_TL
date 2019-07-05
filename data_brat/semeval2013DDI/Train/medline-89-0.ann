@@ -1,0 +1,3 @@
+T0	drug 71 100	99mTc-methylene diphosphonate
+T1	drug 107 117	gentamicin
+R1	effect Arg1:T0 Arg2:T1

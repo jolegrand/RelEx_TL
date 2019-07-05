@@ -1,0 +1,4 @@
+T0	group 0 9	Digitalis
+T1	group 11 31	Thyroid preparations
+T2	group 68 77	digitalis
+R1	effect Arg1:T1 Arg2:T2

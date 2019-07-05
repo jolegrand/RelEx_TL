@@ -1,0 +1,5 @@
+T0	drug 0 13	Propantheline
+T1	drug 18 31	diphenoxylate
+T2	drug 74 81	digoxin
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T2

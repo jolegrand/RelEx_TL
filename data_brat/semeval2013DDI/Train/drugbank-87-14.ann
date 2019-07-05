@@ -1,0 +1,3 @@
+T0	drug 30 40	cimetidine
+T1	drug 75 85	flecainide
+R1	mechanism Arg1:T0 Arg2:T1

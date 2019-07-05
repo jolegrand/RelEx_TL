@@ -1,0 +1,5 @@
+T0	drug 19 31	flurbiprofen
+T1	drug 36 46	furosemide
+T2	group 56 65	diuretics
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

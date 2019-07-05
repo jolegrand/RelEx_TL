@@ -1,0 +1,4 @@
+T0	drug 21 31	nelfinavir
+T1	drug 70 82	azithromycin
+T2	drug 125 137	azithromycin
+R1	effect Arg1:T0 Arg2:T1

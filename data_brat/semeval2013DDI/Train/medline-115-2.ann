@@ -1,0 +1,11 @@
+T0	drug 244 260	cyclophosphamide
+T1	drug 262 273	doxorubicin
+T2	drug 275 286	vincristine
+T3	drug 292 302	prednisone
+T4	drug 440 456	cyclophosphamide
+T5	drug 458 469	doxorubicin
+T6	drug 471 481	teniposide
+T7	drug 487 497	prednisone
+T8	drug 503 514	vincristine
+T9	drug 520 529	bleomycin
+T10	group 549 563	antiretroviral

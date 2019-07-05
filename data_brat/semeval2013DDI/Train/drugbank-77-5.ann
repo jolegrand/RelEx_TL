@@ -1,0 +1,10 @@
+T0	drug 28 38	imipramine
+T1	drug 127 137	cimetidine
+T2	drug 139 149	fluoxetine
+T3	group 228 240	barbiturates
+T4	drug 242 251	phenytoin
+T5	drug 286 296	imipramine
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4

@@ -1,0 +1,5 @@
+T0	drug 35 45	cimetidine
+T1	drug 50 60	ranitidine
+T2	drug 110 119	cisapride
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T2

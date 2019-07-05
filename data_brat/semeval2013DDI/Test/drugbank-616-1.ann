@@ -1,0 +1,6 @@
+T0	brand 47 54	ZADAXIN
+T1	group 89 111	immunomodulating drugs
+R1	advise Arg1:T0 Arg2:T1
+T0	brand 47 54	ZADAXIN
+T1	group 89 111	immunomodulating drugs
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,3 @@
+T0	group 33 47	anticoagulants
+T1	brand 78 87	Atromid-S
+R1	advise Arg1:T0 Arg2:T1

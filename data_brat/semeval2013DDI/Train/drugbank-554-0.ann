@@ -1,0 +1,6 @@
+T0	group 8 18	antibiotic
+T1	drug 20 29	cisplatin
+T2	drug 31 43	cyclosporine
+T3	group 45 53	diuretic
+T4	drug 55 64	foscarnet
+T5	group 70 78	vaccines

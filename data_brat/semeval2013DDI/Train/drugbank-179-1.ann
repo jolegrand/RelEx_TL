@@ -1,0 +1,5 @@
+T0	drug 0 13	Sulfapyridine
+T1	drug 56 69	Acetaminophen
+T2	brand 77 84	Tylenol
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2

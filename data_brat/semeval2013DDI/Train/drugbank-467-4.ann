@@ -1,0 +1,5 @@
+T0	brand 30 39	Targretin
+T1	drug 53 64	gemfibrozil
+T2	drug 127 137	bexarotene
+T3	drug 212 223	gemfibrozil
+R1	mechanism Arg1:T0 Arg2:T1

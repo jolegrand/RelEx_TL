@@ -1,0 +1,4 @@
+T0	drug 28 40	theophylline
+T1	drug 76 86	cetirizine
+T2	drug 153 163	cetirizine
+R1	mechanism Arg1:T0 Arg2:T1

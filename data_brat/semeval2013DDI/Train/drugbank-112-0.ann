@@ -1,0 +1,3 @@
+T0	drug 20 30	probenecid
+T1	drug 154 165	penciclovir
+R1	mechanism Arg1:T0 Arg2:T1

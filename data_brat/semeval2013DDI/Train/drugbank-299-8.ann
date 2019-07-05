@@ -1,0 +1,5 @@
+T0	drug 0 9	Verapamil
+T1	drug 31 42	almotriptan
+T2	drug 47 56	verapamil
+T3	drug 112 123	almotriptan
+R1	mechanism Arg1:T1 Arg2:T2

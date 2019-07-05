@@ -1,0 +1,4 @@
+T0	drug 29 36	lithium
+T1	drug 71 80	enalapril
+T2	drug 116 123	lithium
+R1	advise Arg1:T1 Arg2:T2

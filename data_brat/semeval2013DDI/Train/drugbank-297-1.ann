@@ -1,0 +1,5 @@
+T0	drug 50 53	MTX
+T1	group 55 61	NSAIDs
+T2	group 63 78	corticosteroids
+T3	group 84 103	TNF blocking agents
+T4	drug 122 131	abatacept

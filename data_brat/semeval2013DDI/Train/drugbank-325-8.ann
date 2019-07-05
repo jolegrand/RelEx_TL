@@ -1,0 +1,8 @@
+T0	drug 0 12	Cyclopropane
+T1	group 16 51	halogenated hydrocarbon anesthetics
+T2	group 177 191	catecholamines
+T3	drug 201 209	dopamine
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T0 Arg2:T3
+R3	effect Arg1:T1 Arg2:T2
+R4	effect Arg1:T1 Arg2:T3

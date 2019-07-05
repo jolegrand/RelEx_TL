@@ -1,0 +1,6 @@
+T0	drug 79 90	tigecycline
+T1	drug 112 120	warfarin
+R1	advise Arg1:T0 Arg2:T1
+T0	drug 79 90	tigecycline
+T1	drug 112 120	warfarin
+R1	advise Arg1:T0 Arg2:T1

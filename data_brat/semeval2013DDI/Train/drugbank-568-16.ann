@@ -1,0 +1,6 @@
+T0	drug 0 11	Sumatriptan
+T1	group 149 187	selective serotonin reuptake inhibitor
+T2	group 189 193	SSRI
+T3	drug 199 210	sumatriptan
+R1	effect Arg1:T1 Arg2:T3
+R2	effect Arg1:T2 Arg2:T3

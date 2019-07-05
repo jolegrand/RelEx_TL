@@ -1,0 +1,6 @@
+T0	drug 0 10	Zidovudine
+T1	drug 71 80	stavudine
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 0 10	Zidovudine
+T1	drug 71 80	stavudine
+R1	effect Arg1:T0 Arg2:T1

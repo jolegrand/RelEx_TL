@@ -1,0 +1,11 @@
+T0	drug 0 12	Erythromycin
+T1	drug 17 31	clarithromycin
+T2	group 52 73	macrolide antibiotics
+T3	drug 79 91	tetracycline
+T4	drug 105 112	digoxin
+T5	drug 151 158	digoxin
+T6	group 215 224	digitalis
+R1	mechanism Arg1:T0 Arg2:T4
+R2	mechanism Arg1:T1 Arg2:T4
+R3	mechanism Arg1:T2 Arg2:T4
+R4	mechanism Arg1:T3 Arg2:T4

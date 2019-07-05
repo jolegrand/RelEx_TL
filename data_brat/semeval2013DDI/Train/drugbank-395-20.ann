@@ -1,0 +1,4 @@
+T0	drug 0 12	Theophylline
+T1	drug 14 22	Enoxacin
+T2	group 112 127	methylxanthines
+R1	mechanism Arg1:T1 Arg2:T2

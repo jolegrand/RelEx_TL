@@ -1,0 +1,4 @@
+T0	drug 75 84	diltiazem
+T1	drug 144 154	cimetidine
+T2	drug 188 197	diltiazem
+R1	mechanism Arg1:T1 Arg2:T2

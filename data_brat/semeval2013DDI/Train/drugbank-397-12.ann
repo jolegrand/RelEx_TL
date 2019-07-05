@@ -1,0 +1,3 @@
+T0	drug 81 92	terfenadine
+T1	drug 97 109	erythromycin
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,6 @@
+T0	drug 0 11	Haloperidol
+T1	drug_n 106 114	(+)-NANM
+T2	drug_n 118 121	PCP
+T3	drug_n 250 254	NANM
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

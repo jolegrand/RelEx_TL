@@ -1,0 +1,5 @@
+T0	drug 0 13	Dexamethasone
+T1	drug 30 45	retinyl acetate
+T2	drug_n 105 108	EGF
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

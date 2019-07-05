@@ -1,0 +1,6 @@
+T0	drug 20 30	valdecoxib
+T1	drug 80 89	glyburide
+T2	drug 97 106	glyburide
+T3	drug 140 149	glyburide
+T4	drug 180 189	glyburide
+R1	mechanism Arg1:T0 Arg2:T1

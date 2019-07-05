@@ -1,0 +1,10 @@
+T0	group 6 45	beta adrenergic aerosol bronchodilators
+T1	brand 84 91	Alupent
+T2	drug 96 118	metaproterenol sulfate
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+T0	group 6 45	beta adrenergic aerosol bronchodilators
+T1	brand 84 91	Alupent
+T2	drug 96 118	metaproterenol sulfate
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

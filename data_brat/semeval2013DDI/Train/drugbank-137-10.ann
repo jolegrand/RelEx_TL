@@ -1,0 +1,5 @@
+T0	group 0 16	Anti-arrhythmics
+T1	group 21 47	tricyclic anti-depressants
+T2	drug 115 137	bepridil hydrochloride
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

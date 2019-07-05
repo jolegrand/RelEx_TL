@@ -1,0 +1,5 @@
+T0	drug 0 8	Warfarin
+T1	drug 10 21	Eszopiclone
+T2	drug 95 99;107 115	(R)-warfarin
+T3	drug 104 116	(S)-warfarin
+T4	drug 233 241	warfarin

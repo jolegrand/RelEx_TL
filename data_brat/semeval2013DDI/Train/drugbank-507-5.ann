@@ -1,0 +1,7 @@
+T0	group 0 32	Noncardioselective beta-blockers
+T1	drug 34 41	nadolol
+T2	drug 54 61	timolol
+T3	drug 104 114	guanfacine
+R1	effect Arg1:T0 Arg2:T3
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T2 Arg2:T3

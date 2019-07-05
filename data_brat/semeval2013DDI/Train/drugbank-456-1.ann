@@ -1,0 +1,27 @@
+T0	brand 52 59	TARCEVA
+T1	drug 65 77	ketoconazole
+T2	drug 142 152	atazanavir
+T3	drug 154 168	clarithromycin
+T4	drug 170 179	indinavir
+T5	drug 181 193	itraconazole
+T6	drug 195 205	nefazodone
+T7	drug 207 217	nelfinavir
+T8	drug 219 228	ritonavir
+T9	drug 230 240	saquinavir
+T10	drug 242 255	telithromycin
+T11	drug 257 271	troleandomycin
+T12	drug 273 276	TAO
+T13	drug 283 295	voriconazole
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4
+R5	advise Arg1:T0 Arg2:T5
+R6	advise Arg1:T0 Arg2:T6
+R7	advise Arg1:T0 Arg2:T7
+R8	advise Arg1:T0 Arg2:T8
+R9	advise Arg1:T0 Arg2:T9
+R10	advise Arg1:T0 Arg2:T10
+R11	advise Arg1:T0 Arg2:T11
+R12	advise Arg1:T0 Arg2:T12
+R13	advise Arg1:T0 Arg2:T13

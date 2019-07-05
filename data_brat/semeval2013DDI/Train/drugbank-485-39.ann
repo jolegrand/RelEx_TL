@@ -1,0 +1,4 @@
+T0	drug 0 10	Selegiline
+T1	group 12 47	Combination hormonal contraceptives
+T2	drug 88 98	selegiline
+R1	mechanism Arg1:T1 Arg2:T2

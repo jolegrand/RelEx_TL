@@ -1,0 +1,7 @@
+T0	drug 37 48	fluvoxamine
+T1	drug 88 99	terbinafine
+T2	drug 101 111	astemizole
+T3	drug 116 125	cisapride
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3

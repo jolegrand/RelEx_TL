@@ -1,0 +1,32 @@
+T0	brand 21 27	SUTENT
+T1	drug 70 83	dexamethasone
+T2	drug 85 94	phenytoin
+T3	drug 96 109	carbamazepine
+T4	drug 111 119	rifampin
+T5	drug 121 130	rifabutin
+T6	drug 132 142	rifapentin
+T7	drug 144 157	phenobarbital
+T8	drug 188 197	sunitinib
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4
+R5	mechanism Arg1:T0 Arg2:T5
+R6	mechanism Arg1:T0 Arg2:T6
+R7	mechanism Arg1:T0 Arg2:T7
+T0	brand 21 27	SUTENT
+T1	drug 70 83	dexamethasone
+T2	drug 85 94	phenytoin
+T3	drug 96 109	carbamazepine
+T4	drug 111 119	rifampin
+T5	drug 121 130	rifabutin
+T6	drug 132 142	rifapentin
+T7	drug 144 157	phenobarbital
+T8	drug 188 197	sunitinib
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4
+R5	mechanism Arg1:T0 Arg2:T5
+R6	mechanism Arg1:T0 Arg2:T6
+R7	mechanism Arg1:T0 Arg2:T7

@@ -1,0 +1,4 @@
+T0	group 5 19	Anticoagulants
+T1	group 53 76	COUMARIN ANTICOAGULANTS
+T2	brand 107 113	TRICOR
+R1	advise Arg1:T1 Arg2:T2

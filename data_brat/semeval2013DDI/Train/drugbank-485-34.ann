@@ -1,0 +1,3 @@
+T0	drug 0 9	Indinavir
+T1	group 54 89	combination hormonal contraceptives
+R1	mechanism Arg1:T0 Arg2:T1

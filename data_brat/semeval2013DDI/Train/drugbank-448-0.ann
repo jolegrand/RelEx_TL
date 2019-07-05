@@ -1,0 +1,3 @@
+T0	group 0 14	MAO inhibitors
+T1	group 52 66	antihistamines
+R1	effect Arg1:T0 Arg2:T1

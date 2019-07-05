@@ -1,0 +1,4 @@
+T0	group 8 16	nitrates
+T1	drug 19 29	L-arginine
+T2	drug 94 102	nitrates
+R1	effect Arg1:T1 Arg2:T2

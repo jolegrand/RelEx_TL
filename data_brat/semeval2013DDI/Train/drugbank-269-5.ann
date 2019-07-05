@@ -1,0 +1,4 @@
+T0	group 32 65	agents with b-blocking properties
+T1	drug 70 79	clonidine
+T2	group 105 121	b-blocking agent
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,6 @@
+T0	drug 0 19	Aminosalicylic acid
+T1	drug 47 54	digoxin
+T2	brand 56 63	Lanoxin
+T3	drug 65 75	Lanoxicaps
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

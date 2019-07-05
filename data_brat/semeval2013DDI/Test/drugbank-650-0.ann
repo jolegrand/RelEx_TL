@@ -1,0 +1,28 @@
+T0	group 0 20	Dopamine antagonists
+T1	group 34 46	neuroleptics
+T2	group 48 62	phenothiazines
+T3	group 64 78	butyrophenones
+T4	group 80 93	thioxanthines
+T5	drug 99 113	metoclopramide
+T6	brand 171 177	Permax
+T7	group 181 197	dopamine agonist
+R1	advise Arg1:T0 Arg2:T6
+R2	advise Arg1:T1 Arg2:T6
+R3	advise Arg1:T2 Arg2:T6
+R4	advise Arg1:T3 Arg2:T6
+R5	advise Arg1:T4 Arg2:T6
+R6	advise Arg1:T5 Arg2:T6
+T0	group 0 20	Dopamine antagonists
+T1	group 34 46	neuroleptics
+T2	group 48 62	phenothiazines
+T3	group 64 78	butyrophenones
+T4	group 80 93	thioxanthines
+T5	drug 99 113	metoclopramide
+T6	brand 171 177	Permax
+T7	group 181 197	dopamine agonist
+R1	advise Arg1:T0 Arg2:T6
+R2	advise Arg1:T1 Arg2:T6
+R3	advise Arg1:T2 Arg2:T6
+R4	advise Arg1:T3 Arg2:T6
+R5	advise Arg1:T4 Arg2:T6
+R6	advise Arg1:T5 Arg2:T6

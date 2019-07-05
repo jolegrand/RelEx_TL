@@ -1,0 +1,8 @@
+T0	drug 56 66	cimetidine
+T1	drug 101 113	trimetrexate
+T2	drug 134 147	acetaminophen
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 56 66	cimetidine
+T1	drug 101 113	trimetrexate
+T2	drug 134 147	acetaminophen
+R1	mechanism Arg1:T0 Arg2:T1

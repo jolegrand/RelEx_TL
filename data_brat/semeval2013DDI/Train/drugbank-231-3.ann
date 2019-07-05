@@ -1,0 +1,4 @@
+T0	group 33 44	salicylates
+T1	drug 64 74	furosemide
+T2	group 116 126	salicylate
+R1	effect Arg1:T0 Arg2:T1

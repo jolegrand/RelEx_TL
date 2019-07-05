@@ -1,0 +1,5 @@
+T0	drug 19 33	cholestyramine
+T1	group 94 108	anticoagulants
+T2	group 113 122	vitamin K
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

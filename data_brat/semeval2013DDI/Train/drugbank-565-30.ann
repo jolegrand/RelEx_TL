@@ -1,0 +1,4 @@
+T0	drug 30 39	diltiazem
+T1	drug 45 58	carbamazepine
+T2	drug 115 128	carbamazepine
+R1	mechanism Arg1:T0 Arg2:T1

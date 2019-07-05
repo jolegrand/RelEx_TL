@@ -1,0 +1,8 @@
+T0	brand 8 14	Nalfon
+T1	brand 93 100	aspirin
+T2	brand 119 126	aspirin
+T3	brand 162 168	Nalfon
+T4	brand 193 199	Nalfon
+T5	group 204 215	salicylates
+R1	mechanism Arg1:T2 Arg2:T3
+R2	advise Arg1:T4 Arg2:T5

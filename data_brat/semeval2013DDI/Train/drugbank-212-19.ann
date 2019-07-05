@@ -1,0 +1,4 @@
+T0	drug 0 8	Warfarin
+T1	brand 9 15	Keppra
+T2	drug 81 82;89 97	R warfarin
+T3	drug 87 97	S warfarin

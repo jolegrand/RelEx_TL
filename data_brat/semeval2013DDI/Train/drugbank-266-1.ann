@@ -1,0 +1,5 @@
+T0	brand 26 33	CASODEX
+T1	group 75 98	coumarin anticoagulants
+T2	group 168 181	anticoagulant
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

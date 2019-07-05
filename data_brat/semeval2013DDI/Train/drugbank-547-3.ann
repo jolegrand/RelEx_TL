@@ -1,0 +1,5 @@
+T0	drug 21 28	lithium
+T1	drug 98 105	lithium
+T2	brand 111 118	ATACAND
+T3	drug 151 158	lithium
+R1	mechanism Arg1:T1 Arg2:T2

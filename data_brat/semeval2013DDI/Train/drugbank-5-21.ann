@@ -1,0 +1,5 @@
+T0	brand 18 28	WELLBUTRIN
+T1	drug 66 74	levodopa
+T2	drug 78 88	amantadine
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

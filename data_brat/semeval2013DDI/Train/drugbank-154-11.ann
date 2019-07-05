@@ -1,0 +1,5 @@
+T0	brand 22 28	Nalfon
+T1	group 35 42	steroid
+T2	group 75 82	steroid
+T3	group 163 170	steroid
+R1	advise Arg1:T0 Arg2:T1

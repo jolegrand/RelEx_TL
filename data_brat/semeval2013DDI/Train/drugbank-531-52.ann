@@ -1,0 +1,4 @@
+T0	drug 37 46	efavirenz
+T1	group 57 71	contraceptives
+T2	group 184 198	contraceptives
+R1	advise Arg1:T0 Arg2:T1

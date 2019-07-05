@@ -1,0 +1,1 @@
+Medicaid claims data (1999-2005) were used to perform an observational case-control study nested within person-time exposed to warfarin in those   18 years.

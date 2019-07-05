@@ -1,0 +1,4 @@
+T0	group 0 24	Calcium Channel Blockers
+T1	brand 128 133	COREG
+T2	drug 158 167	diltiazem
+R1	effect Arg1:T1 Arg2:T2

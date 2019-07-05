@@ -1,0 +1,5 @@
+T0	brand 32 39	HEXALEN
+T1	drug 44 53	cisplatin
+T2	drug 68 78	pyridoxine
+T3	drug 112 122	pyridoxine
+R1	effect Arg1:T0 Arg2:T1

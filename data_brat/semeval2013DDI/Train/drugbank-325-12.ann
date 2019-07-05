@@ -1,0 +1,5 @@
+T0	group 23 34	vasopressor
+T1	drug 70 80	ergonovine
+T2	group 91 105	oxytocic drugs
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

@@ -1,0 +1,3 @@
+T0	drug 22 26	HCTZ
+T1	drug 34 44	dofetilide
+R1	mechanism Arg1:T0 Arg2:T1

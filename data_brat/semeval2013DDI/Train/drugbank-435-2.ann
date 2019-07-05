@@ -1,0 +1,9 @@
+T0	drug 42 52	rifampicin
+T1	drug 54 63	phenytoin
+T2	drug 65 78	carbamazepine
+T3	drug 80 93	phenobarbital
+T4	drug 154 164	exemestane
+R1	mechanism Arg1:T0 Arg2:T4
+R2	mechanism Arg1:T1 Arg2:T4
+R3	mechanism Arg1:T2 Arg2:T4
+R4	mechanism Arg1:T3 Arg2:T4

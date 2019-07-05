@@ -1,0 +1,10 @@
+T0	group 0 29	Neuromuscular blocking agents
+T1	drug 39 61	suxamethonium chloride
+T2	drug 82 104	procaine hydrochloride
+T3	group 109 138	neuromuscular blocking agents
+R1	effect Arg1:T2 Arg2:T3
+T0	group 0 29	Neuromuscular blocking agents
+T1	drug 39 61	suxamethonium chloride
+T2	drug 82 104	procaine hydrochloride
+T3	group 109 138	neuromuscular blocking agents
+R1	effect Arg1:T2 Arg2:T3

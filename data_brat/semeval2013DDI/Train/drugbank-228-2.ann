@@ -1,0 +1,9 @@
+T0	brand 58 65	Antizol
+T1	drug 135 144	phenytoin
+T2	drug 146 159	carbamazepine
+T3	drug 161 171	cimetidine
+T4	drug 173 185	ketoconazole
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4

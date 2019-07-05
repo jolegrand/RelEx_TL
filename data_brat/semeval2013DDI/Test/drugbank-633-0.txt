@@ -1,0 +1,1 @@
+Since MEXITIL is a substrate for the metabolic pathways involving CYP2D6 and CYP1A2 enzymes, inhibition or induction of either of these enzymes would be expected to alter mexiletine plasma concentrations. 

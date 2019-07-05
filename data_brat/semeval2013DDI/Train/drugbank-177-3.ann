@@ -1,0 +1,4 @@
+T0	group 18 39	vitamin K antagonists
+T1	drug 76 86	nilutamide
+T2	group 167 188	vitamin K antagonists
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,9 @@
+T0	drug 86 101	levobupivacaine
+T1	drug 156 165	phenytoin
+T2	drug 167 180	phenobarbital
+T3	drug 182 190	rifampin
+T4	drug 237 249	ketoconazole
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4

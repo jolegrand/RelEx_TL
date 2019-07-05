@@ -1,0 +1,3 @@
+T0	drug 0 13	Acetazolamide
+T1	drug 26 38	cyclosporine
+R1	mechanism Arg1:T0 Arg2:T1

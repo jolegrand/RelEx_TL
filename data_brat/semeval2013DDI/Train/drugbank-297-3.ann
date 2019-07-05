@@ -1,0 +1,4 @@
+T0	group 31 45	TNF antagonist
+T1	brand 51 58	ORENCIA
+T2	group 179 194	TNF antagonists
+R1	effect Arg1:T0 Arg2:T1

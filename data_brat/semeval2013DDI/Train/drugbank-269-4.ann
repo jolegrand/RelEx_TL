@@ -1,0 +1,4 @@
+T0	drug 0 9	Clonidine
+T1	drug 41 50	clonidine
+T2	group 56 89	agents with b-blocking properties
+R1	effect Arg1:T1 Arg2:T2

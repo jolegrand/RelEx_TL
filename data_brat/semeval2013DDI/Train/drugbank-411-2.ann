@@ -1,0 +1,14 @@
+T0	drug 0 20	Levothyroxine Sodium
+T1	drug 90 110	levothyroxine sodium
+T2	drug 144 161	aluminum hydoxide
+T3	drug 163 177	cholestyramine
+T4	drug 185 209	colestipol hydrochloride
+T5	drug 211 226	ferrous sulfate
+T6	drug 228 256	sodium polystyrene sulfonate
+T7	drug 296 306	sucralfate
+R1	mechanism Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T1 Arg2:T4
+R4	mechanism Arg1:T1 Arg2:T5
+R5	mechanism Arg1:T1 Arg2:T6
+R6	mechanism Arg1:T1 Arg2:T7

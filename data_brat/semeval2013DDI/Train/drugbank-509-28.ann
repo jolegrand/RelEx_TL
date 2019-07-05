@@ -1,0 +1,3 @@
+T0	drug 75 82	alcohol
+T1	brand 96 103	ABILIFY
+R1	advise Arg1:T0 Arg2:T1

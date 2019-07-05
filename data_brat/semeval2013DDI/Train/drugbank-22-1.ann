@@ -1,0 +1,4 @@
+T0	drug 32 39	digoxin
+T1	drug 53 72	aminosalicylic acid
+T2	drug 90 97	digoxin
+R1	advise Arg1:T0 Arg2:T1

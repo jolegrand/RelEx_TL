@@ -1,0 +1,4 @@
+T0	drug 0 11	Cyclosporin
+T1	drug 35 46	chloroquine
+T2	drug 87 98	cyclosporin
+R1	mechanism Arg1:T1 Arg2:T2

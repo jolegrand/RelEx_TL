@@ -1,0 +1,12 @@
+T0	drug 29 37	Myfortic
+T1	drug 43 57	cholestyramine
+T2	drug 204 222	activated charcoal
+T3	brand 275 283	Myfortic
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+T0	drug 29 37	Myfortic
+T1	drug 43 57	cholestyramine
+T2	drug 204 222	activated charcoal
+T3	brand 275 283	Myfortic
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

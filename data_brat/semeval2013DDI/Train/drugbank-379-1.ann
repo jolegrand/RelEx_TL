@@ -1,0 +1,15 @@
+T0	group 61 84	photosensitizing agents
+T1	drug 93 105	griseofulvin
+T2	group 107 125	thiazide diuretics
+T3	group 127 140	sulfonylureas
+T4	group 142 156	phenothiazines
+T5	group 158 170	sulfonamides
+T6	group 175 188	tetracyclines
+T7	brand 272 289	LEVULAN KERASTICK
+R1	effect Arg1:T0 Arg2:T7
+R2	effect Arg1:T1 Arg2:T7
+R3	effect Arg1:T2 Arg2:T7
+R4	effect Arg1:T3 Arg2:T7
+R5	effect Arg1:T4 Arg2:T7
+R6	effect Arg1:T5 Arg2:T7
+R7	effect Arg1:T6 Arg2:T7

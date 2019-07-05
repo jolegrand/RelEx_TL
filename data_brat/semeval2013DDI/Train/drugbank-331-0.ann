@@ -1,0 +1,3 @@
+T0	drug 125 135	bumetanide
+T1	group 156 182	aminoglycoside antibiotics
+R1	advise Arg1:T0 Arg2:T1

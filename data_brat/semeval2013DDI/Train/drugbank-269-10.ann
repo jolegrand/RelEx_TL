@@ -1,0 +1,5 @@
+T0	drug 96 108	cyclosporine
+T1	drug 165 175	carvedilol
+T2	drug 205 217	cyclosporine
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T1 Arg2:T2

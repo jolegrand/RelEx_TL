@@ -1,0 +1,28 @@
+T0	drug 17 27	Vitamin B1
+T1	drug 29 37	Thiamine
+T2	group 41 55	Loop Diuretics
+T3	group 62 76	Contraceptives
+T4	drug 78 87	Stavudine
+T5	group 89 114	Tricyclic Antidepressants
+R1	int Arg1:T0 Arg2:T2
+R2	int Arg1:T0 Arg2:T3
+R3	int Arg1:T0 Arg2:T4
+R4	int Arg1:T0 Arg2:T5
+R5	int Arg1:T1 Arg2:T2
+R6	int Arg1:T1 Arg2:T3
+R7	int Arg1:T1 Arg2:T4
+R8	int Arg1:T1 Arg2:T5
+T0	drug 17 27	Vitamin B1
+T1	drug 29 37	Thiamine
+T2	group 41 55	Loop Diuretics
+T3	group 62 76	Contraceptives
+T4	drug 78 87	Stavudine
+T5	group 89 114	Tricyclic Antidepressants
+R1	int Arg1:T0 Arg2:T2
+R2	int Arg1:T0 Arg2:T3
+R3	int Arg1:T0 Arg2:T4
+R4	int Arg1:T0 Arg2:T5
+R5	int Arg1:T1 Arg2:T2
+R6	int Arg1:T1 Arg2:T3
+R7	int Arg1:T1 Arg2:T4
+R8	int Arg1:T1 Arg2:T5

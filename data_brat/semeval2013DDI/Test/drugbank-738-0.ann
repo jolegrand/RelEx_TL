@@ -1,0 +1,6 @@
+T0	brand 35 43	VESIcare
+T1	drug 88 100	ketoconazole
+R1	advise Arg1:T0 Arg2:T1
+T0	brand 35 43	VESIcare
+T1	drug 88 100	ketoconazole
+R1	advise Arg1:T0 Arg2:T1

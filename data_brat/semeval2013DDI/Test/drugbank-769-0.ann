@@ -1,0 +1,8 @@
+T0	group 0 34	Coumarin-Derivative Anticoagulants
+T1	brand 151 158	ZOLINZA
+T2	group 178 212	coumarin-derivative anticoagulants
+R1	effect Arg1:T1 Arg2:T2
+T0	group 0 34	Coumarin-Derivative Anticoagulants
+T1	brand 151 158	ZOLINZA
+T2	group 178 212	coumarin-derivative anticoagulants
+R1	effect Arg1:T1 Arg2:T2

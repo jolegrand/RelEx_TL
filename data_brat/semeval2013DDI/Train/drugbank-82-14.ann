@@ -1,0 +1,4 @@
+T0	group 18 55	non-steroidal anti-inflammatory drugs
+T1	drug 75 87	cyclosporine
+T2	drug 128 140	cyclosporine
+R1	effect Arg1:T0 Arg2:T1

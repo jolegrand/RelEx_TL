@@ -1,0 +1,4 @@
+T0	drug 0 8	Diazepam
+T1	drug 35 46	Fluvoxamine
+T2	drug 59 67	diazepam
+R1	advise Arg1:T1 Arg2:T2

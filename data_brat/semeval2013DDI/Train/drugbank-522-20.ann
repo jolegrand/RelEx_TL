@@ -1,0 +1,5 @@
+T0	drug 0 7	Digoxin
+T1	drug 39 51	erythromycin
+T2	drug 56 63	digoxin
+T3	drug 104 111	digoxin
+R1	mechanism Arg1:T1 Arg2:T2

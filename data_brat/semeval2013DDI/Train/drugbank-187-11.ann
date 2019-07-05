@@ -1,0 +1,5 @@
+T0	drug 74 83	isoniazid
+T1	drug 88 100	theophylline
+T2	drug 137 149	theophylline
+T3	drug 213 222	isoniazid
+R1	mechanism Arg1:T0 Arg2:T1

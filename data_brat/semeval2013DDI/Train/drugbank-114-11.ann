@@ -1,0 +1,4 @@
+T0	group 29 53	Iodinated Contrast Media
+T1	drug 154 167	interleukin-2
+T2	group 223 260	radiographic iodinated contrast media
+R1	effect Arg1:T1 Arg2:T2

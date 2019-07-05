@@ -1,0 +1,7 @@
+T0	drug 0 8	Levodopa
+T1	drug 13 23	Amantadine
+T2	drug 119 128	bupropion
+T3	drug 154 162	levodopa
+T4	drug 166 176	amantadine
+R1	effect Arg1:T2 Arg2:T3
+R2	effect Arg1:T2 Arg2:T4

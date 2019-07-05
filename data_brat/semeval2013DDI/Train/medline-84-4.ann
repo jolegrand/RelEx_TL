@@ -1,0 +1,3 @@
+T0	drug_n 34 36	GL
+T1	group 47 58	antibiotics
+R1	effect Arg1:T0 Arg2:T1

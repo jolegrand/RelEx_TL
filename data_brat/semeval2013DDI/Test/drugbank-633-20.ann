@@ -1,0 +1,6 @@
+T0	drug 99 107	caffeine
+T1	brand 158 165	Mexitil
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 99 107	caffeine
+T1	brand 158 165	Mexitil
+R1	mechanism Arg1:T0 Arg2:T1

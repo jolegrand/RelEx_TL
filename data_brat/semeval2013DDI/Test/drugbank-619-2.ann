@@ -1,0 +1,6 @@
+T0	drug 38 48	meperidine
+T1	group 53 58	MAOIs
+R1	int Arg1:T0 Arg2:T1
+T0	drug 38 48	meperidine
+T1	group 53 58	MAOIs
+R1	int Arg1:T0 Arg2:T1

@@ -1,0 +1,3 @@
+T0	drug 55 66	simvastatin
+T1	drug 71 85	clarithromycin
+R1	effect Arg1:T0 Arg2:T1

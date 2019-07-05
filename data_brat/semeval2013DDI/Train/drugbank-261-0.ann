@@ -1,0 +1,4 @@
+T0	drug 0 12	Tetracycline
+T1	group 16 41	bacteriostatic antibiotic
+T2	drug 85 95	penicillin
+R1	effect Arg1:T0 Arg2:T2

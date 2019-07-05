@@ -1,0 +1,4 @@
+T0	group 0 38	Non-steroidal Anti-inflammatory Agents
+T1	group 116 153	non-steroidal anti-inflammatory drugs
+T2	drug 180 190	lisinopril
+R1	effect Arg1:T1 Arg2:T2

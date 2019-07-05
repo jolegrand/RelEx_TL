@@ -1,0 +1,8 @@
+T0	drug 22 34	cyclosporine
+T1	brand 108 116	DIFLUCAN
+T2	drug 121 133	cyclosporine
+R1	advise Arg1:T1 Arg2:T2
+T0	drug 22 34	cyclosporine
+T1	brand 108 116	DIFLUCAN
+T2	drug 121 133	cyclosporine
+R1	advise Arg1:T1 Arg2:T2

@@ -1,0 +1,12 @@
+T0	group 0 16	Curariform Drugs
+T1	group 18 26	Diuretic
+T2	group 93 109	curariform drugs
+T3	drug 119 131	tubocurarine
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3
+T0	group 0 16	Curariform Drugs
+T1	group 18 26	Diuretic
+T2	group 93 109	curariform drugs
+T3	drug 119 131	tubocurarine
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3

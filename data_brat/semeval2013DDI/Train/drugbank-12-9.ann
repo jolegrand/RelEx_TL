@@ -1,0 +1,3 @@
+T0	drug 31 41	lovastatin
+T1	group 47 55	fibrates
+R1	advise Arg1:T0 Arg2:T1

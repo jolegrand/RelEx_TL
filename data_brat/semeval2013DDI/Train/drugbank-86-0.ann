@@ -1,0 +1,18 @@
+T0	group 82 100	antipsychotic drug
+T1	drug 106 120	chlorpromazine
+T2	group 126 147	antiparkinsonian drug
+T3	drug 153 168	trihexyphenidyl
+T4	group 180 204	tricyclic antidepressant
+T5	drug 210 223	amitriptyline
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T0 Arg2:T3
+R3	effect Arg1:T0 Arg2:T4
+R4	effect Arg1:T0 Arg2:T5
+R5	effect Arg1:T1 Arg2:T2
+R6	effect Arg1:T1 Arg2:T3
+R7	effect Arg1:T1 Arg2:T4
+R8	effect Arg1:T1 Arg2:T5
+R9	effect Arg1:T2 Arg2:T4
+R10	effect Arg1:T2 Arg2:T5
+R11	effect Arg1:T3 Arg2:T4
+R12	effect Arg1:T3 Arg2:T5

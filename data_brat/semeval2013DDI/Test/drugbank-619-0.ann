@@ -1,0 +1,6 @@
+T0	drug 152 162	selegiline
+T1	drug 167 177	meperidine
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 152 162	selegiline
+T1	drug 167 177	meperidine
+R1	effect Arg1:T0 Arg2:T1

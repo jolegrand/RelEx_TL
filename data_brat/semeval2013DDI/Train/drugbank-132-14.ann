@@ -1,0 +1,5 @@
+T0	drug 30 40	diflunisal
+T1	drug 45 58	acetaminophen
+T2	drug 188 198	diflunisal
+T3	drug 199 212	acetaminophen
+R1	effect Arg1:T0 Arg2:T1

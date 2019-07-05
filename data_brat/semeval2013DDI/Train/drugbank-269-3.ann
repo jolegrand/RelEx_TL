@@ -1,0 +1,5 @@
+T0	group 53 86	agents with b-blocking properties
+T1	drug 137 146	reserpine
+T2	group 151 179	monoamine oxidase inhibitors
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

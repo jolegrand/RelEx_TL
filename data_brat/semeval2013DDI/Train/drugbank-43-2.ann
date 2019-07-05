@@ -1,0 +1,5 @@
+T0	drug 0 11	Allopurinol
+T1	drug 24 34	didanosine
+T2	drug 67 78	allopurinol
+T3	brand 141 146	VIDEX
+R1	mechanism Arg1:T2 Arg2:T3

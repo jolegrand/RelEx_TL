@@ -1,0 +1,3 @@
+T0	drug 27 38	tolbutamide
+T1	brand 74 83	Atromid-S
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,6 @@
+T0	drug 81 91	probenecid
+T1	brand 142 148	ALIMTA
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 81 91	probenecid
+T1	brand 142 148	ALIMTA
+R1	mechanism Arg1:T0 Arg2:T1

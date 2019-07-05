@@ -1,0 +1,6 @@
+T0	drug 0 9	Magnesium
+T1	drug 11 20	Magnesium
+T2	group 50 58	antacids
+T3	group 140 149	vitamin D
+R1	advise Arg1:T1 Arg2:T3
+R2	advise Arg1:T2 Arg2:T3

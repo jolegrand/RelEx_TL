@@ -1,0 +1,4 @@
+T0	group 0 15	Corticosteroids
+T1	group 72 91	vitamin D analogues
+T2	group 131 146	corticosteroids
+R1	mechanism Arg1:T1 Arg2:T2

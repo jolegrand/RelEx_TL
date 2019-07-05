@@ -1,0 +1,5 @@
+T0	drug 5 15	amiodarone
+T1	drug 28 38	flecainide
+T2	drug 55 65	flecainide
+T3	drug 124 134	flecainide
+R1	mechanism Arg1:T0 Arg2:T1

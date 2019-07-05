@@ -1,0 +1,5 @@
+T0	group 55 83	HMG-CoA reductase inhibitors
+T1	group 150 173	immunosuppressive drugs
+T2	drug 184 196	cyclosporine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

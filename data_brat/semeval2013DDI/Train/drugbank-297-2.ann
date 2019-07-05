@@ -1,0 +1,12 @@
+T0	brand 115 122	ORENCIA
+T1	drug 124 127	MTX
+T2	group 129 135	NSAIDs
+T3	group 137 152	corticosteroids
+T4	group 154 173	TNF blocking agents
+T5	drug 175 187	azathioprine
+T6	drug 189 200	chloroquine
+T7	drug 202 206	gold
+T8	drug 208 226	hydroxychloroquine
+T9	drug 228 239	leflunomide
+T10	drug 241 254	sulfasalazine
+T11	drug 260 268	anakinra

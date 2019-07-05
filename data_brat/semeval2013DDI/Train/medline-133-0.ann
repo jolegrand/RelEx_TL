@@ -1,0 +1,4 @@
+T0	drug 15 24	verapamil
+T1	drug_n 28 36	bombesin
+T2	drug_n 109 121	azoxymethane
+R1	effect Arg1:T0 Arg2:T1

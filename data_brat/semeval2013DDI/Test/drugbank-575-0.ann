@@ -1,0 +1,14 @@
+T0	drug 95 106	tolbutamide
+T1	drug 108 125	sodium salicylate
+T2	drug 130 144	sulfamethizole
+T3	drug 169 179	teniposide
+R1	mechanism Arg1:T0 Arg2:T3
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T2 Arg2:T3
+T0	drug 95 106	tolbutamide
+T1	drug 108 125	sodium salicylate
+T2	drug 130 144	sulfamethizole
+T3	drug 169 179	teniposide
+R1	mechanism Arg1:T0 Arg2:T3
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T2 Arg2:T3

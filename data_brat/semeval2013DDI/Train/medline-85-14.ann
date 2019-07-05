@@ -1,0 +1,3 @@
+T0	drug 98 102	CCNU
+T1	drug_n 119 131	misonidazole
+R1	mechanism Arg1:T0 Arg2:T1

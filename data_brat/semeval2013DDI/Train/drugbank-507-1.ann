@@ -1,0 +1,5 @@
+T0	drug 22 32	guanfacine
+T1	drug 85 98	phenobarbital
+T2	drug 102 111	phenytoin
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

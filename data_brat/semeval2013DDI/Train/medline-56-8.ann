@@ -1,0 +1,3 @@
+T0	drug 26 33	ouabain
+T1	drug_n 68 71	PTX
+R1	effect Arg1:T0 Arg2:T1

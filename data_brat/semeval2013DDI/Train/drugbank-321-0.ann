@@ -1,0 +1,5 @@
+T0	drug 0 13	Dexamethasone
+T1	drug 53 74	albendazole sulfoxide
+T2	drug 107 120	dexamethasone
+T3	drug 158 169	albendazole
+R1	mechanism Arg1:T2 Arg2:T3

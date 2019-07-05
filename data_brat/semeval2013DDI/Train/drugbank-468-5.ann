@@ -1,0 +1,5 @@
+T0	drug 0 15	Nicardipine HCl
+T1	drug 60 67	digoxin
+T2	drug 84 91	digoxin
+T3	drug 150 165	nicardipine HCl
+R1	advise Arg1:T2 Arg2:T3

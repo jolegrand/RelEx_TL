@@ -1,0 +1,10 @@
+T0	drug 0 12	Trimethoprim
+T1	drug 63 72	phenytoin
+T2	drug 108 117	phenytoin
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+T0	drug 0 12	Trimethoprim
+T1	drug 63 72	phenytoin
+T2	drug 108 117	phenytoin
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

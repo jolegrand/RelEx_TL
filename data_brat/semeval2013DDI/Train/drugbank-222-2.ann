@@ -1,0 +1,3 @@
+T0	group 6 18	barbiturates
+T1	group 42 61	anticholinesterases
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,8 @@
+T0	group 0 8	Antacids
+T1	group 12 36	H 2 receptor antagonists
+T2	drug 43 56	dirithromycin
+T3	group 95 103	antacids
+T4	group 107 132	H 2 -receptor antagonists
+T5	drug 152 165	dirithromycin
+R1	mechanism Arg1:T2 Arg2:T3
+R2	mechanism Arg1:T2 Arg2:T4

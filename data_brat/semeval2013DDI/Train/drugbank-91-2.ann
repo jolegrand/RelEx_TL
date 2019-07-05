@@ -1,0 +1,3 @@
+T0	drug 19 30	idoxuridine
+T1	drug 154 164	boric acid
+R1	advise Arg1:T0 Arg2:T1

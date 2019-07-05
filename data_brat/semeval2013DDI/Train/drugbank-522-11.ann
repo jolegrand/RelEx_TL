@@ -1,0 +1,3 @@
+T0	group 18 28	macrolides
+T1	drug 71 82	terfenadine
+R1	advise Arg1:T0 Arg2:T1

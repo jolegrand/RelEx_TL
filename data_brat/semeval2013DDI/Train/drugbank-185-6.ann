@@ -1,0 +1,5 @@
+T0	drug 10 17	dapsone
+T1	group 29 51	folic acid antagonists
+T2	drug 60 73	pyrimethamine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

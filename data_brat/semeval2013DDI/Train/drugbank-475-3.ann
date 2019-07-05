@@ -1,0 +1,4 @@
+T0	brand 47 54	aspirin
+T1	group 81 91	salicylate
+T2	drug 114 124	nizatidine
+R1	mechanism Arg1:T0 Arg2:T2

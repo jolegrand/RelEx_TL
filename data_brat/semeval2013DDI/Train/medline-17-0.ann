@@ -1,0 +1,3 @@
+T0	drug 24 45	prostaglandin F2alpha
+T1	drug 50 58	oxytocin
+R1	int Arg1:T0 Arg2:T1

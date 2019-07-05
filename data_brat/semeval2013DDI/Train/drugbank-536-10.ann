@@ -1,0 +1,5 @@
+T0	drug 34 43	metformin
+T1	drug 89 97	Acarbose
+T2	drug 141 150	metformin
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T1 Arg2:T2

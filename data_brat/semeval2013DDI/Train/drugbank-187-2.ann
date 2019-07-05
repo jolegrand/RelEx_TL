@@ -1,0 +1,4 @@
+T0	drug 0 13	Acetaminophen
+T1	drug 34 47	acetaminophen
+T2	drug 93 102	Isoniazid
+R1	effect Arg1:T1 Arg2:T2

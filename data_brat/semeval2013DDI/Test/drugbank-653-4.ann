@@ -1,0 +1,6 @@
+T0	group 0 15	Corticosteroids
+T1	brand 64 71	aspirin
+R1	mechanism Arg1:T0 Arg2:T1
+T0	group 0 15	Corticosteroids
+T1	brand 64 71	aspirin
+R1	mechanism Arg1:T0 Arg2:T1

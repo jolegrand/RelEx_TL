@@ -1,0 +1,3 @@
+T0	drug 19 41	bromocriptine mesylate
+T1	group 53 68	ergot alkaloids
+R1	advise Arg1:T0 Arg2:T1

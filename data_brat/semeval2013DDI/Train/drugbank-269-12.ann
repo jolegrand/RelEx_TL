@@ -1,0 +1,3 @@
+T0	drug 5 12	digoxin
+T1	brand 17 22	COREG
+R1	effect Arg1:T0 Arg2:T1

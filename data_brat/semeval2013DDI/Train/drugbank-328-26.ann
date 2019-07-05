@@ -1,0 +1,4 @@
+T0	brand 0 13	Anticoagulant
+T1	brand 114 120	BEXTRA
+T2	drug 143 151	warfarin
+R1	advise Arg1:T1 Arg2:T2

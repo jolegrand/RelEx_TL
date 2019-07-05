@@ -1,0 +1,4 @@
+T0	drug_n 74 80	heroin
+T1	drug 93 104	pentazocine
+T2	drug 109 123	tripelennamine
+R1	effect Arg1:T1 Arg2:T2

@@ -1,0 +1,7 @@
+T0	group 34 61	HMG-CoA reductase inhibitor
+T1	drug 184 196	ketoconazole
+T2	drug 198 212	spironolactone
+T3	drug 218 228	cimetidine
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3

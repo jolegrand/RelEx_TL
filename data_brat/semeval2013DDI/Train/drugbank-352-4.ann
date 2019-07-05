@@ -1,0 +1,3 @@
+T0	group 18 32	phenothiazines
+T1	drug 72 86	diethylpropion
+R1	effect Arg1:T0 Arg2:T1

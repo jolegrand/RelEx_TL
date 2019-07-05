@@ -1,0 +1,6 @@
+T0	drug 73 86	carbamazepine
+T1	group 112 136	tricyclic antidepressant
+T2	drug 190 203	carbamazepine
+T3	group 233 258	tricyclic antidepressants
+R1	effect Arg1:T0 Arg2:T1
+R2	advise Arg1:T2 Arg2:T3

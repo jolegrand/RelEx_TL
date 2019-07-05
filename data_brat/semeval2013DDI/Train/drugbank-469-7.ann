@@ -1,0 +1,21 @@
+T0	brand 61 69	TRACRIUM
+T1	drug 79 88	enflurane
+T2	drug 89 99	isoflurane
+T3	drug 100 109	halothane
+T4	group 118 129	antibiotics
+T5	group 146 161	aminoglycosides
+T6	group 166 176	polymyxins
+T7	drug 177 184	lithium
+T8	drug 185 194	magnesium
+T9	drug 201 213	procainamide
+T10	drug 218 227	quinidine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5
+R6	effect Arg1:T0 Arg2:T6
+R7	effect Arg1:T0 Arg2:T7
+R8	effect Arg1:T0 Arg2:T8
+R9	effect Arg1:T0 Arg2:T9
+R10	effect Arg1:T0 Arg2:T10

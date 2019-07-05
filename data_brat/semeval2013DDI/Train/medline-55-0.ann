@@ -1,0 +1,3 @@
+T0	drug 28 41	acetaminophen
+T1	drug 75 83	caffeine
+R1	effect Arg1:T0 Arg2:T1

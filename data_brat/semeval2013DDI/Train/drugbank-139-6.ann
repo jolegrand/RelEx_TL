@@ -1,0 +1,4 @@
+T0	drug 0 8	Orlistat
+T1	drug 9 17	Orlistat
+T2	group 49 58	vitamin K
+R1	mechanism Arg1:T1 Arg2:T2

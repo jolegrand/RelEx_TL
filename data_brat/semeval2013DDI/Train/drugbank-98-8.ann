@@ -1,0 +1,4 @@
+T0	drug 0 12	Ketoconazole
+T1	drug 14 26	Ketoconazole
+T2	group 79 88	vitamin D
+R1	mechanism Arg1:T1 Arg2:T2

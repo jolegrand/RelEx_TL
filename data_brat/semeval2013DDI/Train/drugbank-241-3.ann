@@ -1,0 +1,13 @@
+T0	brand 20 26	FLOLAN
+T1	drug 41 48	digoxin
+T2	group 50 59	diuretics
+T3	group 61 75	anticoagulants
+T4	group 82 94	vasodilators
+T5	drug 113 119	oxygen
+T6	drug 202 212	furosemide
+T7	drug 216 223	digoxin
+T8	brand 245 251	FLOLAN
+T9	drug 302 312	furosemide
+T10	drug 326 333	digoxin
+R1	mechanism Arg1:T6 Arg2:T8
+R2	mechanism Arg1:T7 Arg2:T8

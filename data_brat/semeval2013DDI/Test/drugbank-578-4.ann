@@ -1,0 +1,22 @@
+T0	drug 42 55	phenobarbital
+T1	drug 57 66	phenytoin
+T2	drug 72 80	rifampin
+T3	drug 111 129	methylprednisolone
+T4	drug 159 177	methylprednisolone
+R1	mechanism Arg1:T0 Arg2:T3
+R2	advise Arg1:T0 Arg2:T4
+R3	mechanism Arg1:T1 Arg2:T3
+R4	advise Arg1:T1 Arg2:T4
+R5	mechanism Arg1:T2 Arg2:T3
+R6	advise Arg1:T2 Arg2:T4
+T0	drug 42 55	phenobarbital
+T1	drug 57 66	phenytoin
+T2	drug 72 80	rifampin
+T3	drug 111 129	methylprednisolone
+T4	drug 159 177	methylprednisolone
+R1	mechanism Arg1:T0 Arg2:T3
+R2	advise Arg1:T0 Arg2:T4
+R3	mechanism Arg1:T1 Arg2:T3
+R4	advise Arg1:T1 Arg2:T4
+R5	mechanism Arg1:T2 Arg2:T3
+R6	advise Arg1:T2 Arg2:T4

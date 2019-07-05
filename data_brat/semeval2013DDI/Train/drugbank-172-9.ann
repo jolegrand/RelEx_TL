@@ -1,0 +1,4 @@
+T0	group 0 14	ACE inhibitors
+T1	group 37 43	NSAIDs
+T2	group 88 134	Angiotensin Converting Enzyme (ACE) inhibitors
+R1	effect Arg1:T1 Arg2:T2

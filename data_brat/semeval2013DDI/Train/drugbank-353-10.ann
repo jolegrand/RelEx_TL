@@ -1,0 +1,5 @@
+T0	drug 0 9	Phenytoin
+T1	drug 14 23	acitretin
+T2	drug 51 60	phenytoin
+T3	drug 85 94	phenytoin
+R1	mechanism Arg1:T1 Arg2:T2

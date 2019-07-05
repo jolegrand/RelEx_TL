@@ -1,0 +1,3 @@
+T0	group 56 65	diuretics
+T1	brand 240 248	PRINIVIL
+R1	effect Arg1:T0 Arg2:T1

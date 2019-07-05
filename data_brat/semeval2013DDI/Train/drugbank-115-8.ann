@@ -1,0 +1,5 @@
+T0	brand 58 65	Gleevec
+T1	brand 66 73	Gleevec
+T2	drug 109 120	simvastatin
+T3	brand 213 220	Gleevec
+R1	mechanism Arg1:T1 Arg2:T2

@@ -1,0 +1,3 @@
+T0	group 0 31	Phenothiazine-related compounds
+T1	group 36 67	beta-adrenergic blocking agents
+R1	mechanism Arg1:T0 Arg2:T1

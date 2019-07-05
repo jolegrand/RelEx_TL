@@ -1,0 +1,3 @@
+T0	drug 52 67	pseudoephedrine
+T1	group 95 104	digitalis
+R1	effect Arg1:T0 Arg2:T1

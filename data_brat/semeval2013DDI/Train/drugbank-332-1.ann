@@ -1,0 +1,4 @@
+T0	group 30 46	muscle relaxants
+T1	drug 48 56	doxapram
+T2	group 102 123	muscle relaxant drugs
+R1	effect Arg1:T1 Arg2:T2

@@ -1,0 +1,7 @@
+T0	drug 0 23	Clonidine hydrochloride
+T1	drug 66 73	alcohol
+T2	group 75 87	barbiturates
+T3	group 97 106	sedatives
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

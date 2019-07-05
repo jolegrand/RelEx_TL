@@ -1,0 +1,8 @@
+T0	drug 0 8	Rifampin
+T1	drug 10 18	Rifampin
+T2	brand 72 80	DIFLUCAN
+R1	mechanism Arg1:T1 Arg2:T2
+T0	drug 0 8	Rifampin
+T1	drug 10 18	Rifampin
+T2	brand 72 80	DIFLUCAN
+R1	mechanism Arg1:T1 Arg2:T2

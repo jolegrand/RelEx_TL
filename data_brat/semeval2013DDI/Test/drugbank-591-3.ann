@@ -1,0 +1,10 @@
+T0	drug 54 65	fluvoxamine
+T1	drug 112 123	Ropivacaine
+T2	drug 143 154	Ropivacaine
+T3	drug 176 187	ropivacaine
+R1	int Arg1:T0 Arg2:T1
+T0	drug 54 65	fluvoxamine
+T1	drug 112 123	Ropivacaine
+T2	drug 143 154	Ropivacaine
+T3	drug 176 187	ropivacaine
+R1	int Arg1:T0 Arg2:T1

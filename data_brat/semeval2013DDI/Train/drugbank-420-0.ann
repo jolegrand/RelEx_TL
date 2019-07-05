@@ -1,0 +1,6 @@
+T0	group 0 8	Antacids
+T1	drug 10 18	aluminum
+T2	drug 23 32	magnesium
+T3	drug 83 91	cefdinir
+T4	brand 112 121	Maalox TC
+R1	mechanism Arg1:T3 Arg2:T4

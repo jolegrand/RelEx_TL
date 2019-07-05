@@ -1,0 +1,7 @@
+T0	drug 12 26	diethylpropion
+T1	group 46 68	antihypertensive drugs
+T2	drug 76 88	guanethidine
+T3	drug 90 102	a-methyldopa
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2
+R3	int Arg1:T0 Arg2:T3

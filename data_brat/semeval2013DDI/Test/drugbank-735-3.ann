@@ -1,0 +1,8 @@
+T0	drug 0 9	Sirolimus
+T1	brand 90 98	MYCAMINE
+T2	drug 113 122	sirolimus
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 0 9	Sirolimus
+T1	brand 90 98	MYCAMINE
+T2	drug 113 122	sirolimus
+R1	mechanism Arg1:T0 Arg2:T1

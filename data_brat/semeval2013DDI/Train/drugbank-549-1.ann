@@ -1,0 +1,5 @@
+T0	drug 9 17	iloprost
+T1	group 74 86	vasodilators
+T2	group 91 114	antihypertensive agents
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

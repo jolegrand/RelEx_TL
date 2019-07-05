@@ -1,0 +1,23 @@
+T0	group 63 83	benzodiazepine class
+T1	drug 115 122	alcohol
+T2	group 124 133	narcotics
+T3	group 135 147	barbiturates
+T4	group 149 173	nonbarbiturate hypnotics
+T5	group 175 193	antianxiety agents
+T6	group 199 213;246 277	phenothiazines classes of antipsychotic agents
+T7	group 215 227;246 277	thioxanthene classes of antipsychotic agents
+T8	group 232 277	butyrophenone classes of antipsychotic agents
+T9	group 279 307	monoamine oxidase inhibitors
+T10	group 316 341	tricyclic antidepressants
+T11	group 356 376	anticonvulsant drugs
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5
+R6	effect Arg1:T0 Arg2:T6
+R7	effect Arg1:T0 Arg2:T7
+R8	effect Arg1:T0 Arg2:T8
+R9	effect Arg1:T0 Arg2:T9
+R10	effect Arg1:T0 Arg2:T10
+R11	effect Arg1:T0 Arg2:T11

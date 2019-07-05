@@ -1,0 +1,6 @@
+T0	drug 0 11	Terbinafine
+T1	drug 39 51	cyclosporine
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 0 11	Terbinafine
+T1	drug 39 51	cyclosporine
+R1	mechanism Arg1:T0 Arg2:T1

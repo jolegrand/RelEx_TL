@@ -1,0 +1,6 @@
+T0	drug 60 69	lorazepam
+T1	drug 74 87	pyrimethamine
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 60 69	lorazepam
+T1	drug 74 87	pyrimethamine
+R1	effect Arg1:T0 Arg2:T1

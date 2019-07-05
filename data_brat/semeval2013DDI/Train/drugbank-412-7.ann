@@ -1,0 +1,4 @@
+T0	drug 47 60	labetalol HCl
+T1	drug 81 90	halothane
+T2	drug 129 138	halothane
+R1	effect Arg1:T0 Arg2:T1

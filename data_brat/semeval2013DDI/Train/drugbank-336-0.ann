@@ -1,0 +1,3 @@
+T0	group 208 222	anticoagulants
+T1	drug 227 243	chlordiazepoxide
+R1	effect Arg1:T0 Arg2:T1

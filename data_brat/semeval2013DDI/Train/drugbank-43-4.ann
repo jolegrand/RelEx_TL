@@ -1,0 +1,9 @@
+T0	group 0 8	Antacids
+T1	group 40 48	antacids
+T2	drug 60 69	magnesium
+T3	drug 73 81	aluminum
+T4	brand 87 92	VIDEX
+T5	group 219 226	antacid
+R1	effect Arg1:T1 Arg2:T4
+R2	effect Arg1:T2 Arg2:T4
+R3	effect Arg1:T3 Arg2:T4

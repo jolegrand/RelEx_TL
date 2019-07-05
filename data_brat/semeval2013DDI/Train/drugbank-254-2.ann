@@ -1,0 +1,3 @@
+T0	brand 32 40	INAPSINE
+T1	group 60 80	CNS depressant drugs
+R1	advise Arg1:T0 Arg2:T1

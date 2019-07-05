@@ -1,0 +1,4 @@
+T0	group 0 18	Veratrum alkaloids
+T1	group 20 32	Amphetamines
+T2	group 67 85	veratrum alkaloids
+R1	effect Arg1:T1 Arg2:T2

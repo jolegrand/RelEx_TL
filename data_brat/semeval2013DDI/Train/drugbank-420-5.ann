@@ -1,0 +1,9 @@
+T0	group 0 16	Iron Supplements
+T1	drug 42 46	Iron
+T2	drug 77 85	cefdinir
+T3	group 105 120	iron supplement
+T4	drug 151 155	iron
+T5	group 170 178	vitamins
+T6	drug 216 220	iron
+R1	mechanism Arg1:T2 Arg2:T4
+R2	mechanism Arg1:T2 Arg2:T6

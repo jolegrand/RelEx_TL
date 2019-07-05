@@ -1,0 +1,3 @@
+T0	drug 16 27	clindamycin
+T1	drug 32 42	gentamicin
+R1	effect Arg1:T0 Arg2:T1

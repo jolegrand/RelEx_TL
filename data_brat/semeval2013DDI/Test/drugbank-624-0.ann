@@ -1,0 +1,28 @@
+T0	brand 23 27	TOBI
+T1	brand 45 49	TOBI
+T2	drug 69 81	dornase alfa
+T3	brand 83 92	PULMOZYME
+T4	group 109 124	(beta)-agonists
+T5	group 134 149	corticosteroids
+T6	group 157 185	anti-pseudomonal antibiotics
+T7	group 201 216	aminoglycosides
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T1 Arg2:T4
+R4	effect Arg1:T1 Arg2:T5
+R5	effect Arg1:T1 Arg2:T6
+R6	effect Arg1:T1 Arg2:T7
+T0	brand 23 27	TOBI
+T1	brand 45 49	TOBI
+T2	drug 69 81	dornase alfa
+T3	brand 83 92	PULMOZYME
+T4	group 109 124	(beta)-agonists
+T5	group 134 149	corticosteroids
+T6	group 157 185	anti-pseudomonal antibiotics
+T7	group 201 216	aminoglycosides
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T1 Arg2:T4
+R4	effect Arg1:T1 Arg2:T5
+R5	effect Arg1:T1 Arg2:T6
+R6	effect Arg1:T1 Arg2:T7

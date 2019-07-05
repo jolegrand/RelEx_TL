@@ -1,0 +1,10 @@
+T0	group 0 28	Short-acting Benzodiazepines
+T1	drug 63 72	midazolam
+T2	drug 74 85	fluconazole
+T3	drug 123 132	midazolam
+R1	mechanism Arg1:T1 Arg2:T2
+T0	group 0 28	Short-acting Benzodiazepines
+T1	drug 63 72	midazolam
+T2	drug 74 85	fluconazole
+T3	drug 123 132	midazolam
+R1	mechanism Arg1:T1 Arg2:T2

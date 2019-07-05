@@ -1,0 +1,4 @@
+T0	drug 0 8	Enoxacin
+T1	drug 43 55	theophylline
+T2	drug 107 119	theophylline
+R1	mechanism Arg1:T0 Arg2:T1

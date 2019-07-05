@@ -1,0 +1,8 @@
+T0	drug 27 36	midazolam
+T1	drug 181 193	cyclosporine
+T2	drug 236 246	tacrolimus
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 27 36	midazolam
+T1	drug 181 193	cyclosporine
+T2	drug 236 246	tacrolimus
+R1	mechanism Arg1:T0 Arg2:T1

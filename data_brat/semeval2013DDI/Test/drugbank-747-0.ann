@@ -1,0 +1,8 @@
+T0	group 0 12	Tetracycline
+T1	group 31 41	antibiotic
+T2	drug 85 95	penicillin
+R1	effect Arg1:T0 Arg2:T2
+T0	group 0 12	Tetracycline
+T1	group 31 41	antibiotic
+T2	drug 85 95	penicillin
+R1	effect Arg1:T0 Arg2:T2

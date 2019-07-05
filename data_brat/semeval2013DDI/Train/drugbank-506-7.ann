@@ -1,0 +1,4 @@
+T0	drug 16 38	disopyramide phosphate
+T1	drug 43 55	erythromycin
+T2	drug 116 128	disopyramide
+R1	mechanism Arg1:T0 Arg2:T1

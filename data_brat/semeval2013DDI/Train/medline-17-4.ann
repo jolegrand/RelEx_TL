@@ -1,0 +1,3 @@
+T0	drug 0 9	PGF2alpha
+T1	drug 93 101	oxytocin
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,4 @@
+T0	drug 13 22	estradiol
+T1	drug_n 56 65	endotoxin
+T2	drug_n 129 138	endotoxin
+R1	effect Arg1:T0 Arg2:T1

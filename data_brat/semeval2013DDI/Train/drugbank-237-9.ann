@@ -1,0 +1,3 @@
+T0	drug 82 91	cisapride
+T1	drug 96 108	ketoconazole
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,5 @@
+T0	drug 29 38	phenytoin
+T1	drug 42 55	carbamazepine
+T2	brand 81 87	NIMBEX
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

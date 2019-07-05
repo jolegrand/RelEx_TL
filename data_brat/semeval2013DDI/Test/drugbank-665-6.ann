@@ -1,0 +1,8 @@
+T0	group 0 10	Penicillin
+T1	drug 73 83	probenecid
+T2	group 128 139	penicillins
+R1	mechanism Arg1:T0 Arg2:T1
+T0	group 0 10	Penicillin
+T1	drug 73 83	probenecid
+T2	group 128 139	penicillins
+R1	mechanism Arg1:T0 Arg2:T1

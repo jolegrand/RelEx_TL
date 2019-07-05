@@ -1,0 +1,7 @@
+T0	brand 29 36	ENABLEX
+T1	drug 173 183	flecainide
+T2	drug 185 197	thioridazine
+T3	group 202 227	tricyclic antidepressants
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3

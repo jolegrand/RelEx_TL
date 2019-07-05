@@ -1,0 +1,6 @@
+T0	drug 8 16	busulfan
+T1	drug 86 99	acetaminophen
+T2	brand 140 148	BUSULFEX
+T3	drug 171 179	busulfan
+T4	drug 223 236	acetaminophen
+R1	mechanism Arg1:T1 Arg2:T2

@@ -1,0 +1,3 @@
+T0	group 25 48	azole antifungal agents
+T1	drug 90 99	isoniazid
+R1	mechanism Arg1:T0 Arg2:T1

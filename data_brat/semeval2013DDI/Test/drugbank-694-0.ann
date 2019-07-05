@@ -1,0 +1,8 @@
+T0	drug 0 7	Digoxin
+T1	drug 124 131	digoxin
+T2	drug 169 180	sitagliptin
+R1	mechanism Arg1:T1 Arg2:T2
+T0	drug 0 7	Digoxin
+T1	drug 124 131	digoxin
+T2	drug 169 180	sitagliptin
+R1	mechanism Arg1:T1 Arg2:T2

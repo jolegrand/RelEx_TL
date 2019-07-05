@@ -1,0 +1,45 @@
+T0	group 67 89	nondepolarizing agents
+T1	brand 98 104	NIMBEX
+T2	group 121 132	antibiotics
+T3	group 141 156	aminoglycosides
+T4	group 158 171	tetracyclines
+T5	drug 173 183	bacitracin
+T6	group 185 195	polymyxins
+T7	drug 197 207	lincomycin
+T8	drug 209 220	clindamycin
+T9	drug 222 230	colistin
+T10	drug 236 257	sodium colistemethate
+T11	group 260 269	magnesium
+T12	drug 277 284	lithium
+T13	group 292 303	anesthetics
+T14	drug 305 317	procainamide
+T15	drug 323 332	quinidine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5
+R6	effect Arg1:T0 Arg2:T6
+R7	effect Arg1:T0 Arg2:T7
+R8	effect Arg1:T0 Arg2:T8
+R9	effect Arg1:T0 Arg2:T9
+R10	effect Arg1:T0 Arg2:T10
+R11	effect Arg1:T0 Arg2:T11
+R12	effect Arg1:T0 Arg2:T12
+R13	effect Arg1:T0 Arg2:T13
+R14	effect Arg1:T0 Arg2:T14
+R15	effect Arg1:T0 Arg2:T15
+R16	effect Arg1:T1 Arg2:T2
+R17	effect Arg1:T1 Arg2:T3
+R18	effect Arg1:T1 Arg2:T4
+R19	effect Arg1:T1 Arg2:T5
+R20	effect Arg1:T1 Arg2:T6
+R21	effect Arg1:T1 Arg2:T7
+R22	effect Arg1:T1 Arg2:T8
+R23	effect Arg1:T1 Arg2:T9
+R24	effect Arg1:T1 Arg2:T10
+R25	effect Arg1:T1 Arg2:T11
+R26	effect Arg1:T1 Arg2:T12
+R27	effect Arg1:T1 Arg2:T13
+R28	effect Arg1:T1 Arg2:T14
+R29	effect Arg1:T1 Arg2:T15

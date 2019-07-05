@@ -1,0 +1,4 @@
+T0	drug 9 23	metoclopramide
+T1	drug 60 68	levodopa
+T2	drug 101 115	metoclopramide
+R1	mechanism Arg1:T0 Arg2:T1

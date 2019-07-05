@@ -1,0 +1,5 @@
+T0	drug 42 51	diltiazem
+T1	drug 144 153	midazolam
+T2	drug 158 167	triazolam
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

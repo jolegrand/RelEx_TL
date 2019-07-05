@@ -1,0 +1,3 @@
+T0	drug 100 112	fluphenazine
+T1	drug 122 131	clonidine
+R1	effect Arg1:T0 Arg2:T1

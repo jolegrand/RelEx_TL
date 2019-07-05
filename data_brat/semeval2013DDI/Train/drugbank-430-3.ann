@@ -1,0 +1,5 @@
+T0	drug 20 27	calcium
+T1	drug 38 57	multivalent cations
+T2	drug 99 110	alendronate
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T2

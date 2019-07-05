@@ -1,0 +1,4 @@
+T0	group 0 22	Anticholinergic agents
+T1	drug 33 52	ipratropium bromide
+T2	group 182 209	anticholinergic medications
+R1	effect Arg1:T1 Arg2:T2

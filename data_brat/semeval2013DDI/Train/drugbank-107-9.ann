@@ -1,0 +1,3 @@
+T0	group 66 72	NSAIDs
+T1	group 92 106	ACE inhibitors
+R1	advise Arg1:T0 Arg2:T1

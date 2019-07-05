@@ -1,0 +1,4 @@
+T0	group 0 9	Diuretics
+T1	group 23 32	diuretics
+T2	brand 203 211	Lotensin
+R1	effect Arg1:T1 Arg2:T2

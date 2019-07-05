@@ -1,0 +1,3 @@
+T0	drug 54 62	etodolac
+T1	drug 107 121	phenylbutazone
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,5 @@
+T0	drug 0 8	Naproxen
+T1	drug 37 52	naproxen sodium
+T2	brand 76 85	Neurontin
+T3	drug 129 139	gabapentin
+R1	mechanism Arg1:T1 Arg2:T2

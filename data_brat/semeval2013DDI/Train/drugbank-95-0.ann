@@ -1,0 +1,4 @@
+T0	drug 0 12	Cyclosporine
+T1	drug 15 25	L-arginine
+T2	drug 69 80	cyclosporin
+R1	effect Arg1:T1 Arg2:T2

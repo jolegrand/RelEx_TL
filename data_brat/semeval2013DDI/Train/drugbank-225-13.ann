@@ -1,0 +1,3 @@
+T0	drug 36 45	glipizide
+T1	drug 56 67	fluconazole
+R1	mechanism Arg1:T0 Arg2:T1

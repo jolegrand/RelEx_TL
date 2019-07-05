@@ -1,0 +1,14 @@
+T0	group 24 33	thiazides
+T1	group 35 50	corticosteroids
+T2	group 52 68	thyroid products
+T3	group 74 90	sympathomimetics
+T4	brand 129 136	Starlix
+T5	group 152 170	antidiabetic drugs
+R1	effect Arg1:T0 Arg2:T4
+R2	effect Arg1:T0 Arg2:T5
+R3	effect Arg1:T1 Arg2:T4
+R4	effect Arg1:T1 Arg2:T5
+R5	effect Arg1:T2 Arg2:T4
+R6	effect Arg1:T2 Arg2:T5
+R7	effect Arg1:T3 Arg2:T4
+R8	effect Arg1:T3 Arg2:T5

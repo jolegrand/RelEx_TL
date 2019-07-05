@@ -1,0 +1,6 @@
+T0	drug 19 28	rifabutin
+T1	drug 33 44	fluconazole
+R1	advise Arg1:T0 Arg2:T1
+T0	drug 19 28	rifabutin
+T1	drug 33 44	fluconazole
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,3 @@
+T0	drug 59 84	tricyclic antidepressants
+T1	drug 114 124	cimetidine
+R1	effect Arg1:T0 Arg2:T1

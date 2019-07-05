@@ -1,0 +1,19 @@
+T0	brand 51 58	VISTIDE
+T1	group 116 131	aminoglycosides
+T2	drug 139 149	tobramycin
+T3	drug 151 161	gentamicin
+T4	drug 167 175	amikacin
+T5	drug 178 192	amphotericin B
+T6	drug 194 203	foscarnet
+T7	drug 217 228	pentamidine
+T8	drug 230 240	vancomycin
+T9	group 246 284	non-steroidal anti-inflammatory agents
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4
+R5	advise Arg1:T0 Arg2:T5
+R6	advise Arg1:T0 Arg2:T6
+R7	advise Arg1:T0 Arg2:T7
+R8	advise Arg1:T0 Arg2:T8
+R9	advise Arg1:T0 Arg2:T9

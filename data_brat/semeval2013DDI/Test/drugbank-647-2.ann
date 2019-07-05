@@ -1,0 +1,6 @@
+T0	drug 19 30	doxorubicin
+T1	brand 81 88	ZANOSAR
+R1	advise Arg1:T0 Arg2:T1
+T0	drug 19 30	doxorubicin
+T1	brand 81 88	ZANOSAR
+R1	advise Arg1:T0 Arg2:T1

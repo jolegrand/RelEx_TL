@@ -1,0 +1,6 @@
+T0	group 0 9	Diuretics
+T1	drug 11 21	Diclofenac
+T2	group 32 38	NSAIDs
+T3	group 67 76	diuretics
+R1	effect Arg1:T1 Arg2:T3
+R2	effect Arg1:T2 Arg2:T3

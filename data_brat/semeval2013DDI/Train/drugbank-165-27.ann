@@ -1,0 +1,3 @@
+T0	drug 64 76	Itraconazole
+T1	group 86 105	hypoglycemic agents
+R1	advise Arg1:T0 Arg2:T1

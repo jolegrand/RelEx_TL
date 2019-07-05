@@ -1,0 +1,5 @@
+T0	drug 16 26	citalopram
+T1	drug 98 111	carbamazepine
+T2	drug 134 147	carbamazepine
+T3	drug 180 192	escitalopram
+R1	mechanism Arg1:T2 Arg2:T3

@@ -1,0 +1,5 @@
+T0	group 0 15	Anticonvulsants
+T1	drug 17 26	Phenytoin
+T2	drug 67 77	valdecoxib
+T3	drug 191 200	phenytoin
+R1	mechanism Arg1:T2 Arg2:T3

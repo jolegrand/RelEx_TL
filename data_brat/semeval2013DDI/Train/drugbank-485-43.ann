@@ -1,0 +1,5 @@
+T0	drug 0 7	ETHANOL
+T1	drug 62 70	caffeine
+T2	group 90 125	combination hormonal contraceptives
+T3	drug 153 161	caffeine
+R1	effect Arg1:T2 Arg2:T3

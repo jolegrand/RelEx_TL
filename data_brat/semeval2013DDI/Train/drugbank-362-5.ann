@@ -1,0 +1,3 @@
+T0	drug 11 23	ketoconazole
+T1	drug 76 87	ciclesonide
+R1	advise Arg1:T0 Arg2:T1

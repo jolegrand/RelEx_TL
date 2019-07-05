@@ -1,0 +1,18 @@
+T0	drug 24 26	GH
+T1	group 133 148	corticosteroids
+T2	group 150 162	sex steroids
+T3	group 164 179	anticonvulsants
+T4	drug 181 192	cyclosporin
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4
+T0	drug 24 26	GH
+T1	group 133 148	corticosteroids
+T2	group 150 162	sex steroids
+T3	group 164 179	anticonvulsants
+T4	drug 181 192	cyclosporin
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4

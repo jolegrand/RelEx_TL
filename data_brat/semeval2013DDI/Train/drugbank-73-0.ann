@@ -1,0 +1,3 @@
+T0	drug 35 44	reserpine
+T1	group 90 109	beta-blocking agent
+R1	effect Arg1:T0 Arg2:T1

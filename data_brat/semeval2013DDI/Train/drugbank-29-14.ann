@@ -1,0 +1,3 @@
+T0	drug 30 44	clarithromycin
+T1	drug 50 58	pimozide
+R1	advise Arg1:T0 Arg2:T1

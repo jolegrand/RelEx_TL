@@ -1,0 +1,4 @@
+T0	drug 0 12	Erythromycin
+T1	drug 58 68	vardenafil
+T2	drug 129 139	Vardenafil
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,4 @@
+T0	brand 92 99	Kineret
+T1	drug 104 114	etanercept
+T2	drug 211 221	etanercept
+R1	effect Arg1:T0 Arg2:T1

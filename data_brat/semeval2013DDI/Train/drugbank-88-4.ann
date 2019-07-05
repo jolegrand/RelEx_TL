@@ -1,0 +1,3 @@
+T0	group 16 50	coumarin-derivative anticoagulants
+T1	drug 70 82	capecitabine
+R1	advise Arg1:T0 Arg2:T1

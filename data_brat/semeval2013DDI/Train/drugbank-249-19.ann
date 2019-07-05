@@ -1,0 +1,9 @@
+T0	drug 0 16	Benzylpenicillin
+T1	drug 18 28	ampicillin
+T2	drug 30 39	oxacillin
+T3	drug 41 58	chlortetracycline
+T4	drug 60 71	doxycycline
+T5	drug 73 84	cephalothin
+T6	drug 86 98	erythromycin
+T7	drug 104 120	sulfamethoxazole
+T8	drug 174 184	diclofenac

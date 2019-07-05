@@ -1,0 +1,5 @@
+T0	drug 0 22	Bromocriptine mesylate
+T1	group 41 61	dopamine antagonists
+T2	group 63 77	butyrophenones
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2

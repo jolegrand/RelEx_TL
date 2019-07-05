@@ -1,0 +1,4 @@
+T0	group 9 49	Angiotensln Converting Enzyme Inhibitors
+T1	group 62 102	angiotensin converting enzyme inhibitors
+T2	drug 142 154	azathioprine
+R1	effect Arg1:T1 Arg2:T2

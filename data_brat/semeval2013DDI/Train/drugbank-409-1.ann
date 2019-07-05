@@ -1,0 +1,4 @@
+T0	group 40 58	tetracycline class
+T1	group 62 73	antibiotics
+T2	group 121 132	penicillins
+R1	effect Arg1:T0 Arg2:T2

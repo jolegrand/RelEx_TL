@@ -1,0 +1,4 @@
+T0	drug 0 12	Ketoconazole
+T1	drug 64 74	vardenafil
+T2	drug 135 145	Vardenafil
+R1	mechanism Arg1:T0 Arg2:T1

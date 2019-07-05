@@ -1,0 +1,10 @@
+T0	drug 15 29	metoclopramide
+T1	group 78 99	anticholinergic drugs
+T2	group 104 123	narcotic analgesics
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+T0	drug 15 29	metoclopramide
+T1	group 78 99	anticholinergic drugs
+T2	group 104 123	narcotic analgesics
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

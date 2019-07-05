@@ -1,0 +1,6 @@
+T0	drug 0 10	Probenecid
+T1	brand 42 49	TORADOL
+T2	drug 59 69	probenecid
+T3	drug 105 114	ketorolac
+T4	drug 144 153	ketorolac
+R1	mechanism Arg1:T1 Arg2:T2

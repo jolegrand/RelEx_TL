@@ -1,0 +1,1 @@
+ECG intervals (PR, QRS, and QT) were not affected by concurrent Mexitil    and digoxin, diuretics, or propranolol. 

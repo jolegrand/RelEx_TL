@@ -1,0 +1,3 @@
+T0	group 15 35	antidepressant drugs
+T1	group 106 125	hypoglycemic agents
+R1	int Arg1:T0 Arg2:T1

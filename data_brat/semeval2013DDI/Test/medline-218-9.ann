@@ -1,0 +1,6 @@
+T0	drug 5 16	mirtazapine
+T1	drug 57 65	warfarin
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 5 16	mirtazapine
+T1	drug 57 65	warfarin
+R1	effect Arg1:T0 Arg2:T1

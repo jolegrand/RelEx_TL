@@ -1,0 +1,5 @@
+T0	drug 0 15	Chloramphenicol
+T1	group 53 76	beta-lactam antibiotics
+T2	drug 88 99	ceftazidime
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

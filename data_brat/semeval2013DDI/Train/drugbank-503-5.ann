@@ -1,0 +1,5 @@
+T0	drug 72 87	chlorprothixene
+T1	group 102 117	benzodiazepines
+T2	group 121 132	barbituates
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

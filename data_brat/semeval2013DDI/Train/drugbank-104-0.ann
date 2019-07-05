@@ -1,0 +1,9 @@
+T0	drug 0 12	Fenfluramine
+T1	group 49 71	antihypertensive drugs
+T2	drug 79 91	guanethidine
+T3	drug 93 103	methyldopa
+T4	drug 105 114	reserpine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4

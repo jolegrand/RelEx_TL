@@ -1,0 +1,5 @@
+T0	drug 0 11	Simvastatin
+T1	group 22 29	Statins
+T2	drug 52 60	bosentan
+T3	drug 100 111	simvastatin
+R1	mechanism Arg1:T2 Arg2:T3

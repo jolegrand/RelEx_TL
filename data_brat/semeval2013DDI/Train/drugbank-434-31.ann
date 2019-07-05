@@ -1,0 +1,8 @@
+T0	drug 0 13	Carbamazepine
+T1	drug 15 28	Carbamazepine
+T2	brand 84 92	Felbatol
+T3	drug 142 155	carbamazepine
+T4	brand 240 248	Felbatol
+T5	brand 282 290	Felbatol
+R1	mechanism Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T3 Arg2:T4

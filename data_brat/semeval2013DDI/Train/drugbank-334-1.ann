@@ -1,0 +1,4 @@
+T0	brand 44 52	PRINIVIL
+T1	group 98 106	diuretic
+T2	brand 175 183	PRINIVIL
+R1	effect Arg1:T1 Arg2:T2

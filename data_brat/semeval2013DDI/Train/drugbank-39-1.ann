@@ -1,0 +1,7 @@
+T0	drug 0 10	Colchicine
+T1	drug 11 35	para-aminosalicylic acid
+T2	drug 46 53	alcohol
+T3	drug 114 125	vitamin B12
+R1	mechanism Arg1:T0 Arg2:T3
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T2 Arg2:T3

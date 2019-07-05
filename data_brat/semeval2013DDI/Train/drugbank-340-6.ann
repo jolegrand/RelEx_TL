@@ -1,0 +1,27 @@
+T0	brand 45 53	VIRACEPT
+T1	group 54 69	Antiarrhythmics
+T2	drug 71 81	amiodarone
+T3	drug 83 92	quinidine
+T4	group 93 107	Antihistamines
+T5	drug 109 119	astemizole
+T6	drug 121 132	terfenadine
+T7	group 147 164	ergot derivatives
+T8	group 165 189	Antimycobacterial agents
+T9	drug 191 199	rifampin
+T10	group 200 215	Benzodiazepines
+T11	drug 216 225	midazolam
+T12	drug 227 236	triazolam
+T13	drug 257 266	cisapride
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4
+R5	advise Arg1:T0 Arg2:T5
+R6	advise Arg1:T0 Arg2:T6
+R7	advise Arg1:T0 Arg2:T7
+R8	advise Arg1:T0 Arg2:T8
+R9	advise Arg1:T0 Arg2:T9
+R10	advise Arg1:T0 Arg2:T10
+R11	advise Arg1:T0 Arg2:T11
+R12	advise Arg1:T0 Arg2:T12
+R13	advise Arg1:T0 Arg2:T13

@@ -1,0 +1,4 @@
+T0	group 62 77	aminoglycosides
+T1	brand 106 114	MAXIPIME
+T2	group 187 213	aminoglycoside antibiotics
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,6 @@
+T0	brand 21 26	BOTOX
+T1	group 31 46	aminoglycosides
+T2	group 114 135	curare-like compounds
+T3	drug 196 201	toxin
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

@@ -1,0 +1,4 @@
+T0	drug 105 114	temazepam
+T1	group 118 132	benzodiazepine
+T2	drug 138 145	ethanol
+R1	mechanism Arg1:T0 Arg2:T2

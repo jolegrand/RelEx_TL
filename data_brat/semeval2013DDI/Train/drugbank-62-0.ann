@@ -1,0 +1,13 @@
+T0	drug 0 18	Dexbrompheniramine
+T1	drug 37 44	alcohol
+T2	group 54 69	CNS depressants
+T3	group 144 158	antihistamines
+T4	group 161 177	anticholinergics
+T5	group 323 337	antihistamines
+T6	group 344 378	monoamine oxidase (MAO) inhibitors
+T7	group 400 414	antihistamines
+T8	group 491 505	antihistamines
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2
+R3	int Arg1:T0 Arg2:T4
+R4	int Arg1:T0 Arg2:T6

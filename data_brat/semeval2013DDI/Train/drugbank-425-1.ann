@@ -1,0 +1,11 @@
+T0	group 62 88	anticonvulsant medications
+T1	drug 98 107	phenytoin
+T2	drug 113 122	primidone
+T3	drug 124 133	metformin
+T4	drug 199 212	sulfasalazine
+T5	drug 298 309	triamterene
+T6	group 313 321	diuretic
+T7	drug 323 335	Methotrexate
+T8	drug 389 400	vitamin B12
+T9	drug 405 415	folic acid
+R1	int Arg1:T8 Arg2:T9

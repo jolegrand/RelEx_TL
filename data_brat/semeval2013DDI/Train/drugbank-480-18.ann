@@ -1,0 +1,6 @@
+T0	drug 28 37	Clozapine
+T1	drug 42 55	carbamazepine
+T2	drug 131 144	carbamazepine
+T3	drug 189 198	Clozapine
+R1	advise Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T2 Arg2:T3

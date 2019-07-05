@@ -1,0 +1,6 @@
+T0	drug 10 23	cyclosporin A
+T1	drug 92 101	etoposide
+T2	drug 132 141	etoposide
+T3	drug 198 207	etoposide
+T4	drug 220 229	etoposide
+R1	mechanism Arg1:T0 Arg2:T1

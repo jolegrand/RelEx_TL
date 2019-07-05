@@ -1,0 +1,9 @@
+T0	brand 79 84	ZYVOX
+T1	group 89 108	serotonergic agents
+T2	group 120 135	antidepressants
+T3	group 144 183	selective serotonin reuptake inhibitors
+T4	group 185 190	SSRIs
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4

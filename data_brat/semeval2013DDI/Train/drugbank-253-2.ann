@@ -1,0 +1,5 @@
+T0	drug 0 30	Antiarrhythmic agents, class I
+T1	drug 40 50	flecainide
+T2	drug 52 61	lidocaine
+T3	drug 66 75	quinidine
+T4	drug 98 108	arbutamine

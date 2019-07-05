@@ -1,0 +1,7 @@
+T0	group 0 23	Coumarin Anticoagulants
+T1	drug 109 121	capecitabine
+T2	group 141 175	coumarin-derivative anticoagulants
+T3	drug 184 192	warfarin
+T4	drug 197 210	phenprocoumon
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T4

@@ -1,0 +1,4 @@
+T0	drug 0 7	Digoxin
+T1	group 14 30	calcium blockers
+T2	group 65 87	digitalis preparations
+R1	mechanism Arg1:T1 Arg2:T2

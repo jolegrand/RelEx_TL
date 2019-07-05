@@ -1,0 +1,11 @@
+T0	drug 0 29	Diphenhydramine hydrochloride
+T1	drug 56 63	alcohol
+T2	group 74 89	CNS depressants
+T3	group 91 100	hypnotics
+T4	group 102 111	sedatives
+T5	group 113 126	tranquilizers
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5

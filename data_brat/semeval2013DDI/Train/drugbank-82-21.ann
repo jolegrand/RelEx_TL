@@ -1,0 +1,4 @@
+T0	brand 0 7	INDOCIN
+T1	drug 33 40	digoxin
+T2	drug 124 131	digoxin
+R1	mechanism Arg1:T0 Arg2:T1

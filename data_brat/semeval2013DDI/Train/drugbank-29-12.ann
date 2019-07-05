@@ -1,0 +1,7 @@
+T0	drug 11 23	esomeprazole
+T1	drug 136 148	ketoconazole
+T2	drug 150 154	iron
+T3	drug 165 172	digoxin
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3

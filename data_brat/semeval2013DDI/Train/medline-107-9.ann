@@ -1,0 +1,3 @@
+T0	drug 47 54	ethanol
+T1	drug_n 128 140	acetaldehyde
+R1	effect Arg1:T0 Arg2:T1

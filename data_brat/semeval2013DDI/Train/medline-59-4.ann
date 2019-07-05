@@ -1,0 +1,3 @@
+T0	drug_n 0 14	Cytochalasin D
+T1	drug 75 84	carbachol
+R1	effect Arg1:T0 Arg2:T1

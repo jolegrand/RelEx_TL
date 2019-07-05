@@ -1,0 +1,6 @@
+T0	drug 2 11	Phenytoin
+T1	brand 19 27	Dilantin
+T2	drug 36 45	phenytoin
+T3	drug 51 64	sulfapyridine
+T4	drug 152 161	phenytoin
+R1	effect Arg1:T2 Arg2:T3

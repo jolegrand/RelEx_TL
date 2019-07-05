@@ -1,0 +1,7 @@
+T0	drug 20 32	Itraconazole
+T1	drug 37 49	cyclosporine
+T2	drug 51 61	tacrolimus
+T3	drug 65 72	digoxin
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3

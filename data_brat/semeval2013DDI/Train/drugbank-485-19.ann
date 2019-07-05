@@ -1,0 +1,4 @@
+T0	drug 0 12	Cyclosporine
+T1	group 26 49	hormonal contraceptives
+T2	drug 80 92	cyclosporine
+R1	mechanism Arg1:T1 Arg2:T2

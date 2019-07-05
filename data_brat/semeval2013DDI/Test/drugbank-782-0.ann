@@ -1,0 +1,22 @@
+T0	drug 0 9	Vindesine
+T1	drug 310 319	Phenytoin
+T2	group 353 372	Live virus vaccines
+T3	drug 412 419	vaccine
+T4	drug 526 537	Mitomycin-C
+T5	group 588 609	Killed virus vaccines
+T6	group 650 657	vaccine
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2
+R3	int Arg1:T0 Arg2:T4
+R4	int Arg1:T0 Arg2:T5
+T0	drug 0 9	Vindesine
+T1	drug 310 319	Phenytoin
+T2	group 353 372	Live virus vaccines
+T3	drug 412 419	vaccine
+T4	drug 526 537	Mitomycin-C
+T5	group 588 609	Killed virus vaccines
+T6	group 650 657	vaccine
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2
+R3	int Arg1:T0 Arg2:T4
+R4	int Arg1:T0 Arg2:T5

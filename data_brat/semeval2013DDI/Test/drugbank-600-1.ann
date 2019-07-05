@@ -1,0 +1,10 @@
+T0	drug 18 25	alcohol
+T1	group 36 66	CNS depression-producing drugs
+T2	drug 110 121	methyprylon
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2
+T0	drug 18 25	alcohol
+T1	group 36 66	CNS depression-producing drugs
+T2	drug 110 121	methyprylon
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

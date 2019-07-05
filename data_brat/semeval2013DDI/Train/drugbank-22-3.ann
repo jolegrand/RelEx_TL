@@ -1,0 +1,3 @@
+T0	drug 33 44	vitamin B12
+T1	drug 69 88	aminosalicylic acid
+R1	advise Arg1:T0 Arg2:T1

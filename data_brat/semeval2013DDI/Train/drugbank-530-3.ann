@@ -1,0 +1,4 @@
+T0	group 0 17	Neuroleptic Drugs
+T1	drug 20 35	L-phenylalanine
+T2	group 92 109	neuroleptic drugs
+R1	effect Arg1:T0 Arg2:T1

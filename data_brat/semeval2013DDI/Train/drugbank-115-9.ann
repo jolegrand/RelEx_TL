@@ -1,0 +1,5 @@
+T0	brand 53 60	Gleevec
+T1	drug 129 141	cyclosporine
+T2	drug 145 153	pimozide
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

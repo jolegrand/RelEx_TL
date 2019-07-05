@@ -1,0 +1,4 @@
+T0	drug 48 57	quinidine
+T1	drug 104 114	flecainide
+T2	drug 147 157	flecainide
+R1	mechanism Arg1:T0 Arg2:T1

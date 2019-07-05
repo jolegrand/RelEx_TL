@@ -1,0 +1,7 @@
+T0	drug 0 12	Theophylline
+T1	group 33 43	quinolones
+T2	drug 74 87	ciprofloxacin
+T3	drug 93 105	theophylline
+T4	drug 151 163	theophylline
+R1	mechanism Arg1:T1 Arg2:T3
+R2	mechanism Arg1:T2 Arg2:T3

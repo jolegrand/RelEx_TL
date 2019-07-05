@@ -1,0 +1,10 @@
+T0	drug_n 25 35	quinpirole
+T1	drug 55 66	amphetamine
+T2	drug_n 105 115	quinpirole
+T3	drug 144 155	amphetamine
+R1	effect Arg1:T0 Arg2:T1
+T0	drug_n 25 35	quinpirole
+T1	drug 55 66	amphetamine
+T2	drug_n 105 115	quinpirole
+T3	drug 144 155	amphetamine
+R1	effect Arg1:T0 Arg2:T1

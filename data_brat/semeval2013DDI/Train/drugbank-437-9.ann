@@ -1,0 +1,5 @@
+T0	drug 0 9	Methadone
+T1	drug 31 41	amprenavir
+T2	drug 46 55	methadone
+T3	drug 86 95	methadone
+R1	effect Arg1:T1 Arg2:T2

@@ -1,0 +1,15 @@
+T0	group 87 101	anticoagulants
+T1	group 103 116	blood thinner
+T2	drug 120 133	carbamazepine
+T3	drug 135 148	corticotropin
+T4	group 150 162	barbiturates
+T5	group 209 249	central nervous system (CNS) depressants
+T6	group 278 290	barbiturates
+T7	drug 340 357	divalproex sodium
+T8	drug 359 372	valproic acid
+T9	group 401 413	barbiturates
+T10	group 488 502	contraceptives
+T11	group 514 523	estrogens
+T12	group 525 537	barbiturates
+T13	group 583 597	contraceptives
+R1	effect Arg1:T12 Arg2:T13

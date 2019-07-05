@@ -1,0 +1,5 @@
+T0	drug 11 19	diazepam
+T1	drug 60 69	metamizol
+T2	drug 104 116	indomethacin
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

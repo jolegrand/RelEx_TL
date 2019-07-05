@@ -1,0 +1,6 @@
+T0	group 0 9	Vitamin A
+T1	brand 42 50	Accutane
+T2	group 54 63	vitamin A
+T3	group 107 126	vitamin supplements
+T4	group 138 147	vitamin A
+R1	effect Arg1:T1 Arg2:T2

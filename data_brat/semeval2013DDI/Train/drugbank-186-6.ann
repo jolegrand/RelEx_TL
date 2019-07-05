@@ -1,0 +1,3 @@
+T0	drug 62 70	rifampin
+T1	drug 106 117	haloperidol
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,7 @@
+T0	brand 19 27	Sensipar
+T1	drug 198 210	ketoconazole
+T2	drug 212 224	erythromycin
+T3	drug 226 238	itraconazole
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3

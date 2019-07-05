@@ -1,0 +1,5 @@
+T0	drug 35 44	Enalapril
+T1	drug 49 58	enalapril
+T2	group 97 120	thiazide-type diuretics
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

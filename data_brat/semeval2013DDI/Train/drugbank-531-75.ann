@@ -1,0 +1,3 @@
+T0	group 27 41	anticonvulsant
+T1	drug 49 58	efavirenz
+R1	mechanism Arg1:T0 Arg2:T1

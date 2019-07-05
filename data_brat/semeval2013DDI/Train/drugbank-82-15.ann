@@ -1,0 +1,3 @@
+T0	group 0 6	NSAIDs
+T1	drug 54 66	cyclosporine
+R1	advise Arg1:T0 Arg2:T1

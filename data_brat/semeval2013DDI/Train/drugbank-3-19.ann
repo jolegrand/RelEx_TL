@@ -1,0 +1,10 @@
+T0	group 0 18	Psychoactive Drugs
+T1	brand 59 66	TORADOL
+T2	group 95 113	psychoactive drugs
+T3	drug 115 125	fluoxetine
+T4	drug 127 138	thiothixene
+T5	drug 140 150	alprazolam
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T1 Arg2:T4
+R4	effect Arg1:T1 Arg2:T5

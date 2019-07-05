@@ -1,0 +1,20 @@
+T0	group 29 44	CNS depressants
+T1	group 55 64	sedatives
+T2	group 66 75	hypnotics
+T3	group 77 90	tranquilizers
+T4	group 100 111	anesthetics
+T5	group 113 127	phenothiazines
+T6	group 135 142	opioids
+T7	group 144 169	tricyclic antidepressants
+T8	group 171 205	monoamine oxidase (MAO) inhibitors
+T9	drug 211 218	alcohol
+T0	group 29 44	CNS depressants
+T1	group 55 64	sedatives
+T2	group 66 75	hypnotics
+T3	group 77 90	tranquilizers
+T4	group 100 111	anesthetics
+T5	group 113 127	phenothiazines
+T6	group 135 142	opioids
+T7	group 144 169	tricyclic antidepressants
+T8	group 171 205	monoamine oxidase (MAO) inhibitors
+T9	drug 211 218	alcohol

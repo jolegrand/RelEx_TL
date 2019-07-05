@@ -1,0 +1,23 @@
+T0	group 18 28	quinolones
+T1	group 34 42	antacids
+T2	drug 54 62	aluminum
+T3	drug 64 73	magnesium
+T4	drug 78 85	calcium
+T5	drug 92 102	sucralfate
+T6	drug 131 135	iron
+T7	group 145 158	multivitamins
+T8	drug 170 174	iron
+T9	drug 178 182	zinc
+T10	brand 255 260	VIDEX
+T11	drug 262 272	didanosine
+T12	group 394 404	quinolones
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T0 Arg2:T3
+R3	mechanism Arg1:T0 Arg2:T4
+R4	mechanism Arg1:T0 Arg2:T5
+R5	mechanism Arg1:T0 Arg2:T6
+R6	mechanism Arg1:T0 Arg2:T7
+R7	mechanism Arg1:T0 Arg2:T8
+R8	mechanism Arg1:T0 Arg2:T9
+R9	mechanism Arg1:T0 Arg2:T10
+R10	mechanism Arg1:T0 Arg2:T11

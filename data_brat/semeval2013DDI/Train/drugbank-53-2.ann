@@ -1,0 +1,4 @@
+T0	drug 30 42	azithromycin
+T1	drug 100 110	nelfinavir
+T2	drug 155 167	azithromycin
+R1	advise Arg1:T0 Arg2:T1

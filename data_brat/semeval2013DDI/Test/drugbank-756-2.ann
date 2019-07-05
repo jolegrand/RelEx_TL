@@ -1,0 +1,10 @@
+T0	drug 63 78	levomepromazine
+T1	group 93 108	benzodiazepines
+T2	group 112 124	barbiturates
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+T0	drug 63 78	levomepromazine
+T1	group 93 108	benzodiazepines
+T2	group 112 124	barbiturates
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

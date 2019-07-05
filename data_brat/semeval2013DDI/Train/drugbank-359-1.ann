@@ -1,0 +1,5 @@
+T0	brand 44 52	PEGANONE
+T1	brand 87 96	Phenurone
+T2	drug 98 109	phenacemide
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

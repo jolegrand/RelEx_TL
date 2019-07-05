@@ -1,0 +1,5 @@
+T0	brand 86 92	Lodine
+T1	drug 130 140	furosemide
+T2	group 145 154	thiazides
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

@@ -1,0 +1,8 @@
+T0	drug 0 11	Fenofibrate
+T1	drug 53 64	fenofibrate
+T2	drug 96 105	ezetimibe
+R1	mechanism Arg1:T1 Arg2:T2
+T0	drug 0 11	Fenofibrate
+T1	drug 53 64	fenofibrate
+T2	drug 96 105	ezetimibe
+R1	mechanism Arg1:T1 Arg2:T2

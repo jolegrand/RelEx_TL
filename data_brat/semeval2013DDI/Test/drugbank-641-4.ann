@@ -1,0 +1,6 @@
+T0	group 71 77	NSAIDs
+T1	brand 194 200	ALIMTA
+R1	advise Arg1:T0 Arg2:T1
+T0	group 71 77	NSAIDs
+T1	brand 194 200	ALIMTA
+R1	advise Arg1:T0 Arg2:T1

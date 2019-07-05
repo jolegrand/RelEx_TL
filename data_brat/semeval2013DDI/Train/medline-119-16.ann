@@ -1,0 +1,3 @@
+T0	drug 41 55	cholestyramine
+T1	drug 83 94	fluvastatin
+R1	effect Arg1:T0 Arg2:T1

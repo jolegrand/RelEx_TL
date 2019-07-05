@@ -1,0 +1,8 @@
+T0	group 0 31	Fat-soluble Vitamin Supplements
+T1	drug 109 122	beta-carotene
+T2	brand 182 189	XENICAL
+R1	mechanism Arg1:T1 Arg2:T2
+T0	group 0 31	Fat-soluble Vitamin Supplements
+T1	drug 109 122	beta-carotene
+T2	brand 182 189	XENICAL
+R1	mechanism Arg1:T1 Arg2:T2

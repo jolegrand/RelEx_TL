@@ -1,0 +1,5 @@
+T0	drug 33 46	anticoagulant
+T1	brand 108 115	Bezalip
+T2	brand 119 126	Bezalip
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

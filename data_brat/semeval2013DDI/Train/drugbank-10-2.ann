@@ -1,0 +1,4 @@
+T0	brand 0 9	Betaseron
+T1	drug 128 138	antipyrine
+T2	brand 211 220	Betaseron
+R1	mechanism Arg1:T0 Arg2:T1

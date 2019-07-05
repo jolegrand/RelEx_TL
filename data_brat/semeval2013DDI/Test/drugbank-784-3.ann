@@ -1,0 +1,8 @@
+T0	drug 5 24	oxybutynin chloride
+T1	brand 85 96	DITROPAN XL
+T2	drug 119 131	ketoconazole
+R1	mechanism Arg1:T1 Arg2:T2
+T0	drug 5 24	oxybutynin chloride
+T1	brand 85 96	DITROPAN XL
+T2	drug 119 131	ketoconazole
+R1	mechanism Arg1:T1 Arg2:T2

@@ -1,0 +1,3 @@
+T0	drug 42 52	guanfacine
+T1	group 73 92	CNS-depressant drug
+R1	effect Arg1:T0 Arg2:T1

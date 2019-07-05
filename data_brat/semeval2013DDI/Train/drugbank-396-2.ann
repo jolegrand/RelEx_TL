@@ -1,0 +1,7 @@
+T0	group 11 25	MAO inhibitors
+T1	group 29 54	tricyclic antidepressants
+T2	drug 60 71	hydrocodone
+T3	group 123 137	antidepressant
+T4	drug 141 152	hydrocodone
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

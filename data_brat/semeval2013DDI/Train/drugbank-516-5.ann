@@ -1,0 +1,8 @@
+T0	drug 0 9	Magnesium
+T1	drug 15 23	aluminum
+T2	group 35 43	antacids
+T3	drug 77 89	lomefloxacin
+T4	drug 144 156	lomefloxacin
+R1	mechanism Arg1:T0 Arg2:T3
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T2 Arg2:T3

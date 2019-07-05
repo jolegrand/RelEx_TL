@@ -1,0 +1,6 @@
+T0	group 50 61	anesthetics
+T1	group 63 72	sedatives
+T2	group 74 91	antianxiety drugs
+T3	group 93 102	hypnotics
+T4	drug 104 111	alcohol
+T5	group 123 140	opiate analgesics

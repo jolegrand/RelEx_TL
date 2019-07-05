@@ -1,0 +1,11 @@
+T0	brand 18 25	ENABLEX
+T1	drug 108 120	ketoconazole
+T2	drug 122 134	itraconazole
+T3	drug 136 145	ritonavir
+T4	drug 147 157	nelfinavir
+T5	drug 159 173	clarithromycin
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4
+R5	advise Arg1:T0 Arg2:T5

@@ -1,0 +1,6 @@
+T0	group 0 23	H2 Receptor Antagonists
+T1	drug 25 35	Cimetidine
+T2	drug 112 121	cisapride
+T3	drug 145 154	cisapride
+T4	drug 197 207	ranitidine
+R1	mechanism Arg1:T1 Arg2:T2

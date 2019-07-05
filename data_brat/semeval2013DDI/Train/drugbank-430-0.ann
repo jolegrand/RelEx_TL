@@ -1,0 +1,3 @@
+T0	drug 12 22	ranitidine
+T1	drug 71 82	alendronate
+R1	mechanism Arg1:T0 Arg2:T1

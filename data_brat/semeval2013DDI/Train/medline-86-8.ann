@@ -1,0 +1,4 @@
+T0	drug 25 34	diltiazem
+T1	drug 68 77	sirolimus
+T2	drug 145 154	sirolimus
+R1	mechanism Arg1:T0 Arg2:T1

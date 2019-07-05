@@ -1,0 +1,6 @@
+T0	drug 31 41	paroxetine
+T1	drug 45 55	fluoxetine
+T2	drug 68 79	atomoxetine
+T3	drug 157 168	atomoxetine
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T2

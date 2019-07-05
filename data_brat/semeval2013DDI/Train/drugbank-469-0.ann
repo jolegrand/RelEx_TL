@@ -1,0 +1,3 @@
+T0	brand 61 69	TRACRIUM
+T1	drug 79 88	enflurane
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,3 @@
+T0	drug 9 18	clonidine
+T1	group 87 98	anesthetics
+R1	effect Arg1:T0 Arg2:T1

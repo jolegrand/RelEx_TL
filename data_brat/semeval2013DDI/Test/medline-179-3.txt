@@ -1,0 +1,1 @@
+NSCLC cell lines with EGFR T790M mutation and K-ras mutation were exposed to either sunitinib or docetaxel or both based on various sequential administrations. 

@@ -1,0 +1,8 @@
+T0	drug 0 9	Cisapride
+T1	drug 103 114	fluconazole
+T2	drug 119 128	cisapride
+R1	effect Arg1:T1 Arg2:T2
+T0	drug 0 9	Cisapride
+T1	drug 103 114	fluconazole
+T2	drug 119 128	cisapride
+R1	effect Arg1:T1 Arg2:T2

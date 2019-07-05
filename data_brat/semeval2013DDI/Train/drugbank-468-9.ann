@@ -1,0 +1,3 @@
+T0	drug 25 37	cyclosporine
+T1	drug 138 149	nicardipine
+R1	advise Arg1:T0 Arg2:T1

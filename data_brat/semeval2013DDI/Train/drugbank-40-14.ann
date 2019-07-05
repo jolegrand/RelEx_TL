@@ -1,0 +1,5 @@
+T0	drug 52 61	phenytoin
+T1	drug 86 99	phenobarbital
+T2	drug 120 136	sodium valproate
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

@@ -1,0 +1,4 @@
+T0	drug 0 8	Warfarin
+T1	drug 25 33	warfarin
+T2	group 38 44	NSAIDs
+R1	effect Arg1:T1 Arg2:T2

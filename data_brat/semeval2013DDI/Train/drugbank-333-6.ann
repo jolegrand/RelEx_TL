@@ -1,0 +1,4 @@
+T0	drug 113 123	clonazepam
+T1	group 183 200	antifungal agents
+T2	drug 250 260	clonazepam
+R1	advise Arg1:T1 Arg2:T2

@@ -1,0 +1,3 @@
+T0	drug 11 21	diflunisal
+T1	brand 26 33	INDOCIN
+R1	advise Arg1:T0 Arg2:T1

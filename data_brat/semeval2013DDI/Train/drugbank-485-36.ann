@@ -1,0 +1,8 @@
+T0	drug 0 8	Rifampin
+T1	drug 10 18	Rifampin
+T2	drug 47 64	ethinyl estradiol
+T3	group 74 84	progestins
+T4	drug 86 99	norethindrone
+R1	mechanism Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T1 Arg2:T4

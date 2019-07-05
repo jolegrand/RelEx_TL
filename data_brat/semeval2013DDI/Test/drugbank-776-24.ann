@@ -1,0 +1,6 @@
+T0	drug 24 35	fluconazole
+T1	drug 72 83	terfenadine
+R1	advise Arg1:T0 Arg2:T1
+T0	drug 24 35	fluconazole
+T1	drug 72 83	terfenadine
+R1	advise Arg1:T0 Arg2:T1

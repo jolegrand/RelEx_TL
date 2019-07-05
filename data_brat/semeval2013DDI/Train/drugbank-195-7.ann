@@ -1,0 +1,3 @@
+T0	drug 67 76	tamoxifen
+T1	drug 109 120	anastrozole
+R1	advise Arg1:T0 Arg2:T1

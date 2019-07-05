@@ -1,0 +1,5 @@
+T0	drug 0 14	Cholestyramine
+T1	drug 37 51	cholestyramine
+T2	group 56 65	vitamin K
+T3	group 95 104	vitamin K
+R1	mechanism Arg1:T1 Arg2:T2

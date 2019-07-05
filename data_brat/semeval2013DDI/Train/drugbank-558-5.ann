@@ -1,0 +1,10 @@
+T0	brand 22 29	TIKOSYN
+T1	group 34 44	anti-ulcer
+T2	drug 75 85	omeprazole
+T3	drug 87 97	ranitidine
+T4	group 102 110	antacids
+T5	drug 112 120;135 144	aluminum hydroxide
+T6	drug 125 144	magnesium hydroxide
+T7	drug 174 184	cimetidine
+T8	brand 251 258	TIKOSYN
+R1	advise Arg1:T0 Arg2:T7

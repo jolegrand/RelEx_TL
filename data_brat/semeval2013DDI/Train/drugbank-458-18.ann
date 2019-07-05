@@ -1,0 +1,3 @@
+T0	drug 39 46	digoxin
+T1	drug 84 96	ketoconazole
+R1	advise Arg1:T0 Arg2:T1

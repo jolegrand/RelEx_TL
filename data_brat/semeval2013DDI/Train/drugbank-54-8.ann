@@ -1,0 +1,7 @@
+T0	drug 0 14	Cholestyramine
+T1	drug 16 30	Cholestyramine
+T2	drug 42 44	T4
+T3	drug 49 51	T3
+T4	group 105 121	thyroid hormones
+R1	mechanism Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T3

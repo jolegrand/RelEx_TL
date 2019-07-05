@@ -1,0 +1,9 @@
+T0	drug 74 84	vancomycin
+T1	drug 86 95	cefazolin
+T2	drug 97 107	ampicillin
+T3	drug 109 119	ampicillin
+T4	drug 135 146	ceftazidime
+T5	drug 148 158	gentamicin
+T6	drug 164 176	amphotericin
+T7	group 230 241	antibiotics
+T8	brand 247 256	EXTRANEAL

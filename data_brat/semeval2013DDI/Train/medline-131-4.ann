@@ -1,0 +1,3 @@
+T0	drug_n 17 28	neurotensin
+T1	drug_n 33 40	tuftsin
+R1	effect Arg1:T0 Arg2:T1

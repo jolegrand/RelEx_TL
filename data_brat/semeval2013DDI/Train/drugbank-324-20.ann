@@ -1,0 +1,4 @@
+T0	drug 42 50	zaleplon
+T1	drug 56 68	erythromycin
+T2	drug 167 175	zaleplon
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,7 @@
+T0	group 73 87	cephalosporins
+T1	group 93 119	aminoglycoside antibiotics
+T2	group 130 139	diuretics
+T3	drug 148 158	furosemide
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

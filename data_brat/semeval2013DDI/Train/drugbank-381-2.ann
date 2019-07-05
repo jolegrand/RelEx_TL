@@ -1,0 +1,5 @@
+T0	drug 118 128	levamisole
+T1	drug 133 148	warfarin sodium
+T2	drug 232 247	warfarin sodium
+T3	group 257 265	coumarin
+R1	advise Arg1:T0 Arg2:T1

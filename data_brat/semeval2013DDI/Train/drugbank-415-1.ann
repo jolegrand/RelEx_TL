@@ -1,0 +1,8 @@
+T0	drug 49 58	ibuprofen
+T1	group 69 106	nonsteroidal anti-inflammatory agents
+T2	group 145 173	coumarin-type anticoagulants
+T3	drug 227 236	ibuprofen
+T4	group 252 266	anticoagulants
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2
+R3	advise Arg1:T3 Arg2:T4

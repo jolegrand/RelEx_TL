@@ -1,0 +1,4 @@
+T0	drug 64 74	ketoprofen
+T1	drug 142 152	ketoprofen
+T2	drug 157 165	warfarin
+R1	advise Arg1:T1 Arg2:T2

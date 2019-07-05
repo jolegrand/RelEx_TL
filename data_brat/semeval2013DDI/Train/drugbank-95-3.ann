@@ -1,0 +1,4 @@
+T0	drug 0 18	Sildenafil citrate
+T1	drug 36 46	L-arginine
+T2	drug 84 102	sildenafil citrate
+R1	effect Arg1:T1 Arg2:T2

@@ -1,0 +1,12 @@
+T0	brand 5 13	CANCIDAS
+T1	drug 74 83	efavirenz
+T2	drug 85 95	nevirapine
+T3	drug 97 106	phenytoin
+T4	drug 108 121	dexamethasone
+T5	drug 126 139	carbamazepine
+T6	brand 173 181	CANCIDAS
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4
+R5	advise Arg1:T0 Arg2:T5

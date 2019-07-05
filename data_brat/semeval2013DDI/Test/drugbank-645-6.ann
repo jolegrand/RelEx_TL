@@ -1,0 +1,8 @@
+T0	drug 119 130	terbinafine
+T1	drug 135 143	warfarin
+T2	brand 184 191	LAMISIL
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 119 130	terbinafine
+T1	drug 135 143	warfarin
+T2	brand 184 191	LAMISIL
+R1	effect Arg1:T0 Arg2:T1

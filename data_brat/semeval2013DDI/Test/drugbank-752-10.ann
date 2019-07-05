@@ -1,0 +1,38 @@
+T0	brand 23 35	VERSED Syrup
+T1	group 153 162	narcotics
+T2	drug 168 176	morphine
+T3	drug 178 188	meperidine
+T4	drug 193 201	fentanyl
+T5	drug 204 212	propofol
+T6	drug 214 222	ketamine
+T7	drug 224 237	nitrous oxide
+T8	drug 239 251	secobarbital
+T9	drug 256 266	droperidol
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5
+R6	effect Arg1:T0 Arg2:T6
+R7	effect Arg1:T0 Arg2:T7
+R8	effect Arg1:T0 Arg2:T8
+R9	effect Arg1:T0 Arg2:T9
+T0	brand 23 35	VERSED Syrup
+T1	group 153 162	narcotics
+T2	drug 168 176	morphine
+T3	drug 178 188	meperidine
+T4	drug 193 201	fentanyl
+T5	drug 204 212	propofol
+T6	drug 214 222	ketamine
+T7	drug 224 237	nitrous oxide
+T8	drug 239 251	secobarbital
+T9	drug 256 266	droperidol
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5
+R6	effect Arg1:T0 Arg2:T6
+R7	effect Arg1:T0 Arg2:T7
+R8	effect Arg1:T0 Arg2:T8
+R9	effect Arg1:T0 Arg2:T9

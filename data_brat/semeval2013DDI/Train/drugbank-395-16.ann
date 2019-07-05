@@ -1,0 +1,4 @@
+T0	group 8 21	multivitamins
+T1	drug 33 37	zinc
+T2	group 132 141	quinolone
+R1	mechanism Arg1:T1 Arg2:T2

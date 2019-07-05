@@ -1,0 +1,5 @@
+T0	drug 47 57	omeprazole
+T1	drug 62 74	erythromycin
+T2	drug 124 134	cilostazol
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T2

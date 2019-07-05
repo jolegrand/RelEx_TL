@@ -1,0 +1,3 @@
+T0	drug 62 72	Vardenafil
+T1	drug 128 137	ritonavir
+R1	advise Arg1:T0 Arg2:T1

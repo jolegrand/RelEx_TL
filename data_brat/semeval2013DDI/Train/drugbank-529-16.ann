@@ -1,0 +1,5 @@
+T0	group 6 42	nonsteroidal anti-inflammatory drugs
+T1	group 114 132	thiazide diuretics
+T2	group 158 185	potassium-sparing diuretics
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

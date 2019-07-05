@@ -1,0 +1,3 @@
+T0	drug 57 67	nifedipine
+T1	drug 69 79	Vardenafil
+R1	effect Arg1:T0 Arg2:T1

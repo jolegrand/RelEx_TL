@@ -1,0 +1,4 @@
+T0	drug 0 13	Carbamazepine
+T1	drug 24 37	carbamazepine
+T2	brand 97 103	SUPRAX
+R1	mechanism Arg1:T1 Arg2:T2

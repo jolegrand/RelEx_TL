@@ -1,0 +1,35 @@
+T0	drug 67 87	levothyroxine sodium
+T1	group 169 178	androgens
+T2	group 191 208	anabolic hormones
+T3	drug 210 222	asparaginase
+T4	drug 224 234	clofibrate
+T5	group 236 245	estrogens
+T6	group 250 279	estrogen-containing compounds
+T7	drug 281 295	5-fluorouracil
+T8	drug 297 307	furosemide
+T9	group 309 324	glucocorticoids
+T10	drug 326 343	meclofenamic acid
+T11	drug 345 359	mefenamic acid
+T12	drug 361 370	methadone
+T13	drug 372 384	perphenazine
+T14	drug 386 400	phenylbutazone
+T15	drug 402 411	phenytoin
+T16	group 413 424	salicylates
+T17	drug 426 435	tamoxifen
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4
+R5	mechanism Arg1:T0 Arg2:T5
+R6	mechanism Arg1:T0 Arg2:T6
+R7	mechanism Arg1:T0 Arg2:T7
+R8	mechanism Arg1:T0 Arg2:T8
+R9	mechanism Arg1:T0 Arg2:T9
+R10	mechanism Arg1:T0 Arg2:T10
+R11	mechanism Arg1:T0 Arg2:T11
+R12	mechanism Arg1:T0 Arg2:T12
+R13	mechanism Arg1:T0 Arg2:T13
+R14	mechanism Arg1:T0 Arg2:T14
+R15	mechanism Arg1:T0 Arg2:T15
+R16	mechanism Arg1:T0 Arg2:T16
+R17	mechanism Arg1:T0 Arg2:T17

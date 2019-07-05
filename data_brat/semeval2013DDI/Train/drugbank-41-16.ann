@@ -1,0 +1,4 @@
+T0	drug 0 8	Warfarin
+T1	brand 62 67	ARAVA
+T2	drug 72 80	warfarin
+R1	effect Arg1:T1 Arg2:T2

@@ -1,0 +1,11 @@
+T0	group 6 26	CNS depressant drugs
+T1	group 33 45	barbiturates
+T2	group 47 60	tranquilizers
+T3	group 62 69	opioids
+T4	group 82 93	anesthetics
+T5	brand 138 146	INAPSINE
+R1	effect Arg1:T0 Arg2:T5
+R2	effect Arg1:T1 Arg2:T5
+R3	effect Arg1:T2 Arg2:T5
+R4	effect Arg1:T3 Arg2:T5
+R5	effect Arg1:T4 Arg2:T5

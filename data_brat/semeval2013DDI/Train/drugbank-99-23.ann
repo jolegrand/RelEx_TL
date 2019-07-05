@@ -1,0 +1,5 @@
+T0	drug 30 55	tricyclic antidepressants
+T1	drug 121 136	anticholinergic
+T2	drug 162 172	cimetidine
+T3	drug 190 194	drug
+R1	mechanism Arg1:T0 Arg2:T2

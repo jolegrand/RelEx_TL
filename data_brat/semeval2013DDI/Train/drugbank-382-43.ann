@@ -1,0 +1,6 @@
+T0	drug 0 10	Paroxetine
+T1	drug 52 62	aprepitant
+T2	drug 151 161	paroxetine
+T3	drug 270 280	aprepitant
+T4	drug 285 295	paroxetine
+R1	mechanism Arg1:T1 Arg2:T2

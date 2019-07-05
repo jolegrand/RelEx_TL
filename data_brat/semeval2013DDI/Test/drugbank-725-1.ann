@@ -1,0 +1,12 @@
+T0	group 0 14	MAO Inhibitors
+T1	group 38 68	sympathomimetic pressor amines
+T2	group 115 143	monoamine oxidase inhibitors
+T3	group 145 149	MAOI
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3
+T0	group 0 14	MAO Inhibitors
+T1	group 38 68	sympathomimetic pressor amines
+T2	group 115 143	monoamine oxidase inhibitors
+T3	group 145 149	MAOI
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3

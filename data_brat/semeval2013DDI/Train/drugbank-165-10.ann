@@ -1,0 +1,3 @@
+T0	drug 40 52	Itraconazole
+T1	drug 58 67	cisapride
+R1	advise Arg1:T0 Arg2:T1

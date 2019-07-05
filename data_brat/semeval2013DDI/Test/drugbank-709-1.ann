@@ -1,0 +1,14 @@
+T0	drug 48 59	Terfenadine
+T1	drug 64 74	astemizole
+T2	group 84 94	macrolides
+T3	drug 109 120	terfenadine
+T4	drug 125 135	astemizole
+R1	int Arg1:T2 Arg2:T3
+R2	int Arg1:T2 Arg2:T4
+T0	drug 48 59	Terfenadine
+T1	drug 64 74	astemizole
+T2	group 84 94	macrolides
+T3	drug 109 120	terfenadine
+T4	drug 125 135	astemizole
+R1	int Arg1:T2 Arg2:T3
+R2	int Arg1:T2 Arg2:T4

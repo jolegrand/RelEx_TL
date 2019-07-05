@@ -1,0 +1,5 @@
+T0	drug 35 44	enflurane
+T1	drug 48 58	isoflurane
+T2	brand 159 165	NIMBEX
+R1	advise Arg1:T0 Arg2:T2
+R2	advise Arg1:T1 Arg2:T2

@@ -1,0 +1,8 @@
+T0	drug 15 24	midazolam
+T1	drug 88 99	fluconazole
+T2	drug 110 121	fluconazole
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 15 24	midazolam
+T1	drug 88 99	fluconazole
+T2	drug 110 121	fluconazole
+R1	effect Arg1:T0 Arg2:T1

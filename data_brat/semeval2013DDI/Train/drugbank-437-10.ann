@@ -1,0 +1,4 @@
+T0	drug 20 30	amprenavir
+T1	drug 35 44	methadone
+T2	drug 148 158	amprenavir
+R1	mechanism Arg1:T0 Arg2:T1

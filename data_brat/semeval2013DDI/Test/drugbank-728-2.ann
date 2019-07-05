@@ -1,0 +1,6 @@
+T0	drug 13 17	5-FU
+T1	brand 104 112	ELOXATIN
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 13 17	5-FU
+T1	brand 104 112	ELOXATIN
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,5 @@
+T0	drug 71 82	ciclesonide
+T1	drug 92 104	ketoconazole
+T2	drug 181 196	des-ciclesonide
+T3	drug 256 267	ciclesonide
+R1	mechanism Arg1:T0 Arg2:T1

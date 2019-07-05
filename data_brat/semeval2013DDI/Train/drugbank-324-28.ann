@@ -1,0 +1,4 @@
+T0	drug 52 62	Cimetidine
+T1	drug 64 74	Cimetidine
+T2	drug 217 225	zaleplon
+R1	mechanism Arg1:T1 Arg2:T2

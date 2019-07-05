@@ -1,0 +1,5 @@
+T0	brand 16 21	REVIA
+T1	group 43 49	opioid
+T2	group 141 158	opioid analgesics
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

@@ -1,0 +1,8 @@
+T0	drug 0 8	Warfarin
+T1	drug 10 17	Digoxin
+T2	group 19 29	Salicylate
+T3	drug 35 42	Heparin
+T4	drug 67 75	warfarin
+T5	drug 123 145	ketorolac tromethamine
+T6	drug 176 185	ketorolac
+R1	mechanism Arg1:T4 Arg2:T5

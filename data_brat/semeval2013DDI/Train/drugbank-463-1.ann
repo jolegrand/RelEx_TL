@@ -1,0 +1,5 @@
+T0	drug 59 82	trazodone hydrochloride
+T1	brand 84 91	Desyrel
+T2	drug 97 110	buspirone HCl
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

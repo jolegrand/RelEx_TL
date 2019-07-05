@@ -1,0 +1,3 @@
+T0	drug_n 53 57	lead
+T1	drug 129 136	alcohol
+R1	effect Arg1:T0 Arg2:T1

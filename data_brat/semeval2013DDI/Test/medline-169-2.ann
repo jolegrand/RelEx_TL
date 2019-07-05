@@ -1,0 +1,8 @@
+T0	drug 28 35	calcium
+T1	drug 46 50	iron
+T2	drug 123 130	calcium
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 28 35	calcium
+T1	drug 46 50	iron
+T2	drug 123 130	calcium
+R1	mechanism Arg1:T0 Arg2:T1

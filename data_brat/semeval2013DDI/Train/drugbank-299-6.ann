@@ -1,0 +1,13 @@
+T0	group 0 39	Selective Serotonin Reuptake Inhibitors
+T1	group 41 46	SSRIs
+T2	group 49 54	SSRIs
+T3	drug 62 72	fluoxetine
+T4	drug 74 85	fluvoxamine
+T5	drug 87 97	paroxetine
+T6	drug 99 109	sertraline
+T7	group 215 229	5-HT1 agonists
+R1	effect Arg1:T2 Arg2:T7
+R2	effect Arg1:T3 Arg2:T7
+R3	effect Arg1:T4 Arg2:T7
+R4	effect Arg1:T5 Arg2:T7
+R5	effect Arg1:T6 Arg2:T7

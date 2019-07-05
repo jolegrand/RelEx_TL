@@ -1,0 +1,3 @@
+T0	brand 29 36	aspirin
+T1	drug 41 51	ketoprofen
+R1	advise Arg1:T0 Arg2:T1

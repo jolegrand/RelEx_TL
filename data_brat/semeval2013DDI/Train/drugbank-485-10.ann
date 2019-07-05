@@ -1,0 +1,4 @@
+T0	group 0 14	Anticoagulants
+T1	group 28 51	hormonal contraceptives
+T2	group 92 112	coumarin derivatives
+R1	effect Arg1:T1 Arg2:T2

@@ -1,0 +1,6 @@
+T0	group 39 53	contraceptives
+T1	brand 80 88	Myfortic
+R1	advise Arg1:T0 Arg2:T1
+T0	group 39 53	contraceptives
+T1	brand 80 88	Myfortic
+R1	advise Arg1:T0 Arg2:T1

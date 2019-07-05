@@ -1,0 +1,5 @@
+T0	drug 0 15	Chloral hydrate
+T1	drug 20 32	methaqualone
+T2	group 85 105	anticoagulant agents
+R1	int Arg1:T0 Arg2:T2
+R2	int Arg1:T1 Arg2:T2

@@ -1,0 +1,5 @@
+T0	brand 16 23	Factrel
+T1	group 42 56	phenothiazines
+T2	group 61 81	dopamine antagonists
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

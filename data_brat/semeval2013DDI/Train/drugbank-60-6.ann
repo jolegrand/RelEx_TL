@@ -1,0 +1,12 @@
+T0	drug 0 10	Isoflurane
+T1	drug 14 23	enflurane
+T2	drug 42 55	nitrous oxide
+T3	drug 56 62	oxygen
+T4	brand 208 214	NIMBEX
+T5	brand 258 264	NIMBEX
+R1	effect Arg1:T0 Arg2:T4
+R2	effect Arg1:T0 Arg2:T5
+R3	effect Arg1:T1 Arg2:T4
+R4	effect Arg1:T1 Arg2:T5
+R5	effect Arg1:T2 Arg2:T4
+R6	effect Arg1:T2 Arg2:T5

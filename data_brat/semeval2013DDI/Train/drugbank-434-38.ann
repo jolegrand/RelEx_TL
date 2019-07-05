@@ -1,0 +1,4 @@
+T0	drug 0 9	Felbamate
+T1	drug 54 63	gestodene
+T2	drug 158 175	ethinyl estradiol
+R1	mechanism Arg1:T0 Arg2:T1

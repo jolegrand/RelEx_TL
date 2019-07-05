@@ -1,0 +1,4 @@
+T0	drug 0 10	Tolazamide
+T1	drug 104 114	tolazamide
+T2	drug 156 163	doxepin
+R1	effect Arg1:T1 Arg2:T2

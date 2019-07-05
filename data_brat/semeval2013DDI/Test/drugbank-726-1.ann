@@ -1,0 +1,56 @@
+T0	drug 62 74	ketoconazole
+T1	drug 97 109	paricalcitol
+T2	drug 126 138	paricalcitol
+T3	drug 177 189	ketoconazole
+T4	drug 291 303	paricalcitol
+T5	drug 309 321	ketoconazole
+T6	drug 368 378	atazanavir
+T7	drug 380 394	clarithromycin
+T8	drug 396 405	indinavir
+T9	drug 407 419	itraconazole
+T10	drug 421 431	nefazodone
+T11	drug 433 443	nelfinavir
+T12	drug 445 454	ritonavir
+T13	drug 456 466	saquinavir
+T14	drug 468 481	telithromycin
+T15	drug 485 497	voriconazole
+R1	mechanism Arg1:T0 Arg2:T1
+R2	advise Arg1:T4 Arg2:T5
+R3	advise Arg1:T4 Arg2:T6
+R4	advise Arg1:T4 Arg2:T7
+R5	advise Arg1:T4 Arg2:T8
+R6	advise Arg1:T4 Arg2:T9
+R7	advise Arg1:T4 Arg2:T10
+R8	advise Arg1:T4 Arg2:T11
+R9	advise Arg1:T4 Arg2:T12
+R10	advise Arg1:T4 Arg2:T13
+R11	advise Arg1:T4 Arg2:T14
+R12	advise Arg1:T4 Arg2:T15
+T0	drug 62 74	ketoconazole
+T1	drug 97 109	paricalcitol
+T2	drug 126 138	paricalcitol
+T3	drug 177 189	ketoconazole
+T4	drug 291 303	paricalcitol
+T5	drug 309 321	ketoconazole
+T6	drug 368 378	atazanavir
+T7	drug 380 394	clarithromycin
+T8	drug 396 405	indinavir
+T9	drug 407 419	itraconazole
+T10	drug 421 431	nefazodone
+T11	drug 433 443	nelfinavir
+T12	drug 445 454	ritonavir
+T13	drug 456 466	saquinavir
+T14	drug 468 481	telithromycin
+T15	drug 485 497	voriconazole
+R1	mechanism Arg1:T0 Arg2:T1
+R2	advise Arg1:T4 Arg2:T5
+R3	advise Arg1:T4 Arg2:T6
+R4	advise Arg1:T4 Arg2:T7
+R5	advise Arg1:T4 Arg2:T8
+R6	advise Arg1:T4 Arg2:T9
+R7	advise Arg1:T4 Arg2:T10
+R8	advise Arg1:T4 Arg2:T11
+R9	advise Arg1:T4 Arg2:T12
+R10	advise Arg1:T4 Arg2:T13
+R11	advise Arg1:T4 Arg2:T14
+R12	advise Arg1:T4 Arg2:T15

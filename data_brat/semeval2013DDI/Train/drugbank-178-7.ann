@@ -1,0 +1,5 @@
+T0	drug 31 40	glyburide
+T1	drug 45 58	ciprofloxacin
+T2	group 62 88	fluoroquinolone antibiotic
+T3	drug 167 176	glyburide
+R1	int Arg1:T0 Arg2:T1

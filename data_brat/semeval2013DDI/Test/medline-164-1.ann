@@ -1,0 +1,10 @@
+T0	drug 41 50	lapatinib
+T1	brand 65 74	Herceptin
+T2	drug 133 142	lapatinib
+T3	brand 167 176	Herceptin
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 41 50	lapatinib
+T1	brand 65 74	Herceptin
+T2	drug 133 142	lapatinib
+T3	brand 167 176	Herceptin
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,4 @@
+T0	drug 5 18	carbamazepine
+T1	drug 31 43	aripiprazole
+T2	drug 53 65	aripiprazole
+R1	advise Arg1:T0 Arg2:T1

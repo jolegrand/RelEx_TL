@@ -1,0 +1,11 @@
+T0	group 0 32	Dopamine D2 receptor antagonists
+T1	group 40 54	phenothiazines
+T2	group 56 70	butyrophenones
+T3	drug 72 83	risperidone
+T4	drug 89 98	isoniazid
+T5	drug 137 145	levodopa
+R1	effect Arg1:T0 Arg2:T5
+R2	effect Arg1:T1 Arg2:T5
+R3	effect Arg1:T2 Arg2:T5
+R4	effect Arg1:T3 Arg2:T5
+R5	effect Arg1:T4 Arg2:T5

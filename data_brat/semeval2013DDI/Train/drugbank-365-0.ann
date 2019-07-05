@@ -1,0 +1,4 @@
+T0	drug 0 27	Medroxyprogesterone Acetate
+T1	drug 30 41	L-histidine
+T2	drug 100 127	medroxyprogesterone acetate
+R1	effect Arg1:T1 Arg2:T2

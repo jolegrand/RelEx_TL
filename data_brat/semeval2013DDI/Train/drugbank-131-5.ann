@@ -1,0 +1,6 @@
+T0	drug 120 130	Alprazolam
+T1	drug 184 194	alprazolam
+T2	drug 217 227	fluoxetine
+T3	drug 233 243	alprazolam
+T4	drug 290 300	alprazolam
+R1	mechanism Arg1:T2 Arg2:T3

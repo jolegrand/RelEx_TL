@@ -1,0 +1,6 @@
+T0	drug 64 76	erythromycin
+T1	drug 100 109	cisapride
+T2	drug 289 298	cisapride
+T3	drug 302 314	erythromycin
+R1	effect Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T2 Arg2:T3

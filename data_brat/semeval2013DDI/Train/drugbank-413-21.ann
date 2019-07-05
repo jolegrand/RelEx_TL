@@ -1,0 +1,3 @@
+T0	drug 73 84	allopurinol
+T1	drug 89 103	chlorpropamide
+R1	effect Arg1:T0 Arg2:T1

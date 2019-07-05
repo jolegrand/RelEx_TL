@@ -1,0 +1,5 @@
+T0	drug 65 75	pyridoxine
+T1	brand 108 115	HEXALEN
+T2	drug 123 132	cisplatin
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

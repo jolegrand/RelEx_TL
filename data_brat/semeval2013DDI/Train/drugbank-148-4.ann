@@ -1,0 +1,3 @@
+T0	drug 32 42	Argatroban
+T1	drug 47 55	warfarin
+R1	effect Arg1:T0 Arg2:T1

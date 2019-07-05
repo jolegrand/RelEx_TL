@@ -1,0 +1,6 @@
+T0	drug 33 44	ropivacaine
+T1	drug 91 102	fluvoxamine
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 33 44	ropivacaine
+T1	drug 91 102	fluvoxamine
+R1	mechanism Arg1:T0 Arg2:T1

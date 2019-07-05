@@ -1,0 +1,3 @@
+T0	drug 78 89	fluvoxamine
+T1	drug 176 186	anagrelide
+R1	mechanism Arg1:T0 Arg2:T1

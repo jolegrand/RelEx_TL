@@ -1,0 +1,4 @@
+T0	drug 33 43	nevirapine
+T1	group 52 72	antithrombotic agent
+T2	drug 73 81	warfarin
+R1	int Arg1:T0 Arg2:T2

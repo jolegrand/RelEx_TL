@@ -1,0 +1,6 @@
+T0	group 0 10	Quinolones
+T1	drug 22 36	nalidixic acid
+T2	group 74 87	anticoagulant
+T3	drug 88 96	warfarin
+R1	effect Arg1:T0 Arg2:T3
+R2	effect Arg1:T1 Arg2:T3

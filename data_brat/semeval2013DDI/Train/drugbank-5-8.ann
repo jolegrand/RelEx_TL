@@ -1,0 +1,7 @@
+T0	drug 77 86	bupropion
+T1	drug 94 107	carbamazepine
+T2	drug 109 122	phenobarbital
+T3	drug 124 133	phenytoin
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3

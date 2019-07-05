@@ -1,0 +1,3 @@
+T0	group 113 120	fibrate
+T1	drug 125 135	lovastatin
+R1	effect Arg1:T0 Arg2:T1

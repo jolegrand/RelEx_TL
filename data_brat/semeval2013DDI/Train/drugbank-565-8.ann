@@ -1,0 +1,5 @@
+T0	drug 18 41	diltiazem hydrochloride
+T1	drug 61 72	propranolol
+T2	drug 121 132	propranolol
+T3	drug 179 190	propranolol
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,3 @@
+T0	drug 26 34	naproxen
+T1	drug 70 82	methotrexate
+R1	advise Arg1:T0 Arg2:T1

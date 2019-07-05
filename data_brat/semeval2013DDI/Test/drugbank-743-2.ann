@@ -1,0 +1,8 @@
+T0	drug 35 47	ketoconazole
+T1	drug 84 95	terfenadine
+T2	drug 126 137	terfenadine
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 35 47	ketoconazole
+T1	drug 84 95	terfenadine
+T2	drug 126 137	terfenadine
+R1	mechanism Arg1:T0 Arg2:T1

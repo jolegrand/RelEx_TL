@@ -1,0 +1,7 @@
+T0	group 0 8	Antacids
+T1	drug 13 19	kaolin
+T2	group 21 29	Antacids
+T3	drug 34 40	kaolin
+T4	drug 66 77	chloroquine
+R1	mechanism Arg1:T2 Arg2:T4
+R2	mechanism Arg1:T3 Arg2:T4

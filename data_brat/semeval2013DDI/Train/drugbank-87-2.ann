@@ -1,0 +1,4 @@
+T0	brand 48 56	TAMBOCOR
+T1	drug 113 120	digoxin
+T2	drug 151 158	digoxin
+R1	mechanism Arg1:T0 Arg2:T1

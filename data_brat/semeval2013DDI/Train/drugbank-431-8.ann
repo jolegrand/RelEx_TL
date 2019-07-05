@@ -1,0 +1,3 @@
+T0	group 11 33	proton pump inhibitors
+T1	drug 79 89	sucralfate
+R1	advise Arg1:T0 Arg2:T1

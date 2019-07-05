@@ -1,0 +1,6 @@
+T0	drug 19 31	ketoconazole
+T1	drug 92 104	panobinostat
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 19 31	ketoconazole
+T1	drug 92 104	panobinostat
+R1	mechanism Arg1:T0 Arg2:T1

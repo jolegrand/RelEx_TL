@@ -1,0 +1,5 @@
+T0	drug 0 12	Indomethacin
+T1	drug 34 45	L-glutamine
+T2	drug 50 62	indomethacin
+T3	drug 122 134	indomethacin
+R1	effect Arg1:T1 Arg2:T2

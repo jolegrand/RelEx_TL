@@ -1,0 +1,7 @@
+T0	drug 20 33	ethoxzolamide
+T1	group 45 54	diuretics
+T2	drug 56 70	amphotericin B
+T3	group 76 91	corticosteroids
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

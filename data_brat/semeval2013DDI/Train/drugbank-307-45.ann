@@ -1,0 +1,4 @@
+T0	group 0 18	Calcium Antagonist
+T1	brand 57 66	Trileptal
+T2	drug 79 89	felodipine
+R1	mechanism Arg1:T1 Arg2:T2

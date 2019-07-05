@@ -1,0 +1,4 @@
+T0	drug 29 39	dyphylline
+T1	drug 44 54	probenecid
+T2	drug 145 155	dyphylline
+R1	mechanism Arg1:T0 Arg2:T1

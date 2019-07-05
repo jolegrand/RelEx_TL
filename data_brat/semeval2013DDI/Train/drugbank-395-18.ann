@@ -1,0 +1,3 @@
+T0	drug 28 36	enoxacin
+T1	drug 80 90	ranitidine
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,8 @@
+T0	group 0 14	Anticoagulants
+T1	group 44 58	anticoagulants
+T2	drug 119 130	methimazole
+R1	effect Arg1:T1 Arg2:T2
+T0	group 0 14	Anticoagulants
+T1	group 44 58	anticoagulants
+T2	drug 119 130	methimazole
+R1	effect Arg1:T1 Arg2:T2

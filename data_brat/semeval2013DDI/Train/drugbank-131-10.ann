@@ -1,0 +1,17 @@
+T0	group 30 45	benzodiazepines
+T1	drug 57 67	alprazolam
+T2	drug 123 133	ergotamine
+T3	drug 135 147	cyclosporine
+T4	drug 149 159	amiodarone
+T5	drug 161 172	nicardipine
+T6	drug 178 188	nifedipine
+R1	int Arg1:T0 Arg2:T2
+R2	int Arg1:T0 Arg2:T3
+R3	int Arg1:T0 Arg2:T4
+R4	int Arg1:T0 Arg2:T5
+R5	int Arg1:T0 Arg2:T6
+R6	int Arg1:T1 Arg2:T2
+R7	int Arg1:T1 Arg2:T3
+R8	int Arg1:T1 Arg2:T4
+R9	int Arg1:T1 Arg2:T5
+R10	int Arg1:T1 Arg2:T6

@@ -1,0 +1,3 @@
+T0	group 0 21	Anticholinergic drugs
+T1	drug 108 122	metoclopramide
+R1	mechanism Arg1:T0 Arg2:T1

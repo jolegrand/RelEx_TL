@@ -1,0 +1,3 @@
+T0	drug 61 75	nitrofurantoin
+T1	drug 96 117	magnesium trisilicate
+R1	mechanism Arg1:T0 Arg2:T1

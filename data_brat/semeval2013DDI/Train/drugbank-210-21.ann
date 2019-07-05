@@ -1,0 +1,5 @@
+T0	drug 68 80	methotrexate
+T1	drug 123 135	methotrexate
+T2	drug 166 175	rofecoxib
+T3	drug 186 198	methotrexate
+R1	mechanism Arg1:T1 Arg2:T2

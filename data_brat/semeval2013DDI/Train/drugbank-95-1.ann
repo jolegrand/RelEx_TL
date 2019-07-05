@@ -1,0 +1,4 @@
+T0	drug 0 9	Ibuprofen
+T1	drug 12 22	L-arginine
+T2	drug 54 63	ibuprofen
+R1	mechanism Arg1:T1 Arg2:T2

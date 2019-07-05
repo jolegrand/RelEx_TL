@@ -1,0 +1,3 @@
+T0	drug 0 13	Phenobarbital
+T1	brand 25 32	aspirin
+R1	mechanism Arg1:T0 Arg2:T1

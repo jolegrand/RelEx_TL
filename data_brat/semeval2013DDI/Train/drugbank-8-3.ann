@@ -1,0 +1,7 @@
+T0	group 60 91	volatile inhalation anesthetics
+T1	brand 160 167	ALFENTA
+T2	drug 201 213	erythromycin
+T3	brand 219 226	ALFENTA
+T4	brand 253 260	ALFENTA
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T2 Arg2:T3

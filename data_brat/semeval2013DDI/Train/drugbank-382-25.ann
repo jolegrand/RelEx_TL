@@ -1,0 +1,6 @@
+T0	drug 0 10	Aprepitant
+T1	drug 32 41	midazolam
+T2	drug 83 92	midazolam
+T3	drug 135 145	Aprepitant
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

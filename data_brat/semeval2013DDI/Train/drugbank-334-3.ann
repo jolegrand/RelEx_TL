@@ -1,0 +1,3 @@
+T0	group 7 15	diuretic
+T1	brand 63 71	PRINIVIL
+R1	effect Arg1:T0 Arg2:T1

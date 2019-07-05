@@ -1,0 +1,24 @@
+T0	group 17 59	Mixed Agonist/Antagonist Opioid Analgesics
+T1	group 61 90	Agonist/antagonist analgesics
+T2	drug 98 109	pentazocine
+T3	drug 111 121	nalbuphine
+T4	drug 123 134	butorphanol
+T5	drug 139 152	buprenorphine
+T6	group 261 285	opioid agonist analgesic
+R1	advise Arg1:T1 Arg2:T6
+R2	advise Arg1:T2 Arg2:T6
+R3	advise Arg1:T3 Arg2:T6
+R4	advise Arg1:T4 Arg2:T6
+R5	advise Arg1:T5 Arg2:T6
+T0	group 17 59	Mixed Agonist/Antagonist Opioid Analgesics
+T1	group 61 90	Agonist/antagonist analgesics
+T2	drug 98 109	pentazocine
+T3	drug 111 121	nalbuphine
+T4	drug 123 134	butorphanol
+T5	drug 139 152	buprenorphine
+T6	group 261 285	opioid agonist analgesic
+R1	advise Arg1:T1 Arg2:T6
+R2	advise Arg1:T2 Arg2:T6
+R3	advise Arg1:T3 Arg2:T6
+R4	advise Arg1:T4 Arg2:T6
+R5	advise Arg1:T5 Arg2:T6

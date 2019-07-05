@@ -1,0 +1,3 @@
+T0	drug 15 26	Fluvoxamine
+T1	group 89 93	MAOI
+R1	advise Arg1:T0 Arg2:T1

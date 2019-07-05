@@ -1,0 +1,6 @@
+T0	drug_n 24 33	hemantane
+T1	drug 37 48	doxycycline
+R1	effect Arg1:T0 Arg2:T1
+T0	drug_n 24 33	hemantane
+T1	drug 37 48	doxycycline
+R1	effect Arg1:T0 Arg2:T1

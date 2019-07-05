@@ -1,0 +1,4 @@
+T0	drug 11 20	ibuprofen
+T1	drug 25 32	lithium
+T2	drug 115 122	lithium
+R1	advise Arg1:T0 Arg2:T1

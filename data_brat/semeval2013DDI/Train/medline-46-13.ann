@@ -1,0 +1,3 @@
+T0	drug 20 30	fluoxetine
+T1	drug 55 64	cisapride
+R1	mechanism Arg1:T0 Arg2:T1

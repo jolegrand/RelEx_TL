@@ -1,0 +1,8 @@
+T0	group 70 83	anticoagulant
+T1	drug 123 131	Mitotane
+T2	group 147 175	coumarin-type anticoagulants
+R1	advise Arg1:T1 Arg2:T2
+T0	group 70 83	anticoagulant
+T1	drug 123 131	Mitotane
+T2	group 147 175	coumarin-type anticoagulants
+R1	advise Arg1:T1 Arg2:T2

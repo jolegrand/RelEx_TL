@@ -1,0 +1,7 @@
+T0	drug 0 11	Terfenadine
+T1	drug 13 23	astemizole
+T2	drug 28 37	cisapride
+T3	drug 129 141	ketoconazole
+R1	mechanism Arg1:T0 Arg2:T3
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T2 Arg2:T3

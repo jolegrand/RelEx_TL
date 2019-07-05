@@ -1,0 +1,1 @@
+This approach combines liquid chromatography mass spectrometry (LC MS) detection methods with multiple toxicity endpoints to enable identification of critical metabolic pathways for hepatotoxicity. 

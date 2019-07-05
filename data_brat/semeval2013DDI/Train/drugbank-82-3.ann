@@ -1,0 +1,3 @@
+T0	brand 97 104	aspirin
+T1	drug 123 135	indomethacin
+R1	mechanism Arg1:T0 Arg2:T1

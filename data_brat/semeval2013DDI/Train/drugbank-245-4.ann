@@ -1,0 +1,11 @@
+T0	group 24 33	thiazides
+T1	group 44 53	diuretics
+T2	group 55 70	corticosteroids
+T3	group 72 86	phenothiazines
+T4	group 106 115	estrogens
+T5	group 122 136	contraceptives
+T6	drug 138 147	phenytoin
+T7	drug 149 163	nicotinic acid
+T8	group 165 181	sympathomimetics
+T9	group 183 213	calcium channel blocking drugs
+T10	drug 219 228	isoniazid

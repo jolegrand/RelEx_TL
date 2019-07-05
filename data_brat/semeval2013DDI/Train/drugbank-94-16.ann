@@ -1,0 +1,7 @@
+T0	group 14 33	anti-malarial drugs
+T1	drug 43 54	chloroquine
+T2	drug 59 69	mefloquine
+T3	drug 102 115	carbamazepine
+R1	effect Arg1:T0 Arg2:T3
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T2 Arg2:T3

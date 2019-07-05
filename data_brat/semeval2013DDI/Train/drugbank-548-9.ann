@@ -1,0 +1,21 @@
+T0	drug 32 42	Duloxetine
+T1	group 170 185	antidepressants
+T2	group 187 212	tricyclic antidepressants
+T3	group 214 218	TCAs
+T4	drug 229 242	nortriptyline
+T5	drug 244 257	amitriptyline
+T6	drug 263 273	imipramine
+T7	group 276 290	phenothiazines
+T8	group 295 318	Type 1C antiarrhythmics
+T9	drug 326 337	propafenone
+T10	drug 339 349	flecainide
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4
+R5	advise Arg1:T0 Arg2:T5
+R6	advise Arg1:T0 Arg2:T6
+R7	advise Arg1:T0 Arg2:T7
+R8	advise Arg1:T0 Arg2:T8
+R9	advise Arg1:T0 Arg2:T9
+R10	advise Arg1:T0 Arg2:T10

@@ -1,0 +1,5 @@
+T0	drug 0 12	Cyclosporine
+T1	group 32 67	nonsteroial anti-inflammatory drugs
+T2	drug 87 99	cyclosporine
+T3	drug 140 152	cyclosporine
+R1	mechanism Arg1:T1 Arg2:T2

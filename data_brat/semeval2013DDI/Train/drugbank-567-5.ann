@@ -1,0 +1,8 @@
+T0	drug 0 12	Itraconazole
+T1	drug 13 25	Ketoconazole
+T2	drug 26 38	Erythromycin
+T3	drug 39 53	Clarithromycin
+T4	drug 54 67	Telithromycin
+T5	group 68 91	HIV protease inhibitors
+T6	drug 92 102	Nefazodone
+T7	drug 103 115	Cyclosporine

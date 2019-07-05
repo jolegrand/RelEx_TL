@@ -1,0 +1,5 @@
+T0	drug 0 13	Acetaminophen
+T1	drug 67 77	diflunisal
+T2	drug 82 95	acetaminophen
+T3	drug 156 169	acetaminophen
+R1	mechanism Arg1:T1 Arg2:T2

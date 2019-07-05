@@ -1,0 +1,7 @@
+T0	drug 40 50	Citalopram
+T1	drug 51 61	Citalopram
+T2	drug 70 82	escitalopram
+T3	drug 115 125	citalopram
+T4	brand 127 133	Celexa
+R1	advise Arg1:T2 Arg2:T3
+R2	advise Arg1:T2 Arg2:T4

@@ -1,0 +1,1 @@
+Inhibition of CYP2D6 was observed with an apparent Ki of 30 uM, indicating that pramipexole will not inhibit CYP enzymes at plasma concentrations observed following the highest recommended clinical dose (1.5 mg tid). 

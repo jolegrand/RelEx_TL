@@ -1,0 +1,3 @@
+T0	drug 10 21	propranolol
+T1	drug 72 81	diltiazem
+R1	mechanism Arg1:T0 Arg2:T1

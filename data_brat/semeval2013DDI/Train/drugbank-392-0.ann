@@ -1,0 +1,5 @@
+T0	brand 26 34	Panretin
+T1	drug 89 93	DEET
+T2	drug 98 119	N-diethyl-m-toluamide
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

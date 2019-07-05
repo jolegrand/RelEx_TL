@@ -1,0 +1,4 @@
+T0	drug 0 7	Lithium
+T1	group 9 46	Nonsteroidal anti-inflammatory agents
+T2	drug 97 104	lithium
+R1	mechanism Arg1:T1 Arg2:T2

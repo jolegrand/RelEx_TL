@@ -1,0 +1,48 @@
+T0	brand 21 27	SUTENT
+T1	drug 79 91	ketoconazole
+T2	drug 93 105	itraconazole
+T3	drug 107 121	clarithromycin
+T4	drug 123 133	atazanavir
+T5	drug 135 144	indinavir
+T6	drug 146 156	nefazodone
+T7	drug 158 168	nelfinavir
+T8	drug 170 179	ritonavir
+T9	drug 181 191	saquinavir
+T10	drug 193 206	telithromycin
+T11	drug 208 220	voriconizole
+T12	drug 236 245	sunitinib
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4
+R5	mechanism Arg1:T0 Arg2:T5
+R6	mechanism Arg1:T0 Arg2:T6
+R7	mechanism Arg1:T0 Arg2:T7
+R8	mechanism Arg1:T0 Arg2:T8
+R9	mechanism Arg1:T0 Arg2:T9
+R10	mechanism Arg1:T0 Arg2:T10
+R11	mechanism Arg1:T0 Arg2:T11
+T0	brand 21 27	SUTENT
+T1	drug 79 91	ketoconazole
+T2	drug 93 105	itraconazole
+T3	drug 107 121	clarithromycin
+T4	drug 123 133	atazanavir
+T5	drug 135 144	indinavir
+T6	drug 146 156	nefazodone
+T7	drug 158 168	nelfinavir
+T8	drug 170 179	ritonavir
+T9	drug 181 191	saquinavir
+T10	drug 193 206	telithromycin
+T11	drug 208 220	voriconizole
+T12	drug 236 245	sunitinib
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4
+R5	mechanism Arg1:T0 Arg2:T5
+R6	mechanism Arg1:T0 Arg2:T6
+R7	mechanism Arg1:T0 Arg2:T7
+R8	mechanism Arg1:T0 Arg2:T8
+R9	mechanism Arg1:T0 Arg2:T9
+R10	mechanism Arg1:T0 Arg2:T10
+R11	mechanism Arg1:T0 Arg2:T11

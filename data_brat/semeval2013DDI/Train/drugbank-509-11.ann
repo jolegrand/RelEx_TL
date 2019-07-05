@@ -1,0 +1,4 @@
+T0	drug 35 47	ketoconazole
+T1	drug 53 65	aripiprazole
+T2	drug 74 86	aripiprazole
+R1	advise Arg1:T0 Arg2:T1

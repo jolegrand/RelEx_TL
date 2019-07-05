@@ -1,0 +1,4 @@
+T0	brand 23 30	INDOCIN
+T1	drug 35 42	lithium
+T2	drug 122 129	lithium
+R1	advise Arg1:T0 Arg2:T1

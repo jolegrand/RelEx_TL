@@ -1,0 +1,12 @@
+T0	drug 29 44	rimantadine HCl
+T1	drug 95 105	Cimetidine
+T2	drug 152 163	rimantadine
+T3	drug 270 281	rimantadine
+T4	drug 331 341	cimetidine
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 29 44	rimantadine HCl
+T1	drug 95 105	Cimetidine
+T2	drug 152 163	rimantadine
+T3	drug 270 281	rimantadine
+T4	drug 331 341	cimetidine
+R1	mechanism Arg1:T0 Arg2:T1

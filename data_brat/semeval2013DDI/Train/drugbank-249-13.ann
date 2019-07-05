@@ -1,0 +1,5 @@
+T0	drug 107 117	diclofenac
+T1	drug 161 168	insulin
+T2	group 177 196	hypoglycemic agents
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

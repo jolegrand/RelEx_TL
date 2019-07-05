@@ -1,0 +1,3 @@
+T0	drug 0 10	Sucralfate
+T1	drug 39 51	lomefloxacin
+R1	mechanism Arg1:T0 Arg2:T1

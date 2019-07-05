@@ -1,0 +1,5 @@
+T0	group 0 36	Beta-adrenergic receptor antagonists
+T1	group 38 51	beta-blockers
+T2	brand 57 64	BROVANA
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

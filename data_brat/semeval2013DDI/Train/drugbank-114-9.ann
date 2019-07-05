@@ -1,0 +1,3 @@
+T0	drug 140 155	interferon-alfa
+T1	brand 160 169	PROLEUKIN
+R1	effect Arg1:T0 Arg2:T1

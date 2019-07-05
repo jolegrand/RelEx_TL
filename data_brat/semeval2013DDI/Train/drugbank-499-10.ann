@@ -1,0 +1,5 @@
+T0	group 0 8	Diuretic
+T1	drug 10 29	Hydrochlorothiazide
+T2	drug 56 66	ketoprofen
+T3	drug 145 164	hydrochlorothiazide
+R1	effect Arg1:T1 Arg2:T2

@@ -1,0 +1,3 @@
+T0	drug 5 14	amiloride
+T1	group 57 96	angiotensin-converting enzyme inhibitor
+R1	effect Arg1:T0 Arg2:T1

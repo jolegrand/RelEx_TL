@@ -1,0 +1,4 @@
+T0	drug 0 10	Paroxetine
+T1	drug 53 63	duloxetine
+T2	drug 157 167	paroxetine
+R1	mechanism Arg1:T0 Arg2:T1

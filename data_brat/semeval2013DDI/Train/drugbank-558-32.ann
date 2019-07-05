@@ -1,0 +1,12 @@
+T0	drug 36 46	amlodipine
+T1	drug 48 57	phenytoin
+T2	drug 59 68	glyburide
+T3	drug 70 80	ranitidine
+T4	drug 82 92	omeprazole
+T5	group 151 160	estrogens
+T6	drug 165 184	medroxyprogesterone
+T7	group 187 194	antacid
+T8	drug 196 204;219 228	aluminum hydroxide
+T9	drug 209 228	magnesium hydroxide
+T10	drug 235 247	theophylline
+T11	brand 287 294	TIKOSYN

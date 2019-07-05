@@ -1,0 +1,4 @@
+T0	drug 0 9	Phenytoin
+T1	drug 35 44	phenytoin
+T2	drug 124 137	ciprofloxacin
+R1	mechanism Arg1:T1 Arg2:T2

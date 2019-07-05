@@ -1,0 +1,3 @@
+T0	group 26 34	laxative
+T1	brand 59 68	CAMPTOSAR
+R1	effect Arg1:T0 Arg2:T1

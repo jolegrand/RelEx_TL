@@ -1,0 +1,7 @@
+T0	drug 0 12	Erythromycin
+T1	drug 60 69	triazolam
+T2	drug 74 83	midazolam
+T3	group 140 155	benzodiazepines
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

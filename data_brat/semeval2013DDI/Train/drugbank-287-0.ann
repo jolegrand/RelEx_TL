@@ -1,0 +1,3 @@
+T0	drug 0 10	Cevimeline
+T1	group 66 93	beta adrenergic antagonists
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,13 @@
+T0	group 65 80	aminoglycosides
+T1	drug 82 94	indomethacin
+T2	group 115 124	cytotoxic
+T3	drug 159 170	doxorubicin
+T4	drug 194 206	methotrexate
+T5	drug 208 220	asparaginase
+T6	brand 235 244	PROLEUKIN
+R1	effect Arg1:T0 Arg2:T6
+R2	effect Arg1:T1 Arg2:T6
+R3	effect Arg1:T2 Arg2:T6
+R4	effect Arg1:T3 Arg2:T6
+R5	effect Arg1:T4 Arg2:T6
+R6	effect Arg1:T5 Arg2:T6

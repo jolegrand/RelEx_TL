@@ -1,0 +1,6 @@
+T0	drug 2 14	Indomethacin
+T1	drug 16 28	Indomethacin
+T2	drug 99 109	bumetanide
+T3	drug 137 147	bumetanide
+R1	mechanism Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3

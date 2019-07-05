@@ -1,0 +1,8 @@
+T0	brand 27 34	ZAVESCA
+T1	brand 76 84	Cerezyme
+T2	brand 218 226	Cerezyme
+R1	mechanism Arg1:T0 Arg2:T1
+T0	brand 27 34	ZAVESCA
+T1	brand 76 84	Cerezyme
+T2	brand 218 226	Cerezyme
+R1	mechanism Arg1:T0 Arg2:T1

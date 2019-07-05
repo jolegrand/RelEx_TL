@@ -1,0 +1,22 @@
+T0	brand 8 16	Matulane
+T1	group 70 91	sympathomimetic drugs
+T2	group 93 117	tricyclic antidepressant
+T3	drug 131 148	amitriptyline HCl
+T4	drug 150 164	imipramine HCl
+T5	drug_n 208 216	tyramine
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4
+R5	advise Arg1:T0 Arg2:T5
+T0	brand 8 16	Matulane
+T1	group 70 91	sympathomimetic drugs
+T2	group 93 117	tricyclic antidepressant
+T3	drug 131 148	amitriptyline HCl
+T4	drug 150 164	imipramine HCl
+T5	drug_n 208 216	tyramine
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4
+R5	advise Arg1:T0 Arg2:T5

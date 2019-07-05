@@ -1,0 +1,7 @@
+T0	group 62 90	nitric oxide donor compounds
+T1	drug 102 122	sodium nitroprusside
+T2	drug 127 140	nitroglycerin
+T3	brand 175 181	INOmax
+R1	effect Arg1:T0 Arg2:T3
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T2 Arg2:T3

@@ -1,0 +1,3 @@
+T0	drug 0 14	Nitrofurantoin
+T1	drug 57 71	nalidixic acid
+R1	effect Arg1:T0 Arg2:T1

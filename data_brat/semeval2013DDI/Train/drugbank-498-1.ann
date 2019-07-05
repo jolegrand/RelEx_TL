@@ -1,0 +1,3 @@
+T0	group 6 17	antibiotics
+T1	group 149 167	anticholinesterase
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,5 @@
+T0	brand 30 37	Norpace
+T1	drug 42 51	quinidine
+T2	drug 91 103	disopyramide
+T3	drug 142 151	quinidine
+R1	mechanism Arg1:T0 Arg2:T1

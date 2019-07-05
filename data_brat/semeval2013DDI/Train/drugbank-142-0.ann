@@ -1,0 +1,15 @@
+T0	brand 76 82	LEVSIN
+T1	group 124 139	antimuscarinics
+T2	drug 141 151	amantadine
+T3	drug 153 164	haloperidol
+T4	group 166 180	phenothiazines
+T5	group 182 216	monoamine oxidase (MAO) inhibitors
+T6	group 218 243	tricyclic antidepressants
+T7	group 252 266	antihistamines
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5
+R6	effect Arg1:T0 Arg2:T6
+R7	effect Arg1:T0 Arg2:T7

@@ -1,0 +1,7 @@
+T0	brand 5 12	Bezalip
+T1	brand 16 30	Bezalip retard
+T2	brand 146 153	Bezalip
+T3	brand 158 172	Bezalip retard
+T4	group 199 234	anticoagulants of the coumarin type
+R1	effect Arg1:T2 Arg2:T4
+R2	effect Arg1:T3 Arg2:T4

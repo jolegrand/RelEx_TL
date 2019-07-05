@@ -1,0 +1,21 @@
+T0	brand 0 7	Tagamet
+T1	group 130 158	warfarin-type anticoagulants
+T2	drug 160 169	phenytoin
+T3	drug 171 182	propranolol
+T4	drug 184 194	nifedipine
+T5	drug 196 212	chlordiazepoxide
+T6	drug 214 222	diazepam
+T7	group 232 257	tricyclic antidepressants
+T8	drug 259 268	lidocaine
+T9	drug 270 282	theophylline
+T10	drug 287 300	metronidazole
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4
+R5	mechanism Arg1:T0 Arg2:T5
+R6	mechanism Arg1:T0 Arg2:T6
+R7	mechanism Arg1:T0 Arg2:T7
+R8	mechanism Arg1:T0 Arg2:T8
+R9	mechanism Arg1:T0 Arg2:T9
+R10	mechanism Arg1:T0 Arg2:T10

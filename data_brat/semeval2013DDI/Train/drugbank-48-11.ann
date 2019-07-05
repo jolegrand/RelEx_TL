@@ -1,0 +1,11 @@
+T0	group 0 11	H2 Blockers
+T1	group 12 34	Proton Pump Inhibitors
+T2	group 87 98	H2 blockers
+T3	group 102 124	proton pump inhibitors
+T4	drug 130 140	famotidine
+T5	drug 145 155	omeprazole
+T6	drug 177 186	dasatinib
+R1	effect Arg1:T2 Arg2:T6
+R2	effect Arg1:T3 Arg2:T6
+R3	effect Arg1:T4 Arg2:T6
+R4	effect Arg1:T5 Arg2:T6

@@ -1,0 +1,4 @@
+T0	brand 48 54	Femara
+T1	drug 59 68	tamoxifen
+T2	drug 108 117	letrozole
+R1	mechanism Arg1:T0 Arg2:T1

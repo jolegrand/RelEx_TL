@@ -1,0 +1,8 @@
+T0	brand 6 12	PLETAL
+T1	brand 105 111	PLETAL
+T2	drug 164 176	ketoconazole
+T3	drug 181 193	erythromycin
+T4	drug 227 237	omeprazole
+R1	advise Arg1:T1 Arg2:T2
+R2	advise Arg1:T1 Arg2:T3
+R3	advise Arg1:T1 Arg2:T4

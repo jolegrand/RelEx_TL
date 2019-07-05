@@ -1,0 +1,22 @@
+T0	group 9 24	Cholinomimetics
+T1	group 35 60	Cholinesterase Inhibitors
+T2	group 104 129	cholinesterase inhibitors
+T3	drug 158 173	succinylcholine
+T4	group 183 212	neuromuscular blocking agents
+T5	group 216 236	cholinergic agonists
+T6	drug 245 256	bethanechol
+R1	effect Arg1:T2 Arg2:T3
+R2	effect Arg1:T2 Arg2:T4
+R3	effect Arg1:T2 Arg2:T5
+R4	effect Arg1:T2 Arg2:T6
+T0	group 9 24	Cholinomimetics
+T1	group 35 60	Cholinesterase Inhibitors
+T2	group 104 129	cholinesterase inhibitors
+T3	drug 158 173	succinylcholine
+T4	group 183 212	neuromuscular blocking agents
+T5	group 216 236	cholinergic agonists
+T6	drug 245 256	bethanechol
+R1	effect Arg1:T2 Arg2:T3
+R2	effect Arg1:T2 Arg2:T4
+R3	effect Arg1:T2 Arg2:T5
+R4	effect Arg1:T2 Arg2:T6

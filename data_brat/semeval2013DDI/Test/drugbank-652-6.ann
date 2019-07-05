@@ -1,0 +1,6 @@
+T0	drug 22 36	metoclopramide
+T1	drug 124 131	insulin
+R1	advise Arg1:T0 Arg2:T1
+T0	drug 22 36	metoclopramide
+T1	drug 124 131	insulin
+R1	advise Arg1:T0 Arg2:T1

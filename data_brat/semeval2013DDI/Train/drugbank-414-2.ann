@@ -1,0 +1,5 @@
+T0	brand 0 7	EDECRIN
+T1	group 67 81	aminoglycoside
+T2	group 91 116	cephalosporin antibiotics
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

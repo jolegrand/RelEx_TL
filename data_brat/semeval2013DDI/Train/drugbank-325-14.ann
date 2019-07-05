@@ -1,0 +1,4 @@
+T0	drug 43 55	dopamine HCl
+T1	drug 73 82	phenytoin
+T2	group 101 115	anticonvulsant
+R1	advise Arg1:T0 Arg2:T1

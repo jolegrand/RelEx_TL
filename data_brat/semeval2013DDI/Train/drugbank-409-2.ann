@@ -1,0 +1,4 @@
+T0	group 18 31	tetracyclines
+T1	group 42 56	contraceptives
+T2	group 73 87	contraceptives
+R1	effect Arg1:T0 Arg2:T1

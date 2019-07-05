@@ -1,0 +1,4 @@
+T0	group 0 18	Antithyroid agents
+T1	drug 52 70	sodium iodide I131
+T2	drug 142 153	Carbimazole
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,14 @@
+T0	brand 0 8	SKELAXIN
+T1	drug 36 43	alcohol
+T2	group 45 57	barbiturates
+T3	group 68 83	CNS depressants
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+T0	brand 0 8	SKELAXIN
+T1	drug 36 43	alcohol
+T2	group 45 57	barbiturates
+T3	group 68 83	CNS depressants
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

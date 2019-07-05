@@ -1,0 +1,16 @@
+T0	group 0 19	Platelet inhibitors
+T1	drug 35 55	acetylsalicylic acid
+T2	drug 57 64	dextran
+T3	drug 66 80	phenylbutazone
+T4	drug 82 91	ibuprofen
+T5	drug 93 105	indomethacin
+T6	drug 107 119	dipyridamole
+T7	drug 121 139	hydroxychloroquine
+T8	drug 330 344	heparin sodium
+R1	effect Arg1:T1 Arg2:T8
+R2	effect Arg1:T2 Arg2:T8
+R3	effect Arg1:T3 Arg2:T8
+R4	effect Arg1:T4 Arg2:T8
+R5	effect Arg1:T5 Arg2:T8
+R6	effect Arg1:T6 Arg2:T8
+R7	effect Arg1:T7 Arg2:T8

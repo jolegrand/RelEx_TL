@@ -1,0 +1,4 @@
+T0	group 0 8	Antacids
+T1	drug 20 41	magnesium trisilicate
+T2	drug 80 94	nitrofurantoin
+R1	mechanism Arg1:T1 Arg2:T2

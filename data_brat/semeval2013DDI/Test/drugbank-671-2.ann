@@ -1,0 +1,6 @@
+T0	brand 68 74	CYLERT
+T1	group 94 119	antiepileptic medications
+R1	effect Arg1:T0 Arg2:T1
+T0	brand 68 74	CYLERT
+T1	group 94 119	antiepileptic medications
+R1	effect Arg1:T0 Arg2:T1

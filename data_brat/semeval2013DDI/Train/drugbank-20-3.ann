@@ -1,0 +1,10 @@
+T0	drug 18 28	eplerenone
+T1	drug 65 77	erythromycin
+T2	drug 90 99	verapamil
+T3	drug 111 121	saquinavir
+T4	drug 135 146	fluconazole
+T5	drug 191 201	eplerenone
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4

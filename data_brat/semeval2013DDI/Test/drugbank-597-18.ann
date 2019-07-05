@@ -1,0 +1,6 @@
+T0	drug 46 56	furosemide
+T1	brand 61 66	MOBIC
+R1	advise Arg1:T0 Arg2:T1
+T0	drug 46 56	furosemide
+T1	brand 61 66	MOBIC
+R1	advise Arg1:T0 Arg2:T1

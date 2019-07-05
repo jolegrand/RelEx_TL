@@ -1,0 +1,3 @@
+T0	drug 33 48	cromolyn sodium
+T1	drug 168 181	isoproterenol
+R1	effect Arg1:T0 Arg2:T1

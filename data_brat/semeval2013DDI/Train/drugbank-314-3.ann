@@ -1,0 +1,4 @@
+T0	group 0 11	Antibiotics
+T1	group 13 34	Macrolide antibiotics
+T2	group 89 103	corticosteroid
+R1	mechanism Arg1:T1 Arg2:T2

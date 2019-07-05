@@ -1,0 +1,4 @@
+T0	drug 22 34	ketoconazole
+T1	drug 122 132	Vardenafil
+T2	drug 206 218	ketoconazole
+R1	advise Arg1:T1 Arg2:T2

@@ -1,0 +1,3 @@
+T0	group 55 79	calcium channel blockers
+T1	brand 117 124	Nimotop
+R1	effect Arg1:T0 Arg2:T1

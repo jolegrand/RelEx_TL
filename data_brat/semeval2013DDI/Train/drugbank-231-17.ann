@@ -1,0 +1,4 @@
+T0	drug 24 36	indomethacin
+T1	drug 41 51	furosemide
+T2	drug 150 160	furosemide
+R1	advise Arg1:T0 Arg2:T1

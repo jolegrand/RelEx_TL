@@ -1,0 +1,4 @@
+T0	drug 0 8	Acarbose
+T1	drug 54 61	digoxin
+T2	drug 111 118	digoxin
+R1	mechanism Arg1:T0 Arg2:T1

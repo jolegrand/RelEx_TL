@@ -1,0 +1,15 @@
+T0	group 92 107	corticosteroids
+T1	drug 109 115	niacin
+T2	drug 117 124	danazol
+T3	group 126 135	diuretics
+T4	group 137 159	sympathomimetic agents
+T5	drug 167 178	epinephrine
+T6	drug 180 190	salbutamol
+T7	drug 192 203	terbutaline
+T8	drug 206 215	isoniazid
+T9	group 217 242	phenothiazine derivatives
+T10	drug 244 254	somatropin
+T11	group 256 272	thyroid hormones
+T12	group 274 283	estrogens
+T13	group 285 297	progestogens
+T14	group 313 327	contraceptives

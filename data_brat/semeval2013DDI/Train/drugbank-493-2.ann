@@ -1,0 +1,6 @@
+T0	drug 0 8	Anakinra
+T1	drug 39 47	anakinra
+T2	group 52 76	interleukin-1 antagonist
+T3	group 90 108	TNF-blocking agent
+R1	effect Arg1:T1 Arg2:T3
+R2	effect Arg1:T2 Arg2:T3

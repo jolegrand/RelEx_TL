@@ -1,0 +1,14 @@
+T0	drug 0 12	Cyclosporine
+T1	brand 38 45	XENICAL
+T2	drug 50 62	cyclosporine
+T3	drug 110 122	cyclosporine
+T4	brand 142 149	XENICAL
+T5	drug 174 186	cyclosporine
+R1	mechanism Arg1:T4 Arg2:T5
+T0	drug 0 12	Cyclosporine
+T1	brand 38 45	XENICAL
+T2	drug 50 62	cyclosporine
+T3	drug 110 122	cyclosporine
+T4	brand 142 149	XENICAL
+T5	drug 174 186	cyclosporine
+R1	mechanism Arg1:T4 Arg2:T5

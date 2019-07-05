@@ -1,0 +1,5 @@
+T0	drug 44 53	diltiazem
+T1	drug 72 82	lovastatin
+T2	drug 124 134	lovastatin
+T3	drug 152 162	lovastatin
+R1	mechanism Arg1:T0 Arg2:T1

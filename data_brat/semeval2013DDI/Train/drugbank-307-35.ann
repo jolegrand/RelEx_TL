@@ -1,0 +1,4 @@
+T0	brand 94 103	Trileptal
+T1	drug 140 149	phenytoin
+T2	brand 179 188	Trileptal
+R1	mechanism Arg1:T1 Arg2:T2

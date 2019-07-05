@@ -1,0 +1,4 @@
+T0	brand 0 7	Aspirin
+T1	brand 38 45	aspirin
+T2	drug 56 76	meclofenamate sodium
+R1	mechanism Arg1:T1 Arg2:T2

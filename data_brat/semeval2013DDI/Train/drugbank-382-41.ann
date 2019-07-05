@@ -1,0 +1,6 @@
+T0	drug 0 9	Diltiazem
+T1	drug 77 87	aprepitant
+T2	drug 178 187	diltiazem
+T3	drug 254 264	aprepitant
+T4	drug 309 318	diltiazem
+R1	mechanism Arg1:T1 Arg2:T2

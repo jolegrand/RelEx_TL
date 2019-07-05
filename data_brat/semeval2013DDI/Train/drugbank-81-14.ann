@@ -1,0 +1,6 @@
+T0	drug 0 8	Fentanyl
+T1	drug 65 73	fentanyl
+T2	group 111 123	beta blocker
+T3	group 130 153	calcium channel blocker
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3

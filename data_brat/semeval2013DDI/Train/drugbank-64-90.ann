@@ -1,0 +1,15 @@
+T0	group 91 112	antineoplastic agents
+T1	brand 160 167	aspirin
+T2	group 178 215	non-steroidal anti-inflammatory drugs
+T3	drug 217 229	dipyridamole
+T4	drug 231 247	hydrochloroquine
+T5	drug 249 259	clofibrate
+T6	drug 261 268	dextran
+T7	group 317 331	anticoagulants
+R1	effect Arg1:T0 Arg2:T7
+R2	effect Arg1:T1 Arg2:T7
+R3	effect Arg1:T2 Arg2:T7
+R4	effect Arg1:T3 Arg2:T7
+R5	effect Arg1:T4 Arg2:T7
+R6	effect Arg1:T5 Arg2:T7
+R7	effect Arg1:T6 Arg2:T7

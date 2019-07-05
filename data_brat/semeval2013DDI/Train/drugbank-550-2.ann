@@ -1,0 +1,4 @@
+T0	group 0 23	H2-Receptor Antagonists
+T1	drug 90 100	famotidine
+T2	drug 164 182	cefditoren pivoxil
+R1	mechanism Arg1:T1 Arg2:T2

@@ -1,0 +1,4 @@
+T0	drug 0 10	Nevirapine
+T1	drug 15 27	ketoconazole
+T2	drug 88 100	ketoconazole
+R1	advise Arg1:T0 Arg2:T1

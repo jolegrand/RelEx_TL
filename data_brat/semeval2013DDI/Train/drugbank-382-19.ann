@@ -1,0 +1,9 @@
+T0	group 5 19	contraceptives
+T1	drug 21 31	Aprepitant
+T2	group 100 113	contraceptive
+T3	drug 135 152	ethinyl estradiol
+T4	drug 165 178	norethindrone
+T5	drug 201 218	ethinyl estradiol
+T6	drug 252 265	norethindrone
+R1	mechanism Arg1:T1 Arg2:T3
+R2	mechanism Arg1:T1 Arg2:T4

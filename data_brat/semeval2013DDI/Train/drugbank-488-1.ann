@@ -1,0 +1,5 @@
+T0	drug 16 30	heparin sodium
+T1	drug 45 54	dicumarol
+T2	drug 58 73	warfarin sodium
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

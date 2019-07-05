@@ -1,0 +1,6 @@
+T0	drug 35 45	disulfiram
+T1	drug 50 57	nitrite
+T2	drug 149 159	disulfiram
+T3	group 175 183	nitrites
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T2 Arg2:T3

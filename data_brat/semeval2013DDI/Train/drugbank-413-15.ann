@@ -1,0 +1,3 @@
+T0	group 172 190	thiazide diuretics
+T1	drug 195 206	allopurinol
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,5 @@
+T0	group 20 39	imidazole compounds
+T1	drug 45 57	ketoconazole
+T2	group 98 106	coumarin
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

@@ -1,0 +1,3 @@
+T0	drug 91 102	terfenadine
+T1	group 128 149	macrolide antibiotics
+R1	effect Arg1:T0 Arg2:T1

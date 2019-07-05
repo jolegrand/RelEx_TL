@@ -1,0 +1,3 @@
+T0	group 81 88	nitrate
+T1	drug 179 189	sildenafil
+R1	effect Arg1:T0 Arg2:T1

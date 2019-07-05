@@ -1,0 +1,5 @@
+T0	group 25 40	methylxanthines
+T1	drug 58 67	adenosine
+T2	drug 87 96	adenosine
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

@@ -1,0 +1,5 @@
+T0	drug 0 12	Cyclosporine
+T1	drug 39 51	cyclosporine
+T2	drug 95 107	cyclosporine
+T3	group 134 149	quinolone class
+R1	mechanism Arg1:T2 Arg2:T3

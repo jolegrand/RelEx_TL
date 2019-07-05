@@ -1,0 +1,4 @@
+T0	drug 14 26	theophylline
+T1	drug 51 70	fluvoxamine maleate
+T2	drug 177 189	theophylline
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,9 @@
+T0	group 0 22	Pyrazolone Derivatives
+T1	drug 24 38	phenylbutazone
+T2	drug 40 55	oxyphenbutazone
+T3	drug 70 78	dipyrone
+T4	drug 113 120	aspirin
+R1	effect Arg1:T0 Arg2:T4
+R2	effect Arg1:T1 Arg2:T4
+R3	effect Arg1:T2 Arg2:T4
+R4	effect Arg1:T3 Arg2:T4

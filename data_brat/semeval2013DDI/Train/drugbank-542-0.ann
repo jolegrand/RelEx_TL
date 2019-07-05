@@ -1,0 +1,6 @@
+T0	drug 17 27	Vitamin B3
+T1	drug 29 35	Niacin
+T2	group 38 54	Antihypertensive
+T3	drug 64 78	Nicotinic acid
+T4	group 109 135	ganglionic blocking agents
+R1	effect Arg1:T3 Arg2:T4

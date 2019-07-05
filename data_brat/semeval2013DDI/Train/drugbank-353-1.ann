@@ -1,0 +1,6 @@
+T0	drug 0 13	Glibenclamide
+T1	drug 56 65	acitretin
+T2	drug 125 138	glibenclamide
+T3	group 142 154	sulfonylurea
+T4	drug 166 180	chlorpropamide
+R1	effect Arg1:T1 Arg2:T2

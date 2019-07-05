@@ -1,0 +1,8 @@
+T0	brand 23 29	SKELID
+T1	drug 55 67	indomethacin
+T2	drug 124 134	diclofenac
+R1	mechanism Arg1:T0 Arg2:T1
+T0	brand 23 29	SKELID
+T1	drug 55 67	indomethacin
+T2	drug 124 134	diclofenac
+R1	mechanism Arg1:T0 Arg2:T1

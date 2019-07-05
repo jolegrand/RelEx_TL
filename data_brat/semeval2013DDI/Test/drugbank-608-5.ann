@@ -1,0 +1,12 @@
+T0	brand 0 8	TOLECTIN
+T1	group 19 55	nonsteroidal anti-inflammatory drugs
+T2	drug 110 122	methotrexate
+T3	drug 178 190	methotrexate
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T2
+T0	brand 0 8	TOLECTIN
+T1	group 19 55	nonsteroidal anti-inflammatory drugs
+T2	drug 110 122	methotrexate
+T3	drug 178 190	methotrexate
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T2

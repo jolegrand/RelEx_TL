@@ -1,0 +1,10 @@
+T0	drug 50 61	clopidogrel
+T1	drug 89 99	omeprazole
+T2	drug 104 116	esomeprazole
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+T0	drug 50 61	clopidogrel
+T1	drug 89 99	omeprazole
+T2	drug 104 116	esomeprazole
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

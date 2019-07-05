@@ -1,0 +1,5 @@
+T0	drug 0 10	Cimetidine
+T1	drug 67 77	cimetidine
+T2	drug 122 132	isradipine
+T3	drug 172 182	isradipine
+R1	mechanism Arg1:T1 Arg2:T2

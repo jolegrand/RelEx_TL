@@ -1,0 +1,7 @@
+T0	drug 0 10	Valdecoxib
+T1	drug 78 88	R-warfarin
+T2	drug 93 103	S-warfarin
+T3	drug 207 215	warfarin
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

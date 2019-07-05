@@ -1,0 +1,3 @@
+T0	drug 114 122	warfarin
+T1	brand 132 138	IRESSA
+R1	effect Arg1:T0 Arg2:T1

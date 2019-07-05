@@ -1,0 +1,4 @@
+T0	drug 0 9	Adenosine
+T1	drug 11 23	Dipyridamole
+T2	drug 102 111	adenosine
+R1	mechanism Arg1:T1 Arg2:T2

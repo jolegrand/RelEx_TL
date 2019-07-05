@@ -1,0 +1,4 @@
+T0	drug 24 33	labetalol
+T1	group 61 79	calcium antagonist
+T2	drug 88 97	verapamil
+R1	advise Arg1:T0 Arg2:T1

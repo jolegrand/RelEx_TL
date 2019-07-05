@@ -1,0 +1,9 @@
+T0	drug 22 36	mercaptopurine
+T1	brand 38 48	Purinethol
+T2	drug 53 65	azathioprine
+T3	brand 67 73	Imuran
+T4	drug 124 135	allopurinol
+T5	drug 239 253	mercaptopurine
+T6	drug 257 269	azathioprine
+R1	advise Arg1:T4 Arg2:T5
+R2	advise Arg1:T4 Arg2:T6

@@ -1,0 +1,11 @@
+T0	group 23 31	Antacids
+T1	drug 60 86	fexofenadine hydrochloride
+T2	drug 131 139	aluminum
+T3	drug 144 153	magnesium
+T4	group 165 172	antacid
+T5	brand 174 180	Maalox
+T6	drug 193 205	fexofenadine
+R1	mechanism Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T1 Arg2:T4
+R4	mechanism Arg1:T1 Arg2:T5

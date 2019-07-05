@@ -1,0 +1,3 @@
+T0	drug 261 268	lithium
+T1	brand 274 280	HALDOL
+R1	effect Arg1:T0 Arg2:T1

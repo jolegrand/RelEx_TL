@@ -1,0 +1,12 @@
+T0	drug 0 8	morphine
+T1	drug 10 22	theophylline
+T2	drug 24 37	aminophylline
+T3	drug 39 54	succinylcholine
+T4	drug 56 65	reserpine
+T5	group 71 103	phenothiazine-type tranquilizers
+T0	drug 0 8	morphine
+T1	drug 10 22	theophylline
+T2	drug 24 37	aminophylline
+T3	drug 39 54	succinylcholine
+T4	drug 56 65	reserpine
+T5	group 71 103	phenothiazine-type tranquilizers

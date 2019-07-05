@@ -1,0 +1,4 @@
+T0	drug 73 83	penicillin
+T1	group 117 130	tetracyclines
+T2	group 151 161	penicillin
+R1	advise Arg1:T1 Arg2:T2

@@ -1,0 +1,4 @@
+T0	brand 29 34	SULAR
+T1	drug 71 79	atenolol
+T2	group 109 125	antihypertensive
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,8 @@
+T0	group 0 9	Digitalis
+T1	drug 104 111	digoxin
+T2	drug 164 171	digoxin
+T3	drug 176 186	nifedipine
+T4	drug 211 218	digoxin
+T5	drug 285 295	nifedipine
+R1	int Arg1:T2 Arg2:T3
+R2	advise Arg1:T4 Arg2:T5

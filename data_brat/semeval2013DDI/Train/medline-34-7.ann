@@ -1,0 +1,5 @@
+T0	drug 11 15	iron
+T1	drug 58 64	cobalt
+T2	drug 81 87	cobalt
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

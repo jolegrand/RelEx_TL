@@ -1,0 +1,4 @@
+T0	drug 0 14	Cholestyramine
+T1	drug 16 30	Cholestyramine
+T2	group 61 76	corticosteroids
+R1	mechanism Arg1:T1 Arg2:T2

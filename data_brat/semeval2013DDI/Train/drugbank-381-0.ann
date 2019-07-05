@@ -1,0 +1,5 @@
+T0	brand 0 9	ERGAMISOL
+T1	drug 12 36	levamisole hydrochloride
+T2	drug 124 131	alcohol
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

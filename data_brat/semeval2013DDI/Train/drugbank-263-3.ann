@@ -1,0 +1,4 @@
+T0	drug 0 10	Lamivudine
+T1	drug 104 114	lamivudine
+T2	drug 139 150	zalcitabine
+R1	effect Arg1:T1 Arg2:T2

@@ -1,0 +1,7 @@
+T0	brand 55 61	FLOLAN
+T1	group 83 92	diuretics
+T2	group 94 117	antihypertensive agents
+T3	group 128 140	vasodilators
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

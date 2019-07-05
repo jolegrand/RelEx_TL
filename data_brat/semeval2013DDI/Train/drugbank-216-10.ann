@@ -1,0 +1,4 @@
+T0	drug 26 36	Rifampicin
+T1	drug 46 55	zopiclone
+T2	drug 104 114	rifampicin
+R1	mechanism Arg1:T1 Arg2:T2

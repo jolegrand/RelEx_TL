@@ -1,0 +1,7 @@
+T0	drug 0 10	Saquinavir
+T1	drug 32 42	saquinavir
+T2	drug 102 112	saquinavir
+T3	brand 126 134	VIRACEPT
+T4	drug 166 176	nelfinavir
+T5	drug 213 223	saquinavir
+R1	mechanism Arg1:T1 Arg2:T3

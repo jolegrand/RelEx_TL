@@ -1,0 +1,5 @@
+T0	drug 54 71	dantrolene sodium
+T1	group 76 100	calcium channel blockers
+T2	drug 110 119	verapamil
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

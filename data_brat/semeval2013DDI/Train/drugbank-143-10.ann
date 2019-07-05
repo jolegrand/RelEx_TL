@@ -1,0 +1,4 @@
+T0	drug 36 46	amiodarone
+T1	drug 58 67	indinavir
+T2	drug 118 128	amiodarone
+R1	mechanism Arg1:T0 Arg2:T1

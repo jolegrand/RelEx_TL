@@ -1,0 +1,3 @@
+T0	drug 110 119	cinoxacin
+T1	group 132 169	nonsteroidal anti-inflammatory agents
+R1	advise Arg1:T0 Arg2:T1

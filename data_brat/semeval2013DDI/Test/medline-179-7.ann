@@ -1,0 +1,6 @@
+T0	drug 27 36	docetaxel
+T1	drug 49 58	sunitinib
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 27 36	docetaxel
+T1	drug 49 58	sunitinib
+R1	effect Arg1:T0 Arg2:T1

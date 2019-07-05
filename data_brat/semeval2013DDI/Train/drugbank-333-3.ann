@@ -1,0 +1,8 @@
+T0	drug 29 39	clonazepam
+T1	drug 103 116	propantheline
+T2	group 121 142	anticholinergic agent
+T3	drug 216 226	clonazepam
+T4	drug 257 267	clonazepam
+T5	drug 335 348	propantheline
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T4 Arg2:T5

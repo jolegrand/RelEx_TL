@@ -1,0 +1,6 @@
+T0	drug 26 35	quinidine
+T1	drug 37 49	disopyramide
+T2	drug 51 63	procainamide
+T3	group 65 79	phenothiazines
+T4	group 81 95	antihistamines
+T5	group 101 126	tricyclic antidepressants

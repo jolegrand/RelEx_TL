@@ -1,0 +1,8 @@
+T0	group 0 14	CNS depressant
+T1	drug 46 68	procaine hydrochloride
+T2	group 73 99	CNS depressant medications
+R1	effect Arg1:T1 Arg2:T2
+T0	group 0 14	CNS depressant
+T1	drug 46 68	procaine hydrochloride
+T2	group 73 99	CNS depressant medications
+R1	effect Arg1:T1 Arg2:T2

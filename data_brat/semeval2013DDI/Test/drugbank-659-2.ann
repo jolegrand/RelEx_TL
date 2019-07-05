@@ -1,0 +1,10 @@
+T0	brand 30 37	TRENTAL
+T1	drug 42 54	theophylline
+T2	drug 91 103	theophylline
+T3	drug 115 127	theophylline
+R1	mechanism Arg1:T0 Arg2:T1
+T0	brand 30 37	TRENTAL
+T1	drug 42 54	theophylline
+T2	drug 91 103	theophylline
+T3	drug 115 127	theophylline
+R1	mechanism Arg1:T0 Arg2:T1

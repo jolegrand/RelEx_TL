@@ -1,0 +1,7 @@
+T0	drug 6 19	apraclonidine
+T1	group 88 101	beta-blockers
+T2	group 129 146	antihypertensives
+T3	group 152 170	cardiac glycosides
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3

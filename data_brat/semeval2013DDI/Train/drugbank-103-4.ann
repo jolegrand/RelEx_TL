@@ -1,0 +1,10 @@
+T0	group 0 15	Corticosteroids
+T1	group 17 32	Methylxanthines
+T2	group 37 46	Diuretics
+T3	group 75 95	xanthine derivatives
+T4	group 97 105	steroids
+T5	group 110 119	diuretics
+T6	group 169 184	beta2-agonists.
+R1	effect Arg1:T3 Arg2:T6
+R2	effect Arg1:T4 Arg2:T6
+R3	effect Arg1:T5 Arg2:T6

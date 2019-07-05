@@ -1,0 +1,9 @@
+T0	drug 31 41	Aprepitant
+T1	drug 97 105	rifampin
+T2	drug 107 120	carbamazepine
+T3	drug 122 131	phenytoin
+T4	drug 180 190	aprepitant
+T5	drug 232 242	Aprepitant
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T3
+R3	mechanism Arg1:T0 Arg2:T4

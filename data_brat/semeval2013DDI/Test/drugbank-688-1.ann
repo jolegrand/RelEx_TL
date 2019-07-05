@@ -1,0 +1,8 @@
+T0	drug 62 79	megestrol acetate
+T1	drug 84 93	indinavir
+T2	drug 198 207	indinavir
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 62 79	megestrol acetate
+T1	drug 84 93	indinavir
+T2	drug 198 207	indinavir
+R1	mechanism Arg1:T0 Arg2:T1

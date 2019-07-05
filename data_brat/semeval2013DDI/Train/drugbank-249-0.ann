@@ -1,0 +1,7 @@
+T0	brand 0 7	Aspirin
+T1	drug 39 49	diclofenac
+T2	brand 54 61	aspirin
+T3	drug 89 99	diclofenac
+T4	brand 177 184	aspirin
+R1	advise Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T3 Arg2:T4

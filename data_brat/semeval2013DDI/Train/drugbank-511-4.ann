@@ -1,0 +1,8 @@
+T0	drug 11 20	foscarnet
+T1	brand 69 77	FOSCAVIR
+T2	group 154 169	aminoglycosides
+T3	drug 171 185	amphotericin B
+T4	drug 202 213	pentamidine
+R1	advise Arg1:T1 Arg2:T2
+R2	advise Arg1:T1 Arg2:T3
+R3	advise Arg1:T1 Arg2:T4

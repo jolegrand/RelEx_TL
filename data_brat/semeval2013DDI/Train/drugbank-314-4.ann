@@ -1,0 +1,4 @@
+T0	group 0 19	Anticholinesterases
+T1	group 40 65	anticholinesterase agents
+T2	group 70 85	corticosteroids
+R1	effect Arg1:T1 Arg2:T2

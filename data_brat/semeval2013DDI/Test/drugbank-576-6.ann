@@ -1,0 +1,42 @@
+T0	group 0 10	Salicylate
+T1	drug 78 88	penicillin
+T2	drug 90 100	thiopental
+T3	drug 102 111	thyroxine
+T4	drug 113 129	triiodothyronine
+T5	drug 131 140	phenytoin
+T6	drug 142 156	sulfinpyrazone
+T7	drug 158 166	naproxen
+T8	drug 168 176	warfarin
+T9	drug 178 190	methotrexate
+T10	group 205 220	corticosteroids
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4
+R5	mechanism Arg1:T0 Arg2:T5
+R6	mechanism Arg1:T0 Arg2:T6
+R7	mechanism Arg1:T0 Arg2:T7
+R8	mechanism Arg1:T0 Arg2:T8
+R9	mechanism Arg1:T0 Arg2:T9
+R10	mechanism Arg1:T0 Arg2:T10
+T0	group 0 10	Salicylate
+T1	drug 78 88	penicillin
+T2	drug 90 100	thiopental
+T3	drug 102 111	thyroxine
+T4	drug 113 129	triiodothyronine
+T5	drug 131 140	phenytoin
+T6	drug 142 156	sulfinpyrazone
+T7	drug 158 166	naproxen
+T8	drug 168 176	warfarin
+T9	drug 178 190	methotrexate
+T10	group 205 220	corticosteroids
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4
+R5	mechanism Arg1:T0 Arg2:T5
+R6	mechanism Arg1:T0 Arg2:T6
+R7	mechanism Arg1:T0 Arg2:T7
+R8	mechanism Arg1:T0 Arg2:T8
+R9	mechanism Arg1:T0 Arg2:T9
+R10	mechanism Arg1:T0 Arg2:T10

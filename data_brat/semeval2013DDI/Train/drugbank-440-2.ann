@@ -1,0 +1,5 @@
+T0	drug 0 11	Ibandronate
+T1	group 118 126	antacids
+T2	group 143 151	vitamins
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

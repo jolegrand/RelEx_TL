@@ -1,0 +1,4 @@
+T0	drug 0 7	Digoxin
+T1	drug 54 76	bepridil hydrochloride
+T2	drug 197 204	digoxin
+R1	mechanism Arg1:T1 Arg2:T2

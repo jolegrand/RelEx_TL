@@ -1,0 +1,3 @@
+T0	drug 0 10	Etofibrate
+T1	drug 44 51	heparin
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,5 @@
+T0	drug 20 30	valdecoxib
+T1	brand 35 46	Ortho-Novum
+T2	drug 79 92	norethindrone
+T3	drug 97 114	ethinyl estradiol
+R1	mechanism Arg1:T0 Arg2:T1

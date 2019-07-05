@@ -1,0 +1,6 @@
+T0	drug 31 43	theophylline
+T1	drug_n 74 82	CGS21680
+T2	drug_n 142 147	DPCPX
+T3	drug 200 209	CGS 21680
+T4	drug_n 217 220	CPA
+R1	effect Arg1:T0 Arg2:T1

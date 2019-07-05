@@ -1,0 +1,6 @@
+T0	group 38 49	anesthetics
+T1	drug 58 68	methyldopa
+R1	advise Arg1:T0 Arg2:T1
+T0	group 38 49	anesthetics
+T1	drug 58 68	methyldopa
+R1	advise Arg1:T0 Arg2:T1

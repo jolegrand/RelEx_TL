@@ -1,0 +1,4 @@
+T0	drug 49 58	primidone
+T1	brand 60 66	DIAMOX
+T2	drug 104 113	primidone
+R1	mechanism Arg1:T1 Arg2:T2

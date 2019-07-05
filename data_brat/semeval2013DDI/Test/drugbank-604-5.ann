@@ -1,0 +1,6 @@
+T0	drug_n 0 11	John's Wort
+T1	group 17 46	hormonal contraceptive agents
+R1	effect Arg1:T0 Arg2:T1
+T0	drug_n 0 11	John's Wort
+T1	group 17 46	hormonal contraceptive agents
+R1	effect Arg1:T0 Arg2:T1

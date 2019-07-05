@@ -1,0 +1,5 @@
+T0	group 0 14	Anticoagulants
+T1	group 43 58	corticosteroids
+T2	drug 63 71	warfarin
+T3	drug 117 125	warfarin
+R1	effect Arg1:T1 Arg2:T2

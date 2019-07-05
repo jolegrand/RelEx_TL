@@ -1,0 +1,8 @@
+T0	group 0 10	Quinolones
+T1	drug 22 31	cinoxacin
+T2	group 65 79	anticoagulants
+T3	drug 89 97	warfarin
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T0 Arg2:T3
+R3	effect Arg1:T1 Arg2:T2
+R4	effect Arg1:T1 Arg2:T3

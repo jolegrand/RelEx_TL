@@ -1,0 +1,3 @@
+T0	drug_n 18 29	neurotensin
+T1	drug_n 82 93	enkephalins
+R1	effect Arg1:T0 Arg2:T1

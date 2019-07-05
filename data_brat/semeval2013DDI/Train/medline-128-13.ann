@@ -1,0 +1,5 @@
+T0	drug 0 10	Loperamide
+T1	drug 15 23	morphine
+T2	drug_n 64 70	dmPGE2
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

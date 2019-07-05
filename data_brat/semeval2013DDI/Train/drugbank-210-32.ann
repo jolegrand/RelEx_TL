@@ -1,0 +1,3 @@
+T0	drug 71 79	warfarin
+T1	drug 84 93	rofecoxib
+R1	effect Arg1:T0 Arg2:T1

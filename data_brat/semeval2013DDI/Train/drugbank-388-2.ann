@@ -1,0 +1,3 @@
+T0	group 79 106	beta-adrenergic antagonists
+T1	group 111 138	alpha-adrenergic stimulants
+R1	effect Arg1:T0 Arg2:T1

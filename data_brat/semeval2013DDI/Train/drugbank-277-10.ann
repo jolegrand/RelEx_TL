@@ -1,0 +1,7 @@
+T0	group 37 41	AEDs
+T1	brand 46 54	GABITRIL
+T2	drug 57 70	Carbamazepine
+T3	drug 122 131	tiagabine
+T4	drug 176 189	carbamazepine
+T5	group 229 233	AEDs
+R1	mechanism Arg1:T3 Arg2:T4

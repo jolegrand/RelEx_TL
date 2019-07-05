@@ -1,0 +1,11 @@
+T0	drug 70 79	estazolam
+T1	drug 153 166	carbamazepine
+T2	drug 168 177	phenytoin
+T3	drug 179 187	rifampin
+T4	group 193 205	barbiturates
+T5	drug 237 246	estazolam
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4
+R5	mechanism Arg1:T0 Arg2:T5

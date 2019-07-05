@@ -1,0 +1,4 @@
+T0	drug 9 20	Allopurinol
+T1	drug 66 78	azathioprine
+T2	drug 95 106	allopurinol
+R1	mechanism Arg1:T1 Arg2:T2

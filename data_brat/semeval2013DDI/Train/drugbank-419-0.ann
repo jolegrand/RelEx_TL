@@ -1,0 +1,4 @@
+T0	drug 33 44	allopurinol
+T1	drug 49 59	ampicillin
+T2	drug 175 185	ampicillin
+R1	effect Arg1:T0 Arg2:T1

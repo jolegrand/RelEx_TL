@@ -1,0 +1,11 @@
+T0	drug 21 29	imatinib
+T1	drug 76 84	imatinib
+T2	brand 150 157	Gleevec
+T3	drug 202 214	ketoconazole
+T4	drug 216 228	itraconazole
+T5	drug 230 242	erythromycin
+T6	drug 244 258	clarithromycin
+R1	advise Arg1:T2 Arg2:T3
+R2	advise Arg1:T2 Arg2:T4
+R3	advise Arg1:T2 Arg2:T5
+R4	advise Arg1:T2 Arg2:T6

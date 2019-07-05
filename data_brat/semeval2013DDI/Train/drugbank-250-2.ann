@@ -1,0 +1,13 @@
+T0	brand 0 27	Curariform muscle relaxants
+T1	drug 33 45	tubocurarine
+T2	drug 81 96	succinylcholine
+T3	drug 98 107	gallamine
+T4	drug 109 122	decamethonium
+T5	drug 127 141	sodium citrate
+T6	brand 259 271	Coly-Mycin M
+R1	effect Arg1:T0 Arg2:T6
+R2	effect Arg1:T1 Arg2:T6
+R3	effect Arg1:T2 Arg2:T6
+R4	effect Arg1:T3 Arg2:T6
+R5	effect Arg1:T4 Arg2:T6
+R6	effect Arg1:T5 Arg2:T6

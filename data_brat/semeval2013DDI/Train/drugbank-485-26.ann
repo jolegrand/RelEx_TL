@@ -1,0 +1,4 @@
+T0	drug 0 8	Morphine
+T1	group 22 45	hormonal contraceptives
+T2	drug 76 84	morphine
+R1	mechanism Arg1:T1 Arg2:T2

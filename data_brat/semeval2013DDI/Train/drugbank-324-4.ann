@@ -1,0 +1,4 @@
+T0	drug 0 10	Imipramine
+T1	brand 48 54	Sonata
+T2	drug 65 75	imipramine
+R1	effect Arg1:T1 Arg2:T2

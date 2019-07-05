@@ -1,0 +1,4 @@
+T0	drug 20 28	rifampin
+T1	drug 34 43	diltiazem
+T2	drug 56 65	diltiazem
+R1	mechanism Arg1:T0 Arg2:T1

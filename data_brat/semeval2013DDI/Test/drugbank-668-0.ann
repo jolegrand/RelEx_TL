@@ -1,0 +1,16 @@
+T0	drug 49 61	mifepristone
+T1	drug 158 170	ketoconazole
+T2	drug 172 184	itraconazole
+T3	drug 186 198	erythromycin
+T4	drug 276 288	mifepristone
+R1	mechanism Arg1:T1 Arg2:T4
+R2	mechanism Arg1:T2 Arg2:T4
+R3	mechanism Arg1:T3 Arg2:T4
+T0	drug 49 61	mifepristone
+T1	drug 158 170	ketoconazole
+T2	drug 172 184	itraconazole
+T3	drug 186 198	erythromycin
+T4	drug 276 288	mifepristone
+R1	mechanism Arg1:T1 Arg2:T4
+R2	mechanism Arg1:T2 Arg2:T4
+R3	mechanism Arg1:T3 Arg2:T4

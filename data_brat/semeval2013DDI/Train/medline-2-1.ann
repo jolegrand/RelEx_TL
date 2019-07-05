@@ -1,0 +1,4 @@
+T0	drug 32 40	neomycin
+T1	group 84 106	adrenocortical steroid
+T2	drug 141 145	ACTH
+R1	effect Arg1:T0 Arg2:T2

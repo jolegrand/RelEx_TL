@@ -1,0 +1,14 @@
+T0	group 15 36	anticholinergic drugs
+T1	drug 46 54	atropine
+T2	group 59 84	tricyclic antidepressants
+T3	drug 138 150	triprolidine
+R1	effect Arg1:T0 Arg2:T3
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T2 Arg2:T3
+T0	group 15 36	anticholinergic drugs
+T1	drug 46 54	atropine
+T2	group 59 84	tricyclic antidepressants
+T3	drug 138 150	triprolidine
+R1	effect Arg1:T0 Arg2:T3
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T2 Arg2:T3

@@ -1,0 +1,22 @@
+T0	brand 23 29	SKELID
+T1	drug 50 57	calcium
+T2	drug 64 71	calcium
+T3	brand 76 82	SKELID
+T4	drug 134 142	aluminum
+T5	drug 147 156	magnesium
+T6	drug 168 176	antacids
+T7	brand 210 216	SKELID
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T4 Arg2:T7
+R3	mechanism Arg1:T5 Arg2:T7
+T0	brand 23 29	SKELID
+T1	drug 50 57	calcium
+T2	drug 64 71	calcium
+T3	brand 76 82	SKELID
+T4	drug 134 142	aluminum
+T5	drug 147 156	magnesium
+T6	drug 168 176	antacids
+T7	brand 210 216	SKELID
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T4 Arg2:T7
+R3	mechanism Arg1:T5 Arg2:T7

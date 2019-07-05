@@ -1,0 +1,8 @@
+T0	drug 22 31	phenytoin
+T1	brand 69 77	DIFLUCAN
+T2	drug 82 91	phenytoin
+R1	advise Arg1:T1 Arg2:T2
+T0	drug 22 31	phenytoin
+T1	brand 69 77	DIFLUCAN
+T2	drug 82 91	phenytoin
+R1	advise Arg1:T1 Arg2:T2

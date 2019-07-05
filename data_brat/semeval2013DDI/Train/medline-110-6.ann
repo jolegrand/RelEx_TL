@@ -1,0 +1,8 @@
+T0	drug_n 5 13	ibogaine
+T1	drug_n 18 23	18-MC
+T2	drug 30 38	morphine
+T3	drug 51 59	nicotine
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T0 Arg2:T3
+R3	effect Arg1:T1 Arg2:T2
+R4	effect Arg1:T1 Arg2:T3

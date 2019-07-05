@@ -1,0 +1,5 @@
+T0	drug 0 10	Rifampicin
+T1	drug 66 76	rifampicin
+T2	drug 125 135	isradipine
+T3	drug 163 173	isradipine
+R1	mechanism Arg1:T1 Arg2:T2

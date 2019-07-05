@@ -1,0 +1,7 @@
+T0	drug 26 46	sodium nitroprusside
+T1	group 82 99	hypotensive drugs
+T2	group 111 137	ganglionic blocking agents
+T3	group 178 189	anesthetics
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

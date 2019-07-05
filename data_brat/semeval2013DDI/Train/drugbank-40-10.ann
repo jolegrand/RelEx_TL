@@ -1,0 +1,43 @@
+T0	drug 97 106	phenytoin
+T1	drug 137 144	alcohol
+T2	drug 153 163	amiodarone
+T3	drug 182 198	chlordiazepoxide
+T4	drug 200 210	cimetidine
+T5	drug 212 220	diazepam
+T6	drug 222 231	dicumarol
+T7	drug 233 243	disulfiram
+T8	group 245 254	estrogens
+T9	drug 256 268	ethosuximide
+T10	drug 270 280	fluoxetine
+T11	group 282 296	H2-antagonists
+T12	drug 298 307	halothane
+T13	drug 309 318	isoniazid
+T14	drug 320 335	methylphenidate
+T15	group 337 351	phenothiazines
+T16	drug 353 367	phenylbutazone
+T17	group 369 380	salicylates
+T18	group 382 394	succinimides
+T19	group 396 408	sulfonamides
+T20	drug 410 421	tolbutamide
+T21	drug 423 432	trazodone
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4
+R5	mechanism Arg1:T0 Arg2:T5
+R6	mechanism Arg1:T0 Arg2:T6
+R7	mechanism Arg1:T0 Arg2:T7
+R8	mechanism Arg1:T0 Arg2:T8
+R9	mechanism Arg1:T0 Arg2:T9
+R10	mechanism Arg1:T0 Arg2:T10
+R11	mechanism Arg1:T0 Arg2:T11
+R12	mechanism Arg1:T0 Arg2:T12
+R13	mechanism Arg1:T0 Arg2:T13
+R14	mechanism Arg1:T0 Arg2:T14
+R15	mechanism Arg1:T0 Arg2:T15
+R16	mechanism Arg1:T0 Arg2:T16
+R17	mechanism Arg1:T0 Arg2:T17
+R18	mechanism Arg1:T0 Arg2:T18
+R19	mechanism Arg1:T0 Arg2:T19
+R20	mechanism Arg1:T0 Arg2:T20
+R21	mechanism Arg1:T0 Arg2:T21

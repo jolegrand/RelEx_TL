@@ -1,0 +1,4 @@
+T0	drug 0 8	Nicotine
+T1	drug 10 18	Nicotine
+T2	drug 113 118	ergot
+R1	effect Arg1:T1 Arg2:T2

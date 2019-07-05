@@ -1,0 +1,3 @@
+T0	group 30 36	NSAIDs
+T1	group 81 95	ACE inhibitors
+R1	effect Arg1:T0 Arg2:T1

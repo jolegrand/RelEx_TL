@@ -1,0 +1,4 @@
+T0	drug 41 51	duloxetine
+T1	drug 57 68	fluvoxamine
+T2	drug 185 195	duloxetine
+R1	mechanism Arg1:T0 Arg2:T1

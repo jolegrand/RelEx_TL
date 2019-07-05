@@ -1,0 +1,12 @@
+T0	brand 0 7	Mexitil
+T1	drug 32 39	digoxin
+T2	drug 51 79	magnesium-aluminum hydroxide
+T3	brand 133 140	Mexitil
+T4	drug 178 185	digoxin
+R1	mechanism Arg1:T2 Arg2:T4
+T0	brand 0 7	Mexitil
+T1	drug 32 39	digoxin
+T2	drug 51 79	magnesium-aluminum hydroxide
+T3	brand 133 140	Mexitil
+T4	drug 178 185	digoxin
+R1	mechanism Arg1:T2 Arg2:T4

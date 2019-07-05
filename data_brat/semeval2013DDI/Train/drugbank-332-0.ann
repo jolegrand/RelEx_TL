@@ -1,0 +1,5 @@
+T0	drug 18 26	doxapram
+T1	group 57 72	sympathomimetic
+T2	group 76 110	monoamine oxidase inhibiting drugs
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

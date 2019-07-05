@@ -1,0 +1,8 @@
+T0	brand 5 13	DIFLUCAN
+T1	group 56 93	sulfonylurea oral hypoglycemic agents
+T2	group 174 186	sulfonylurea
+R1	advise Arg1:T0 Arg2:T1
+T0	brand 5 13	DIFLUCAN
+T1	group 56 93	sulfonylurea oral hypoglycemic agents
+T2	group 174 186	sulfonylurea
+R1	advise Arg1:T0 Arg2:T1

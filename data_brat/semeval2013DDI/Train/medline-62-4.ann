@@ -1,0 +1,5 @@
+T0	drug 46 50	METH
+T1	drug_n 234 243	SCH-23390
+T2	group 258 278	atypical neuroleptic
+T3	drug 279 288	clozapine
+R1	effect Arg1:T0 Arg2:T1

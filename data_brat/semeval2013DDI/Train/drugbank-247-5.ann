@@ -1,0 +1,7 @@
+T0	drug 18 29	epinephrine
+T1	drug 52 64	cyclopropane
+T2	group 68 111	halogenated hydrocarbon general anesthetics
+T3	drug 120 129	halothane
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

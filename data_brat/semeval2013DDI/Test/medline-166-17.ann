@@ -1,0 +1,6 @@
+T0	drug 20 30	cinacalcet
+T1	drug 64 75	darbepoetin
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 20 30	cinacalcet
+T1	drug 64 75	darbepoetin
+R1	effect Arg1:T0 Arg2:T1

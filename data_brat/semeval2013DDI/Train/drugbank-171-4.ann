@@ -1,0 +1,6 @@
+T0	brand 64 71	Tagamet
+T1	drug 146 158	theophylline
+T2	brand 160 168	Theo-Dur
+T3	drug 243 255	theophylline
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

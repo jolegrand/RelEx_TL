@@ -1,0 +1,3 @@
+T0	drug 86 98	Itraconazole
+T1	drug 103 112	quinidine
+R1	effect Arg1:T0 Arg2:T1

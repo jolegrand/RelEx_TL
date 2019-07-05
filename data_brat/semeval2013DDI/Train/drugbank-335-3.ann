@@ -1,0 +1,11 @@
+T0	group 19 34	benzodiazepines
+T1	group 57 69	barbiturates
+T2	group 71 80	narcotics
+T3	group 82 96	phenothiazines
+T4	group 98 126	monoamine oxidase inhibitors
+T5	group 136 151	antidepressants
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5

@@ -1,0 +1,1 @@
+RNA from un-treated and DZNep treated cells was profiled by Affymetrix HG-U133 Plus 2.0 microarray and genes with a significant change in gene expression were determined by significance analysis of microarray (SAM) testing. 

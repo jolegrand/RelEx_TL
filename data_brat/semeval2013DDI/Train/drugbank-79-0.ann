@@ -1,0 +1,5 @@
+T0	drug 18 29	lymecycline
+T1	drug 106 110	iron
+T2	drug 114 118	zinc
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

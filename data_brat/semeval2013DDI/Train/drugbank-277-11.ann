@@ -1,0 +1,5 @@
+T0	drug 0 9	Phenytoin
+T1	drug 61 70	tiagabine
+T2	drug 115 124	phenytoin
+T3	group 164 168	AEDs
+R1	mechanism Arg1:T1 Arg2:T2

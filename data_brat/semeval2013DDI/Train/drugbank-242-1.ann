@@ -1,0 +1,10 @@
+T0	group 45 55	quinolones
+T1	drug 107 119	theophylline
+T2	drug 154 162	caffeine
+T3	group 200 213	anticoagulant
+T4	drug 214 222	warfarin
+T5	drug 345 357	cyclosporine
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T4
+R4	effect Arg1:T0 Arg2:T5

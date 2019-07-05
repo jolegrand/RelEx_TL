@@ -1,0 +1,21 @@
+T0	brand 97 106	EQUETROTM
+T1	drug 126 135	Cisplatin
+T2	drug 137 152	doxorubicin HCL
+T3	drug 154 163	felbamate
+T4	drug 165 173	rifampin
+T5	drug 175 188	phenobarbital
+T6	drug 190 199	Phenytoin
+T7	drug 204 213	primidone
+T8	drug 215 227	methsuximide
+T9	drug 233 245	theophylline
+T10	brand 305 314	EQUETROTM
+T11	brand 441 450	EQUETROTM
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4
+R5	mechanism Arg1:T0 Arg2:T5
+R6	mechanism Arg1:T0 Arg2:T6
+R7	mechanism Arg1:T0 Arg2:T7
+R8	mechanism Arg1:T0 Arg2:T8
+R9	mechanism Arg1:T0 Arg2:T9

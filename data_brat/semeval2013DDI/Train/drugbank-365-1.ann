@@ -1,0 +1,7 @@
+T0	group 0 2;10 18	H1 Blockers
+T1	group 7 18	H2 Blockers
+T2	drug 44 55	L-histidine
+T3	group 121 123;131 139	H1 blockers
+T4	group 128 139	H2 blockers
+R1	effect Arg1:T2 Arg2:T3
+R2	effect Arg1:T2 Arg2:T4

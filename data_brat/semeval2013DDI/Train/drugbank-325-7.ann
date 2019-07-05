@@ -1,0 +1,7 @@
+T0	group 0 14	Butyrophenones
+T1	drug 24 35	haloperidol
+T2	group 41 55	phenothiazines
+T3	drug 73 81	dopamine
+R1	effect Arg1:T0 Arg2:T3
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T2 Arg2:T3

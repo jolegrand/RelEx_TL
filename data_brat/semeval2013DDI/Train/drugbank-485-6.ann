@@ -1,0 +1,3 @@
+T0	drug 0 17	Aminoglutethimide
+T1	group 50 60	progestins
+R1	mechanism Arg1:T0 Arg2:T1

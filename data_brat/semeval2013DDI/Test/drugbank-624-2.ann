@@ -1,0 +1,8 @@
+T0	group 5 14	diuretics
+T1	group 27 41	aminoglycoside
+T2	group 63 73	antibiotic
+R1	effect Arg1:T0 Arg2:T1
+T0	group 5 14	diuretics
+T1	group 27 41	aminoglycoside
+T2	group 63 73	antibiotic
+R1	effect Arg1:T0 Arg2:T1

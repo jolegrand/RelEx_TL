@@ -1,0 +1,10 @@
+T0	drug 0 13	Acetazolamide
+T1	drug 33 46	acetazolamide
+T2	drug 51 73	procaine hydrochloride
+T3	drug 109 117	procaine
+R1	mechanism Arg1:T1 Arg2:T2
+T0	drug 0 13	Acetazolamide
+T1	drug 33 46	acetazolamide
+T2	drug 51 73	procaine hydrochloride
+T3	drug 109 117	procaine
+R1	mechanism Arg1:T1 Arg2:T2

@@ -1,0 +1,6 @@
+T0	drug 66 77	zalcitabine
+T1	drug 82 92	lamivudine
+T2	drug 173 184	zalcitabine
+T3	group 216 230	antiretroviral
+T4	drug 241 252	zalcitabine
+R1	effect Arg1:T0 Arg2:T1

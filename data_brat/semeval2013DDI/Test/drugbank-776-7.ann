@@ -1,0 +1,8 @@
+T0	group 44 61	azole antifungals
+T1	drug 242 253	fluconazole
+T2	drug 272 280	warfarin
+R1	effect Arg1:T1 Arg2:T2
+T0	group 44 61	azole antifungals
+T1	drug 242 253	fluconazole
+T2	drug 272 280	warfarin
+R1	effect Arg1:T1 Arg2:T2

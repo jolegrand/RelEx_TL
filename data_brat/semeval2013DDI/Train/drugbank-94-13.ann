@@ -1,0 +1,9 @@
+T0	drug 48 61	Carbamazepine
+T1	brand 63 72	EQUETROTM
+T2	drug 126 142	Clomipramine HCl
+T3	drug 144 153	Phenytoin
+T4	drug 162 171	primidone
+T5	brand 314 323	EQUETROTM
+R1	mechanism Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T1 Arg2:T4

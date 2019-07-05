@@ -1,0 +1,5 @@
+T0	brand 30 38	HUMORSOL
+T1	drug 44 59	succinylcholine
+T2	group 74 99	anticholinesterase agents
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2

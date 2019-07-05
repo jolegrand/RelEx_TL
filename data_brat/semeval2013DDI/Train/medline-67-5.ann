@@ -1,0 +1,4 @@
+T0	drug 0 8	Diazepam
+T1	drug 60 68	morphine
+T2	drug 121 129	morphine
+R1	effect Arg1:T0 Arg2:T1

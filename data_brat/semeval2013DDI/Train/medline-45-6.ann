@@ -1,0 +1,3 @@
+T0	drug 105 119	tripelennamine
+T1	drug 200 211	pentazocine
+R1	effect Arg1:T0 Arg2:T1

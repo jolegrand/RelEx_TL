@@ -1,0 +1,3 @@
+T0	drug 30 41	naratriptan
+T1	group 49 53	SSRI
+R1	advise Arg1:T0 Arg2:T1

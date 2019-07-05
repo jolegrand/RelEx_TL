@@ -1,0 +1,8 @@
+T0	drug 51 62	fluconazole
+T1	brand 81 89	DIFLUCAN
+T2	drug 175 186	terfenadine
+R1	mechanism Arg1:T1 Arg2:T2
+T0	drug 51 62	fluconazole
+T1	brand 81 89	DIFLUCAN
+T2	drug 175 186	terfenadine
+R1	mechanism Arg1:T1 Arg2:T2

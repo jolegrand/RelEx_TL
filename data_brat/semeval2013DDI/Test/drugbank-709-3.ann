@@ -1,0 +1,12 @@
+T0	drug 56 69	roxithromycin
+T1	drug 101 114	roxithromycin
+T2	drug 120 131	terfenadine
+T3	drug 135 145	astemizole
+R1	advise Arg1:T1 Arg2:T2
+R2	advise Arg1:T1 Arg2:T3
+T0	drug 56 69	roxithromycin
+T1	drug 101 114	roxithromycin
+T2	drug 120 131	terfenadine
+T3	drug 135 145	astemizole
+R1	advise Arg1:T1 Arg2:T2
+R2	advise Arg1:T1 Arg2:T3

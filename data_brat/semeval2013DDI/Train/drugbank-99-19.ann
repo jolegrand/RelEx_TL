@@ -1,0 +1,4 @@
+T0	drug 36 53	amitriptyline HCl
+T1	drug 75 90	anticholinergic
+T2	drug 106 117	neuroleptic
+R1	effect Arg1:T0 Arg2:T1

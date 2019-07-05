@@ -1,0 +1,6 @@
+T0	drug 42 52	valdecoxib
+T1	drug 82 94	ketoconazole
+T2	drug 99 110	fluconazole
+T3	drug 158 168	valdecoxib
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

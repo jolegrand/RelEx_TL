@@ -1,0 +1,1 @@
+A library of silencing RNAs (siRNAs) was used to identify kinases that regulate paclitaxel sensitivity in human ovarian cancer SKOv3 cells. 

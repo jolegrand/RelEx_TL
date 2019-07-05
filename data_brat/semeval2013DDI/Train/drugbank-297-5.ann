@@ -1,0 +1,3 @@
+T0	brand 70 77	ORENCIA
+T1	drug 109 117	anakinra
+R1	advise Arg1:T0 Arg2:T1

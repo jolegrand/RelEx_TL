@@ -1,0 +1,6 @@
+T0	drug 0 9	Ritonavir
+T1	drug 31 40	ritonavir
+T2	brand 46 54	VIRACEPT
+T3	drug 86 96	nelfinavir
+T4	drug 134 143	ritonavir
+R1	mechanism Arg1:T1 Arg2:T2

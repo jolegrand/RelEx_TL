@@ -1,0 +1,11 @@
+T0	brand 7 15	PRINIVIL
+T1	group 21 48	potassium-sparing diuretics
+T2	drug 56 70	spironolactone
+T3	drug 72 83	triamterene
+T4	drug 88 97	amiloride
+T5	drug 100 109	potassium
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5

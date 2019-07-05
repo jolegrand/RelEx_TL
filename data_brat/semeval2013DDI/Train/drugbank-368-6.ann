@@ -1,0 +1,3 @@
+T0	drug 0 13	Acetazolamide
+T1	group 48 70	folic acid antagonists
+R1	effect Arg1:T0 Arg2:T1

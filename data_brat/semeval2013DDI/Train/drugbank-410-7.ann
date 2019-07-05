@@ -1,0 +1,4 @@
+T0	group 0 5	SSRIs
+T1	group 81 95	5-HT1 agonists
+T2	group 127 132	SSRIs
+R1	effect Arg1:T1 Arg2:T2

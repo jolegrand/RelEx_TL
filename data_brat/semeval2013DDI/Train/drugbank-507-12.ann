@@ -1,0 +1,12 @@
+T0	group 68 86	cardiac glycosides
+T1	group 94 103	sedatives
+T2	group 108 117	hypnotics
+T3	group 125 146	coronary vasodilators
+T4	group 158 171	hypoglycemics
+T5	group 212 218	NSAIDs
+T6	group 225 244	antihyperlipidemics
+T7	group 251 265	antigout drugs
+T8	group 277 291	contraceptives
+T9	group 298 313	bronchodilators
+T10	drug 320 327	insulin
+T11	group 338 351	beta blockers

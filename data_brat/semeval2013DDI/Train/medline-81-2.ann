@@ -1,0 +1,4 @@
+T0	drug 71 78	ethanol
+T1	drug 117 127	disulfiram
+T2	drug 147 154	ethanol
+R1	effect Arg1:T0 Arg2:T1

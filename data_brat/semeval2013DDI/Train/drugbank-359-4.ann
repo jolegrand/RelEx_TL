@@ -1,0 +1,3 @@
+T0	group 16 39	coumarin anticoagulants
+T1	drug 123 132	phenytoin
+R1	mechanism Arg1:T0 Arg2:T1

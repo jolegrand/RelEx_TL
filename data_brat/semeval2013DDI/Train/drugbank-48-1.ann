@@ -1,0 +1,24 @@
+T0	brand 19 26	SPRYCEL
+T1	drug 62 74	ketoconazole
+T2	drug 76 88	itraconazole
+T3	drug 90 102	erythromycin
+T4	drug 104 118	clarithromycin
+T5	drug 120 129	ritonavir
+T6	drug 131 141	atazanavir
+T7	drug 143 152	indinavir
+T8	drug 154 164	nefazodone
+T9	drug 166 176	nelfinavir
+T10	drug 178 188	saquinavir
+T11	drug 190 203	telithromycin
+T12	drug 230 239	dasatinib
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4
+R5	mechanism Arg1:T0 Arg2:T5
+R6	mechanism Arg1:T0 Arg2:T6
+R7	mechanism Arg1:T0 Arg2:T7
+R8	mechanism Arg1:T0 Arg2:T8
+R9	mechanism Arg1:T0 Arg2:T9
+R10	mechanism Arg1:T0 Arg2:T10
+R11	mechanism Arg1:T0 Arg2:T11

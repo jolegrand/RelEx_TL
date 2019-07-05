@@ -1,0 +1,4 @@
+T0	group 6 16	quinolones
+T1	drug 90 98	caffeine
+T2	drug 228 236	caffeine
+R1	mechanism Arg1:T0 Arg2:T1

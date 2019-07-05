@@ -1,0 +1,3 @@
+T0	group 74 97	azole antifungal agents
+T1	group 107 126	hypoglycemic agents
+R1	effect Arg1:T0 Arg2:T1

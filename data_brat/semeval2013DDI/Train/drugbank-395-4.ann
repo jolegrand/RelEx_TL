@@ -1,0 +1,4 @@
+T0	drug 14 22	enoxacin
+T1	drug 56 64	caffeine
+T2	drug 69 77	enoxacin
+R1	mechanism Arg1:T1 Arg2:T2

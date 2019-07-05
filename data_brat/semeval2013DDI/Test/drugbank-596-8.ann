@@ -1,0 +1,8 @@
+T0	group 9 25	Anticholinergics
+T1	group 65 90	cholinesterase inhibitors
+T2	group 144 171	anticholinergic medications
+R1	int Arg1:T1 Arg2:T2
+T0	group 9 25	Anticholinergics
+T1	group 65 90	cholinesterase inhibitors
+T2	group 144 171	anticholinergic medications
+R1	int Arg1:T1 Arg2:T2

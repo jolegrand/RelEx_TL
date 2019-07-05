@@ -1,0 +1,3 @@
+T0	group 81 96	botulinum toxin
+T1	group 165 180	botulinum toxin
+R1	effect Arg1:T0 Arg2:T1

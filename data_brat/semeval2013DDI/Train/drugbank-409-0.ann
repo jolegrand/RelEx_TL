@@ -1,0 +1,4 @@
+T0	group 12 25	tetracyclines
+T1	group 102 115	anticoagulant
+T2	group 165 178	anticoagulant
+R1	advise Arg1:T0 Arg2:T1

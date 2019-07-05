@@ -1,0 +1,6 @@
+T0	drug 32 44	testolactone
+T1	group 78 92	anticoagulants
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 32 44	testolactone
+T1	group 78 92	anticoagulants
+R1	effect Arg1:T0 Arg2:T1

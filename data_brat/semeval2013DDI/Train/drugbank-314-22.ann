@@ -1,0 +1,5 @@
+T0	drug 0 12	Ketoconazole
+T1	drug 14 26	Ketoconazole
+T2	group 83 98	corticosteroids
+T3	group 142 156	corticosteroid
+R1	mechanism Arg1:T1 Arg2:T2

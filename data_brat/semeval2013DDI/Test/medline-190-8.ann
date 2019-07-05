@@ -1,0 +1,10 @@
+T0	drug_n 0 4	AAV2
+T1	drug_n 66 80	heparinase III
+T2	drug_n 84 105	chondroitin ABC lyase
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+T0	drug_n 0 4	AAV2
+T1	drug_n 66 80	heparinase III
+T2	drug_n 84 105	chondroitin ABC lyase
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

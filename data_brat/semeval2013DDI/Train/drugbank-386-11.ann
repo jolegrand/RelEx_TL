@@ -1,0 +1,4 @@
+T0	group 20 24	SSRI
+T1	group 25 28	TCA
+T2	group 141 145	SSRI
+R1	int Arg1:T0 Arg2:T1

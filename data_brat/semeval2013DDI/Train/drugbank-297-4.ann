@@ -1,0 +1,3 @@
+T0	brand 24 31	ORENCIA
+T1	group 36 51	TNF antagonists
+R1	advise Arg1:T0 Arg2:T1

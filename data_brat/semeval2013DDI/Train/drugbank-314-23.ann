@@ -1,0 +1,3 @@
+T0	drug 13 25	ketoconazole
+T1	drug 52 66	corticosteroid
+R1	effect Arg1:T0 Arg2:T1

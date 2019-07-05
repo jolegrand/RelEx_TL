@@ -1,0 +1,4 @@
+T0	drug 72 81	sirolimus
+T1	drug 82 91	diltiazem
+T2	drug 117 126	sirolimus
+R1	advise Arg1:T0 Arg2:T1

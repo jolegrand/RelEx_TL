@@ -1,0 +1,12 @@
+T0	drug 32 43	gemfibrozil
+T1	drug 69 82	rosiglitazone
+T2	drug 117 125	rifampin
+T3	drug 151 164	rosiglitazone
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T2 Arg2:T3
+T0	drug 32 43	gemfibrozil
+T1	drug 69 82	rosiglitazone
+T2	drug 117 125	rifampin
+T3	drug 151 164	rosiglitazone
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T2 Arg2:T3

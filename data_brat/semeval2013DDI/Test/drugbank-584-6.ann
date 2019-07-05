@@ -1,0 +1,8 @@
+T0	drug 5 16	oxandrolone
+T1	drug 84 92	warfarin
+T2	drug 171 179	warfarin
+R1	advise Arg1:T0 Arg2:T1
+T0	drug 5 16	oxandrolone
+T1	drug 84 92	warfarin
+T2	drug 171 179	warfarin
+R1	advise Arg1:T0 Arg2:T1

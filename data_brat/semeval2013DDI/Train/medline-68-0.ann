@@ -1,0 +1,8 @@
+T0	drug 15 25	cimetidine
+T1	drug 52 62	verografin
+T2	drug 67 75	iodamide
+T3	drug 115 125	cimetidine
+T4	drug 157 168	verografine
+T5	drug 173 181	iodamide
+R1	mechanism Arg1:T3 Arg2:T4
+R2	mechanism Arg1:T3 Arg2:T5

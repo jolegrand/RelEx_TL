@@ -1,0 +1,7 @@
+T0	drug 64 75	zalcitabine
+T1	drug 130 139	magnesium
+T2	drug 140 148	aluminum
+T3	group 160 168	antacids
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3

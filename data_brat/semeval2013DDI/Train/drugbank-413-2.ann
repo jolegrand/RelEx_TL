@@ -1,0 +1,8 @@
+T0	drug 0 14	Mercaptopurine
+T1	drug 15 27	Azathioprine
+T2	drug 29 40	Allopurinol
+T3	drug 77 91	mercaptopurine
+T4	drug 96 108	azathioprine
+T5	drug 112 127	6-thiouric acid
+R1	mechanism Arg1:T2 Arg2:T3
+R2	mechanism Arg1:T2 Arg2:T4

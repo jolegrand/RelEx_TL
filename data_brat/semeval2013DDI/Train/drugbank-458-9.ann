@@ -1,0 +1,3 @@
+T0	drug 40 52	ketoconazole
+T1	drug 66 75	cisapride
+R1	advise Arg1:T0 Arg2:T1

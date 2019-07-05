@@ -1,0 +1,3 @@
+T0	brand 23 32	CAMPTOSAR
+T1	group 118 139	antineoplastic agents
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,6 @@
+T0	group 8 16	antacids
+T1	group 54 76	anticholinergic agents
+R1	mechanism Arg1:T0 Arg2:T1
+T0	group 8 16	antacids
+T1	group 54 76	anticholinergic agents
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,5 @@
+T0	drug 0 13	Ethopropazine
+T1	drug 32 39	alcohol
+T2	group 49 64	CNS depressants
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

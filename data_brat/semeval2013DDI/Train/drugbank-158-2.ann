@@ -1,0 +1,4 @@
+T0	group 0 19	Adrenergic blockers
+T1	group 20 39	Adrenergic blockers
+T2	group 57 69	amphetamines
+R1	effect Arg1:T1 Arg2:T2

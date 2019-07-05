@@ -1,0 +1,6 @@
+T0	brand 0 7	ALLEGRA
+T1	drug 49 57	aluminum
+T2	drug 62 71	magnesium
+T3	group 83 91	antacids
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

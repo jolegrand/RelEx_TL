@@ -1,0 +1,5 @@
+T0	drug 0 7	Digoxin
+T1	drug 29 36	digoxin
+T2	drug 76 86	conivaptan
+T3	drug 143 150	digoxin
+R1	mechanism Arg1:T1 Arg2:T2

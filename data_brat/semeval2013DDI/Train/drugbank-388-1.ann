@@ -1,0 +1,3 @@
+T0	drug 22 32	acebutolol
+T1	group 38 61	catecholamine depletors
+R1	advise Arg1:T0 Arg2:T1

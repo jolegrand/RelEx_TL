@@ -1,0 +1,10 @@
+T0	group 13 34	Macrolide antibiotics
+T1	group 61 89	HMG-CoA reductase inhibitors
+T2	drug 128 140	atorvastatin
+T3	drug 142 154	cerivastatin
+T4	drug 156 166	lovastatin
+T5	drug 168 179	simvastatin
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T0 Arg2:T3
+R3	mechanism Arg1:T0 Arg2:T4
+R4	mechanism Arg1:T0 Arg2:T5

@@ -1,0 +1,6 @@
+T0	group 116 126	analgesics
+T1	brand 204 210	SYMLIN
+R1	advise Arg1:T0 Arg2:T1
+T0	group 116 126	analgesics
+T1	brand 204 210	SYMLIN
+R1	advise Arg1:T0 Arg2:T1

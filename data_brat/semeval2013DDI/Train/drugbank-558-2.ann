@@ -1,0 +1,4 @@
+T0	drug 0 10	Cimetidine
+T1	brand 76 83	TIKOSYN
+T2	drug 136 146	dofetilide
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,10 @@
+T0	brand 20 26	TRITEC
+T1	drug 32 46	clarithromycin
+T2	drug 76 86	ranitidine
+T3	drug_n 177 204	14- hydroxy- clarithromycin
+R1	mechanism Arg1:T0 Arg2:T1
+T0	brand 20 26	TRITEC
+T1	drug 32 46	clarithromycin
+T2	drug 76 86	ranitidine
+T3	drug_n 177 204	14- hydroxy- clarithromycin
+R1	mechanism Arg1:T0 Arg2:T1

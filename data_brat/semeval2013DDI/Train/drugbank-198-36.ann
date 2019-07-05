@@ -1,0 +1,6 @@
+T0	drug 0 9	Ritonavir
+T1	drug 14 23	indinavir
+T2	drug 68 78	Vardenafil
+T3	drug 95 104	ritonavir
+T4	drug 126 135	ritonavir
+R1	mechanism Arg1:T2 Arg2:T3

@@ -1,0 +1,3 @@
+T0	drug 19 29	butalbital
+T1	group 49 83	monoamine oxidase (MAO) inhibitors
+R1	effect Arg1:T0 Arg2:T1

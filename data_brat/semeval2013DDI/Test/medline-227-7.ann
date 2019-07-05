@@ -1,0 +1,8 @@
+T0	drug 64 79	dexmedetomidine
+T1	drug 96 105	ephedrine
+T2	drug 205 220	dexmedetomidine
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 64 79	dexmedetomidine
+T1	drug 96 105	ephedrine
+T2	drug 205 220	dexmedetomidine
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,4 @@
+T0	group 0 13	Antidiabetics
+T1	group 23 38	corticosteroids
+T2	group 104 123	antidiabetic agents
+R1	effect Arg1:T1 Arg2:T2

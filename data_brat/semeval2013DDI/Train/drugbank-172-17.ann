@@ -1,0 +1,3 @@
+T0	drug 42 51	celecoxib
+T1	drug 79 90	fluconazole
+R1	mechanism Arg1:T0 Arg2:T1

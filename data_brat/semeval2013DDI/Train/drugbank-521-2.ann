@@ -1,0 +1,25 @@
+T0	group 4 39	nonsteroidal anti-inflammatory drug
+T1	group 41 46	NSAID
+T2	drug 56 65	ibuprofen
+T3	brand 67 73	Motrin
+T4	brand 75 80	Advil
+T5	brand 82 88	Nuprin
+T6	drug 99 109	ketoprofen
+T7	brand 111 117	Orudis
+T8	brand 119 128	Orudis KT
+T9	brand 130 137	Oruvail
+T10	drug 140 150	diclofenac
+T11	brand 152 160	Voltaren
+T12	brand 162 170	Cataflam
+T13	drug 173 181	etodolac
+T14	brand 183 189	Lodine
+T15	drug 192 204	indomethacin
+T16	brand 206 213	Indocin
+T17	drug 216 226	nabumetone
+T18	brand 228 235	Relafen
+T19	drug 238 247	oxaprozin
+T20	brand 249 255	Daypro
+T21	drug 262 270	naproxen
+T22	brand 272 279	Anaprox
+T23	brand 281 289	Naprosyn
+T24	brand 291 296	Aleve

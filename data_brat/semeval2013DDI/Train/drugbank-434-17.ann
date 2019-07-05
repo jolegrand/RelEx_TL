@@ -1,0 +1,5 @@
+T0	drug 0 13	Carbamazepine
+T1	brand 15 23	Felbatol
+T2	drug 63 76	carbamazepine
+T3	drug_n 135 156	carbamazepine epoxide
+R1	mechanism Arg1:T1 Arg2:T2

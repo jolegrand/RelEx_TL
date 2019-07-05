@@ -1,0 +1,7 @@
+T0	group 0 12	Barbiturates
+T1	drug 14 27	carbamazepine
+T2	drug 33 42	phenytoin
+T3	drug 69 80	doxycycline
+R1	mechanism Arg1:T0 Arg2:T3
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T2 Arg2:T3

@@ -1,0 +1,5 @@
+T0	drug 0 7	Digoxin
+T1	drug 9 21	Methotrexate
+T2	drug 23 35	Cyclosporine
+T3	drug 37 47	Diclofenac
+T4	group 60 66	NSAIDs

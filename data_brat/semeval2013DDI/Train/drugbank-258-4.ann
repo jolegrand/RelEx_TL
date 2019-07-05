@@ -1,0 +1,4 @@
+T0	drug 40 52	erythromycin
+T1	drug 92 102	loratadine
+T2	drug 134 146	erythromycin
+R1	mechanism Arg1:T0 Arg2:T1

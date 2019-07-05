@@ -1,0 +1,8 @@
+T0	drug 26 38	ketoconazole
+T1	drug 68 79	retapamulin
+T2	drug 150 161	retapamulin
+R1	mechanism Arg1:T0 Arg2:T2
+T0	drug 26 38	ketoconazole
+T1	drug 68 79	retapamulin
+T2	drug 150 161	retapamulin
+R1	mechanism Arg1:T0 Arg2:T2

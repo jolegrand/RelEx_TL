@@ -1,0 +1,3 @@
+T0	group 5 19	contraceptives
+T1	drug 132 142	nevirapine
+R1	advise Arg1:T0 Arg2:T1

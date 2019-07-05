@@ -1,0 +1,14 @@
+T0	drug 38 53	levomepromazine
+T1	group 65 86	anticholinergic drugs
+T2	group 88 113	tricyclic antidepressants
+T3	group 118 141	antiparkinsonian-agents
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+T0	drug 38 53	levomepromazine
+T1	group 65 86	anticholinergic drugs
+T2	group 88 113	tricyclic antidepressants
+T3	group 118 141	antiparkinsonian-agents
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3

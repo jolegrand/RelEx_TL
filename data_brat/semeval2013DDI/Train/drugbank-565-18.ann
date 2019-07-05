@@ -1,0 +1,4 @@
+T0	drug 18 41	diltiazem hydrochloride
+T1	drug 47 54	digoxin
+T2	drug 100 107	digoxin
+R1	mechanism Arg1:T0 Arg2:T1

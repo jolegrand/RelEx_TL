@@ -1,0 +1,3 @@
+T0	group 17 44	HMG-CoA reductase inhibitor
+T1	drug 168 176	warfarin
+R1	effect Arg1:T0 Arg2:T1

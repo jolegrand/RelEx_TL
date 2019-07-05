@@ -1,0 +1,4 @@
+T0	drug 0 10	ADL-8-2698
+T1	group 22 63	peripherally restricted opioid antagonist
+T2	group 93 99	opioid
+R1	effect Arg1:T0 Arg2:T2

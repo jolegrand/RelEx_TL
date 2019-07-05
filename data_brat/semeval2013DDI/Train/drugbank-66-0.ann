@@ -1,0 +1,4 @@
+T0	drug 0 20	Human growth hormone
+T1	drug 42 53	L-glutamine
+T2	drug 58 78	human growth hormone
+R1	mechanism Arg1:T1 Arg2:T2

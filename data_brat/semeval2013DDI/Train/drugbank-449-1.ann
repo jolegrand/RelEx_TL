@@ -1,0 +1,7 @@
+T0	drug 0 10	Nafazodone
+T1	drug 12 23	fluvoxamine
+T2	drug 25 35	cimetidine
+T3	brand 46 51	Xanax
+R1	advise Arg1:T0 Arg2:T3
+R2	advise Arg1:T1 Arg2:T3
+R3	advise Arg1:T2 Arg2:T3

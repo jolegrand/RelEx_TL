@@ -1,0 +1,5 @@
+T0	drug 0 10	Selegiline
+T1	drug 13 28	L-phenylalanine
+T2	group 37 60	selective MAO inhibitor
+T3	drug 61 71	selegiline
+R1	effect Arg1:T1 Arg2:T3

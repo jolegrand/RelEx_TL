@@ -1,0 +1,28 @@
+T0	drug 0 9	Phenytoin
+T1	drug 11 24	Carbamazepine
+T2	drug 30 40	Rifampicin
+T3	drug 100 109	phenytoin
+T4	drug 111 124	carbamazepine
+T5	drug 130 140	rifampicin
+T6	drug 160 171	ondansetron
+T7	drug 204 215	ondansetron
+R1	mechanism Arg1:T3 Arg2:T6
+R2	mechanism Arg1:T3 Arg2:T7
+R3	mechanism Arg1:T4 Arg2:T6
+R4	mechanism Arg1:T4 Arg2:T7
+R5	mechanism Arg1:T5 Arg2:T6
+R6	mechanism Arg1:T5 Arg2:T7
+T0	drug 0 9	Phenytoin
+T1	drug 11 24	Carbamazepine
+T2	drug 30 40	Rifampicin
+T3	drug 100 109	phenytoin
+T4	drug 111 124	carbamazepine
+T5	drug 130 140	rifampicin
+T6	drug 160 171	ondansetron
+T7	drug 204 215	ondansetron
+R1	mechanism Arg1:T3 Arg2:T6
+R2	mechanism Arg1:T3 Arg2:T7
+R3	mechanism Arg1:T4 Arg2:T6
+R4	mechanism Arg1:T4 Arg2:T7
+R5	mechanism Arg1:T5 Arg2:T6
+R6	mechanism Arg1:T5 Arg2:T7

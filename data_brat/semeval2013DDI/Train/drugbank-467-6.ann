@@ -1,0 +1,3 @@
+T0	drug 30 41	gemfibrozil
+T1	brand 47 56	Targretin
+R1	advise Arg1:T0 Arg2:T1

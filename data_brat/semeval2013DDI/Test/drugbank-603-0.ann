@@ -1,0 +1,6 @@
+T0	brand 37 47	ProAmatine
+T1	group 52 70	cardiac glycosides
+R1	effect Arg1:T0 Arg2:T1
+T0	brand 37 47	ProAmatine
+T1	group 52 70	cardiac glycosides
+R1	effect Arg1:T0 Arg2:T1

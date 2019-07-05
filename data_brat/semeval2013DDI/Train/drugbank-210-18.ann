@@ -1,0 +1,4 @@
+T0	brand 11 16	VIOXX
+T1	drug 21 28	lithium
+T2	drug 111 118	lithium
+R1	advise Arg1:T0 Arg2:T1

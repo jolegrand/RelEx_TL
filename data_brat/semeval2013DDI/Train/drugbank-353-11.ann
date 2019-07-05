@@ -1,0 +1,4 @@
+T0	group 0 13	Tetracyclines
+T1	drug 26 35	acitretin
+T2	group 40 53	tetracyclines
+R1	effect Arg1:T1 Arg2:T2

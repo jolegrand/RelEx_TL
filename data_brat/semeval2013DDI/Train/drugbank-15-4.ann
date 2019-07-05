@@ -1,0 +1,3 @@
+T0	group 86 94	coumarin
+T1	drug 98 110	fondaparinux
+R1	mechanism Arg1:T0 Arg2:T1

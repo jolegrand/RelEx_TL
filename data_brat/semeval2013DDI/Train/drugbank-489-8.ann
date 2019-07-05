@@ -1,0 +1,4 @@
+T0	group 69 82	beta-blockers
+T1	drug 104 115	epinephrine
+T2	group 156 169	beta-blockers
+R1	effect Arg1:T0 Arg2:T1

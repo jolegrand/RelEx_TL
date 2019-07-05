@@ -1,0 +1,6 @@
+T0	drug 0 9	Triazolam
+T1	drug 11 23	Erythromycin
+T2	drug 71 80	triazolam
+T3	drug 133 142	triazolam
+R1	mechanism Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3

@@ -1,0 +1,6 @@
+T0	drug 0 8	Pimozide
+T1	brand 13 19	Celexa
+T2	drug 62 70	pimozide
+T3	drug 105 115	citalopram
+T4	drug 238 246	pimozide
+R1	effect Arg1:T2 Arg2:T3

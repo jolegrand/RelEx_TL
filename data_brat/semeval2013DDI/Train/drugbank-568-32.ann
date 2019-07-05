@@ -1,0 +1,6 @@
+T0	drug 89 101	escitalopram
+T1	drug 129 141	escitalopram
+T2	group 175 199	tricyclic antidepressant
+T3	drug 200 211	desipramine
+T4	drug 325 336	desipramine
+R1	mechanism Arg1:T1 Arg2:T3

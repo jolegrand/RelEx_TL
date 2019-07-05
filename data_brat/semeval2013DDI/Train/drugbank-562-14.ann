@@ -1,0 +1,4 @@
+T0	drug 9 21	cyclosporine
+T1	group 82 92	quinolones
+T2	drug 97 109	cyclosporine
+R1	mechanism Arg1:T1 Arg2:T2

@@ -1,0 +1,5 @@
+T0	brand 0 7	SUBUTEX
+T1	brand 12 20	SUBOXONE
+T2	group 70 85	benzodiazepines
+R1	advise Arg1:T0 Arg2:T2
+R2	advise Arg1:T1 Arg2:T2

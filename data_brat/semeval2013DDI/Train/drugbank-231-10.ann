@@ -1,0 +1,4 @@
+T0	drug 39 49	sucralfate
+T1	drug 54 64	furosemide
+T2	drug 132 142	furosemide
+R1	effect Arg1:T0 Arg2:T1

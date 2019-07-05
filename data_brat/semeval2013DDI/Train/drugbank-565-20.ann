@@ -1,0 +1,4 @@
+T0	drug 66 73	digoxin
+T1	drug 105 112	digoxin
+T2	drug 179 202	diltiazem hydrochloride
+R1	advise Arg1:T1 Arg2:T2

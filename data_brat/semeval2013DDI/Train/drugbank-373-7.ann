@@ -1,0 +1,4 @@
+T0	drug 65 72	digoxin
+T1	drug 104 111	digoxin
+T2	drug 178 188	nifedipine
+R1	advise Arg1:T1 Arg2:T2

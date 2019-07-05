@@ -1,0 +1,8 @@
+T0	group 5 19	Anticoagulants
+T1	drug 82 92	diflunisal
+T2	drug 97 105	warfarin
+T3	drug 107 120	acenocoumarol
+T4	drug 125 138	phenprocoumon
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T1 Arg2:T4

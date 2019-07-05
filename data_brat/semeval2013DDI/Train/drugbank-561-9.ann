@@ -1,0 +1,3 @@
+T0	group 5 13	diuretic
+T1	drug 40 47	lithium
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,5 @@
+T0	group 2 15	Antidiabetics
+T1	group 72 85	antidiabetics
+T2	drug 91 104	sulfapyridine
+T3	group 197 210	antidiabetics
+R1	effect Arg1:T1 Arg2:T2

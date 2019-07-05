@@ -1,0 +1,4 @@
+T0	group 10 14	AEDs
+T1	drug 104 117	levetiracetam
+T2	group 167 171	AEDs
+R1	mechanism Arg1:T1 Arg2:T2

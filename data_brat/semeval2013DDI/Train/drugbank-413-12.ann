@@ -1,0 +1,5 @@
+T0	group 0 18	Thiazide Diuretics
+T1	drug 60 71	allopurinol
+T2	group 76 94	thiazide diuretics
+T3	drug 132 143	allopurinol
+R1	effect Arg1:T1 Arg2:T2

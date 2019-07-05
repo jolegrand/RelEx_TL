@@ -1,0 +1,9 @@
+T0	drug 0 8	Nabilone
+T1	drug 89 97	diazepam
+T2	brand 99 119	secobarbitone sodium
+T3	drug 121 128	alcohol
+T4	drug 132 139	codeine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4

@@ -1,0 +1,5 @@
+T0	drug 0 10	Paclitaxel
+T1	drug 28 39	L-glutamine
+T2	drug 112 122	paclitaxel
+T3	drug 208 218	paclitaxel
+R1	effect Arg1:T1 Arg2:T2

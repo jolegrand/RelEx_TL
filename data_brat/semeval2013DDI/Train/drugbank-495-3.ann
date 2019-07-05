@@ -1,0 +1,3 @@
+T0	group 0 19	Narcotic analgesics
+T1	drug 62 71	clonidine
+R1	effect Arg1:T0 Arg2:T1

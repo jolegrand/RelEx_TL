@@ -1,0 +1,8 @@
+T0	group 3 31	short-acting benzodiazepines
+T1	drug 122 133	fluconazole
+T2	group 183 197	benzodiazepine
+R1	advise Arg1:T0 Arg2:T1
+T0	group 3 31	short-acting benzodiazepines
+T1	drug 122 133	fluconazole
+T2	group 183 197	benzodiazepine
+R1	advise Arg1:T0 Arg2:T1

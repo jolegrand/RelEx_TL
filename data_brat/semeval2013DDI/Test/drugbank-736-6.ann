@@ -1,0 +1,8 @@
+T0	drug 0 7	Lithium
+T1	group 38 47	thiazides
+T2	drug 72 79	lithium
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 0 7	Lithium
+T1	group 38 47	thiazides
+T2	drug 72 79	lithium
+R1	mechanism Arg1:T0 Arg2:T1

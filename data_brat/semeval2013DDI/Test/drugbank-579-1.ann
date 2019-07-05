@@ -1,0 +1,10 @@
+T0	drug 14 26	Mecamylamine
+T1	group 67 89	antihypertensive drugs
+T2	drug 94 101	alcohol
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+T0	drug 14 26	Mecamylamine
+T1	group 67 89	antihypertensive drugs
+T2	drug 94 101	alcohol
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

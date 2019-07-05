@@ -1,0 +1,3 @@
+T0	group 15 49	central nervous system depressants
+T1	drug 86 97	hydroxyzine
+R1	advise Arg1:T0 Arg2:T1

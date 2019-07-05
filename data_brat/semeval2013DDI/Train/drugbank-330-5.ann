@@ -1,0 +1,5 @@
+T0	drug 5 21	neomycin sulfate
+T1	group 48 56	coumarin
+T2	group 60 74	anticoagulants
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

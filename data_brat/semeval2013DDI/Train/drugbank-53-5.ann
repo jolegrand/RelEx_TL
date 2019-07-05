@@ -1,0 +1,3 @@
+T0	group 18 28	macrolides
+T1	drug 33 41	warfarin
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,3 @@
+T0	group 42 56	anticoagulants
+T1	drug 105 115	lovastatin
+R1	advise Arg1:T0 Arg2:T1

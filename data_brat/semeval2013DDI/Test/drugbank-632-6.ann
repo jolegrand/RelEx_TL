@@ -1,0 +1,10 @@
+T0	brand 7 13	SYMLIN
+T1	drug 18 25	Insulin
+T2	brand 60 66	SYMLIN
+T3	drug 157 170	human insulin
+R1	mechanism Arg1:T2 Arg2:T3
+T0	brand 7 13	SYMLIN
+T1	drug 18 25	Insulin
+T2	brand 60 66	SYMLIN
+T3	drug 157 170	human insulin
+R1	mechanism Arg1:T2 Arg2:T3

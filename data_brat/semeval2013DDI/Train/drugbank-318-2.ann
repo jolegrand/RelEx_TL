@@ -1,0 +1,7 @@
+T0	group 0 15	Corticosteroids
+T1	drug 20 33	Corticotropin
+T2	group 35 39	ACTH
+T3	drug 57 71	amphotericin B
+R1	effect Arg1:T0 Arg2:T3
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T2 Arg2:T3

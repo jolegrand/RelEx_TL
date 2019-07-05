@@ -1,0 +1,8 @@
+T0	brand 42 47	MOBIC
+T1	drug 53 61	warfarin
+T2	drug 80 88	warfarin
+R1	advise Arg1:T0 Arg2:T1
+T0	brand 42 47	MOBIC
+T1	drug 53 61	warfarin
+T2	drug 80 88	warfarin
+R1	advise Arg1:T0 Arg2:T1

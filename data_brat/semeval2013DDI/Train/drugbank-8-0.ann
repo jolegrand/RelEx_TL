@@ -1,0 +1,11 @@
+T0	brand 106 113	ALFENTA
+T1	group 156 171	CNS depressants
+T2	group 180 192	barbiturates
+T3	group 194 207	tranquilizers
+T4	group 209 216	opioids
+T5	group 240 251	anesthetics
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5

@@ -1,0 +1,4 @@
+T0	drug 0 9	Phenytoin
+T1	group 11 23	Amphetamines
+T2	drug 59 68	phenytoin
+R1	mechanism Arg1:T1 Arg2:T2

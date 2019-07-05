@@ -1,0 +1,4 @@
+T0	brand 39 46	aspirin
+T1	brand 52 60	CELEBREX
+T2	brand 153 161	CELEBREX
+R1	effect Arg1:T0 Arg2:T1

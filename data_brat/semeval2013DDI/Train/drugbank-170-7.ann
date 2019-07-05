@@ -1,0 +1,7 @@
+T0	group 0 14	MAO Inhibitors
+T1	brand 16 25	DURAGESIC
+T2	group 84 88	MAOI
+T3	group 153 167	MAO inhibitors
+T4	group 191 208	opioid analgesics
+R1	advise Arg1:T1 Arg2:T2
+R2	advise Arg1:T3 Arg2:T4

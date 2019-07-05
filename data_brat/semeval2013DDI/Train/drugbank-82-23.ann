@@ -1,0 +1,7 @@
+T0	brand 40 47	INDOCIN
+T1	group 118 122;156 165	loop diuretics
+T2	group 124 141;156 165	potassium-sparing diuretics
+T3	group 147 165	thiazide diuretics
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

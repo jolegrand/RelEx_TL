@@ -1,0 +1,5 @@
+T0	drug 0 7	Lithium
+T1	drug 9 16	Lithium
+T2	drug 66 73	lithium
+T3	group 144 158	ACE inhibitors
+R1	effect Arg1:T2 Arg2:T3

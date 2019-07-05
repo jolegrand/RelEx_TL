@@ -1,0 +1,3 @@
+T0	drug_n 0 10	Flavoridin
+T1	drug_n 78 93	contortrostatin
+R1	effect Arg1:T0 Arg2:T1

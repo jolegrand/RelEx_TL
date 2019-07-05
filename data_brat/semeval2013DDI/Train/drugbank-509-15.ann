@@ -1,0 +1,6 @@
+T0	drug 0 9	Quinidine
+T1	drug 54 66	aripiprazole
+T2	drug 72 81	quinidine
+T3	drug 159 171	aripiprazole
+T4	drug_n 228 247	dehydroaripiprazole
+R1	mechanism Arg1:T1 Arg2:T2

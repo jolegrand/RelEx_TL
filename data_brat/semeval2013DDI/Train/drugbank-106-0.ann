@@ -1,0 +1,3 @@
+T0	drug 40 51	nisoldipine
+T1	drug 100 117	cimetidine 400 mg
+R1	mechanism Arg1:T0 Arg2:T1

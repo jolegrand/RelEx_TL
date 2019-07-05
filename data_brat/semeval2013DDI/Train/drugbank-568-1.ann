@@ -1,0 +1,8 @@
+T0	drug 0 7	Alcohol
+T1	brand 19 26	LEXAPRO
+T2	drug 81 88	alcohol
+T3	group 124 148	psychotropic medications
+T4	drug 161 168	alcohol
+T5	brand 188 195	LEXAPRO
+R1	advise Arg1:T3 Arg2:T5
+R2	advise Arg1:T4 Arg2:T5

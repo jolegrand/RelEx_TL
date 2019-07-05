@@ -1,0 +1,8 @@
+T0	drug 0 8	Mitotane
+T1	drug 59 67	warfarin
+T2	drug 175 183	warfarin
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 0 8	Mitotane
+T1	drug 59 67	warfarin
+T2	drug 175 183	warfarin
+R1	mechanism Arg1:T0 Arg2:T1

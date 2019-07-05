@@ -1,0 +1,4 @@
+T0	group 0 14	Alpha-blockers
+T1	drug 21 31	Vardenafil
+T2	drug 131 140	terazosin
+R1	effect Arg1:T1 Arg2:T2

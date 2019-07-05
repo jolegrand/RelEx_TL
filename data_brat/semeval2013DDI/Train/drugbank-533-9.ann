@@ -1,0 +1,5 @@
+T0	drug 0 10	Furosemide
+T1	drug 17 26	aliskiren
+T2	drug 52 62	furosemide
+T3	drug 84 94	furosemide
+R1	mechanism Arg1:T1 Arg2:T2

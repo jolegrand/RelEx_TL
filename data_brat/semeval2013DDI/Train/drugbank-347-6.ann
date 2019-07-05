@@ -1,0 +1,6 @@
+T0	drug 23 35	gemifloxacin
+T1	group 101 108	antacid
+T2	drug 120 128	aluminum
+T3	drug 133 142	magnesium
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T0 Arg2:T3

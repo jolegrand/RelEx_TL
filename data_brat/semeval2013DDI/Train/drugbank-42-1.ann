@@ -1,0 +1,6 @@
+T0	drug_n 16 31	hydrodolasetron
+T1	drug 51 61	dolasetron
+T2	drug 86 96	cimetidine
+T3	drug 197 205	rifampin
+R1	mechanism Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T3

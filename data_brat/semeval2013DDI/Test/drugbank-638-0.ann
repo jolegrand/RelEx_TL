@@ -1,0 +1,6 @@
+T0	brand 0 7	Ritalin
+T1	drug 47 59	guanethidine
+R1	effect Arg1:T0 Arg2:T1
+T0	brand 0 7	Ritalin
+T1	drug 47 59	guanethidine
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,5 @@
+T0	brand 0 9	Geocillin
+T1	drug 11 39	carbenicillin indanyl sodium
+T2	drug 117 127	probenecid
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T2

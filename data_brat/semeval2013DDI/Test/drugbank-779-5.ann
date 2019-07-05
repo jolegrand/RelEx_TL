@@ -1,0 +1,8 @@
+T0	drug 5 15	methyldopa
+T1	drug 20 27	lithium
+T2	drug 110 117	lithium
+R1	advise Arg1:T0 Arg2:T1
+T0	drug 5 15	methyldopa
+T1	drug 20 27	lithium
+T2	drug 110 117	lithium
+R1	advise Arg1:T0 Arg2:T1

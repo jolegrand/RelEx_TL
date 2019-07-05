@@ -1,0 +1,6 @@
+T0	drug 0 8	Pindolol
+T1	drug 42 54	thioridazine
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 0 8	Pindolol
+T1	drug 42 54	thioridazine
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,6 @@
+T0	drug 17 27	riboflavin
+T1	drug 67 77	probenecid
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 17 27	riboflavin
+T1	drug 67 77	probenecid
+R1	effect Arg1:T0 Arg2:T1

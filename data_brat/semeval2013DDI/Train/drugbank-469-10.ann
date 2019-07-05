@@ -1,0 +1,3 @@
+T0	brand 0 8	TRACRIUM
+T1	drug 71 86	succinylcholine
+R1	advise Arg1:T0 Arg2:T1

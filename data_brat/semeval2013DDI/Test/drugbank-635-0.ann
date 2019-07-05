@@ -1,0 +1,6 @@
+T0	group 6 58	short-acting beta adrenergic aerosol bronchodilators
+T1	brand 97 113	MAXAIR AUTOHALER
+R1	advise Arg1:T0 Arg2:T1
+T0	group 6 58	short-acting beta adrenergic aerosol bronchodilators
+T1	brand 97 113	MAXAIR AUTOHALER
+R1	advise Arg1:T0 Arg2:T1

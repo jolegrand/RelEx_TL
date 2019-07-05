@@ -1,0 +1,6 @@
+T0	drug 2 14	Methotrexate
+T1	brand 22 28	Mexate
+T2	drug 37 49	methotrexate
+T3	drug 55 68	sulfapyridine
+T4	drug 156 168	methotrexate
+R1	effect Arg1:T2 Arg2:T3

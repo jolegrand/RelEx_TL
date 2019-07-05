@@ -1,0 +1,12 @@
+T0	drug 26 36	diclofenac
+T1	drug 59 69	diclofenac
+T2	group 88 93	NSAID
+T3	drug 107 114	digoxin
+T4	drug 116 128	methotrexate
+T5	drug 133 145	cyclosporine
+R1	effect Arg1:T0 Arg2:T3
+R2	effect Arg1:T0 Arg2:T4
+R3	effect Arg1:T0 Arg2:T5
+R4	effect Arg1:T2 Arg2:T3
+R5	effect Arg1:T2 Arg2:T4
+R6	effect Arg1:T2 Arg2:T5

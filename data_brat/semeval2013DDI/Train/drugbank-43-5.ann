@@ -1,0 +1,5 @@
+T0	drug 93 105	ketoconazole
+T1	drug 110 122	itraconazole
+T2	brand 184 189	VIDEX
+R1	advise Arg1:T0 Arg2:T2
+R2	advise Arg1:T1 Arg2:T2

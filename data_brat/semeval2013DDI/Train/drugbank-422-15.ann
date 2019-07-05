@@ -1,0 +1,7 @@
+T0	brand 14 23	BREVIBLOC
+T1	drug 158 166	dopamine
+T2	drug 168 179	epinephrine
+T3	drug 185 199	norepinephrine
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3

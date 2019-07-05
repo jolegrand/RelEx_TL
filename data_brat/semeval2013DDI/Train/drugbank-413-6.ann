@@ -1,0 +1,5 @@
+T0	drug 0 9	Dicumarol
+T1	drug 37 48	allopurinol
+T2	group 79 92	anticoagulant
+T3	drug 94 103	dicumarol
+R1	mechanism Arg1:T1 Arg2:T3

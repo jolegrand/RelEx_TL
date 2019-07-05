@@ -1,0 +1,4 @@
+T0	brand 94 103	CAMPTOSAR
+T1	group 140 149	diuretics
+T2	brand 169 178	CAMPTOSAR
+R1	effect Arg1:T1 Arg2:T2

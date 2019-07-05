@@ -1,0 +1,5 @@
+T0	group 0 14	MAO Inhibitors
+T1	drug 74 83	bupropion
+T2	group 103 116	MAO inhibitor
+T3	drug 117 127	phenelzine
+R1	effect Arg1:T1 Arg2:T3

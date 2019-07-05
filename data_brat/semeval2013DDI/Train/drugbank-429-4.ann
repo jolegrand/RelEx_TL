@@ -1,0 +1,4 @@
+T0	drug 0 10	Ampicillin
+T1	drug 46 57	chloroquine
+T2	drug 103 113	ampicillin
+R1	mechanism Arg1:T1 Arg2:T2

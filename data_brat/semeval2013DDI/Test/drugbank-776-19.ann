@@ -1,0 +1,8 @@
+T0	drug 28 40	theophylline
+T1	brand 78 86	DIFLUCAN
+T2	drug 91 103	theophylline
+R1	advise Arg1:T1 Arg2:T2
+T0	drug 28 40	theophylline
+T1	brand 78 86	DIFLUCAN
+T2	drug 91 103	theophylline
+R1	advise Arg1:T1 Arg2:T2

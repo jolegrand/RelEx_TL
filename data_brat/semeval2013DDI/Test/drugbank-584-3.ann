@@ -1,0 +1,12 @@
+T0	drug 0 8	Warfarin
+T1	drug 31 42	oxandrolone
+T2	drug 117 125	warfarin
+T3	drug 158 168	S-warfarin
+T4	drug 257 267	R-warfarin
+R1	mechanism Arg1:T1 Arg2:T2
+T0	drug 0 8	Warfarin
+T1	drug 31 42	oxandrolone
+T2	drug 117 125	warfarin
+T3	drug 158 168	S-warfarin
+T4	drug 257 267	R-warfarin
+R1	mechanism Arg1:T1 Arg2:T2

@@ -1,0 +1,4 @@
+T0	group 0 8	Antacids
+T1	brand 25 32	Aspirin
+T2	group 71 79	antacids
+R1	advise Arg1:T1 Arg2:T2

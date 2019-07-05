@@ -1,0 +1,6 @@
+T0	drug 143 153	cimetidine
+T1	group 159 176	opioid analgesics
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 143 153	cimetidine
+T1	group 159 176	opioid analgesics
+R1	effect Arg1:T0 Arg2:T1

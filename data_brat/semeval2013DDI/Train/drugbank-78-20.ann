@@ -1,0 +1,4 @@
+T0	group 0 19	Antidiabetic Agents
+T1	group 152 162	quinolones
+T2	group 170 188	antidiabetic agent
+R1	effect Arg1:T1 Arg2:T2

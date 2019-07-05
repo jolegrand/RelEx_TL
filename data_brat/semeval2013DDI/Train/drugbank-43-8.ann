@@ -1,0 +1,12 @@
+T0	group 0 20	Quinolone Antibiotic
+T1	brand 23 28	VIDEX
+T2	drug 105 118	ciprofloxacin
+T3	drug 152 165	ciprofloxacin
+T4	group 203 211	antacids
+T5	drug 223 232	magnesium
+T6	drug 234 241	calcium
+T7	drug 246 254	aluminum
+R1	advise Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T3 Arg2:T5
+R3	mechanism Arg1:T3 Arg2:T6
+R4	mechanism Arg1:T3 Arg2:T7

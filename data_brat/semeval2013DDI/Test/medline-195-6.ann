@@ -1,0 +1,8 @@
+T0	drug 44 53	ibuprofen
+T1	drug_n 77 85	piperine
+T2	drug 141 150	ibuprofen
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 44 53	ibuprofen
+T1	drug_n 77 85	piperine
+T2	drug 141 150	ibuprofen
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,7 @@
+T0	drug 5 13	atropine
+T1	drug 18 29	pralidoxime
+T2	drug 194 202	atropine
+T3	drug 225 236	pralidoxime
+T4	drug 266 274	atropine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T3 Arg2:T4

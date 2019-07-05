@@ -1,0 +1,6 @@
+T0	drug 126 135	melphalan
+T1	drug 166 177	cyclosporin
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 126 135	melphalan
+T1	drug 166 177	cyclosporin
+R1	effect Arg1:T0 Arg2:T1

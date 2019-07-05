@@ -1,0 +1,8 @@
+T0	drug 32 39	heparin
+T1	drug 41 49	warfarin
+T2	group 51 84	beta-adrenergic receptor blockers
+T3	group 86 113	calcium channel antagonists
+T4	group 115 155	angiotensin converting enzyme inhibitors
+T5	group 178 186	nitrates
+T6	drug 188 199	ticlopidine
+T7	brand 205 212	aspirin

@@ -1,0 +1,10 @@
+T0	drug 0 8	Mazindol
+T1	drug 35 47	guanethidine
+T2	brand 49 56	Ismelin
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+T0	drug 0 8	Mazindol
+T1	drug 35 47	guanethidine
+T2	brand 49 56	Ismelin
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

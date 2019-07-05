@@ -1,0 +1,3 @@
+T0	drug 79 88	zopiclone
+T1	brand 142 151	ROMAZICON
+R1	effect Arg1:T0 Arg2:T1

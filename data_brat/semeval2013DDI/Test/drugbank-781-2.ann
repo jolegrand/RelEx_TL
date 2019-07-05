@@ -1,0 +1,6 @@
+T0	group 3 12	diuretics
+T1	brand 104 109	ACEON
+R1	advise Arg1:T0 Arg2:T1
+T0	group 3 12	diuretics
+T1	brand 104 109	ACEON
+R1	advise Arg1:T0 Arg2:T1

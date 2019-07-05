@@ -1,0 +1,18 @@
+T0	drug 0 9	Magnesium
+T1	drug 18 26	aluminum
+T2	group 38 46	antacids
+T3	drug 68 83	ferrous sulfate
+T4	drug 85 89	iron
+T5	group 92 117	multivitamin preparations
+T6	drug 129 133	zinc
+T7	brand 161 166	Videx
+T8	drug 168 178	didanosine
+T9	brand 307 314	FACTIVE
+R1	advise Arg1:T0 Arg2:T9
+R2	advise Arg1:T1 Arg2:T9
+R3	advise Arg1:T3 Arg2:T9
+R4	advise Arg1:T4 Arg2:T9
+R5	advise Arg1:T5 Arg2:T9
+R6	advise Arg1:T6 Arg2:T9
+R7	advise Arg1:T7 Arg2:T9
+R8	advise Arg1:T8 Arg2:T9

@@ -1,0 +1,7 @@
+T0	drug 19 27	dopamine
+T1	group 47 78	beta-adrenergic blocking agents
+T2	drug 88 99	propranolol
+T3	drug 104 114	metoprolol
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

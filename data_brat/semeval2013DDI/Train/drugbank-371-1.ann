@@ -1,0 +1,11 @@
+T0	drug 51 60	docetaxel
+T1	drug 197 209	cyclosporine
+T2	drug 211 222	terfenadine
+T3	drug 224 236	ketoconazole
+T4	drug 238 250	erythromycin
+T5	drug 256 270	troleandomycin
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4
+R5	mechanism Arg1:T0 Arg2:T5

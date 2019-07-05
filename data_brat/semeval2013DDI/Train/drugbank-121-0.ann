@@ -1,0 +1,3 @@
+T0	group 73 99	aminoglycoside antibiotics
+T1	group 104 129	cephalosporin antibiotics
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,3 @@
+T0	drug 21 33	flurbiprofen
+T1	group 40 52	beta-blocker
+R1	advise Arg1:T0 Arg2:T1

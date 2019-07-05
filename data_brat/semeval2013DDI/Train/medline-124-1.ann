@@ -1,0 +1,8 @@
+T0	drug 90 103	trovafloxacin
+T1	drug 108 121	ciprofloxacin
+T2	group 174 180	opiate
+T3	drug 189 197	morphine
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T0 Arg2:T3
+R3	mechanism Arg1:T1 Arg2:T2
+R4	mechanism Arg1:T1 Arg2:T3

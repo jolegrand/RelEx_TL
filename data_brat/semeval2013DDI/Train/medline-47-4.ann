@@ -1,0 +1,5 @@
+T0	drug_n 0 10	Buforin II
+T1	drug 107 119	azithromycin
+T2	drug 123 134	minocycline
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

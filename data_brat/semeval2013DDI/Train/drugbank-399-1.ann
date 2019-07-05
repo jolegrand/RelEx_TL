@@ -1,0 +1,3 @@
+T0	drug 84 91	dapsone
+T1	drug 96 107	clofazimine
+R1	advise Arg1:T0 Arg2:T1

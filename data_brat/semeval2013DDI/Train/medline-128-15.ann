@@ -1,0 +1,5 @@
+T0	drug_n 0 20	N-methyllevallorphan
+T1	drug 85 95	loperamide
+T2	drug 133 141	morphine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

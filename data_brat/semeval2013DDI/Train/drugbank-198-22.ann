@@ -1,0 +1,5 @@
+T0	group 17 25	Nitrates
+T1	group 77 85	nitrates
+T2	drug 121 131	vardenafil
+T3	drug 227 237	Vardenafil
+R1	mechanism Arg1:T1 Arg2:T2

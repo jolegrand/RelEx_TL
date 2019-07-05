@@ -1,0 +1,4 @@
+T0	group 3 19	iron supplements
+T1	brand 40 47	OMNICEF
+T2	brand 57 64	OMNICEF
+R1	advise Arg1:T0 Arg2:T2

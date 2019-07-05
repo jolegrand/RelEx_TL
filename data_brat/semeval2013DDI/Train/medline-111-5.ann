@@ -1,0 +1,14 @@
+T0	drug 0 13	acetaminophen
+T1	drug 14 26	theophylline
+T2	drug 28 37	lidocaine
+T3	drug 38 47	quinidine
+T4	drug 49 62	phenobarbital
+T5	drug 63 76	acetaminophen
+T6	drug 78 91	phenobarbital
+T7	drug 92 105	valproic acid
+T8	drug 107 116	quinidine
+T9	drug 117 126	lidocaine
+T10	drug 128 140	theophylline
+T11	drug 141 154	acetaminophen
+T12	drug 160 173	valproic acid
+T13	drug 174 187	phenobarbital

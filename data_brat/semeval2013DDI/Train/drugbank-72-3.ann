@@ -1,0 +1,5 @@
+T0	brand 30 38	BUSULFEX
+T1	drug 77 86	phenytoin
+T2	brand 105 113	BUSULFEX
+T3	drug 206 215	phenytoin
+R1	mechanism Arg1:T0 Arg2:T1

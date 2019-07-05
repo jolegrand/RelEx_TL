@@ -1,0 +1,5 @@
+T0	drug 0 12	Ketoconazole
+T1	drug 54 66	ketoconazole
+T2	drug 72 81	aliskiren
+T3	drug 142 151	aliskiren
+R1	mechanism Arg1:T1 Arg2:T2

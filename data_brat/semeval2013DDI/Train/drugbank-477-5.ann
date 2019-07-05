@@ -1,0 +1,3 @@
+T0	drug 0 18	Urinary acidifying
+T1	group 74 86	amphetamines
+R1	mechanism Arg1:T0 Arg2:T1

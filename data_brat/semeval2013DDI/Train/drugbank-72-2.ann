@@ -1,0 +1,3 @@
+T0	drug 0 9	Phenytoin
+T1	drug 37 45	busulfan
+R1	mechanism Arg1:T0 Arg2:T1

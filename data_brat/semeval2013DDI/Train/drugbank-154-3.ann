@@ -1,0 +1,3 @@
+T0	drug 26 39	phenobarbital
+T1	drug 126 136	fenoprofen
+R1	mechanism Arg1:T0 Arg2:T1

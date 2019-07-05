@@ -1,0 +1,10 @@
+T0	drug_n 46 51	DZNep
+T1	drug_n 92 97	DZNep
+T2	drug_n 102 109	ABT-737
+T3	drug_n 195 200	DZNep
+R1	effect Arg1:T1 Arg2:T2
+T0	drug_n 46 51	DZNep
+T1	drug_n 92 97	DZNep
+T2	drug_n 102 109	ABT-737
+T3	drug_n 195 200	DZNep
+R1	effect Arg1:T1 Arg2:T2

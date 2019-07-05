@@ -1,0 +1,3 @@
+T0	drug 0 10	Lincomycin
+T1	group 105 134	neuromuscular blocking agents
+R1	effect Arg1:T0 Arg2:T1

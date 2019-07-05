@@ -1,0 +1,3 @@
+T0	drug_n 14 21	InsP(3)
+T1	drug_n 36 38	RR
+R1	effect Arg1:T0 Arg2:T1

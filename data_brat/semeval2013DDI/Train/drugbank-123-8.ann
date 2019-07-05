@@ -1,0 +1,28 @@
+T0	group 71 80	quinolone
+T1	drug 92 105	ciprofloxacin
+T2	drug 159 168	magnesium
+T3	drug 172 180	aluminum
+T4	group 181 189	antacids
+T5	drug 191 201	sucralfate
+T6	brand 203 208	VIDEX
+T7	drug 279 286	calcium
+T8	drug 288 292	iron
+T9	drug 297 301	zinc
+T10	drug 347 360	ciprofloxacin
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T0 Arg2:T3
+R3	mechanism Arg1:T0 Arg2:T4
+R4	mechanism Arg1:T0 Arg2:T5
+R5	mechanism Arg1:T0 Arg2:T6
+R6	mechanism Arg1:T0 Arg2:T7
+R7	mechanism Arg1:T0 Arg2:T8
+R8	mechanism Arg1:T0 Arg2:T9
+R9	mechanism Arg1:T1 Arg2:T2
+R10	mechanism Arg1:T1 Arg2:T3
+R11	mechanism Arg1:T1 Arg2:T4
+R12	mechanism Arg1:T1 Arg2:T5
+R13	mechanism Arg1:T1 Arg2:T6
+R14	mechanism Arg1:T1 Arg2:T7
+R15	mechanism Arg1:T1 Arg2:T8
+R16	mechanism Arg1:T1 Arg2:T9
+R17	mechanism Arg1:T1 Arg2:T10

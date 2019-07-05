@@ -1,0 +1,6 @@
+T0	brand 0 7	Aspirin
+T1	group 54 69	corticosteroids
+R1	advise Arg1:T0 Arg2:T1
+T0	brand 0 7	Aspirin
+T1	group 54 69	corticosteroids
+R1	advise Arg1:T0 Arg2:T1

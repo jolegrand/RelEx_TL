@@ -1,0 +1,5 @@
+T0	brand 21 28	TIKOSYN
+T1	drug 34 43	verapamil
+T2	drug 69 79	dofetilide
+T3	drug 136 146	dofetilide
+R1	mechanism Arg1:T0 Arg2:T1

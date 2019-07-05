@@ -1,0 +1,4 @@
+T0	drug 0 12	Propoxyphene
+T1	drug 26 38	propoxyphene
+T2	drug 51 62	amphetamine
+R1	effect Arg1:T1 Arg2:T2

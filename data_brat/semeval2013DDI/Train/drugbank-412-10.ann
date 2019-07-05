@@ -1,0 +1,3 @@
+T0	drug 3 16	labetalol HCl
+T1	drug 30 43	nitroglycerin
+R1	effect Arg1:T0 Arg2:T1

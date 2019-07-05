@@ -1,0 +1,5 @@
+T0	drug 11 20	linezolid
+T1	group 60 70	adrenergic
+T2	group 75 94	serotonergic agents
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2

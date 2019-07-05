@@ -1,0 +1,9 @@
+T0	brand 102 111	BREVIBLOC
+T1	drug 188 195	digoxin
+T2	drug 197 205	morphine
+T3	drug 207 222	succinylcholine
+T4	drug 226 234	warfarin
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4

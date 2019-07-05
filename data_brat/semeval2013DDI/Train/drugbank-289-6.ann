@@ -1,0 +1,8 @@
+T0	group 0 23	Hormonal Contraceptives
+T1	group 82 96	Contraceptives
+T2	drug 158 166	bosentan
+T3	group 180 202	hormonal contraceptive
+T4	brand 203 214	Ortho-Novum
+T5	drug 245 258	norethindrone
+T6	drug 263 280	ethinyl estradiol
+R1	mechanism Arg1:T2 Arg2:T4

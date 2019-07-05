@@ -1,0 +1,4 @@
+T0	drug 0 9	Valproate
+T1	drug 84 93	valproate
+T2	drug 120 129	isoniazid
+R1	mechanism Arg1:T1 Arg2:T2

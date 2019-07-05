@@ -1,0 +1,10 @@
+T0	brand 18 24	DEMSER
+T1	drug 30 37	alcohol
+T2	drug 47 62	CNS depressants
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+T0	brand 18 24	DEMSER
+T1	drug 30 37	alcohol
+T2	drug 47 62	CNS depressants
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

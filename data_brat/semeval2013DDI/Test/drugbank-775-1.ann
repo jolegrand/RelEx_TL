@@ -1,0 +1,6 @@
+T0	drug 24 39	succinylcholine
+T1	group 93 115	nondepolarizing agents
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 24 39	succinylcholine
+T1	group 93 115	nondepolarizing agents
+R1	effect Arg1:T0 Arg2:T1

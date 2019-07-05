@@ -1,0 +1,4 @@
+T0	drug 27 39	itraconazole
+T1	drug 58 70	ketoconazole
+T2	drug 167 177	astemizole
+R1	mechanism Arg1:T0 Arg2:T2

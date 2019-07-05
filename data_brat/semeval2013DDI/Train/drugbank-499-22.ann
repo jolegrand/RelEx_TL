@@ -1,0 +1,6 @@
+T0	drug 0 12	Methotrexate
+T1	drug 14 24	Ketoprofen
+T2	group 37 43	NSAIDs
+T3	drug 85 97	methotrexate
+R1	mechanism Arg1:T1 Arg2:T3
+R2	mechanism Arg1:T2 Arg2:T3

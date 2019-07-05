@@ -1,0 +1,6 @@
+T0	drug 30 42	ketoconazole
+T1	drug 47 58	terfenadine
+R1	advise Arg1:T0 Arg2:T1
+T0	drug 30 42	ketoconazole
+T1	drug 47 58	terfenadine
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,6 @@
+T0	brand 0 7	ISUPREL
+T1	group 73 84	anesthetics
+T2	drug 93 102	halothane
+T3	group 179 201	sympathomimetic amines
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

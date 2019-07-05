@@ -1,0 +1,7 @@
+T0	drug 26 35	alosetron
+T1	drug 131 140	isoniazid
+T2	drug 142 154	procainamide
+T3	drug 160 171	hydralazine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

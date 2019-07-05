@@ -1,0 +1,5 @@
+T0	drug 0 9	Clozapine
+T1	group 52 74	antihypertensive drugs
+T2	drug 110 118	atropine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

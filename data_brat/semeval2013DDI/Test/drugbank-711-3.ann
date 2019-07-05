@@ -1,0 +1,6 @@
+T0	group 22 34	tetracycline
+T1	drug 39 53	methoxyflurane
+R1	effect Arg1:T0 Arg2:T1
+T0	group 22 34	tetracycline
+T1	drug 39 53	methoxyflurane
+R1	effect Arg1:T0 Arg2:T1

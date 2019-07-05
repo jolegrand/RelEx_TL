@@ -1,0 +1,5 @@
+T0	drug 0 14	Chlorpromazine
+T1	drug 16 30	Chlorpromazine
+T2	group 126 138	amphetamines
+T3	group 164 175	amphetamine
+R1	effect Arg1:T1 Arg2:T2

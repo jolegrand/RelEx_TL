@@ -1,0 +1,24 @@
+T0	drug 0 11	Mephenytoin
+T1	group 75 94	steroid medications
+T2	drug 96 104	warfarin
+T3	group 152 176	anti-infective medicines
+T4	drug 178 188	furosemide
+T5	drug 193 205	theophylline
+T6	drug 223 234	Mephenytoin
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5
+T0	drug 0 11	Mephenytoin
+T1	group 75 94	steroid medications
+T2	drug 96 104	warfarin
+T3	group 152 176	anti-infective medicines
+T4	drug 178 188	furosemide
+T5	drug 193 205	theophylline
+T6	drug 223 234	Mephenytoin
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5

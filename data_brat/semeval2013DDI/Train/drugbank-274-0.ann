@@ -1,0 +1,3 @@
+T0	drug 29 39	dobutamine
+T1	group 98 113	b-blocking drug
+R1	effect Arg1:T0 Arg2:T1

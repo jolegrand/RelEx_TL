@@ -1,0 +1,5 @@
+T0	brand 28 35	CASODEX
+T1	group 49 71	coumarin anticoagulant
+T2	drug 82 90	warfarin
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T1 Arg2:T2

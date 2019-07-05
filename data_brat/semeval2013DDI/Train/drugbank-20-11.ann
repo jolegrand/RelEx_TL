@@ -1,0 +1,3 @@
+T0	group 28 63	potassium-sparing antihypertensives
+T1	group 69 75	NSAIDs
+R1	effect Arg1:T0 Arg2:T1

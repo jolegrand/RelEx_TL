@@ -1,0 +1,4 @@
+T0	drug 46 55	clonidine
+T1	brand 112 118	ZEBETA
+T2	drug 177 186	clonidine
+R1	advise Arg1:T1 Arg2:T2

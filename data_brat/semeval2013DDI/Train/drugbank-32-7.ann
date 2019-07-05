@@ -1,0 +1,5 @@
+T0	drug 19 29	ranitidine
+T1	drug 60 70	ceftibuten
+T2	drug 88 98	ceftibuten
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

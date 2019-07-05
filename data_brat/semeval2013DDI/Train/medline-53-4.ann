@@ -1,0 +1,3 @@
+T0	drug_n 22 25	TAM
+T1	drug 92 103	1,25(OH)2D3
+R1	effect Arg1:T0 Arg2:T1

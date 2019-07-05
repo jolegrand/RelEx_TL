@@ -1,0 +1,10 @@
+T0	drug 5 18	metronidazole
+T1	group 79 87	coumarin
+T2	drug 92 100	warfarin
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+T0	drug 5 18	metronidazole
+T1	group 79 87	coumarin
+T2	drug 92 100	warfarin
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

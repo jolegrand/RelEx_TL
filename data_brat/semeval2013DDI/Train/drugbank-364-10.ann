@@ -1,0 +1,11 @@
+T0	drug 20 29	alosetron
+T1	drug 68 82	clarithromycin
+T2	drug 84 97	telithromycin
+T3	group 99 118	protease inhibitors
+T4	drug 120 132	voriconazole
+T5	drug 138 150	itraconazole
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4
+R5	advise Arg1:T0 Arg2:T5

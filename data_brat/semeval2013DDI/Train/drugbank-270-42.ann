@@ -1,0 +1,6 @@
+T0	drug 0 9	Methadone
+T1	group 92 98	opiate
+T2	drug 111 120	Methadone
+T3	drug 151 161	nevirapine
+T4	drug 220 229	methadone
+R1	advise Arg1:T2 Arg2:T3

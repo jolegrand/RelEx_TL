@@ -1,0 +1,17 @@
+T0	group 32 57	tricyclic antidepressants
+T1	group 131 146	antidepressants
+T2	group 148 162	phenothiazines
+T3	drug 164 177	carbamazepine
+T4	group 183 206	Type 1C antiarrhythmics
+T5	drug 212 223	propafenone
+T6	drug 225 235	flecainide
+T7	drug 241 250	encainide
+T8	drug 286 295	quinidine
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4
+R5	advise Arg1:T0 Arg2:T5
+R6	advise Arg1:T0 Arg2:T6
+R7	advise Arg1:T0 Arg2:T7
+R8	advise Arg1:T0 Arg2:T8

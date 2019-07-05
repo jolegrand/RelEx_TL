@@ -1,0 +1,3 @@
+T0	drug 107 116	cisapride
+T1	group 164 177	anticoagulant
+R1	advise Arg1:T0 Arg2:T1

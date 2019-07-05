@@ -1,0 +1,5 @@
+T0	drug 87 94	ethanol
+T1	drug 98 107	triazolam
+T2	drug 154 163	tiagabine
+R1	advise Arg1:T0 Arg2:T2
+R2	advise Arg1:T1 Arg2:T2

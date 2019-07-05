@@ -1,0 +1,9 @@
+T0	drug 29 38	Enalapril
+T1	drug 43 52	enalapril
+T2	group 90 121	beta adrenergic-blocking agents
+T3	drug 123 133	methyldopa
+T4	group 135 143	nitrates
+T5	group 145 168	calcium-blocking agents
+T6	drug 170 181	hydralazine
+T7	drug 183 191	prazosin
+T8	drug 196 203	digoxin

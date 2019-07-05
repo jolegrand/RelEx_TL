@@ -1,0 +1,5 @@
+T0	drug 0 12	Ketoconazole
+T1	drug 34 46	ketoconazole
+T2	drug 100 112	aripiprazole
+T3	drug 134 146	aripiprazole
+R1	mechanism Arg1:T1 Arg2:T2

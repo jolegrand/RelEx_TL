@@ -1,0 +1,7 @@
+T0	brand 24 32	Simulect
+T1	drug 76 88	azathioprine
+T2	drug 93 114	mycophenolate mofetil
+T3	drug 168 180	cyclosporine
+T4	group 201 216	corticosteroids
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

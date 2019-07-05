@@ -1,0 +1,4 @@
+T0	drug 5 15	Vardenafil
+T1	drug 42 51	terazosin
+T2	drug 109 119	Vardenafil
+R1	effect Arg1:T0 Arg2:T1

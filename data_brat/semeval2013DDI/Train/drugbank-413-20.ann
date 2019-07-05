@@ -1,0 +1,7 @@
+T0	drug 0 14	Chlorpropamide
+T1	drug 16 30	Chlorpropamide
+T2	drug 69 80	allopurinol
+T3	drug 88 99	allopurinol
+T4	drug 104 118	chlorpropamide
+R1	mechanism Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T3 Arg2:T4

@@ -1,0 +1,5 @@
+T0	drug 0 10	Metoprolol
+T1	brand 41 48	LEXAPRO
+T2	group 149 172	beta-adrenergic blocker
+T3	drug 173 183	metoprolol
+R1	mechanism Arg1:T1 Arg2:T3

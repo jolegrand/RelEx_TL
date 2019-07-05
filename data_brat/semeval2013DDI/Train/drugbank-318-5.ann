@@ -1,0 +1,4 @@
+T0	group 0 20	Digitalis glycosides
+T1	drug 22 36	amphotericin B
+T2	group 72 81	digitalis
+R1	effect Arg1:T1 Arg2:T2

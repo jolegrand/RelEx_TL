@@ -1,0 +1,9 @@
+T0	drug 0 12	ketoconazole
+T1	group 15 36	macrolide antibiotics
+T2	drug 43 55	erythromycin
+T3	group 62 85	HIV protease inhibitors
+T4	drug 92 101	ritonavir
+T5	drug 103 112	indinavir
+T6	drug 117 127	saquinavir
+T7	brand 155 162	SUBUTEX
+T8	brand 166 174	SUBOXONE

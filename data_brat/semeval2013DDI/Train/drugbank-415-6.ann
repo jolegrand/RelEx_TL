@@ -1,0 +1,3 @@
+T0	drug 23 32	ibuprofen
+T1	drug 63 75	methotrexate
+R1	effect Arg1:T0 Arg2:T1

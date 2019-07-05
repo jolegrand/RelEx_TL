@@ -1,0 +1,16 @@
+T0	group 0 15	Benzodiazepines
+T1	group 29 52	hormonal contraceptives
+T2	group 88 103	benzodiazepines
+T3	drug 105 115	alprazolam
+T4	drug 117 133	chlordiazepoxide
+T5	drug 135 143	diazepam
+T6	drug 183 192	lorazepam
+T7	drug 194 202	oxazepam
+T8	drug 204 213	temazepam
+R1	mechanism Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T1 Arg2:T4
+R4	mechanism Arg1:T1 Arg2:T5
+R5	mechanism Arg1:T1 Arg2:T6
+R6	mechanism Arg1:T1 Arg2:T7
+R7	mechanism Arg1:T1 Arg2:T8

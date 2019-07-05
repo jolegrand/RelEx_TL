@@ -1,0 +1,4 @@
+T0	drug 0 11	Cyclosporin
+T1	drug 35 47	cyclosporine
+T2	drug 106 124	allopurinol sodium
+R1	mechanism Arg1:T1 Arg2:T2

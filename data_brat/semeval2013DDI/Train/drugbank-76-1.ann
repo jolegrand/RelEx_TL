@@ -1,0 +1,5 @@
+T0	group 30 63	serotonin reuptake inhibitor drug
+T1	group 84 112	monoamine oxidase inhibitors
+T2	group 114 118	MAOI
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

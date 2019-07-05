@@ -1,0 +1,3 @@
+T0	drug 0 10	Colchicine
+T1	group 27 44	acidifying agents
+R1	mechanism Arg1:T0 Arg2:T1

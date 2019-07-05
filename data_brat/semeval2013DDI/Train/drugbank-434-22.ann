@@ -1,0 +1,4 @@
+T0	drug 0 9	Valproate
+T1	brand 11 19	Felbatol
+T2	drug 56 65	valproate
+R1	mechanism Arg1:T1 Arg2:T2

@@ -1,0 +1,27 @@
+T0	drug 0 16	Chlorotrianisene
+T1	group 35 50	antidepressants
+T2	brand 52 59	aspirin
+T3	group 61 73	barbiturates
+T4	drug 75 88	bromocriptine
+T5	drug 90 97	calcium
+T6	group 111 126	corticosteroids
+T7	drug 128 141	corticotropin
+T8	drug 143 155	cyclosporine
+T9	drug 157 167	dantrolene
+T10	drug 169 177	nicotine
+T11	drug 179 189	somatropin
+T12	drug 191 200	tamoxifen
+T13	drug 206 214	warfarin
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2
+R3	int Arg1:T0 Arg2:T3
+R4	int Arg1:T0 Arg2:T4
+R5	int Arg1:T0 Arg2:T5
+R6	int Arg1:T0 Arg2:T6
+R7	int Arg1:T0 Arg2:T7
+R8	int Arg1:T0 Arg2:T8
+R9	int Arg1:T0 Arg2:T9
+R10	int Arg1:T0 Arg2:T10
+R11	int Arg1:T0 Arg2:T11
+R12	int Arg1:T0 Arg2:T12
+R13	int Arg1:T0 Arg2:T13

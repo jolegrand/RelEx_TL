@@ -1,0 +1,5 @@
+T0	drug 23 41	interferon beta-1a
+T1	brand 43 49	AVONEX
+T2	brand 82 89	TYSABRI
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T2

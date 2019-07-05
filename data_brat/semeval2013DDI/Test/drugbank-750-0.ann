@@ -1,0 +1,6 @@
+T0	drug 19 26	alcohol
+T1	drug 32 57	phentermine hydrochloride
+R1	int Arg1:T0 Arg2:T1
+T0	drug 19 26	alcohol
+T1	drug 32 57	phentermine hydrochloride
+R1	int Arg1:T0 Arg2:T1

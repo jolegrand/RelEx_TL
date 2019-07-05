@@ -1,0 +1,6 @@
+T0	drug 38 51	grepafloxacin
+T1	drug 79 91	theophylline
+T2	drug 97 109	theophylline
+T3	drug 180 193	grepafloxacin
+T4	drug 218 230	theophylline
+R1	advise Arg1:T2 Arg2:T3

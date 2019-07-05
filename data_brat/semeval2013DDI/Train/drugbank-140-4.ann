@@ -1,0 +1,5 @@
+T0	drug 0 10	Colestipol
+T1	drug 37 49	atorvastatin
+T2	drug 83 93	colestipol
+T3	drug 98 110	atorvastatin
+R1	mechanism Arg1:T2 Arg2:T3

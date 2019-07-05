@@ -1,0 +1,5 @@
+T0	drug 0 12	Methotrexate
+T1	drug 40 52	methotrexate
+T2	drug 103 116	ciprofloxacin
+T3	drug 168 180	methotrexate
+R1	mechanism Arg1:T1 Arg2:T2

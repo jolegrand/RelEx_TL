@@ -1,0 +1,4 @@
+T0	drug 0 12	Aripiprazole
+T1	drug 102 111	quinidine
+T2	drug 117 129	aripiprazole
+R1	advise Arg1:T1 Arg2:T2

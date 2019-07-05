@@ -1,0 +1,9 @@
+T0	drug 72 85	phenobarbital
+T1	drug 87 96	phenytoin
+T2	drug 98 111	dexamethasone
+T3	drug 113 126	carbamazepine
+T4	drug 169 179	saquinavir
+R1	mechanism Arg1:T0 Arg2:T4
+R2	mechanism Arg1:T1 Arg2:T4
+R3	mechanism Arg1:T2 Arg2:T4
+R4	mechanism Arg1:T3 Arg2:T4

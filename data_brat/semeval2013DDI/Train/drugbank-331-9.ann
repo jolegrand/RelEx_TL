@@ -1,0 +1,4 @@
+T0	group 2 19	Antihypertensives
+T1	drug 21 31	Bumetanide
+T2	group 69 91	antihypertensive drugs
+R1	effect Arg1:T1 Arg2:T2

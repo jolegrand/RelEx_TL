@@ -1,0 +1,6 @@
+T0	brand 58 66	TOLECTIN
+T1	group 82 96	anticoagulants
+R1	advise Arg1:T0 Arg2:T1
+T0	brand 58 66	TOLECTIN
+T1	group 82 96	anticoagulants
+R1	advise Arg1:T0 Arg2:T1

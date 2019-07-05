@@ -1,0 +1,6 @@
+T0	drug 19 31	Ketoconazole
+T1	drug 135 146	tolterodine
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 19 31	Ketoconazole
+T1	drug 135 146	tolterodine
+R1	mechanism Arg1:T0 Arg2:T1

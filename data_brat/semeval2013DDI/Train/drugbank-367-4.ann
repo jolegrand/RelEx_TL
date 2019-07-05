@@ -1,0 +1,5 @@
+T0	drug 96 105	doxazosin
+T1	drug 145 155	cimetidine
+T2	drug 219 228	doxazosin
+T3	drug 331 340	doxazosin
+R1	mechanism Arg1:T0 Arg2:T1

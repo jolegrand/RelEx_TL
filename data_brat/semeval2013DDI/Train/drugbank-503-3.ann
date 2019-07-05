@@ -1,0 +1,5 @@
+T0	drug 29 44	chlorprothixene
+T1	drug 49 57	tramadol
+T2	brand 59 65	Ultram
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

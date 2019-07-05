@@ -1,0 +1,3 @@
+T0	group 39 61	sympathomimetic amines
+T1	group 122 150	monoamine oxidase inhibitors
+R1	effect Arg1:T0 Arg2:T1

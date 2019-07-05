@@ -1,0 +1,4 @@
+T0	drug 30 53	clonidine hydrochloride
+T1	group 69 94	tricyclic antidepressants
+T2	drug 110 119	clonidine
+R1	effect Arg1:T0 Arg2:T1

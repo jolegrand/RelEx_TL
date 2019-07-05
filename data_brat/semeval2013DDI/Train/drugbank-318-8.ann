@@ -1,0 +1,10 @@
+T0	group 0 10	Imidazoles
+T1	drug 19 31	ketoconazole
+T2	drug 33 43	miconazole
+T3	drug 45 57	clotrimazole
+T4	drug 59 70	fluconazole
+T5	drug 131 145	amphotericin B
+T6	group 150 160	imidazoles
+T7	group 174 184	imidazoles
+T8	drug 217 231	amphotericin B
+R1	effect Arg1:T7 Arg2:T8

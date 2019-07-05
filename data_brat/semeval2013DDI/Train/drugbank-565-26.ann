@@ -1,0 +1,4 @@
+T0	drug 59 71	cyclosporine
+T1	drug 127 139	cyclosporine
+T2	drug 209 218	diltiazem
+R1	mechanism Arg1:T0 Arg2:T2

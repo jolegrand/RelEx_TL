@@ -1,0 +1,18 @@
+T0	drug 0 12	Azathioprine
+T1	drug 13 34	Mycophenolate Mofetil
+T2	drug 47 59	azathioprine
+T3	drug 64 85	mycophenolate mofetil
+T4	brand 136 144	Myfortic
+T5	drug 184 196	azathioprine
+T6	drug 200 221	mycophenolate mofetil
+R1	advise Arg1:T4 Arg2:T5
+R2	advise Arg1:T4 Arg2:T6
+T0	drug 0 12	Azathioprine
+T1	drug 13 34	Mycophenolate Mofetil
+T2	drug 47 59	azathioprine
+T3	drug 64 85	mycophenolate mofetil
+T4	brand 136 144	Myfortic
+T5	drug 184 196	azathioprine
+T6	drug 200 221	mycophenolate mofetil
+R1	advise Arg1:T4 Arg2:T5
+R2	advise Arg1:T4 Arg2:T6

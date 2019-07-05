@@ -1,0 +1,5 @@
+T0	drug 0 3	INH
+T1	drug 5 14	Isoniazid
+T2	drug 43 55	ketoconazole
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T2

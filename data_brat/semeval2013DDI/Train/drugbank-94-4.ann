@@ -1,0 +1,53 @@
+T0	brand 102 111	EQUETROTM
+T1	drug 131 144	Acetazolamide
+T2	group 146 163	azole antifungals
+T3	drug 165 175	cimetidine
+T4	drug 177 191	clarithromycin
+T5	drug 196 208	dalfopristin
+T6	drug 210 217	danazol
+T7	drug 219 230	delavirdine
+T8	drug 232 241	diltiazem
+T9	drug 243 255	erythromycin
+T10	drug 260 270	fluoxetine
+T11	drug 272 283	fluvoxamine
+T12	drug 303 312	isoniazid
+T13	drug 314 326	itraconazole
+T14	drug 328 340	ketoconazole
+T15	drug 342 352	loratadine
+T16	drug 354 364	nefazodone
+T17	drug 366 377	niacinamide
+T18	drug 379 391	nicotinamide
+T19	group 393 412	protease inhibitors
+T20	drug 414 426	propoxyphene
+T21	drug 428 435	quinine
+T22	drug 437 449	quinupristin
+T23	drug 451 465	troleandomycin
+T24	drug 467 476	valproate
+T25	drug 481 490	verapamil
+T26	drug 492 500	zileuton
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4
+R5	mechanism Arg1:T0 Arg2:T5
+R6	mechanism Arg1:T0 Arg2:T6
+R7	mechanism Arg1:T0 Arg2:T7
+R8	mechanism Arg1:T0 Arg2:T8
+R9	mechanism Arg1:T0 Arg2:T9
+R10	mechanism Arg1:T0 Arg2:T10
+R11	mechanism Arg1:T0 Arg2:T11
+R12	mechanism Arg1:T0 Arg2:T12
+R13	mechanism Arg1:T0 Arg2:T13
+R14	mechanism Arg1:T0 Arg2:T14
+R15	mechanism Arg1:T0 Arg2:T15
+R16	mechanism Arg1:T0 Arg2:T16
+R17	mechanism Arg1:T0 Arg2:T17
+R18	mechanism Arg1:T0 Arg2:T18
+R19	mechanism Arg1:T0 Arg2:T19
+R20	mechanism Arg1:T0 Arg2:T20
+R21	mechanism Arg1:T0 Arg2:T21
+R22	mechanism Arg1:T0 Arg2:T22
+R23	mechanism Arg1:T0 Arg2:T23
+R24	mechanism Arg1:T0 Arg2:T24
+R25	mechanism Arg1:T0 Arg2:T25
+R26	mechanism Arg1:T0 Arg2:T26

@@ -1,0 +1,15 @@
+T0	drug 30 41	sumatriptan
+T1	group 49 53	SSRI
+T2	drug 61 71	fluoxetine
+T3	drug 73 84	fluvoxamine
+T4	drug 86 96	paroxetine
+T5	drug 98 108	sertraline
+T6	drug 110 120	citalopram
+T7	drug 122 134	escitalopram
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4
+R5	advise Arg1:T0 Arg2:T5
+R6	advise Arg1:T0 Arg2:T6
+R7	advise Arg1:T0 Arg2:T7

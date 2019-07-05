@@ -1,0 +1,12 @@
+T0	group 6 21	HDAC Inhibitors
+T1	brand 119 126	ZOLINZA
+T2	group 137 152	HDAC inhibitors
+T3	drug 160 173	valproic acid
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3
+T0	group 6 21	HDAC Inhibitors
+T1	brand 119 126	ZOLINZA
+T2	group 137 152	HDAC inhibitors
+T3	drug 160 173	valproic acid
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3

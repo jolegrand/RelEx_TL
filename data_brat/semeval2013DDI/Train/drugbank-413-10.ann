@@ -1,0 +1,4 @@
+T0	group 34 51	uricosuric agents
+T1	drug 56 67	allopurinol
+T2	drug 243 254	allopurinol
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,4 @@
+T0	group 49 63	anticoagulants
+T1	drug 91 101	disulfiram
+T2	drug 109 119	disulfiram
+R1	advise Arg1:T0 Arg2:T1

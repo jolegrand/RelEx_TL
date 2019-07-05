@@ -1,0 +1,4 @@
+T0	drug 0 12	Ketoconazole
+T1	drug 44 56	ketoconazole
+T2	drug 139 148	lapatinib
+R1	mechanism Arg1:T1 Arg2:T2

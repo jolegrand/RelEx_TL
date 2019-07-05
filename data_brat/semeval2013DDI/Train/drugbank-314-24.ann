@@ -1,0 +1,7 @@
+T0	group 0 37	Nonsteroidal anti-inflammatory agents
+T1	group 39 45	NSAIDS
+T2	brand 67 74	aspirin
+T3	group 85 121	nonsteroidal antiinflammatory agents
+T4	group 127 142	corticosteroids
+R1	effect Arg1:T2 Arg2:T4
+R2	effect Arg1:T3 Arg2:T4

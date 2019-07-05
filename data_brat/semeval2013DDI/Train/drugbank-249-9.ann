@@ -1,0 +1,4 @@
+T0	drug 19 29	diclofenac
+T1	drug 34 41	lithium
+T2	drug 57 64	lithium
+R1	effect Arg1:T0 Arg2:T1

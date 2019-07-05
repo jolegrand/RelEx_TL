@@ -1,0 +1,14 @@
+T0	drug 63 71	rifampin
+T1	drug 73 86	carbamazepine
+T2	drug 92 101	phenytoin
+T3	drug 175 184	midazolam
+R1	mechanism Arg1:T0 Arg2:T3
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T2 Arg2:T3
+T0	drug 63 71	rifampin
+T1	drug 73 86	carbamazepine
+T2	drug 92 101	phenytoin
+T3	drug 175 184	midazolam
+R1	mechanism Arg1:T0 Arg2:T3
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T2 Arg2:T3

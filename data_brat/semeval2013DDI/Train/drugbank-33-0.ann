@@ -1,0 +1,4 @@
+T0	brand 51 58	Cefizox
+T1	group 139 153	cephalosporins
+T2	group 158 173	aminoglycosides
+R1	effect Arg1:T1 Arg2:T2

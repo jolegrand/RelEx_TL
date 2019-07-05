@@ -1,0 +1,8 @@
+T0	drug 22 34	streptozocin
+T1	drug 39 48	phenytoin
+T2	drug 100 112	streptozocin
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 22 34	streptozocin
+T1	drug 39 48	phenytoin
+T2	drug 100 112	streptozocin
+R1	effect Arg1:T0 Arg2:T1

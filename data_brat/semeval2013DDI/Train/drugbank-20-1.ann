@@ -1,0 +1,5 @@
+T0	brand 74 80	INSPRA
+T1	drug 93 105	ketoconazole
+T2	drug 198 208	eplerenone
+T3	drug 243 253	eplerenone
+R1	mechanism Arg1:T0 Arg2:T1

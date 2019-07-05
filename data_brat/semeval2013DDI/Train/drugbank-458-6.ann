@@ -1,0 +1,3 @@
+T0	drug 20 30	astemizole
+T1	drug 36 48	ketoconazole
+R1	advise Arg1:T0 Arg2:T1

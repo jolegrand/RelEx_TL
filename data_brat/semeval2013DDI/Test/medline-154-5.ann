@@ -1,0 +1,6 @@
+T0	drug_n 37 41	GSLS
+T1	drug 87 110	inactivated AI vaccines
+R1	effect Arg1:T0 Arg2:T1
+T0	drug_n 37 41	GSLS
+T1	drug 87 110	inactivated AI vaccines
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,4 @@
+T0	drug 0 7	Danazol
+T1	drug 91 98	danazol
+T2	drug 133 143	lovastatin
+R1	effect Arg1:T1 Arg2:T2

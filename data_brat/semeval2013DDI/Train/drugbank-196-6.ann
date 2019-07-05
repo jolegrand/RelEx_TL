@@ -1,0 +1,7 @@
+T0	drug 0 9	Stavudine
+T1	drug 14 24	Zidovudine
+T2	drug 25 34	Ribavirin
+T3	drug 85 94	stavudine
+T4	drug 99 109	zidovudine
+R1	effect Arg1:T2 Arg2:T3
+R2	effect Arg1:T2 Arg2:T4

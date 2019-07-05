@@ -1,0 +1,5 @@
+T0	group 3 11	antacids
+T1	brand 32 39	OMNICEF
+T2	brand 49 56	OMNICEF
+T3	group 110 117	antacid
+R1	advise Arg1:T2 Arg2:T3

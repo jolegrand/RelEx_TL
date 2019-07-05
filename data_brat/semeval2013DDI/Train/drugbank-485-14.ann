@@ -1,0 +1,6 @@
+T0	drug 0 13	Ascorbic acid
+T1	drug 24 37	ascorbic acid
+T2	drug 39 48	vitamin C
+T3	group 113 132	synthetic estrogens
+R1	mechanism Arg1:T1 Arg2:T3
+R2	mechanism Arg1:T2 Arg2:T3

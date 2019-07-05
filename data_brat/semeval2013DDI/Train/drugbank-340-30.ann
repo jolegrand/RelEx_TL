@@ -1,0 +1,6 @@
+T0	drug 0 9	Rifabutin
+T1	drug 31 40	rifabutin
+T2	brand 45 53	VIRACEPT
+T3	drug 84 94	nelfinavir
+T4	drug 129 138	rifabutin
+R1	mechanism Arg1:T1 Arg2:T2

@@ -1,0 +1,6 @@
+T0	drug 37 39	GH
+T1	drug 93 103	antipyrine
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 37 39	GH
+T1	drug 93 103	antipyrine
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,3 @@
+T0	drug 23 41	sodium cephalothin
+T1	brand 46 58	Coly-Mycin M
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,4 @@
+T0	drug 30 37	glycine
+T1	drug 75 84	glutamate
+T2	drug 246 255	glutamate
+R1	effect Arg1:T0 Arg2:T1

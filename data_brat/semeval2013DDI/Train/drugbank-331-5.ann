@@ -1,0 +1,4 @@
+T0	drug 28 38	probenecid
+T1	drug 42 52	bumetanide
+T2	drug 196 206	bumetanide
+R1	mechanism Arg1:T0 Arg2:T1

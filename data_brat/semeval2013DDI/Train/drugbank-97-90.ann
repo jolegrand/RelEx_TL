@@ -1,0 +1,3 @@
+T0	drug 0 9	Tadalafil
+T1	drug 107 116	indinavir
+R1	advise Arg1:T0 Arg2:T1

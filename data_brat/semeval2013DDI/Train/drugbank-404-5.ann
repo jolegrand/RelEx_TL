@@ -1,0 +1,3 @@
+T0	group 63 72	thiazides
+T1	group 78 87	vitamin D
+R1	effect Arg1:T0 Arg2:T1

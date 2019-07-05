@@ -1,0 +1,7 @@
+T0	group 42 79	non-steroidal anti-inflammatory agent
+T1	group 150 154;187 196	loop diuretics
+T2	group 156 173;187 196	potassium-sparing diuretics
+T3	group 178 196	thiazide diuretics
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

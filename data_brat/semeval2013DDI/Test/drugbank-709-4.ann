@@ -1,0 +1,14 @@
+T0	drug 2 11	Cisapride
+T1	drug 13 21	pimozide
+T2	drug 43 52	cisapride
+T3	drug 56 64	pimozide
+T4	group 352 376	macrolide antibacterials
+R1	mechanism Arg1:T1 Arg2:T4
+R2	mechanism Arg1:T2 Arg2:T4
+T0	drug 2 11	Cisapride
+T1	drug 13 21	pimozide
+T2	drug 43 52	cisapride
+T3	drug 56 64	pimozide
+T4	group 352 376	macrolide antibacterials
+R1	mechanism Arg1:T1 Arg2:T4
+R2	mechanism Arg1:T2 Arg2:T4

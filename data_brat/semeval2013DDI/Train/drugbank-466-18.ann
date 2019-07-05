@@ -1,0 +1,5 @@
+T0	drug 49 61	fexofenadine
+T1	drug 205 217	ketoconazole
+T2	drug 228 240	fexofenadine
+T3	drug 275 287	erythromycin
+R1	mechanism Arg1:T1 Arg2:T2

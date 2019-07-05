@@ -1,0 +1,5 @@
+T0	drug 0 10	Cimetidine
+T1	drug 85 95	nifedipine
+T2	drug 172 182	cimetidine
+T3	drug 206 216	nifedipine
+R1	mechanism Arg1:T2 Arg2:T3

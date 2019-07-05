@@ -1,0 +1,5 @@
+T0	brand 48 56	TAMBOCOR
+T1	drug 61 72	propranolol
+T2	drug 94 104	flecainide
+T3	drug 141 152	propranolol
+R1	mechanism Arg1:T0 Arg2:T1

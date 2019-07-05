@@ -1,0 +1,4 @@
+T0	drug 0 10	Cimetidine
+T1	drug 49 59	cimetidine
+T2	drug 103 112	rofecoxib
+R1	mechanism Arg1:T1 Arg2:T2

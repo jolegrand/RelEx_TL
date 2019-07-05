@@ -1,0 +1,17 @@
+T0	brand 0 6	ZEBETA
+T1	group 37 59	myocardial depressants
+T2	group 108 127	calcium antagonists
+T3	group 149 165	phenylalkylamine
+T4	drug 167 176	verapamil
+T5	group 182 197	benzothiazepine
+T6	drug 199 208	diltiazem
+T7	group 223 244	antiarrhythmic agents
+T8	drug 254 266	disopyramide
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4
+R5	advise Arg1:T0 Arg2:T5
+R6	advise Arg1:T0 Arg2:T6
+R7	advise Arg1:T0 Arg2:T7
+R8	advise Arg1:T0 Arg2:T8

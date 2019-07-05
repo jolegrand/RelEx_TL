@@ -1,0 +1,5 @@
+T0	drug 44 53	captopril
+T1	group 99 107	diuretic
+T2	drug 199 208	captopril
+T3	drug 210 219	captopril
+R1	effect Arg1:T0 Arg2:T1

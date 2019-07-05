@@ -1,0 +1,3 @@
+T0	drug 23 33	gabapentin
+T1	brand 70 76	Maalox
+R1	advise Arg1:T0 Arg2:T1

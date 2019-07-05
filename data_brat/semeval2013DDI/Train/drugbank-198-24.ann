@@ -1,0 +1,4 @@
+T0	group 43 51	nitrates
+T1	drug 140 150	Vardenafil
+T2	group 155 163	nitrates
+R1	advise Arg1:T1 Arg2:T2

@@ -1,0 +1,5 @@
+T0	drug 0 10	Furosemide
+T1	brand 12 19	TORADOL
+T2	group 38 46	diuretic
+T3	drug 59 69	furosemide
+R1	effect Arg1:T1 Arg2:T3

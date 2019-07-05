@@ -1,0 +1,8 @@
+T0	group 0 14	Cephalosporins
+T1	group 15 29	Cephalosporins
+T2	drug 79 90	cefmenoxime
+T3	drug 92 104	cefoperazone
+T4	drug 106 115	cefotetan
+T5	drug 117 128	cefamandole
+T6	drug 130 139	latamoxef
+T7	drug 163 172	cefazolin

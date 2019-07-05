@@ -1,0 +1,9 @@
+T0	drug 35 42	ouabain
+T1	brand 111 118	Innovar
+T2	drug 120 128	ketamine
+T3	drug 133 143	droperidol
+T4	drug 176 183	fentayl
+T5	drug 199 212	pentobarbital
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

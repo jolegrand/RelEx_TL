@@ -1,0 +1,10 @@
+T0	drug 0 11	Terbinafine
+T1	drug 43 51	rifampin
+T2	drug 99 109	cimetidine
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+T0	drug 0 11	Terbinafine
+T1	drug 43 51	rifampin
+T2	drug 99 109	cimetidine
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

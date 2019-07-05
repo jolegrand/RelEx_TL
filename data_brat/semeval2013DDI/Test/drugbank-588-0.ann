@@ -1,0 +1,12 @@
+T0	group 0 9	Diuretics
+T1	drug 11 21	Furosemide
+T2	group 41 55	loop diuretics
+T3	drug 81 91	metolazone
+R1	effect Arg1:T1 Arg2:T3
+R2	effect Arg1:T2 Arg2:T3
+T0	group 0 9	Diuretics
+T1	drug 11 21	Furosemide
+T2	group 41 55	loop diuretics
+T3	drug 81 91	metolazone
+R1	effect Arg1:T1 Arg2:T3
+R2	effect Arg1:T2 Arg2:T3

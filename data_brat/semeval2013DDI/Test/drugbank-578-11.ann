@@ -1,0 +1,6 @@
+T0	group 63 76	anticoagulant
+T1	group 106 121	corticosteroids
+R1	effect Arg1:T0 Arg2:T1
+T0	group 63 76	anticoagulant
+T1	group 106 121	corticosteroids
+R1	effect Arg1:T0 Arg2:T1

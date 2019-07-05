@@ -1,0 +1,4 @@
+T0	brand 48 54	ELSPAR
+T1	drug 93 105	methotrexate
+T2	drug 143 155	methotrexate
+R1	effect Arg1:T0 Arg2:T1

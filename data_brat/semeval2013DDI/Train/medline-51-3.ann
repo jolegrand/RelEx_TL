@@ -1,0 +1,5 @@
+T0	drug 26 38	theophylline
+T1	drug_n 73 82	CGS 21680
+T2	drug_n 120 143	N6-cyclopentyladenosine
+T3	drug_n 145 148	CPA
+R1	effect Arg1:T0 Arg2:T1

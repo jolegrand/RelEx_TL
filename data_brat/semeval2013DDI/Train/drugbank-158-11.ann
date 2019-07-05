@@ -1,0 +1,4 @@
+T0	group 0 17	Antihypertensives
+T1	group 19 31	Amphetamines
+T2	drug 74 91	antihypertensives
+R1	effect Arg1:T1 Arg2:T2

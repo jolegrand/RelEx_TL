@@ -1,0 +1,1 @@
+Gene expression analysis on MM patient dataset indicated ALOX5 expression was significantly higher in MM patients compared to normal plasma cells. 

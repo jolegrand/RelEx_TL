@@ -1,0 +1,3 @@
+T0	drug 18 30	flurbiprofen
+T1	brand 35 42	aspirin
+R1	advise Arg1:T0 Arg2:T1

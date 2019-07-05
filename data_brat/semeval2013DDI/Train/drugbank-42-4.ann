@@ -1,0 +1,8 @@
+T0	drug 19 29	furosemide
+T1	drug 31 41	nifedipine
+T2	drug 43 52	diltiazem
+T3	group 54 68	ACE inhibitors
+T4	drug 70 79	verapamil
+T5	drug 81 90	glyburide
+T6	drug 92 103	propranolol
+T7	drug_n 178 193	hydrodolasetron

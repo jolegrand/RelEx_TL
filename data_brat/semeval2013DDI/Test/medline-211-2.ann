@@ -1,0 +1,6 @@
+T0	drug 31 43	lenalidomide
+T1	drug 68 75	CCI-779
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 31 43	lenalidomide
+T1	drug 68 75	CCI-779
+R1	effect Arg1:T0 Arg2:T1

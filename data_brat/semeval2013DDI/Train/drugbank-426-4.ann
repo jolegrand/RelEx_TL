@@ -1,0 +1,3 @@
+T0	drug 30 42	frovatriptan
+T1	group 50 54	SSRI
+R1	advise Arg1:T0 Arg2:T1

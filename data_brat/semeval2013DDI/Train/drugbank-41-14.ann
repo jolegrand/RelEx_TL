@@ -1,0 +1,5 @@
+T0	drug 0 8	Rifampin
+T1	brand 67 72	ARAVA
+T2	drug 113 121	rifampin
+T3	brand 181 186	ARAVA
+R1	mechanism Arg1:T1 Arg2:T2

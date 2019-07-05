@@ -1,0 +1,3 @@
+T0	group 1 10	Thiazides
+T1	drug 51 65	norepinephrine
+R1	effect Arg1:T0 Arg2:T1

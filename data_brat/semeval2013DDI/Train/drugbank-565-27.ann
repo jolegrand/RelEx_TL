@@ -1,0 +1,3 @@
+T0	drug 53 65	cyclosporine
+T1	drug 118 127	diltiazem
+R1	advise Arg1:T0 Arg2:T1

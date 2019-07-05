@@ -1,0 +1,4 @@
+T0	drug 0 8	Warfarin
+T1	group 9 18	Vitamin K
+T2	drug 48 56	warfarin
+R1	effect Arg1:T1 Arg2:T2

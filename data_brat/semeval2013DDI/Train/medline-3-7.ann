@@ -1,0 +1,5 @@
+T0	drug 0 10	Amprenavir
+T1	drug 89 98	rifabutin
+T2	drug_n 131 154	25-O-desacetylrifabutin
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

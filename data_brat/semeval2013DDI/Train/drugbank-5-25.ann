@@ -1,0 +1,5 @@
+T0	drug 0 7	Alcohol
+T1	drug 114 121	alcohol
+T2	drug 162 169	alcohol
+T3	brand 192 202	WELLBUTRIN
+R1	effect Arg1:T2 Arg2:T3

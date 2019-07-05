@@ -1,0 +1,6 @@
+T0	group 34 44	quinolones
+T1	drug 55 66	norfloxacin
+T2	drug 72 81	glyburide
+T3	group 85 103	sulfonylurea agent
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

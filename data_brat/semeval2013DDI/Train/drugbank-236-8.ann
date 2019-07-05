@@ -1,0 +1,8 @@
+T0	drug 0 13	d-amphetamine
+T1	drug 19 30	desipramine
+T2	drug 34 47	protriptyline
+T3	group 67 77	tricyclics
+T4	drug 141 154	d-amphetamine
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3

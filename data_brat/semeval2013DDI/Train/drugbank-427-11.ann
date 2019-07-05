@@ -1,0 +1,5 @@
+T0	brand 4 9	Videx
+T1	drug 13 23	Didanosine
+T2	group 145 155	quinolones
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T2

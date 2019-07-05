@@ -1,0 +1,6 @@
+T0	drug 25 33	naloxone
+T1	drug_n 184 198	beta-endorphin
+T2	drug 219 227	naloxone
+T3	drug_n 317 331	beta-endorphin
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T2 Arg2:T3

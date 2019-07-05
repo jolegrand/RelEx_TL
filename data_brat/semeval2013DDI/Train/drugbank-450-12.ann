@@ -1,0 +1,5 @@
+T0	group 9 33	beta-adrenergic blockers
+T1	group 37 61	calcium channel blockers
+T2	drug 66 73	digoxin
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

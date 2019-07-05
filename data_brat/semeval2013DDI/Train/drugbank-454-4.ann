@@ -1,0 +1,3 @@
+T0	group 21 46	tricyclic antidepressants
+T1	drug 74 84	lofexidine
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,5 @@
+T0	drug 0 7	Ethanol
+T1	drug 41 51	etretinate
+T2	drug 95 104	acitretin
+T3	drug 109 116	ethanol
+R1	mechanism Arg1:T2 Arg2:T3

@@ -1,0 +1,4 @@
+T0	brand 30 37	FACTIVE
+T1	drug 43 53	probenecid
+T2	drug 105 117	gemifloxacin
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,6 @@
+T0	brand 0 5	Videx
+T1	drug 7 17	Didanosine
+T2	drug 178 189	norfloxacin
+T3	drug 289 300	norfloxacin
+R1	advise Arg1:T0 Arg2:T2
+R2	advise Arg1:T1 Arg2:T2

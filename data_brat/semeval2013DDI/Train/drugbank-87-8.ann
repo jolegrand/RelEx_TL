@@ -1,0 +1,3 @@
+T0	group 72 85	beta blockers
+T1	drug 90 100	flecainide
+R1	effect Arg1:T0 Arg2:T1

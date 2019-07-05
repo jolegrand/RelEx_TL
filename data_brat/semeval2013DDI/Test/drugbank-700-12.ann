@@ -1,0 +1,8 @@
+T0	group 0 13	Live Vaccines
+T1	drug 37 45	Myfortic
+T2	group 58 82	live attenuated vaccines
+R1	advise Arg1:T1 Arg2:T2
+T0	group 0 13	Live Vaccines
+T1	drug 37 45	Myfortic
+T2	group 58 82	live attenuated vaccines
+R1	advise Arg1:T1 Arg2:T2

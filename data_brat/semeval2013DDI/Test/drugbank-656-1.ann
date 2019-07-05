@@ -1,0 +1,14 @@
+T0	group 56 84	coumarin-type anticoagulants
+T1	group 104 132	coumarin-type anticoagulants
+T2	brand 157 164	FELDENE
+T3	brand 291 298	FELDENE
+T4	group 314 342	coumarin-type anticoagulants
+R1	int Arg1:T1 Arg2:T2
+R2	advise Arg1:T3 Arg2:T4
+T0	group 56 84	coumarin-type anticoagulants
+T1	group 104 132	coumarin-type anticoagulants
+T2	brand 157 164	FELDENE
+T3	brand 291 298	FELDENE
+T4	group 314 342	coumarin-type anticoagulants
+R1	int Arg1:T1 Arg2:T2
+R2	advise Arg1:T3 Arg2:T4

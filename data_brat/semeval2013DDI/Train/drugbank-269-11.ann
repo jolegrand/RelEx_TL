@@ -1,0 +1,5 @@
+T0	drug 0 7	Digoxin
+T1	drug 9 16	Digoxin
+T2	drug 64 71	digoxin
+T3	drug 76 86	carvedilol
+R1	mechanism Arg1:T2 Arg2:T3

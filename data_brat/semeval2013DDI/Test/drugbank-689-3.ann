@@ -1,0 +1,6 @@
+T0	group 24 41	adrenergic agents
+T1	group 69 94	tricyclic antidepressants
+R1	effect Arg1:T0 Arg2:T1
+T0	group 24 41	adrenergic agents
+T1	group 69 94	tricyclic antidepressants
+R1	effect Arg1:T0 Arg2:T1

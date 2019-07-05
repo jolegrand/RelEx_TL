@@ -1,0 +1,8 @@
+T0	drug 0 17	Aminoglutethimide
+T1	brand 50 71	depo-subQ provera 104
+T2	drug 127 130	MPA
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 0 17	Aminoglutethimide
+T1	brand 50 71	depo-subQ provera 104
+T2	drug 127 130	MPA
+R1	mechanism Arg1:T0 Arg2:T1

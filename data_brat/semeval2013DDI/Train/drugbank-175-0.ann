@@ -1,0 +1,5 @@
+T0	group 26 34	Diuretic
+T1	group 56 65	diuretics
+T2	group 95 103	diuretic
+T3	drug 338 347	captopril
+R1	effect Arg1:T1 Arg2:T3

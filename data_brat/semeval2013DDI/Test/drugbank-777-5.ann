@@ -1,0 +1,6 @@
+T0	brand 16 23	aspirin
+T1	drug 27 40	Streptokinase
+R1	effect Arg1:T0 Arg2:T1
+T0	brand 16 23	aspirin
+T1	drug 27 40	Streptokinase
+R1	effect Arg1:T0 Arg2:T1

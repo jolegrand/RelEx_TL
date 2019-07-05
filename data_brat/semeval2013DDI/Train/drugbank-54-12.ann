@@ -1,0 +1,4 @@
+T0	drug 100 113	levothyroxine
+T1	group 136 145	estrogens
+T2	group 174 181	thyroid
+R1	mechanism Arg1:T0 Arg2:T1

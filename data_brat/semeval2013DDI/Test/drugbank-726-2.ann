@@ -1,0 +1,6 @@
+T0	brand 19 26	Zemplar
+T1	drug 209 221	ketoconazole
+R1	advise Arg1:T0 Arg2:T1
+T0	brand 19 26	Zemplar
+T1	drug 209 221	ketoconazole
+R1	advise Arg1:T0 Arg2:T1

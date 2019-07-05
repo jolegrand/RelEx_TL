@@ -1,0 +1,6 @@
+T0	drug 49 57	diazepam
+T1	brand 95 109	REMERON SolTab
+R1	advise Arg1:T0 Arg2:T1
+T0	drug 49 57	diazepam
+T1	brand 95 109	REMERON SolTab
+R1	advise Arg1:T0 Arg2:T1

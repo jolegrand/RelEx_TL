@@ -1,0 +1,7 @@
+T0	group 0 13	Beta Blockers
+T1	brand 126 135	D.H.E. 45
+T2	drug 138 164	dihydroergotamine mesylate
+T3	drug 211 222	propranolol
+T4	drug 253 264	propranolol
+T5	drug 311 321	ergotamine
+R1	effect Arg1:T4 Arg2:T5

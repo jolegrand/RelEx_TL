@@ -1,0 +1,11 @@
+T0	drug 0 8	Nabilone
+T1	group 78 96	psychoactive drugs
+T2	group 100 115	CNS depressants
+T3	drug 127 134	alcohol
+T4	group 136 148	barbiturates
+T5	group 153 172	narcotic analgesics
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4
+R5	advise Arg1:T0 Arg2:T5

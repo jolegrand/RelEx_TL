@@ -1,0 +1,4 @@
+T0	drug 15 25	amiodarone
+T1	drug 61 71	amiodarone
+T2	group 111 129	protease inhibitor
+R1	advise Arg1:T1 Arg2:T2

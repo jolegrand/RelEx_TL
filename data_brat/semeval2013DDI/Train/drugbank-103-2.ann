@@ -1,0 +1,3 @@
+T0	group 36 58	sympathomimetic agents
+T1	brand 101 108	FORADIL
+R1	effect Arg1:T0 Arg2:T1

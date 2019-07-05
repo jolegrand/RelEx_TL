@@ -1,0 +1,22 @@
+T0	group 40 68	azole-type antifungal agents
+T1	drug 80 91	fluconazole
+T2	drug 93 106	metronidazole
+T3	drug 112 122	miconazole
+T4	drug 127 139	ketoconazole
+T5	drug 145 157	itraconazole
+T6	drug 198 209	terfenadine
+R1	advise Arg1:T0 Arg2:T6
+R2	advise Arg1:T1 Arg2:T6
+R3	advise Arg1:T2 Arg2:T6
+R4	advise Arg1:T3 Arg2:T6
+T0	group 40 68	azole-type antifungal agents
+T1	drug 80 91	fluconazole
+T2	drug 93 106	metronidazole
+T3	drug 112 122	miconazole
+T4	drug 127 139	ketoconazole
+T5	drug 145 157	itraconazole
+T6	drug 198 209	terfenadine
+R1	advise Arg1:T0 Arg2:T6
+R2	advise Arg1:T1 Arg2:T6
+R3	advise Arg1:T2 Arg2:T6
+R4	advise Arg1:T3 Arg2:T6

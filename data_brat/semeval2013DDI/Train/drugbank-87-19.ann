@@ -1,0 +1,6 @@
+T0	brand 104 112	TAMBOCOR
+T1	drug 134 146	disopyramide
+T2	drug 151 160	verapamil
+T3	brand 202 210	TAMBOCOR
+R1	advise Arg1:T1 Arg2:T3
+R2	advise Arg1:T2 Arg2:T3

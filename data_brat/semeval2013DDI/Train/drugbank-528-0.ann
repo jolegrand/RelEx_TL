@@ -1,0 +1,7 @@
+T0	drug 0 13	Acetaminophen
+T1	drug 18 30	methotrexate
+T2	drug 33 45	L-methionine
+T3	drug 90 103	acetaminophen
+T4	drug 134 146	methotrexate
+R1	effect Arg1:T2 Arg2:T3
+R2	effect Arg1:T2 Arg2:T4

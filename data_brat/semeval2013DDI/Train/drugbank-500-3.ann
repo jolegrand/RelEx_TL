@@ -1,0 +1,3 @@
+T0	drug 14 26	tetracycline
+T1	drug 42 63	bismuth subsalicylate
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,6 @@
+T0	drug 19 31	guanethidine
+T1	drug 67 76	minoxidil
+R1	advise Arg1:T0 Arg2:T1
+T0	drug 19 31	guanethidine
+T1	drug 67 76	minoxidil
+R1	advise Arg1:T0 Arg2:T1

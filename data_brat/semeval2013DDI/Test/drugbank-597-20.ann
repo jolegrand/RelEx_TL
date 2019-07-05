@@ -1,0 +1,10 @@
+T0	drug 56 63	lithium
+T1	drug 130 137	lithium
+T2	drug 181 190	meloxicam
+T3	drug 234 241	lithium
+R1	mechanism Arg1:T1 Arg2:T2
+T0	drug 56 63	lithium
+T1	drug 130 137	lithium
+T2	drug 181 190	meloxicam
+T3	drug 234 241	lithium
+R1	mechanism Arg1:T1 Arg2:T2

@@ -1,0 +1,6 @@
+T0	brand 0 8	CANCIDAS
+T1	drug 38 48	tacrolimus
+T2	drug 183 193	tacrolimus
+T3	brand 268 276	CANCIDAS
+T4	drug 344 354	tacrolimus
+R1	mechanism Arg1:T0 Arg2:T1

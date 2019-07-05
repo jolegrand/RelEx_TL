@@ -1,0 +1,3 @@
+T0	drug 64 76	indomethacin
+T1	group 118 131	beta blockers
+R1	effect Arg1:T0 Arg2:T1

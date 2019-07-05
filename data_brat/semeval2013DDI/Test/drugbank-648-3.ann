@@ -1,0 +1,6 @@
+T0	brand 3 9	EVISTA
+T1	drug 37 45	warfarin
+R1	advise Arg1:T0 Arg2:T1
+T0	brand 3 9	EVISTA
+T1	drug 37 45	warfarin
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,5 @@
+T0	brand 0 7	INDOCIN
+T1	drug 51 60	captopril
+T2	drug 65 73	losartan
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

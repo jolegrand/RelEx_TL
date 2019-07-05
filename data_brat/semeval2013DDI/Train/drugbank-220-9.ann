@@ -1,0 +1,15 @@
+T0	drug 78 88	Mefloquine
+T1	drug 185 200	anti-arrhythmic
+T2	group 204 235	beta-adrenergic blocking agents
+T3	group 237 261	calcium channel blockers
+T4	group 263 277	antihistamines
+T5	group 281 299	H1-blocking agents
+T6	group 301 326	tricyclic antidepressants
+T7	group 331 345	phenothiazines
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5
+R6	effect Arg1:T0 Arg2:T6
+R7	effect Arg1:T0 Arg2:T7

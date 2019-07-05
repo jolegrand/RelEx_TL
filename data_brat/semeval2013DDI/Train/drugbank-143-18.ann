@@ -1,0 +1,5 @@
+T0	drug 0 10	Amiodarone
+T1	drug 58 64	CYP1A2
+T2	drug 66 72	CYP2C9
+T3	drug 74 80	CYP2D6
+T4	drug 86 92	CYP3A4

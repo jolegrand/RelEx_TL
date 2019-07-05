@@ -1,0 +1,5 @@
+T0	drug 0 10	Cimetidine
+T1	drug 71 81	citalopram
+T2	drug 121 131	cimetidine
+T3	drug 170 180	citalopram
+R1	mechanism Arg1:T1 Arg2:T2

@@ -1,0 +1,3 @@
+T0	brand 62 67	REVIA
+T1	drug 72 84	thioridazine
+R1	effect Arg1:T0 Arg2:T1

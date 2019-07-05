@@ -1,0 +1,3 @@
+T0	group 5 19	contraceptives
+T1	drug 63 74	lymecycline
+R1	effect Arg1:T0 Arg2:T1

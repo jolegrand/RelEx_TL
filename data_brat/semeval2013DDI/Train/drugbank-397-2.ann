@@ -1,0 +1,4 @@
+T0	drug 30 42	erythromycin
+T1	drug 47 54	digoxin
+T2	drug 95 102	digoxin
+R1	mechanism Arg1:T0 Arg2:T1

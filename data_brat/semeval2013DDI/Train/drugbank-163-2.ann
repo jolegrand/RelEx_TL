@@ -1,0 +1,7 @@
+T0	group 0 13	Tetracyclines
+T1	brand 42 50	Accutane
+T2	group 55 68	tetracyclines
+T3	brand 95 103	Accutane
+T4	group 252 265	tetracyclines
+R1	advise Arg1:T1 Arg2:T2
+R2	effect Arg1:T3 Arg2:T4

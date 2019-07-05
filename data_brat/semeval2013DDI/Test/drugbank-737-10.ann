@@ -1,0 +1,32 @@
+T0	group 0 20	Dopamine antagonists
+T1	drug 28 39	pramipexole
+T2	group 45 61	dopamine agonist
+T3	group 83 103	dopamine antagonists
+T4	group 117 129	neuroleptics
+T5	group 131 145	phenothiazines
+T6	group 147 161	butyrophenones
+T7	group 163 176	thioxanthenes
+T8	group 181 195	metoclopramide
+T9	brand 231 238	MIRAPEX
+R1	effect Arg1:T3 Arg2:T9
+R2	effect Arg1:T4 Arg2:T9
+R3	effect Arg1:T5 Arg2:T9
+R4	effect Arg1:T6 Arg2:T9
+R5	effect Arg1:T7 Arg2:T9
+R6	effect Arg1:T8 Arg2:T9
+T0	group 0 20	Dopamine antagonists
+T1	drug 28 39	pramipexole
+T2	group 45 61	dopamine agonist
+T3	group 83 103	dopamine antagonists
+T4	group 117 129	neuroleptics
+T5	group 131 145	phenothiazines
+T6	group 147 161	butyrophenones
+T7	group 163 176	thioxanthenes
+T8	group 181 195	metoclopramide
+T9	brand 231 238	MIRAPEX
+R1	effect Arg1:T3 Arg2:T9
+R2	effect Arg1:T4 Arg2:T9
+R3	effect Arg1:T5 Arg2:T9
+R4	effect Arg1:T6 Arg2:T9
+R5	effect Arg1:T7 Arg2:T9
+R6	effect Arg1:T8 Arg2:T9

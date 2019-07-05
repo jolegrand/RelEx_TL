@@ -1,0 +1,8 @@
+T0	group 0 16	Sympathomimetics
+T1	drug 18 28	Metolazone
+T2	drug 69 83	norepinephrine
+R1	effect Arg1:T1 Arg2:T2
+T0	group 0 16	Sympathomimetics
+T1	drug 18 28	Metolazone
+T2	drug 69 83	norepinephrine
+R1	effect Arg1:T1 Arg2:T2

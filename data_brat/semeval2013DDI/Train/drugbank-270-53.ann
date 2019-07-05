@@ -1,0 +1,4 @@
+T0	drug 0 10	Nevirapine
+T1	drug 15 23	rifampin
+T2	drug 84 94	nevirapine
+R1	advise Arg1:T0 Arg2:T1

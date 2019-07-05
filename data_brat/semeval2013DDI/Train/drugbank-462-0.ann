@@ -1,0 +1,5 @@
+T0	group 0 15	Aminoglycosides
+T1	drug 31 43	piperacillin
+T2	group 52 66	aminoglycoside
+T3	group 122 136	aminoglycoside
+R1	effect Arg1:T1 Arg2:T2

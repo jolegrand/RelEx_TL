@@ -1,0 +1,8 @@
+T0	drug 28 40	atorvastatin
+T1	group 78 106	HMG-CoA reductase inhibitors
+T2	drug 161 172	pravastatin
+T3	drug 174 185	fluvastatin
+T4	drug 190 202	rosuvastatin
+T5	brand 223 231	CRIXIVAN
+R1	advise Arg1:T0 Arg2:T5
+R2	advise Arg1:T1 Arg2:T5

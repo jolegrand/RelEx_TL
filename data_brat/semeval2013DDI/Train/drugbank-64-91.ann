@@ -1,0 +1,3 @@
+T0	group 81 93;112 122	antiplatelet medication
+T1	group 98 122	anticoagulant medication
+R1	advise Arg1:T0 Arg2:T1

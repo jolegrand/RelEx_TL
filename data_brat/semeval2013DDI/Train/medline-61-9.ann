@@ -1,0 +1,4 @@
+T0	drug 21 28	digoxin
+T1	drug 58 68	amiodarone
+T2	drug 99 106	digoxin
+R1	mechanism Arg1:T0 Arg2:T1

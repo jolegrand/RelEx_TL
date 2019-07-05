@@ -1,0 +1,4 @@
+T0	drug 104 113	indinavir
+T1	drug 134 143	ritonavir
+T2	brand 165 173	CRIXIVAN
+R1	effect Arg1:T0 Arg2:T1

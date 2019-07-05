@@ -1,0 +1,6 @@
+T0	group 0 8	Vaccines
+T1	group 22 36	corticosteroid
+T2	group 94 98;114 122	live vaccines
+T3	group 102 122	inactivated vaccines
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3

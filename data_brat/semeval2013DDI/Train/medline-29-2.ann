@@ -1,0 +1,5 @@
+T0	group 49 60	penicillins
+T1	drug 65 78	cephaloridine
+T2	drug 111 121	probenecid
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T2

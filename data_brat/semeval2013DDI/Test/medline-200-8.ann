@@ -1,0 +1,8 @@
+T0	drug 33 43	amlodipine
+T1	drug 44 53	valsartan
+T2	group 247 269	antihypertensive drugs
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 33 43	amlodipine
+T1	drug 44 53	valsartan
+T2	group 247 269	antihypertensive drugs
+R1	effect Arg1:T0 Arg2:T1

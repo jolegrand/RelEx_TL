@@ -1,0 +1,6 @@
+T0	drug 17 31	metoclopramide
+T1	group 173 202	monoamine oxi-dase inhibitors
+R1	advise Arg1:T0 Arg2:T1
+T0	drug 17 31	metoclopramide
+T1	group 173 202	monoamine oxi-dase inhibitors
+R1	advise Arg1:T0 Arg2:T1

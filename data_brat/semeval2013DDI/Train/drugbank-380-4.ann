@@ -1,0 +1,3 @@
+T0	drug 141 154	buprenorphine
+T1	drug 159 174	benzodiazepines
+R1	effect Arg1:T0 Arg2:T1

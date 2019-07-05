@@ -1,0 +1,22 @@
+T0	drug 0 11	Mequitazine
+T1	group 30 44	CNS depressant
+T2	group 46 62	antichlolinergic
+T3	group 64 67	TCA
+T4	group 69 74	MAOIs
+T5	drug 80 87	alcohol
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2
+R3	int Arg1:T0 Arg2:T3
+R4	int Arg1:T0 Arg2:T4
+R5	int Arg1:T0 Arg2:T5
+T0	drug 0 11	Mequitazine
+T1	group 30 44	CNS depressant
+T2	group 46 62	antichlolinergic
+T3	group 64 67	TCA
+T4	group 69 74	MAOIs
+T5	drug 80 87	alcohol
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2
+R3	int Arg1:T0 Arg2:T3
+R4	int Arg1:T0 Arg2:T4
+R5	int Arg1:T0 Arg2:T5

@@ -1,0 +1,3 @@
+T0	drug 21 31	irbesartan
+T1	drug 40 49	aliskiren
+R1	mechanism Arg1:T0 Arg2:T1

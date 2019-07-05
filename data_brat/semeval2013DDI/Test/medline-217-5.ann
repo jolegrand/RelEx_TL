@@ -1,0 +1,8 @@
+T0	drug 28 37	celecoxib
+T1	drug 136 145	celecoxib
+T2	drug 150 161	doxorubicin
+R1	effect Arg1:T1 Arg2:T2
+T0	drug 28 37	celecoxib
+T1	drug 136 145	celecoxib
+T2	drug 150 161	doxorubicin
+R1	effect Arg1:T1 Arg2:T2

@@ -1,0 +1,8 @@
+T0	drug 51 59	ketamine
+T1	drug 69 77	propofol
+T2	drug 156 164	propofol
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 51 59	ketamine
+T1	drug 69 77	propofol
+T2	drug 156 164	propofol
+R1	effect Arg1:T0 Arg2:T1

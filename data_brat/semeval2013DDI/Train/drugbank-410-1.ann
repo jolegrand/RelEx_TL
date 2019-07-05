@@ -1,0 +1,6 @@
+T0	drug 0 11	Sumatriptan
+T1	drug 13 24	Sumatriptan
+T2	brand 117 126	D.H.E. 45
+T3	drug 129 155	dihydroergotamine mesylate
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3

@@ -1,0 +1,5 @@
+T0	brand 0 7	SUSTIVA
+T1	drug 63 75	itraconazole
+T2	drug 80 92	ketoconazole
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

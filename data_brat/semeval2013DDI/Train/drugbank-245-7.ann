@@ -1,0 +1,4 @@
+T0	group 48 60	barbiturates
+T1	drug 94 108	chlorpropamide
+T2	group 110 122	barbiturates
+R1	effect Arg1:T0 Arg2:T1

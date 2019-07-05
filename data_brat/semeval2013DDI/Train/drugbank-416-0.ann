@@ -1,0 +1,7 @@
+T0	drug 32 35	PAH
+T1	group 103 115	sulfonamides
+T2	drug 117 125	procaine
+T3	drug 130 145	thiazolesulfone
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

@@ -1,0 +1,6 @@
+T0	brand 0 7	Aspirin
+T1	brand 35 42	aspirin
+T2	group 54 91	nonsteroidal anti-inflammatory agents
+T3	drug 103 112	ibuprofen
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3

@@ -1,0 +1,5 @@
+T0	group 34 57	hydantoin antiepileptic
+T1	drug 59 68	phenytoin
+T2	group 78 100	coumarin anticoagulant
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2

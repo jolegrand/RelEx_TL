@@ -1,0 +1,4 @@
+T0	drug 2 12	Probenecid
+T1	drug 32 42	probenecid
+T2	drug 103 113	bumetanide
+R1	effect Arg1:T1 Arg2:T2

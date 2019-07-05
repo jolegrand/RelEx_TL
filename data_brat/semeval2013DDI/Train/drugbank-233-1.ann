@@ -1,0 +1,4 @@
+T0	drug 19 31	azathioprine
+T1	drug 36 47	allopurinol
+T2	drug 94 106	azathioprine
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,3 @@
+T0	drug 38 48	rifampicin
+T1	drug 59 68	erlotinib
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,14 @@
+T0	drug 49 56	alcohol
+T1	brand 70 84	REMERON SolTab
+T2	drug 86 94	Diazepam
+T3	drug 126 134	diazepam
+T4	drug 184 195	mirtazapine
+R1	advise Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T3 Arg2:T4
+T0	drug 49 56	alcohol
+T1	brand 70 84	REMERON SolTab
+T2	drug 86 94	Diazepam
+T3	drug 126 134	diazepam
+T4	drug 184 195	mirtazapine
+R1	advise Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T3 Arg2:T4

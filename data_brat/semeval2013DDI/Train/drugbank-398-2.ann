@@ -1,0 +1,7 @@
+T0	drug 11 40	dextromethorphan hydrobromide
+T1	drug 112 119	alcohol
+T2	group 121 135	antihistamines
+T3	group 137 150	psychotropics
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

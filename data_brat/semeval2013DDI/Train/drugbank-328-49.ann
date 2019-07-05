@@ -1,0 +1,4 @@
+T0	drug 37 45	diazepam
+T1	drug 87 97	valdecoxib
+T2	drug 236 244	diazepam
+R1	effect Arg1:T1 Arg2:T2

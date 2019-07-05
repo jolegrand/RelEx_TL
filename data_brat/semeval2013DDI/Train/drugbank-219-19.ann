@@ -1,0 +1,4 @@
+T0	drug 0 14	Phenylbutazone
+T1	drug 16 30	Phenylbutazone
+T2	drug 86 94	etodolac
+R1	mechanism Arg1:T1 Arg2:T2

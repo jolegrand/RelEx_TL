@@ -1,0 +1,5 @@
+T0	drug 40 57	ammonium chloride
+T1	drug 59 80	sodium acid phosphate
+T2	drug 145 156	amphetamine
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T2

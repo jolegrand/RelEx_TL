@@ -1,0 +1,6 @@
+T0	group 33 47	contraceptives
+T1	group 92 101	vitamin A
+R1	mechanism Arg1:T0 Arg2:T1
+T0	group 33 47	contraceptives
+T1	group 92 101	vitamin A
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,8 @@
+T0	group 0 19	Antiepileptic Drugs
+T1	brand 93 100	TORADOL
+T2	group 105 124	antiepileptic drugs
+T3	drug 126 135	phenytoin
+T4	drug 137 150	carbamazepine
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T1 Arg2:T4

@@ -1,0 +1,4 @@
+T0	group 0 14	Phenothiazines
+T1	drug 24 34	piperazine
+T2	group 41 54	phenothiazine
+R1	effect Arg1:T1 Arg2:T2

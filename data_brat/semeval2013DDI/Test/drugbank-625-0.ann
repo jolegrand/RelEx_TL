@@ -1,0 +1,10 @@
+T0	brand 71 78	ALKERAN
+T1	group 98 120	live organism vaccines
+T2	drug 175 189	Nalidixic acid
+T3	drug 226 235	melphalan
+R1	effect Arg1:T2 Arg2:T3
+T0	brand 71 78	ALKERAN
+T1	group 98 120	live organism vaccines
+T2	drug 175 189	Nalidixic acid
+T3	drug 226 235	melphalan
+R1	effect Arg1:T2 Arg2:T3

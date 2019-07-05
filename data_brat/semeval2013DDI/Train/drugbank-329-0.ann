@@ -1,0 +1,5 @@
+T0	drug 5 14	ertapenem
+T1	drug 39 49	probenecid
+T2	drug 79 89	probenecid
+T3	drug 163 172	ertapenem
+R1	mechanism Arg1:T2 Arg2:T3

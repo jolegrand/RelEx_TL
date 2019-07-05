@@ -1,0 +1,14 @@
+T0	drug 0 9	Sulfoxone
+T1	group 38 50	barbiturates
+T2	drug 52 63	tolbutamide
+T3	group 69 80	uricosurics
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+T0	drug 0 9	Sulfoxone
+T1	group 38 50	barbiturates
+T2	drug 52 63	tolbutamide
+T3	group 69 80	uricosurics
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

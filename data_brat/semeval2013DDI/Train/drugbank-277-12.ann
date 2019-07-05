@@ -1,0 +1,8 @@
+T0	drug 0 13	Phenobarbital
+T1	drug 15 24	Primidone
+T2	drug 77 86	tiagabine
+T3	drug 131 144	phenobarbital
+T4	drug 146 155	primidone
+T5	group 195 199	AEDs
+R1	mechanism Arg1:T2 Arg2:T3
+R2	mechanism Arg1:T2 Arg2:T4

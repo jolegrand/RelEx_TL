@@ -1,0 +1,6 @@
+T0	drug 5 23	acetyl-l-carnitine
+T1	drug 115 132	alpha-lipoic acid
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 5 23	acetyl-l-carnitine
+T1	drug 115 132	alpha-lipoic acid
+R1	effect Arg1:T0 Arg2:T1

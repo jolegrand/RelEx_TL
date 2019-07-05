@@ -1,0 +1,6 @@
+T0	drug 31 44	ascorbic acid
+T1	drug 99 117	bishydroxycoumarin
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 31 44	ascorbic acid
+T1	drug 99 117	bishydroxycoumarin
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,9 @@
+T0	group 0 22	Sympathomimetic amines
+T1	drug 66 75	reserpine
+T2	group 77 95	veratrum alkaloids
+T3	drug 97 107	methyldopa
+T4	drug 112 124	mecamylamine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4

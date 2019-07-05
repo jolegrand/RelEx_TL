@@ -1,0 +1,9 @@
+T0	drug 17 30	dexamethasone
+T1	drug 35 50	retinyl acetate
+T2	drug_n 125 136	transferrin
+T3	drug_n 180 183	EGF
+T4	drug 188 195	insulin
+R1	effect Arg1:T0 Arg2:T3
+R2	effect Arg1:T0 Arg2:T4
+R3	effect Arg1:T1 Arg2:T3
+R4	effect Arg1:T1 Arg2:T4

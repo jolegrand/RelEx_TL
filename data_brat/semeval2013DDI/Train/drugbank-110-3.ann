@@ -1,0 +1,3 @@
+T0	group 29 46	vasopressor drugs
+T1	group 114 139	ergot-type oxytocic drugs
+R1	effect Arg1:T0 Arg2:T1

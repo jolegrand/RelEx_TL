@@ -1,0 +1,3 @@
+T0	drug 53 65	nitazoxanide
+T1	drug 207 215	warfarin
+R1	mechanism Arg1:T0 Arg2:T1

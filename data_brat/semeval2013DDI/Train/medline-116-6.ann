@@ -1,0 +1,5 @@
+T0	drug 14 22	rifampin
+T1	drug 30 38	warfarin
+T2	drug 125 133	rifampin
+T3	drug 178 186	rifampin
+R1	effect Arg1:T0 Arg2:T1

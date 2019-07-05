@@ -1,0 +1,6 @@
+T0	brand 23 31	Sanctura
+T1	group 43 65	anticholinergic agents
+R1	effect Arg1:T0 Arg2:T1
+T0	brand 23 31	Sanctura
+T1	group 43 65	anticholinergic agents
+R1	effect Arg1:T0 Arg2:T1

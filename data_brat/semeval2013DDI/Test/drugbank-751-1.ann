@@ -1,0 +1,14 @@
+T0	brand 11 20	AGGRASTAT
+T1	drug 42 49	heparin
+T2	brand 54 61	aspirin
+T3	drug 124 131	heparin
+T4	drug 136 143	aspirin
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+T0	brand 11 20	AGGRASTAT
+T1	drug 42 49	heparin
+T2	brand 54 61	aspirin
+T3	drug 124 131	heparin
+T4	drug 136 143	aspirin
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

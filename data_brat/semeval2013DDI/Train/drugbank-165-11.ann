@@ -1,0 +1,5 @@
+T0	drug 20 32	Itraconazole
+T1	drug 43 52	midazolam
+T2	drug 56 65	triazolam
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

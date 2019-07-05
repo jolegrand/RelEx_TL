@@ -1,0 +1,7 @@
+T0	drug 0 10	Amantadine
+T1	group 12 37	tricyclic antidepressants
+T2	group 43 48	MAOIs
+T3	drug 88 97	clidinium
+R1	effect Arg1:T0 Arg2:T3
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T2 Arg2:T3

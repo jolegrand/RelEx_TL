@@ -1,0 +1,4 @@
+T0	drug 68 78	paclitaxel
+T1	brand 115 120	TAXOL
+T2	drug 148 157	cisplatin
+R1	mechanism Arg1:T1 Arg2:T2

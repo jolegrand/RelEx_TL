@@ -1,0 +1,4 @@
+T0	group 6 24	5-HT1B/1D Agonists
+T1	group 50 68	5-HT1B/1D agonists
+T2	brand 103 108	AXERT
+R1	advise Arg1:T1 Arg2:T2

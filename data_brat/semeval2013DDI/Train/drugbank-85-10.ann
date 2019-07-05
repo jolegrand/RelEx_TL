@@ -1,0 +1,3 @@
+T0	drug 0 10	Probenecid
+T1	drug 40 48	naproxen
+R1	mechanism Arg1:T0 Arg2:T1

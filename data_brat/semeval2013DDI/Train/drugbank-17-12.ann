@@ -1,0 +1,3 @@
+T0	group 21 39	thiazide diuretics
+T1	group 71 80	digitalis
+R1	effect Arg1:T0 Arg2:T1

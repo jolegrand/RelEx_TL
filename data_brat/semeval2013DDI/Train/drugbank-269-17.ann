@@ -1,0 +1,7 @@
+T0	group 14 47	agents with b-blocking properties
+T1	brand 52 57	COREG
+T2	group 92 116	calcium channel blockers
+T3	drug 124 133	verapamil
+T4	drug 137 146	diltiazem
+R1	advise Arg1:T1 Arg2:T3
+R2	advise Arg1:T1 Arg2:T4

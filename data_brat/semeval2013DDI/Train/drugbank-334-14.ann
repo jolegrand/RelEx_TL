@@ -1,0 +1,3 @@
+T0	brand 35 43	PRINIVIL
+T1	group 80 103	thiazide-type diuretics
+R1	effect Arg1:T0 Arg2:T1

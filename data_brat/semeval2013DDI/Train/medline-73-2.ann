@@ -1,0 +1,3 @@
+T0	drug_n 21 25	MPTP
+T1	drug 143 152	pargyline
+R1	effect Arg1:T0 Arg2:T1

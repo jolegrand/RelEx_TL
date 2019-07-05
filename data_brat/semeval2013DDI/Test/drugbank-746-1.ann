@@ -1,0 +1,10 @@
+T0	group 0 28	Monoamine oxidase inhibitors
+T1	group 32 57	tricyclic antidepressants
+T2	group 87 109	sympathomimetic amines
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2
+T0	group 0 28	Monoamine oxidase inhibitors
+T1	group 32 57	tricyclic antidepressants
+T2	group 87 109	sympathomimetic amines
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

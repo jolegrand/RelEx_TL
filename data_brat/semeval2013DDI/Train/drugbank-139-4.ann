@@ -1,0 +1,5 @@
+T0	drug 0 10	Colestipol
+T1	drug 33 43	colestipol
+T2	group 48 57	vitamin K
+T3	group 87 96	vitamin K
+R1	mechanism Arg1:T1 Arg2:T2

@@ -1,0 +1,4 @@
+T0	drug 125 134	bupropion
+T1	drug 198 209	desipramine
+T2	drug 247 258	desipramine
+R1	mechanism Arg1:T0 Arg2:T1

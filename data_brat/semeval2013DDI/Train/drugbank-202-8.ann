@@ -1,0 +1,3 @@
+T0	drug 18 27	reserpine
+T1	group 50 74	tricyclic antidepressant
+R1	effect Arg1:T0 Arg2:T1

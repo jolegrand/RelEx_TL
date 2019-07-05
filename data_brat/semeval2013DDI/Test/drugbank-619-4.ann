@@ -1,0 +1,12 @@
+T0	group 80 105	tricyclic antidepressants
+T1	brand 110 118	ELDEPRYL
+T2	group 123 162	selective serotonin reuptake inhibitors
+T3	brand 167 175	ELDEPRYL
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T2 Arg2:T3
+T0	group 80 105	tricyclic antidepressants
+T1	brand 110 118	ELDEPRYL
+T2	group 123 162	selective serotonin reuptake inhibitors
+T3	brand 167 175	ELDEPRYL
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T2 Arg2:T3

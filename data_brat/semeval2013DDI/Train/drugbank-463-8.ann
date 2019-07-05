@@ -1,0 +1,3 @@
+T0	drug 10 19	buspirone
+T1	drug 62 69	digoxin
+R1	mechanism Arg1:T0 Arg2:T1

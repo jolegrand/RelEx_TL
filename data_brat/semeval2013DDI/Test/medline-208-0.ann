@@ -1,0 +1,6 @@
+T0	brand 0 8	Implanon
+T1	group 47 61	antiretroviral
+R1	effect Arg1:T0 Arg2:T1
+T0	brand 0 8	Implanon
+T1	group 47 61	antiretroviral
+R1	effect Arg1:T0 Arg2:T1

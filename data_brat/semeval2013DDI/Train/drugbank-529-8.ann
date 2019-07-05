@@ -1,0 +1,4 @@
+T0	drug 0 12	Flurbiprofen
+T1	drug 80 91	propranolol
+T2	drug 100 108	atenolol
+R1	effect Arg1:T0 Arg2:T1

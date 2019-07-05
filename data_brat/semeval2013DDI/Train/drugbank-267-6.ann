@@ -1,0 +1,8 @@
+T0	group 19 64	nondepolarizing neuromuscular blocking agents
+T1	brand 118 125	NUROMAX
+T2	drug 201 210	phenytoin
+T3	drug 214 227	carbamazepine
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T0 Arg2:T3
+R3	effect Arg1:T1 Arg2:T2
+R4	effect Arg1:T1 Arg2:T3

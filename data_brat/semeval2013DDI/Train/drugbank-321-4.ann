@@ -1,0 +1,5 @@
+T0	drug 0 10	Cimetidine
+T1	drug 12 33	Albendazole sulfoxide
+T2	drug 142 152	cimetidine
+T3	drug 188 199	albendazole
+R1	mechanism Arg1:T1 Arg2:T2

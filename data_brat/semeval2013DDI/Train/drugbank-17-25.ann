@@ -1,0 +1,7 @@
+T0	group 23 56	steroidal anti-inflammatory agent
+T1	group 127 131;165 174	loop diuretics
+T2	group 133 150;165 174	potassium sparing diuretics
+T3	group 156 174	thiazide diuretics
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

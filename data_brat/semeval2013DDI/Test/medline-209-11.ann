@@ -1,0 +1,8 @@
+T0	group 24 38	antidepressant
+T1	drug 95 104	tamoxifen
+T2	drug 110 121	anastrozole
+R1	advise Arg1:T0 Arg2:T1
+T0	group 24 38	antidepressant
+T1	drug 95 104	tamoxifen
+T2	drug 110 121	anastrozole
+R1	advise Arg1:T0 Arg2:T1

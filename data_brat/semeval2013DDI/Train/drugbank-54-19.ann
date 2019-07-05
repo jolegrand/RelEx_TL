@@ -1,0 +1,4 @@
+T0	drug 0 8	Ketamine
+T1	group 45 64	thyroid preparation
+T2	group 82 92	anesthetic
+R1	effect Arg1:T1 Arg2:T2

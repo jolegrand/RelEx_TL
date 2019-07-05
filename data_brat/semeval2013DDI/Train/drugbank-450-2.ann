@@ -1,0 +1,18 @@
+T0	drug 0 9	Quinidine
+T1	drug 11 20	verapamil
+T2	drug 22 32	amiodarone
+T3	drug 34 45	propafenone
+T4	drug 47 59	indomethacin
+T5	drug 61 73	itraconazole
+T6	drug 75 85	alprazolam
+T7	drug 91 105	spironolactone
+T8	drug 122 129	digoxin
+T9	group 248 257	digitalis
+R1	mechanism Arg1:T0 Arg2:T8
+R2	mechanism Arg1:T1 Arg2:T8
+R3	mechanism Arg1:T2 Arg2:T8
+R4	mechanism Arg1:T3 Arg2:T8
+R5	mechanism Arg1:T4 Arg2:T8
+R6	mechanism Arg1:T5 Arg2:T8
+R7	mechanism Arg1:T6 Arg2:T8
+R8	mechanism Arg1:T7 Arg2:T8

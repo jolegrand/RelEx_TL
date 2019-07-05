@@ -1,0 +1,4 @@
+T0	brand 0 10	Cerubidine
+T1	drug 115 126	doxorubicin
+T2	brand 130 140	Cerubidine
+R1	advise Arg1:T0 Arg2:T1

@@ -1,0 +1,6 @@
+T0	drug 0 12	Atorvastatin
+T1	drug 14 26	Atorvastatin
+T2	drug 49 62	norethindrone
+T3	drug 67 84	ethinyl estradiol
+R1	mechanism Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T3

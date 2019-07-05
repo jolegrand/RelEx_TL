@@ -1,0 +1,3 @@
+T0	group 40 53	anticoagulant
+T1	drug 115 122	alcohol
+R1	effect Arg1:T0 Arg2:T1

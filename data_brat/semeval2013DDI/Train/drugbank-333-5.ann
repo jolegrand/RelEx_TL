@@ -1,0 +1,8 @@
+T0	drug 35 44	phenytoin
+T1	drug 46 59	carbamazepine
+T2	drug 64 77	phenobarbital
+T3	drug 86 96	clonazepam
+T4	drug 157 167	clonazepam
+R1	mechanism Arg1:T0 Arg2:T3
+R2	mechanism Arg1:T1 Arg2:T3
+R3	mechanism Arg1:T2 Arg2:T3

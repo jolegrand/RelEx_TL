@@ -1,0 +1,6 @@
+T0	drug 0 10	Ergotamine
+T1	drug 30 42	erythromycin
+T2	drug 47 57	ergotamine
+T3	drug 61 78	dihydroergotamine
+R1	effect Arg1:T1 Arg2:T2
+R2	effect Arg1:T1 Arg2:T3

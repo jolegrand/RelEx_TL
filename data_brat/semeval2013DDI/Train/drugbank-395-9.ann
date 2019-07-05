@@ -1,0 +1,5 @@
+T0	group 0 38	Non-steroidal anti-inflammatory agents
+T1	drug 87 95	enoxacin
+T2	group 119 154	nonsteroidal anti-inflammatory drug
+T3	drug 155 163	fenbufen
+R1	effect Arg1:T1 Arg2:T3

@@ -1,0 +1,5 @@
+T0	group 11 27	sympathomimetics
+T1	group 47 61	MAO inhibitors
+T2	group 66 90	beta adrenergic blockers
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

@@ -1,0 +1,4 @@
+T0	drug 39 52	labetalol HCl
+T1	group 73 98	tricyclic antidepressants
+T2	drug 162 175	labetalol HCl
+R1	effect Arg1:T0 Arg2:T1

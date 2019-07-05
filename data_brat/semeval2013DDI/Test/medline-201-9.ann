@@ -1,0 +1,8 @@
+T0	drug_n 0 6	CRM197
+T1	drug_n 62 68	CRM197
+T2	drug 74 85	doxorubicin
+R1	effect Arg1:T1 Arg2:T2
+T0	drug_n 0 6	CRM197
+T1	drug_n 62 68	CRM197
+T2	drug 74 85	doxorubicin
+R1	effect Arg1:T1 Arg2:T2

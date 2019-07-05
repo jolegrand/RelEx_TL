@@ -1,0 +1,13 @@
+T0	brand 130 138	IOPIDINE
+T1	group 224 239	CNS depressants
+T2	drug 241 248	alcohol
+T3	group 250 262	barbiturates
+T4	group 264 271	opiates
+T5	group 273 282	sedatives
+T6	group 284 295	anesthetics
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2
+R3	advise Arg1:T0 Arg2:T3
+R4	advise Arg1:T0 Arg2:T4
+R5	advise Arg1:T0 Arg2:T5
+R6	advise Arg1:T0 Arg2:T6

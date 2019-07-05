@@ -1,0 +1,3 @@
+T0	drug 4 17	carbamazepine
+T1	drug 76 85	felbamate
+R1	mechanism Arg1:T0 Arg2:T1

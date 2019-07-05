@@ -1,0 +1,3 @@
+T0	drug 0 10	Sildenafil
+T1	drug 108 117	indinavir
+R1	advise Arg1:T0 Arg2:T1

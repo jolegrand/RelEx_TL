@@ -1,0 +1,5 @@
+T0	drug 0 14	Cyclopentolate
+T1	drug 62 71	carbachol
+T2	drug 75 86	pilocarpine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

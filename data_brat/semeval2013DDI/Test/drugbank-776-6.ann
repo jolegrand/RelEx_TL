@@ -1,0 +1,8 @@
+T0	group 0 28	Coumarin-type anticoagulants
+T1	brand 98 106	DIFLUCAN
+T2	group 111 139	coumarin-type anticoagulants
+R1	effect Arg1:T1 Arg2:T2
+T0	group 0 28	Coumarin-type anticoagulants
+T1	brand 98 106	DIFLUCAN
+T2	group 111 139	coumarin-type anticoagulants
+R1	effect Arg1:T1 Arg2:T2

@@ -1,0 +1,8 @@
+T0	drug 0 14	Cholestyramine
+T1	group 15 20	resin
+T2	drug 132 146	cholestyramine
+T3	group 147 152	resin
+T4	group 219 228	digitalis
+T5	drug 300 314	cholestyramine
+T6	group 315 320	resin
+R1	mechanism Arg1:T2 Arg2:T4

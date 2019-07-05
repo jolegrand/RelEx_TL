@@ -1,0 +1,4 @@
+T0	group 0 38	Non-steroidal Anti-inflammatory Agents
+T1	group 116 152	nonsteroidal anti-inflammatory drugs
+T2	drug 179 188	enalapril
+R1	effect Arg1:T1 Arg2:T2

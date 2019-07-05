@@ -1,0 +1,3 @@
+T0	group 35 59	tricyclic antidepressant
+T1	drug 133 143	cimetidine
+R1	mechanism Arg1:T0 Arg2:T1

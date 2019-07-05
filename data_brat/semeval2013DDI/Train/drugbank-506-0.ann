@@ -1,0 +1,6 @@
+T0	drug 3 12	phenytoin
+T1	brand 74 81	Norpace
+T2	brand 85 95	Norpace CR
+T3	drug 120 132	disopyramide
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

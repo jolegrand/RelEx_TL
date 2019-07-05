@@ -1,0 +1,9 @@
+T0	drug 26 36	diclofenac
+T1	drug 100 114	salicylic acid
+T2	drug 142 153	tolbutamide
+T3	drug 155 167	prednisolone
+T4	drug 198 206	warfarin
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3
+R4	mechanism Arg1:T0 Arg2:T4

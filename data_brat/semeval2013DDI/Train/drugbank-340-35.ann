@@ -1,0 +1,7 @@
+T0	drug 0 17	Ethinyl Estradiol
+T1	drug 22 35	Norethindrone
+T2	brand 57 65	VIRACEPT
+T3	brand 71 79	OVCON-35
+T4	drug 110 127	ethinyl estradiol
+T5	drug 151 164	norethindrone
+R1	mechanism Arg1:T2 Arg2:T3

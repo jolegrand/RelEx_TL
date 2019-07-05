@@ -1,0 +1,6 @@
+T0	group 0 14	MAO inhibitors
+T1	group 16 36	MAOI antidepressants
+T2	drug 65 77	furazolidone
+T3	group 84 95	amphetamine
+R1	mechanism Arg1:T1 Arg2:T3
+R2	mechanism Arg1:T2 Arg2:T3

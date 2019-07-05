@@ -1,0 +1,3 @@
+T0	drug 33 45	methotrexate
+T1	drug 51 60	acitretin
+R1	advise Arg1:T0 Arg2:T1

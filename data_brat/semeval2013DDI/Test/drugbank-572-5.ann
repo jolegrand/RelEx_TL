@@ -1,0 +1,6 @@
+T0	brand 21 26	ZETIA
+T1	group 32 40	fibrates
+R1	advise Arg1:T0 Arg2:T1
+T0	brand 21 26	ZETIA
+T1	group 32 40	fibrates
+R1	advise Arg1:T0 Arg2:T1

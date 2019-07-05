@@ -1,0 +1,5 @@
+T0	drug_n 0 8	Ibogaine
+T1	drug_n 25 30	18-MC
+T2	drug 75 83	morphine
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

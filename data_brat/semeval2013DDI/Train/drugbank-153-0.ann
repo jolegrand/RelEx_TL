@@ -1,0 +1,9 @@
+T0	group 28 48	anesthetic solutions
+T1	drug 60 71	epinephrine
+T2	drug 75 89	norepinephrine
+T3	group 112 140	monoamine oxidase inhibitors
+T4	group 144 169	tricyclic antidepressants
+R1	effect Arg1:T1 Arg2:T3
+R2	effect Arg1:T1 Arg2:T4
+R3	effect Arg1:T2 Arg2:T3
+R4	effect Arg1:T2 Arg2:T4

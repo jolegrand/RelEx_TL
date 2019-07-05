@@ -1,0 +1,9 @@
+T0	drug 0 13	Ethoxzolamide
+T1	group 41 51	tricyclics
+T2	group 53 65	amphetamines
+T3	drug 67 79	procainamide
+T4	drug 85 94	quinidine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4

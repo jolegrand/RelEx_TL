@@ -1,0 +1,5 @@
+T0	drug 22 34	tetracycline
+T1	brand 39 48	Penthrane
+T2	drug 50 64	methoxyflurane
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

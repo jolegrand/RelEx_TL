@@ -1,0 +1,9 @@
+T0	brand 22 29	Robinul
+T1	group 51 67	anticholinergics
+T2	group 122 136	phenothiazines
+T3	group 138 157	antiparkinson drugs
+T4	group 162 187	tricyclic antidepressants
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4

@@ -1,0 +1,5 @@
+T0	brand 63 72	EQUETROTM
+T1	group 93 115	centrally acting drugs
+T2	drug 120 127	alcohol
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

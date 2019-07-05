@@ -1,0 +1,6 @@
+T0	drug 63 72	dasatinib
+T1	drug 82 92	paclitaxel
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 63 72	dasatinib
+T1	drug 82 92	paclitaxel
+R1	effect Arg1:T0 Arg2:T1

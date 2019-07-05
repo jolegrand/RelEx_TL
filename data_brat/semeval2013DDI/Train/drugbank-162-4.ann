@@ -1,0 +1,6 @@
+T0	drug 0 14	Cholestyramine
+T1	drug 19 29	colestipol
+T2	group 30 36	resins
+T3	drug 52 71	hydrochlorothiazide
+T4	group 103 126	anionic exchange resins
+R1	mechanism Arg1:T3 Arg2:T4

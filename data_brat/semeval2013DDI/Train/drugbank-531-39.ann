@@ -1,0 +1,5 @@
+T0	drug 5 14	indinavir
+T1	brand 75 82	SUSTIVA
+T2	drug 108 117	indinavir
+T3	drug 210 219	indinavir
+R1	mechanism Arg1:T0 Arg2:T1

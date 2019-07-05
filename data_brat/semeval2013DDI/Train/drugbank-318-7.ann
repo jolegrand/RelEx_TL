@@ -1,0 +1,4 @@
+T0	drug 0 11	Flucytosine
+T1	drug 51 65	amphotericin B
+T2	drug 130 141	flucytosine
+R1	effect Arg1:T1 Arg2:T2

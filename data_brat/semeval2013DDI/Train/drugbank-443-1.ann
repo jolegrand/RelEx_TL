@@ -1,0 +1,3 @@
+T0	drug 0 7	Alcohol
+T1	brand 39 46	aspirin
+R1	effect Arg1:T0 Arg2:T1

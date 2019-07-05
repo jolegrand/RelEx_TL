@@ -1,0 +1,6 @@
+T0	drug 72 83	fluvoxamine
+T1	drug 170 181	fluvoxamine
+T2	drug 256 266	alprazolam
+T3	drug 291 302	Fluvoxamine
+T4	drug 324 334	alprazolam
+R1	advise Arg1:T2 Arg2:T3

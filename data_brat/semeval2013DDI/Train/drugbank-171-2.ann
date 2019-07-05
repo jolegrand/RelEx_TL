@@ -1,0 +1,3 @@
+T0	group 86 99	anticoagulant
+T1	brand 127 134	Tagamet
+R1	advise Arg1:T0 Arg2:T1

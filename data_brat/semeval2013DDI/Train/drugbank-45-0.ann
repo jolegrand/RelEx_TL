@@ -1,0 +1,4 @@
+T0	drug 29 39	etanercept
+T1	drug 74 82	anakinra
+T2	group 87 111	interleukin-1 antagonist
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,3 @@
+T0	group 26 60	central nervous system depressants
+T1	drug_n 62 68	heroin
+R1	effect Arg1:T0 Arg2:T1

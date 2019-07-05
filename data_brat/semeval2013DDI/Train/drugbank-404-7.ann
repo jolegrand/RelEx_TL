@@ -1,0 +1,4 @@
+T0	group 0 9	Digitalis
+T1	group 11 20	Vitamin D
+T2	group 95 104	digitalis
+R1	advise Arg1:T1 Arg2:T2

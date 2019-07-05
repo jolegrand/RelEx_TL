@@ -1,0 +1,4 @@
+T0	drug 75 85	nevirapine
+T1	drug 90 99	methadone
+T2	drug 165 174	methadone
+R1	effect Arg1:T0 Arg2:T1

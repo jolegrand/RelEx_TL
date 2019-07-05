@@ -1,0 +1,8 @@
+T0	brand 0 7	Aspirin
+T1	brand 40 46	SKELID
+T2	brand 85 91	SKELID
+R1	mechanism Arg1:T0 Arg2:T1
+T0	brand 0 7	Aspirin
+T1	brand 40 46	SKELID
+T2	brand 85 91	SKELID
+R1	mechanism Arg1:T0 Arg2:T1

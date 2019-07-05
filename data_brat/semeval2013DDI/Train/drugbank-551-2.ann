@@ -1,0 +1,5 @@
+T0	brand 0 7	WelChol
+T1	drug 57 66	verapamil
+T2	brand 68 76	Calan SR
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2

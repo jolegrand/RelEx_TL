@@ -1,0 +1,4 @@
+T0	drug 74 84	nimodipine
+T1	drug 183 193	cimetidine
+T2	drug 214 224	nimodipine
+R1	mechanism Arg1:T1 Arg2:T2

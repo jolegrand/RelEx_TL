@@ -1,0 +1,6 @@
+T0	drug 0 8	Pyrantel
+T1	drug 16 25	Antiminth
+T2	drug 36 46	piperazine
+T3	drug 51 59	pyrantel
+T4	drug 97 107	piperazine
+R1	effect Arg1:T2 Arg2:T3

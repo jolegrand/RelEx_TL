@@ -1,0 +1,7 @@
+T0	drug 0 8	Bosentan
+T1	group 67 74	statins
+T2	drug 127 137	lovastatin
+T3	drug 142 154	atorvastatin
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T0 Arg2:T2
+R3	mechanism Arg1:T0 Arg2:T3

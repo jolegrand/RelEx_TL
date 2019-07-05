@@ -1,0 +1,3 @@
+T0	drug 0 10	Furosemide
+T1	drug 49 64	ethacrynic acid
+R1	advise Arg1:T0 Arg2:T1

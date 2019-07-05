@@ -1,0 +1,4 @@
+T0	drug 24 34	tamsulosin
+T1	drug 86 96	Vardenafil
+T2	drug 107 117	tamsulosin
+R1	effect Arg1:T1 Arg2:T2

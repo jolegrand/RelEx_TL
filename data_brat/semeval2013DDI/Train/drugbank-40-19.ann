@@ -1,0 +1,25 @@
+T0	drug 38 47	phenytoin
+T1	group 57 71	anticoagulants
+T2	group 73 88	corticosteroids
+T3	group 90 98	coumarin
+T4	drug 100 109	digitoxin
+T5	drug 111 122	doxycycline
+T6	group 124 133	estrogens
+T7	drug 135 145	furosemide
+T8	group 152 166	contraceptives
+T9	drug 168 176	rifampin
+T10	drug 178 187	quinidine
+T11	drug 189 201	theophylline
+T12	group 203 212	vitamin D
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3
+R4	effect Arg1:T0 Arg2:T4
+R5	effect Arg1:T0 Arg2:T5
+R6	effect Arg1:T0 Arg2:T6
+R7	effect Arg1:T0 Arg2:T7
+R8	effect Arg1:T0 Arg2:T8
+R9	effect Arg1:T0 Arg2:T9
+R10	effect Arg1:T0 Arg2:T10
+R11	effect Arg1:T0 Arg2:T11
+R12	effect Arg1:T0 Arg2:T12

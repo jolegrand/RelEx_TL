@@ -1,0 +1,6 @@
+T0	drug 0 9	Lapatinib
+T1	brand 19 28	herceptin
+R1	effect Arg1:T0 Arg2:T1
+T0	drug 0 9	Lapatinib
+T1	brand 19 28	herceptin
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,14 @@
+T0	group 0 8	Antacids
+T1	drug 13 23	sucralfate
+T2	drug 25 35	Sucralfate
+T3	group 40 48	antacids
+T4	drug 60 69	magnesium
+T5	drug 73 81	aluminum
+T6	brand 157 162	Videx
+T7	drug 165 175	didanosine
+T8	drug 280 292	lomefloxacin
+R1	mechanism Arg1:T2 Arg2:T8
+R2	mechanism Arg1:T4 Arg2:T8
+R3	mechanism Arg1:T5 Arg2:T8
+R4	mechanism Arg1:T6 Arg2:T8
+R5	mechanism Arg1:T7 Arg2:T8

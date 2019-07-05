@@ -1,0 +1,10 @@
+T0	drug 95 105	selegiline
+T1	group 112 138	sympathomimetic medication
+T2	drug 140 149	ephedrine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+T0	drug 95 105	selegiline
+T1	group 112 138	sympathomimetic medication
+T2	drug 140 149	ephedrine
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2

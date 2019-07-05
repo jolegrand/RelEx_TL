@@ -1,0 +1,5 @@
+T0	drug 66 78	dopamine HCl
+T1	drug 101 113	cyclopropane
+T2	group 117 152	halogenated hydrocarbon anesthetics
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

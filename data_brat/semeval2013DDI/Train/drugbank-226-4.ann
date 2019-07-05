@@ -1,0 +1,7 @@
+T0	drug 15 24	adenosine
+T1	group 44 59	methylxanthines
+T2	drug 68 76	caffeine
+T3	drug 81 93	theophylline
+R1	effect Arg1:T0 Arg2:T1
+R2	effect Arg1:T0 Arg2:T2
+R3	effect Arg1:T0 Arg2:T3

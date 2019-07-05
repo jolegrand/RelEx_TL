@@ -1,0 +1,7 @@
+T0	group 13 27	anticoagulants
+T1	drug 73 82	phenytoin
+T2	group 104 118	anticonvulsant
+T3	group 142 155	anticoagulant
+T4	drug 160 169	phenytoin
+R1	mechanism Arg1:T0 Arg2:T1
+R2	mechanism Arg1:T3 Arg2:T4

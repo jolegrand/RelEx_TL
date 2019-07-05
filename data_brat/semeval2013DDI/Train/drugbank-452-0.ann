@@ -1,0 +1,3 @@
+T0	group 18 36	thiazide diuretics
+T1	drug 105 123	dihydrotachysterol
+R1	effect Arg1:T0 Arg2:T1

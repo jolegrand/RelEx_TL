@@ -1,0 +1,5 @@
+T0	drug 73 100	nortriptyline hydrochloride
+T1	group 120 141	anticholinergic drugs
+T2	group 145 166	sympathomimetic drugs
+R1	advise Arg1:T0 Arg2:T1
+R2	advise Arg1:T0 Arg2:T2

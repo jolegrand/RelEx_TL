@@ -1,0 +1,3 @@
+T0	drug 33 42	Clozapine
+T1	drug 120 127	alcohol
+R1	effect Arg1:T0 Arg2:T1

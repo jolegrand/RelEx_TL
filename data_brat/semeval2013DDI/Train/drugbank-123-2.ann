@@ -1,0 +1,5 @@
+T0	group 5 15	quinolones
+T1	drug 27 40	ciprofloxacin
+T2	drug 131 143	cyclosporine
+R1	effect Arg1:T0 Arg2:T2
+R2	effect Arg1:T1 Arg2:T2

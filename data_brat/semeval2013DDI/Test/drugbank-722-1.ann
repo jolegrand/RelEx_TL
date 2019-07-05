@@ -1,0 +1,18 @@
+T0	group 35 62	aminosalicylate derivatives
+T1	drug 70 80	olsalazine
+T2	drug 82 92	mesalazine
+T3	drug 97 111	sulphasalazine
+T4	drug 212 223	thioguanine
+R1	mechanism Arg1:T0 Arg2:T4
+R2	mechanism Arg1:T1 Arg2:T4
+R3	mechanism Arg1:T2 Arg2:T4
+R4	mechanism Arg1:T3 Arg2:T4
+T0	group 35 62	aminosalicylate derivatives
+T1	drug 70 80	olsalazine
+T2	drug 82 92	mesalazine
+T3	drug 97 111	sulphasalazine
+T4	drug 212 223	thioguanine
+R1	mechanism Arg1:T0 Arg2:T4
+R2	mechanism Arg1:T1 Arg2:T4
+R3	mechanism Arg1:T2 Arg2:T4
+R4	mechanism Arg1:T3 Arg2:T4

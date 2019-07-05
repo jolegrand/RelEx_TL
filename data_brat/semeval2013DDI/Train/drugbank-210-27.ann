@@ -1,0 +1,5 @@
+T0	drug 0 12	Theophylline
+T1	brand 13 18	VIOXX
+T2	drug 91 103	theophylline
+T3	drug 200 212	theophylline
+R1	mechanism Arg1:T1 Arg2:T2

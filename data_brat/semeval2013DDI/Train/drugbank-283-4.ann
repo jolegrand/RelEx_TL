@@ -1,0 +1,5 @@
+T0	group 0 6	Resins
+T1	group 14 36	bile acid sequestrants
+T2	brand 99 105	TRICOR
+T3	group 150 173	bile acid binding resin
+R1	mechanism Arg1:T2 Arg2:T3

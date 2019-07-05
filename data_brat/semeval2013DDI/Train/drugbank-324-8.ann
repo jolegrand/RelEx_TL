@@ -1,0 +1,4 @@
+T0	drug 0 12	Thioridazine
+T1	brand 50 56	Sonata
+T2	drug 67 79	thioridazine
+R1	effect Arg1:T1 Arg2:T2

@@ -1,0 +1,3 @@
+T0	drug 6 16	probenecid
+T1	drug 62 72	bumetanide
+R1	advise Arg1:T0 Arg2:T1

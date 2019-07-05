@@ -1,0 +1,8 @@
+T0	drug 154 165	pralidoxime
+T1	group 173 185	barbiturates
+T2	group 209 228	anticholinesterases
+R1	effect Arg1:T1 Arg2:T2
+T0	drug 154 165	pralidoxime
+T1	group 173 185	barbiturates
+T2	group 209 228	anticholinesterases
+R1	effect Arg1:T1 Arg2:T2

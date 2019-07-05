@@ -1,0 +1,6 @@
+T0	drug 62 73	cyclosporin
+T1	drug 78 96	methylprednisolone
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 62 73	cyclosporin
+T1	drug 78 96	methylprednisolone
+R1	mechanism Arg1:T0 Arg2:T1

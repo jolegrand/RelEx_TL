@@ -1,0 +1,5 @@
+T0	group 0 27	Antihypertensive Medication
+T1	group 33 45	Vasodilators
+T2	group 141 169	antihypertensive medications
+T3	group 173 185	vasodilators
+R1	effect Arg1:T2 Arg2:T3

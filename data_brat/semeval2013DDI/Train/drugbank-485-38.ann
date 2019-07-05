@@ -1,0 +1,4 @@
+T0	drug 0 14	Salicylic acid
+T1	group 28 51	hormonal contraceptives
+T2	drug 82 96	salicylic acid
+R1	mechanism Arg1:T1 Arg2:T2

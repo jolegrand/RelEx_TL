@@ -1,0 +1,6 @@
+T0	drug 35 45	probenecid
+T1	drug 51 60	meropenem
+R1	advise Arg1:T0 Arg2:T1
+T0	drug 35 45	probenecid
+T1	drug 51 60	meropenem
+R1	advise Arg1:T0 Arg2:T1

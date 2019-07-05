@@ -1,0 +1,28 @@
+T0	drug 0 12	Moxifloxacin
+T1	drug 17 29	Lomefloxacin
+T2	drug 49 59	sucralfate
+T3	brand 64 71	gelusil
+T4	drug 101 113	erythromycin
+T5	group 133 147	multi-minerals
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T0 Arg2:T3
+R3	mechanism Arg1:T0 Arg2:T4
+R4	mechanism Arg1:T0 Arg2:T5
+R5	mechanism Arg1:T1 Arg2:T2
+R6	mechanism Arg1:T1 Arg2:T3
+R7	mechanism Arg1:T1 Arg2:T4
+R8	mechanism Arg1:T1 Arg2:T5
+T0	drug 0 12	Moxifloxacin
+T1	drug 17 29	Lomefloxacin
+T2	drug 49 59	sucralfate
+T3	brand 64 71	gelusil
+T4	drug 101 113	erythromycin
+T5	group 133 147	multi-minerals
+R1	mechanism Arg1:T0 Arg2:T2
+R2	mechanism Arg1:T0 Arg2:T3
+R3	mechanism Arg1:T0 Arg2:T4
+R4	mechanism Arg1:T0 Arg2:T5
+R5	mechanism Arg1:T1 Arg2:T2
+R6	mechanism Arg1:T1 Arg2:T3
+R7	mechanism Arg1:T1 Arg2:T4
+R8	mechanism Arg1:T1 Arg2:T5

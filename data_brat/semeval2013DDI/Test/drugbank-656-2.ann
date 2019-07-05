@@ -1,0 +1,22 @@
+T0	drug 17 26	piroxicam
+T1	brand 90 97	FELDENE
+T2	brand 134 141	aspirin
+T3	group 191 199	antacids
+T4	drug 217 226	piroxicam
+T5	group 243 280	Nonsteroidal anti-inflammatory agents
+T6	brand 292 299	FELDENE
+T7	drug 352 359	lithium
+R1	mechanism Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T5 Arg2:T7
+R3	mechanism Arg1:T6 Arg2:T7
+T0	drug 17 26	piroxicam
+T1	brand 90 97	FELDENE
+T2	brand 134 141	aspirin
+T3	group 191 199	antacids
+T4	drug 217 226	piroxicam
+T5	group 243 280	Nonsteroidal anti-inflammatory agents
+T6	brand 292 299	FELDENE
+T7	drug 352 359	lithium
+R1	mechanism Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T5 Arg2:T7
+R3	mechanism Arg1:T6 Arg2:T7

@@ -1,0 +1,8 @@
+T0	drug 29 39	cimetidine
+T1	brand 44 51	Mexitil
+T2	brand 115 122	Mexitil
+R1	mechanism Arg1:T0 Arg2:T1
+T0	drug 29 39	cimetidine
+T1	brand 44 51	Mexitil
+T2	brand 115 122	Mexitil
+R1	mechanism Arg1:T0 Arg2:T1

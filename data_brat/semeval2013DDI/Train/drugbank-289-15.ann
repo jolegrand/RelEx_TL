@@ -1,0 +1,4 @@
+T0	drug 21 31	tacrolimus
+T1	drug 36 44	bosentan
+T2	drug 101 109	bosentan
+R1	mechanism Arg1:T0 Arg2:T1

@@ -1,0 +1,4 @@
+T0	drug 0 13	Ethopropazine
+T1	drug 32 46	chlorpromazine
+T2	drug 77 91	chlorpromazine
+R1	mechanism Arg1:T0 Arg2:T1

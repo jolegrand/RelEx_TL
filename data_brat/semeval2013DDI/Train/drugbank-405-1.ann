@@ -1,0 +1,7 @@
+T0	drug 27 34	alcohol
+T1	group 36 48	barbiturates
+T2	group 54 59	MAOIs
+T3	drug 110 123	ethchlorvynol
+R1	effect Arg1:T0 Arg2:T3
+R2	effect Arg1:T1 Arg2:T3
+R3	effect Arg1:T2 Arg2:T3

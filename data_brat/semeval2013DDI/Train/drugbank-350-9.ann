@@ -1,0 +1,3 @@
+T0	brand 57 65	CANCIDAS
+T1	drug 70 82	cyclosporine
+R1	effect Arg1:T0 Arg2:T1

@@ -1,0 +1,5 @@
+T0	drug 56 66	ethambutol
+T1	drug 72 90	aluminum hydroxide
+T2	group 102 110	antacids
+T3	drug 142 152	ethambutol
+R1	advise Arg1:T0 Arg2:T1

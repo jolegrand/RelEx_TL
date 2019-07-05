@@ -1,0 +1,3 @@
+T0	drug 2 9	Lithium
+T1	group 46 55	diuretics
+R1	advise Arg1:T0 Arg2:T1

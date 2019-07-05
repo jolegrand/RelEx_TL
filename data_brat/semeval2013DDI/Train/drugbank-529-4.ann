@@ -1,0 +1,5 @@
+T0	brand 0 7	Aspirin
+T1	brand 38 45	aspirin
+T2	drug 50 62	flurbiprofen
+T3	drug 91 103	flurbiprofen
+R1	mechanism Arg1:T1 Arg2:T2

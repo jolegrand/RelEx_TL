@@ -1,0 +1,4 @@
+T0	drug 46 58	ketoconazole
+T1	drug 95 104	cisapride
+T2	drug 156 165	cisapride
+R1	mechanism Arg1:T0 Arg2:T1

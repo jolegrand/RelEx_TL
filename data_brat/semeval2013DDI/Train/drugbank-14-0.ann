@@ -1,0 +1,3 @@
+T0	drug 28 41	nitroglycerin
+T1	group 78 90	vasodilators
+R1	effect Arg1:T0 Arg2:T1

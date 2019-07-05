@@ -1,0 +1,6 @@
+T0	brand 8 17	Anafranil
+T1	brand 74 83	Anafranil
+T2	drug 155 163	warfarin
+T3	drug 165 172	digoxin
+R1	mechanism Arg1:T1 Arg2:T2
+R2	mechanism Arg1:T1 Arg2:T3

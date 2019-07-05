@@ -1,0 +1,6 @@
+T0	brand 78 86	DIFLUCAN
+T1	drug 91 100	glyburide
+R1	effect Arg1:T0 Arg2:T1
+T0	brand 78 86	DIFLUCAN
+T1	drug 91 100	glyburide
+R1	effect Arg1:T0 Arg2:T1

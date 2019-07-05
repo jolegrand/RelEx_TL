@@ -1,0 +1,4 @@
+T0	brand 29 38	Trileptal
+T1	group 44 67	hormonal contraceptives
+T2	group 85 99	contraceptives
+R1	effect Arg1:T0 Arg2:T1

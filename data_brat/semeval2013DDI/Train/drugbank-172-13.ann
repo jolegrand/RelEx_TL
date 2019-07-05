@@ -1,0 +1,4 @@
+T0	brand 0 7	Aspirin
+T1	brand 9 17	CELEBREX
+T2	brand 44 51	aspirin
+R1	advise Arg1:T1 Arg2:T2

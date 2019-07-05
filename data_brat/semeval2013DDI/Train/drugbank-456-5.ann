@@ -1,0 +1,3 @@
+T0	brand 7 14	TARCEVA
+T1	drug 97 107	rifampicin
+R1	advise Arg1:T0 Arg2:T1

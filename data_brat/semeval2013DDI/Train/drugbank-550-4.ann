@@ -1,0 +1,7 @@
+T0	drug 0 10	Probenecid
+T1	group 26 46	b-lactam antibiotics
+T2	drug 69 79	probenecid
+T3	drug 85 103	cefditoren pivoxil
+T4	drug 154 164	cefditoren
+R1	mechanism Arg1:T1 Arg2:T3
+R2	mechanism Arg1:T2 Arg2:T3

@@ -1,0 +1,4 @@
+T0	group 7 17	salicylate
+T1	group 65 73	steroids
+T2	brand 101 108	aspirin
+R1	effect Arg1:T1 Arg2:T2

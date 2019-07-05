@@ -1,0 +1,12 @@
+T0	group 17 36	Antiepileptic Drugs
+T1	brand 40 48	Felbatol
+T2	drug 50 59	Phenytoin
+T3	drug 61 70	Phenytoin
+T4	brand 122 130	Felbatol
+T5	drug 133 142	felbamate
+T6	drug 192 201	phenytoin
+T7	brand 282 290	Felbatol
+T8	brand 324 332	Felbatol
+R1	mechanism Arg1:T3 Arg2:T4
+R2	mechanism Arg1:T3 Arg2:T5
+R3	mechanism Arg1:T6 Arg2:T7

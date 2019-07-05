@@ -1,0 +1,6 @@
+T0	drug 36 43	digoxin
+T1	drug 64 72	enoxacin
+T2	drug 77 84	digoxin
+T3	drug 149 156	digoxin
+T4	drug 175 182	digoxin
+R1	effect Arg1:T1 Arg2:T2

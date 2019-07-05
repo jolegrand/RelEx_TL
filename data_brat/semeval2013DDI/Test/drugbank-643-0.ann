@@ -1,0 +1,54 @@
+T0	drug 0 9	Melatonin
+T1	brand 49 56	aspirin
+T2	group 67 73	NSAIDs
+T3	drug 85 94	melatonin
+T4	drug 104 115	fluvoxamine
+T5	drug 141 150	melatonin
+T6	group 188 201	beta blockers
+T7	drug 216 225	melatonin
+T8	drug 235 245	fluoxetine
+T9	group 299 308	progestin
+T10	drug 330 339	melatonin
+T11	group 345 354	progestin
+T12	group 395 410	benzodiazepenes
+T13	group 521 536	corticosteroids
+T14	drug 558 567	melatonin
+T15	group 572 587	corticosteroids
+T16	group 627 642	corticosteroids
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2
+R3	int Arg1:T0 Arg2:T4
+R4	int Arg1:T0 Arg2:T6
+R5	int Arg1:T0 Arg2:T8
+R6	int Arg1:T0 Arg2:T9
+R7	int Arg1:T0 Arg2:T12
+R8	int Arg1:T0 Arg2:T13
+R9	effect Arg1:T10 Arg2:T11
+R10	effect Arg1:T14 Arg2:T15
+T0	drug 0 9	Melatonin
+T1	brand 49 56	aspirin
+T2	group 67 73	NSAIDs
+T3	drug 85 94	melatonin
+T4	drug 104 115	fluvoxamine
+T5	drug 141 150	melatonin
+T6	group 188 201	beta blockers
+T7	drug 216 225	melatonin
+T8	drug 235 245	fluoxetine
+T9	group 299 308	progestin
+T10	drug 330 339	melatonin
+T11	group 345 354	progestin
+T12	group 395 410	benzodiazepenes
+T13	group 521 536	corticosteroids
+T14	drug 558 567	melatonin
+T15	group 572 587	corticosteroids
+T16	group 627 642	corticosteroids
+R1	int Arg1:T0 Arg2:T1
+R2	int Arg1:T0 Arg2:T2
+R3	int Arg1:T0 Arg2:T4
+R4	int Arg1:T0 Arg2:T6
+R5	int Arg1:T0 Arg2:T8
+R6	int Arg1:T0 Arg2:T9
+R7	int Arg1:T0 Arg2:T12
+R8	int Arg1:T0 Arg2:T13
+R9	effect Arg1:T10 Arg2:T11
+R10	effect Arg1:T14 Arg2:T15

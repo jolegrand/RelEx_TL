@@ -1,0 +1,6 @@
+T0	group 0 8	Antacids
+T1	drug 20 38	aluminum hydroxide
+T2	drug 43 62	magnesium hydroxide
+T3	drug 93 101	enoxacin
+R1	mechanism Arg1:T1 Arg2:T3
+R2	mechanism Arg1:T2 Arg2:T3

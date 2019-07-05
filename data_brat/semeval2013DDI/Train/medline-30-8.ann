@@ -1,0 +1,5 @@
+T0	drug_n 27 35	(-)-NANM
+T1	drug_n 45 53	(+)-NANM
+T2	drug_n 57 60	PCP
+T3	drug 82 90	naloxone
+R1	effect Arg1:T0 Arg2:T3

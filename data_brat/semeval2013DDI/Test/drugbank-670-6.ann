@@ -1,0 +1,16 @@
+T0	drug 33 45	paliperidone
+T1	brand 47 53	INVEGA
+T2	group 111 133	centrally acting drugs
+T3	drug 138 145	alcohol
+R1	advise Arg1:T0 Arg2:T2
+R2	advise Arg1:T0 Arg2:T3
+R3	advise Arg1:T1 Arg2:T2
+R4	advise Arg1:T1 Arg2:T3
+T0	drug 33 45	paliperidone
+T1	brand 47 53	INVEGA
+T2	group 111 133	centrally acting drugs
+T3	drug 138 145	alcohol
+R1	advise Arg1:T0 Arg2:T2
+R2	advise Arg1:T0 Arg2:T3
+R3	advise Arg1:T1 Arg2:T2
+R4	advise Arg1:T1 Arg2:T3

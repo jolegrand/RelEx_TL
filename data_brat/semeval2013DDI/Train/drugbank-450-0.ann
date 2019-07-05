@@ -1,0 +1,3 @@
+T0	group 0 29	Potassium-depleting diuretics
+T1	group 65 74	digitalis
+R1	effect Arg1:T0 Arg2:T1

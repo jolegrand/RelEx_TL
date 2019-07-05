@@ -1,0 +1,3 @@
+T0	drug 148 156	etodolac
+T1	drug 196 204	warfarin
+R1	effect Arg1:T0 Arg2:T1

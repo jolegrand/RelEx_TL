@@ -1,0 +1,3 @@
+T0	drug 31 44	carbamazepine
+T1	drug 73 85	aripiprazole
+R1	mechanism Arg1:T0 Arg2:T1

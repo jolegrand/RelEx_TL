@@ -1,0 +1,5 @@
+T0	drug 0 7	Lithium
+T1	drug 9 18	Ibuprofen
+T2	drug 51 58	lithium
+T3	drug 91 98	lithium
+R1	mechanism Arg1:T1 Arg2:T2
